@@ -1,34 +1,39 @@
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
-        </div>
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+    <ul class="list">
+        {% if page.title != "Home" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/">Home</a>
+            </li>
+        {% endif %}
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
+        {% if site.blog == true %}
+            {% if page.title != "Blog" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#services">Services</a>
+            {% endif %}
+        {% endif %}
+
+        {% if site.projects == true %}
+            {% if page.title != "Projects" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
+            {% endif %}
+        {% endif %}
+
+        {% if site.about == true %}
+            {% if page.title != "About" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
+            {% endif %}
+        {% endif %}
+
+        {% if site.resume == true %}
+            <li class="item">
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+            </li>
+        {% endif %}
+    </ul>
 </nav>
