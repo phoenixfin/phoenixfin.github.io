@@ -4,7 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<<<<<<< HEAD
 <p>Apaan deh</p>
+=======
+<p>Tes.</p>
+>>>>>>> f4bd791b18bd56dd53b46a6f139c88d91e416bbd
 
 <h2>Skills</h2>
 
