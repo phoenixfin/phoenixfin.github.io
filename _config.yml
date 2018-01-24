@@ -7,17 +7,14 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: false
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
 
 url:  http://phoenixfin.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -29,9 +26,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: phoenixfin
@@ -53,12 +50,12 @@ github: phoenixfin
 email: aditya.fphoenix@gmail.com
 
 authors:
-    Aditya:
+    PHX:
         name: Aditya Firman Ihsan
         bio: Just a seeker of truth
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: =
+ #       twitter: =
 #    jamesfoster:
  #       name: James Foster
   #      bio: A Man who develops software with coffee
@@ -67,7 +64,7 @@ authors:
      #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
-# options: [normal, large] | default: normal
+options: [normal, large] #| default: normal
 # normal = 560px / large = 810px
 width: normal
 
@@ -75,12 +72,18 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
+creator: Aditya Firman Ihsan
 
-# if you don't need "about" or "blog", comment them out below
+# if you don't need projects, comment the *projects* configs below
+booklet: true
 about: true
-blog: true
+buku: true
+arsip: true
+kompilasi: true
+monolog: true
+puisi: true
+opini: true
+resensi: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
