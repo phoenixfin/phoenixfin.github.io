@@ -1,13 +1,13 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Phoenix Literacy
+bio: Self-defining life of Aditya Firman Ihsan 
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url:  http://phoenixfin.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,37 +34,37 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: phoenixfin
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: phoenixfin
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: aditya.fphoenix@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Aditya:
+        name: Aditya Firman Ihsan
+        bio: Just a seeker of truth
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: =
+#    jamesfoster:
+ #       name: James Foster
+  #      bio: A Man who develops software with coffee
+   #     external-image: false
+    #    picture: assets/images/james.jpg
+     #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
