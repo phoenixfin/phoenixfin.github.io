@@ -4,43 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Situs ini hanyalah salah satu hasil dari eksperimen kehidupan sebagai bentuk optimasi hasrat dalam menggapai kematian yang sempurna. Terkadang alasan hanyalah ilusi rasio pikiran yang sesungguhnya tak pernah ada. Ia muncul sebagai pembenaran logis dari perbuatan manusia, karena pada akhirnya yang muncul pertama kali hanyalah keinginan dan hasrat untuk melakukan sesuatu. Seperti halnya seorang kawan pernah menulis, "pada dasarnya bukan tujuan kita yang membuat kita berangkat, melainkan keinginan kita yang menjaga batin kita terisi terus menerus" </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Singkatnya, ini situs tanpa tujuan. Ini hanya produk dari keinginanku untuk menata karya-karyanya sehingga siapapun bisa mengaksesnya lebih mudah. Ah, bahkan itu pun hanya rasionalisasi yang muncul dikepalaku. Maka baiknya lupakan semua penjelasan ini, dan nikmati saja!</p>
 
-<h2>Skills</h2>
+<p> Semoga bermanfaat</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p><b>(PHX)</b></p>
