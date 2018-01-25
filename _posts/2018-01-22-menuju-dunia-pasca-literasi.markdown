@@ -13,7 +13,6 @@ tag:
 category: opini
 author: aditya 
 description: Fenomena zaman yang mengarah pada era posliterasi
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 "__Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future.__
@@ -119,16 +118,29 @@ __"Reading and writing are doomed. Literacy as we know it is over. Welcome to th
 # Referensi
 
 [1] Ong, Walter J. 2013. Kelisanan dan Keaksaraan. Yogyakarta: Penerbit Gading.
+
 [2] Sugiharto, Bambang. 1996. Postmodernisme: Tantangan Bagi Filsafat. Yogyakarta: Kanisius.
+
 [3] Ridley, Michael. 2012. Beyond Literacy [online] (http://www.beyondliteracy.com/), diakses tanggal 20 Januari 2018.
+
 [4] Diamond, Jared. 2013. Guns, Germs, & Steel: Rangkuman Riwayat Masyarakat Manusia. Jakarta: KPG.
+
 [5] Dawami, M Iqbal. 2017. Pseudo Literasi. Surabaya: Maghza Pustaka.
+
 [6] Gonick, Larry. 2007. Kartun (Non) Komunikasi. Jakarta: KPG.
+
 [7] Gong, Gol A; Irkham, Agus M. 2012. Gempa Literasi. Jakarta: KPG.
+
 [8] Fowler, Robert M. 1994. How the Secondary Orality of the Electronic Age Can Awaken Us to the Primary Orality of Antiquity or What Hypertext Can Teach Us About The Bible. Interpersonal Computing and Technology: An Electronic Journal for the 21st Century, Vol.2 2, No. 3, p.12-46.
+
 [9] Christian, David. 2011. The history of our world in 18 minutes [video file] (https://www.ted.com/talks/david_christian_big_history/). Diakses tanggal 3 November 2017.
+
 [10] Lim, Francis. 2008. Filsafat Teknologi: Don Ihde tentang Manusia dan Alat. Yogyakarta: Kanisius.
+
 [11] Capra, Fritjof. 2000. Tao of Physics: Menyingkap Pararelisme Fisika Modern dan Mistisme Timur. Yogyakarta: Jalasutra.
+
 [12] Ihsan, Aditya F. 2016. Booklet Phx #15: Te(kn)ologi [online], (https://issuu.com/aditya-finiarelphoenix/docs/_15_te_kn_ologi), diakses tanggal 5 Juni 2017.
+
 [13] Bertonneau, Thomas F. 2014. Post-literacy and Refusal to Read [online], (https://orthosphere.wordpress.com/2014/01/08/post-literacy-and-the-refusal-to-read/), diakses tanggal 20 Januari 2018.
+
 [14] Heer, Jeet. 2017. The Post-Literate American Presidency [online], (https://newrepublic.com/article/144940/trump-tv-post-literate-american-presidency), diakses tanggal 20 Januari 2018.
