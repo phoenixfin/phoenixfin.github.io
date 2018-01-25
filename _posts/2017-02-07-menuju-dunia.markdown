@@ -14,7 +14,6 @@ author: aditya
 description: Bagaimana arsip mempengaruhi peradaban
 ---
 
-
 Sejauh yang kita ketahui, peradaban manusia dikatakan telah berkembang dengan sangat signifikan, dari yang awalnya mungkin hanya pemburu-pengumpul, tidak punya rumah dan apa-apa selain seperangkat alat untuk membunuh dan memotong, hingga saat ini ketika bahkan manusia bisa berpindah tempat hanya cukup dengan melakukan sedikit gerak atau bisa berkomunikasi hanya dengan sebuah kotak kecil yang berpendar. Dikatakan juga bahwa yang mengiringi berkembangnya peradaban adalah berkembangnya ilmu pengetahuan, yang mana sebagai hasilnya memunculkan beragam teknologi. Ya, maka dikatakanlah bahwa hidup manusia telah berubah banyak semenjak moyang kita pertama kali mencoba membuat tombak untuk berburu rusa.
 
 Mungkin memang benar, bahwa hidup manusia telah berubah banyak, tapi apa sesungguhnya yang berubah? Dan apa yang mengubahnya? Telah menjadi bahan perenungan bahwa terkadang berkembangnya peradaban justru menciptakan ironi ketika konflik dan kehancuran masih terjadi dimana-mana. Terutama yang mungkin kita cukup ingat dengan baik, proyek Manhattan menjadi pionir kehancuran massal pertama di tangan manusia sendiri, dan itu dilaksanakan atas nama ilmu pengetahuan. Lantas ada apa dengan ‘peradaban’? Siapa, atau apa, sebenarnya yang beradab? Apa yang diubah atau berubah dari peradaban itu sendiri? 
