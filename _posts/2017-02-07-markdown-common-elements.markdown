@@ -1,16 +1,17 @@
 ---
-title: "Markdown Common Elements"
+title: "Beradab Bersama Arsip"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2017-02-07 22:44
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: true
 tag:
-- markdown
-- elements
+- arsip
+- literasi
+- peradaban
 star: true
 category: opini
-author: johndoe
-description: Markdown summary with different options
+author: aditya
+description: Bagaimana arsip mempengaruhi peradaban
 ---
 
 ## Summary:
