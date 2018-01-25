@@ -10,7 +10,7 @@ tag:
 - peradaban
 star: true
 category: opini
-author: Aditya
+author: aditya
 description: Bagaimana arsip mempengaruhi peradaban
 ---
 

@@ -74,7 +74,6 @@ width: normal
 
 creator: Aditya Firman Ihsan
 
-# if you don't need projects, comment the *projects* configs below
 booklet: true
 about: true
 buku: true
