@@ -115,4 +115,4 @@ Arsip sejak awal peradaban lahir merupakan batu pijakan manusia untuk terus berk
 
 Dalam tataran individu, menata arsip sesungguhnya adalah tindakan yang bisa menjadi sebuah kesenangan tersendiri yang bisa berbeda bentuk bagi berbeda orang. Setiap orang selalu memiliki ikatan erat terhadap masa lalunya sendiri, dan penataan arsip individu akan membantu terjaganya masa lalu. Bila di tahap individu kita bisa saja membiasakan untuk menata arsip sendiri, maka merespon derasnya informasi di zaman ini bukanlah hal yang mustahil untuk dilakukan. Tertatanya informasi sendiri berarti tertatanya hati dan pikiran dalam meresponnya, dan tertatanya hati dan pikiran akan menuntun kita semua dalam kebijaksanaan. Bukankah itu yang sesungguhnya menjadi makna peradaban? 
 
-(PHX)
+-PHX
