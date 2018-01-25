@@ -2,7 +2,7 @@
 title: "Menuju Dunia Pasca Literasi"
 layout: post
 date: 2018-01-22 09:48
-image: /assets/images/markdown.jpg
+image: /assets/images/blog/menuju-dunia-pasca-literasi
 headerImage: true
 tag:
 - literasi
