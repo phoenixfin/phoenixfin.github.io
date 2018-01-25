@@ -1,5 +1,5 @@
 ---
-title: "Beradab Bersama Arsip"
+title: "Beradab Bersama"
 layout: post
 date: 2017-02-07 22:44
 image: /assets/images/blog/beradab-bersama-arsip.jpg
