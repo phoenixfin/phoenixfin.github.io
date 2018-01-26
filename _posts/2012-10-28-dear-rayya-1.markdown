@@ -1,7 +1,7 @@
 ---
-title: "Dear Rayya Bag. 1"
+title: "Dear Rayya (Surat Untuk Perbedaan)"
 layout: post
-date: 2018-01-22 09:48
+date: 2012-10-28 06:00
 image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
 headerImage: false
 tag:
@@ -14,7 +14,8 @@ author: aditya
 description: Curhatan mengenai keberagaman
 ---
 
-_Bantul, 28 Oktober 2009
+<i>
+Bantul, 28 Oktober 2009
 
 Dear Rayya in London,
 
@@ -28,7 +29,8 @@ Adapula yang sekedar bilang persatuan itu indah, tapi Rayya, darimana keindahan 
 
 Satu hal yang paling penting Rayya, bahwa Differences… has been created to unite us all. Bhineka Tunggal Ika always with our heart.
 
-Salam hangat, Finiarel._
+Salam hangat, Finiarel.</i>
 
 _related video_:
+
 <iframe width="560" height="310" src="http://www.youtube.com/watch?v=CZiukQg9kMU" frameborder="0" allowfullscreen></iframe>

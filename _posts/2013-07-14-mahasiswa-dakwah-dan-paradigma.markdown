@@ -1,7 +1,7 @@
 ---
 title: "Mahasiswa, Dakwah, dan Paradigma"
 layout: post
-date: 2017-02-07 22:44
+date: 2013-07-14 21:19
 image: /assets/images/blog/beradab-bersama-arsip.jpg
 headerImage: false
 tag:
