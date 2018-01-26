@@ -64,9 +64,9 @@ authors:
      #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
-options: [normal, large] #| default: normal
+# options: [normal, large] 
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
