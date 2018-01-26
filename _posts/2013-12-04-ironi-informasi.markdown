@@ -77,7 +77,6 @@ Informasi mungkin bagaikan sebuah kekuatan tiada tandingannya. Orang yang mengen
 (PHX) 
 
 <img class="image" src="/assets/images/blog/ironi-informasi.jpg" alt="Alt Text">
-<figcaption class="caption">Gambaran Sistemasi Kajian</figcaption>
 
 __Tambahan:__
 

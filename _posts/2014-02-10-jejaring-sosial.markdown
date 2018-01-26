@@ -95,6 +95,5 @@ Dengan kondisi yang ada di era informasi ini, dibutukan kesadaran lebih untuk da
 (*) lebih lengkapnya baca [Ironi Informasi][1]
 
 <img class="image" src="/assets/images/blog/jejaring-sosial.jpg" alt="Alt Text">
-<figcaption class="caption">Gambaran Sistemasi Kajian</figcaption>
 
 [1]: http://phoenixfin.github.io/ironi-informasi
