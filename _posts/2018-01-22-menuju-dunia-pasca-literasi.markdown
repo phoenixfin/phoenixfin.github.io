@@ -115,6 +115,8 @@ Yang bisa saya pastikan di sini adalah apa yang Michael Ridley katakan, bahwa li
 
 __"Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future."__
 
+(PHX)
+
 # Referensi
 
 [1] Ong, Walter J. 2013. Kelisanan dan Keaksaraan. Yogyakarta: Penerbit Gading.
