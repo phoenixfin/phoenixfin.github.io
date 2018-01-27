@@ -11,6 +11,13 @@
         </a>
     {% endif %}
 
+    {% if site.issuu %}
+        <a class="link" data-title="issuu.com/{{ site.issuu }}" href="http://issuu.com/{{ site.issuu }}" target="_blank">
+            <svg class="icon icon-issuu"><use xlink:href="#icon-issuu"></use></svg>
+        </a>
+    {% endif %}
+
+	
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
