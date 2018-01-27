@@ -16,7 +16,7 @@ description: Jejaring ada dimana-mana, membentuk sistemasi universal yang mengat
 
 "_One of the key insights of the systems approach has been the realization that the network is a pattern that is common to all life. Wherever we see life, we see networks._" 
 
-- Fritjof Capra -
+- Fritjof Capra - 
 
 Manusia selama berabad-abad telah hidup secara komunal dalam kelompok-kelompok sosial yang memiliki beragam bentuk. Setelah sekian periode menempuh berbagai macam peristiwa dan fenomena, peradaban manusia berkembang sedemikian rupa membentuk kompleksitas yang tertuang membentuk berbagai macam bentuk struktur sosial yang berbeda-beda. Melihat ke seluruh dunia, berbagai macam sistem terspesialisasi dan berevolusi satu per satu seiring dengan bertambah kompleksnya suatu masyarakat. Berbagai macam sistem ini membentuk keindahan perbedaan melaui banyak hal, dari cara memasak hingga posisi kepemimpinan. Semuanya merupakan suatu bentuk realitas sosial yang menjadi struktur utama sistem masyarakat tersebut.
 
