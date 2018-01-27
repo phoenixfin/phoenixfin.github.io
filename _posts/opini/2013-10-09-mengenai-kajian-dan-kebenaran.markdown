@@ -14,6 +14,7 @@ description: Sistemasi dan Pembahasan terkait Kajian dan Diskusi
 ---
 
 __Kesalahan-kesalahan yang telah mengakar di suatu masyarakat sangat sulit dihapuskan oleh kebenaran yang datang kemudian.__
+
 - Anonim -
 
 Di tengah arus informasi yang semakin deras, pertarungan antar pemikiran tiada henti berlangsung semakin bebas tanpa batas. Ilmu pengetahuan semakin kabur dan tak teridentifikasi. Tak dapat dibedakan lagi mana fakta mana opini, mungkin. Ketika keadaan yang kacau akan makna kebenaran ini mulai merasuk tanpa disadari, manusia akan selalu memilih jalan termudah, percaya apa yang bisa dipercaya. Tapi apa lah arti dari sebuah kepercayaan, bila pada akhirnya itu hanya akan semakin merenggut dan mengikis habis eksistensi kebenaran di setiap makna semesta? Sebuah fenomena yang rumit tengah terjadi di tengah abad yang serba absurd. Batas antara kepercayaan dan pengetahuan mungkin semakin menipis menuju tak terlihat. Jika semua itu terjadi, dimana kita akan berpegang?

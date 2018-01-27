@@ -14,7 +14,9 @@ author: aditya
 description: Jejaring ada dimana-mana, membentuk sistemasi universal yang mengatur segala sesuatu
 ---
 
-"_One of the key insights of the systems approach has been the realization that the network is a pattern that is common to all life. Wherever we see life, we see networks._" - Fritjof Capra -
+"_One of the key insights of the systems approach has been the realization that the network is a pattern that is common to all life. Wherever we see life, we see networks._" 
+
+- Fritjof Capra -
 
 Manusia selama berabad-abad telah hidup secara komunal dalam kelompok-kelompok sosial yang memiliki beragam bentuk. Setelah sekian periode menempuh berbagai macam peristiwa dan fenomena, peradaban manusia berkembang sedemikian rupa membentuk kompleksitas yang tertuang membentuk berbagai macam bentuk struktur sosial yang berbeda-beda. Melihat ke seluruh dunia, berbagai macam sistem terspesialisasi dan berevolusi satu per satu seiring dengan bertambah kompleksnya suatu masyarakat. Berbagai macam sistem ini membentuk keindahan perbedaan melaui banyak hal, dari cara memasak hingga posisi kepemimpinan. Semuanya merupakan suatu bentuk realitas sosial yang menjadi struktur utama sistem masyarakat tersebut.
 
@@ -58,7 +60,7 @@ Secara umum otoritas kemudian terbagi dalam struktur-struktur administratif yang
 
 # Reduksi dan Pergeseran
 
-Bertambahnya kompleksitas masyarakat yang ada semakin menambah pula reduksi makna dari otoritas itu sendiri. Eksploitasi kekuasaan atas dasar politik kepentingan mulai tumbuh subur, mengikuti kekuasaan sendiri yang mulai mengalami dualisme makna dan pemahaman di mayoritas masyarakat. Makna pertama kekuasaan ekuivalen dengan otoritas yang berarti wewenang atau hak untuk bertindak, sedangkan makna lainnya bisa berarti power atau kemampuan untuk melakukan sesuatu. Dua makna yang sebenarnya berbeda ini sama-sama didefinisikan di KBBI berturut-turut: [1] n kemampuan atau kesanggupan (untuk berbuat sesuatu); kekuatan; 2 n wewenang atas sesuatu atau untuk menentukan (memerintah, mewakili, mengurus, dsb) sesuatu. Kesalahan pemahaman mengenai makna kekuasaan ini yang kemudian menimbulkan apa yang sekarang populer dengan istilah krisis kepemimpinan.
+Bertambahnya kompleksitas masyarakat yang ada semakin menambah pula reduksi makna dari otoritas itu sendiri. Eksploitasi kekuasaan atas dasar politik kepentingan mulai tumbuh subur, mengikuti kekuasaan sendiri yang mulai mengalami dualisme makna dan pemahaman di mayoritas masyarakat. Makna pertama kekuasaan ekuivalen dengan otoritas yang berarti wewenang atau hak untuk bertindak, sedangkan makna lainnya bisa berarti power atau kemampuan untuk melakukan sesuatu. Dua makna yang sebenarnya berbeda ini sama-sama didefinisikan di KBBI berturut-turut: 1 _n_ kemampuan atau kesanggupan (untuk berbuat sesuatu); kekuatan; 2 _n_ wewenang atas sesuatu atau untuk menentukan (memerintah, mewakili, mengurus, dsb) sesuatu. Kesalahan pemahaman mengenai makna kekuasaan ini yang kemudian menimbulkan apa yang sekarang populer dengan istilah krisis kepemimpinan.
 
 Sedikit mengenai pemimpin, ia berasal dari kata pimpin yang berarti membimbing atau menuntun. Sebuah bimbingan atau tuntunan tentulah layaknya berupa dasar yang menjadi pedoman untuk bertindak dan mengetahui, yang merupakan makna asli dari otoritas. Jika kembali ke asal mulanya, otoritas seharusnya identik dengan kebijaksanaan. Dengan berbagai buku-buku dan seminar-seminar mengenai kepemimpinan bermunculan dimana-mana bagaikan jamur yang tumbuh di musim penghujan, alangkah lebih baik bila kita mencoba memahami makna pemimpin dengan lebih sederhana dan mendasar melalui unsur utamanya, yaitu kebijaksanaan. Berbagai teori dan pendapat mengenai pemimpin yang dimunculkan berabagai orang masa kini hanyalah implementasi dari kompleksitas masyarakat yang ada pada zaman informasi ini. Pemimpin sendiri pun bertransformasi ke dalam berbagai bentuk, ketua, kepala, manajer, presiden, komandan, raja. Apapun namanya, ia sesederhana sebuah dasar untuk bertindak dan mengetahui.
 
@@ -88,7 +90,9 @@ Sebagai mahasiswa, apalah artinya semua identitas tanpa mulai mengambil posisi s
 
 Dengan kondisi yang ada di era informasi ini, dibutukan kesadaran lebih untuk dapat melihat permasalahan secara menyeluruh, mengingat teknologi bagaikan candu masyarakat, ia telah menjadi agama yang membutakan pikiran manusia akan identiasnya sebagi sosok makhluk autopoesis, yang membentuk harmoni bagai siklus abadi yin dan yang dalam kesatuan Tao. Apa yang dapat kita lakukan di zaman serba chaos ini? Tarik nafaslah yang dalam, pejamkan mata, rasakan keselarasan yang ada di alam sekitar kita, dan tumbuhkan kebijaksanaan dalam hati anda untuk dapat menjawabnya.
 
-“Pelajarilah semesta ini. Jangan merasa kecewa jika dunia tidak mengenal anda, tetapi kecewalah jika anda tidak mengenal dunia” – Konfusius - 
+“Pelajarilah semesta ini. Jangan merasa kecewa jika dunia tidak mengenal anda, tetapi kecewalah jika anda tidak mengenal dunia” 
+
+– Konfusius - 
 
 (PHX)
 

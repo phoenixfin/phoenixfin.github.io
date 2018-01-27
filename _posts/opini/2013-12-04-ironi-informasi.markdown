@@ -14,7 +14,7 @@ description: Banjirnya Informasi dalam Kehidupan Modern
 
 "___Everybody gets so much information all day long that they lose their common sense___"
 
--- Gertrude Stein --
+- Gertrude Stein -
 
 Telah banyak hal yang terjadi dalam rangkaian arus peristiwa mempengaruhi bagaimana manusia berpikir. Dari zaman ke zaman, dari periode ke periode, arah dan bentuk pikiran manusia berganti tiada henti dalam suatu siklus autopoesis, siklus yang membangun dirinya sendiri, hingga akhirnya walau manusia seakan mengulang sejarah dalam kasus yang tak pernah jauh berbeda, sebenarnya yang diulang hanyalah prosesnya, sementara struktur dan pola yang berlaku telah tiada di tempat, mengalami perombakan terus menerus, dengan berbagai bumbu yang terus dicampur dalam adonan kompleks peradaban. Pada akhirnya semua elemen yang berperan dalam sejarah adalah pabrik raksasa manusia-manusia baru, memproduksi tiada henti bentukan-bentukan baru pemikiran manusia. Semua elemen, tanpa terkecuali, termasuk teknologi.
 

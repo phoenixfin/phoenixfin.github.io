@@ -43,4 +43,5 @@ Mungkin karena memang ITB adalah miniatur Indonesia, bahkan kesalahan yang terja
 (PHX)
 
 __Catatan__:
+
 Ini hanyalah pandangan sederhana dari seorang anak nonlap yang mencoba mengkritik konsep dan esensi dari OSKM, bukan pada pelaksanaannya. Jadi maaf bila berbeda pandangan atau menyinggung perasaan anak lapangan. Dari judul sendiri dapat kita cermati bahwa yang ingin saya tekankan disini adalah perumusan metode yang dipakai untuk mengkader intelektual seperti apa :)

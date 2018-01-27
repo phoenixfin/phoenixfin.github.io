@@ -54,7 +54,7 @@ Mungkin perlu kita kaji bersama sistem pendidikan yang ada di Indonesia. Walau s
 
 “Kalau sekedar bertujuan menyampaikan informasi dan pengetahuan, tak satupun universitas punya justifikasi apa pun untuk tetap berdiri sejak berkembangnya mesin cetak  di abad ke limabelas!”
 
--  Alfred N. Whitehead – Matematikawan-filsuf
+- Alfred N. Whitehead – Matematikawan-filsuf
 
 (PHX)
 

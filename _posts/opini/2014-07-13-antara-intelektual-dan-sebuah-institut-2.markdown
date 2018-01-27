@@ -92,7 +92,7 @@ Pada akhirnya, semua hanya dapat kita kembalikan ke diri masing-masing. Menilai 
 
 Ketika intelektual-itnelektual dewasa sibuk sendiri dalam retorikanya sendiri, mahasiswa yang masih dalam tahap pematangan menjadi satu-satunya harapan dengan dibekali semangat muda yang berapi. Kepolosan yang dimiliki mahasiswa dalam keraguanya dan semua pertanyaannya menjadi poin plus tersendiri dalam menjaga integritas. Seperti yang terjadi pada film _How to train your dragon 2_, yang mana naga yang tak bisa dikendalikan adalah mereka yang masih kecil, yang masih polos dan memandang dunia apa adanya. Walaupun begitu, sebagian besar mahasiswa sendiri pun saat ini telah menjadi korban paradigma yang berbasis _human capital_, terbawa arus global dan melupakan jati diri bangsa, acuh tak acuh terhadap realita, dan lebih baik kerja di perusahaan ternama ketimbang terjun kembali ke desa-desa. Intelektualitas berada pada pinggir jurang globalisasi, terlena oleh nikmatnya persaingan yang ada di bawahnya. Hanya beberapa yang sadarlah yang tetap berusaha mempertahankan diri dan mencoba bangkit. Oleh karena itu, marilah bersama-sama tarik nafas dalam-dalam, bersihkan jiwa, mencoba bijaksana, dan laksanakan apa yang dapat kita laksanakan layaknya seorang intelektual sejati yang memegang tonggak pergerakan bangsa beberapa tahun ke depan.
 
-“There has been no major revolution in modern history without intellectuals; conversely there has been no contra-revolutionary without intellectuals” 
+“_There has been no major revolution in modern history without intellectuals; conversely there has been no contra-revolutionary without intellectuals_” 
 
 - Edward Said –
 
