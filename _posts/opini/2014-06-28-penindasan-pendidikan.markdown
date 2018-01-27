@@ -14,9 +14,7 @@ author: aditya
 description: Lingkaran setan yang tercipta dari sistem pendidikan membuat pendidikan itu sendiri seakan menjadi penindas sekaligus yang tertindas.
 ---
 
-“Mereka tahu hasil 2 + 2 = 4 tapi tak tahu mengapa 2 x 2 juga sama dengan 4.” 
-
-― Goenawan Mohamad ―
+“Mereka tahu hasil 2 + 2 = 4 tapi tak tahu mengapa 2 x 2 juga sama dengan 4.” -― Goenawan Mohamad ―-
 
 Manusia selama ribuan tahun telah menempuh berbagai proses dan dinamika yang sedikit demi sedikit membentuk jaringan yang semakin kompleks dalam alur waktu. Seiring dengan berkembangnya kecerdasan manusia, berbagai implikasi turut mengikuti sebagai bentuk kekuatan pengaruh manusia terhadap semua aspek yang ada, dari sesederhana permasalahan mencari makan hingga berkembangnya teknologi informasi. Dengan proses perkembangan ini, satu per satu sektor permasalahan muncul sebagai bentuk pemekaran dari kompleksitas. Hingga akhirnya saat ini, ketika kita semua mencoba melihat permasalahan di Indonesia, yang terlihat bagikan adalah berbagai kotak-kotak sektor yang seakan memiliki masalahnya sendiri secara terpisah-pisah.
 

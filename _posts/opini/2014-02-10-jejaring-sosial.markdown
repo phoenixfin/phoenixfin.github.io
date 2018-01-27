@@ -14,9 +14,7 @@ author: aditya
 description: Jejaring ada dimana-mana, membentuk sistemasi universal yang mengatur segala sesuatu
 ---
 
-"_One of the key insights of the systems approach has been the realization that the network is a pattern that is common to all life. Wherever we see life, we see networks._" 
-
--- Fritjof Capra -- 
+"_One of the key insights of the systems approach has been the realization that the network is a pattern that is common to all life. Wherever we see life, we see networks._" -- Fritjof Capra -- 
 
 Manusia selama berabad-abad telah hidup secara komunal dalam kelompok-kelompok sosial yang memiliki beragam bentuk. Setelah sekian periode menempuh berbagai macam peristiwa dan fenomena, peradaban manusia berkembang sedemikian rupa membentuk kompleksitas yang tertuang membentuk berbagai macam bentuk struktur sosial yang berbeda-beda. Melihat ke seluruh dunia, berbagai macam sistem terspesialisasi dan berevolusi satu per satu seiring dengan bertambah kompleksnya suatu masyarakat. Berbagai macam sistem ini membentuk keindahan perbedaan melaui banyak hal, dari cara memasak hingga posisi kepemimpinan. Semuanya merupakan suatu bentuk realitas sosial yang menjadi struktur utama sistem masyarakat tersebut.
 
@@ -90,9 +88,7 @@ Sebagai mahasiswa, apalah artinya semua identitas tanpa mulai mengambil posisi s
 
 Dengan kondisi yang ada di era informasi ini, dibutukan kesadaran lebih untuk dapat melihat permasalahan secara menyeluruh, mengingat teknologi bagaikan candu masyarakat, ia telah menjadi agama yang membutakan pikiran manusia akan identiasnya sebagi sosok makhluk autopoesis, yang membentuk harmoni bagai siklus abadi yin dan yang dalam kesatuan Tao. Apa yang dapat kita lakukan di zaman serba chaos ini? Tarik nafaslah yang dalam, pejamkan mata, rasakan keselarasan yang ada di alam sekitar kita, dan tumbuhkan kebijaksanaan dalam hati anda untuk dapat menjawabnya.
 
-“Pelajarilah semesta ini. Jangan merasa kecewa jika dunia tidak mengenal anda, tetapi kecewalah jika anda tidak mengenal dunia” 
-
--– Konfusius --
+“Pelajarilah semesta ini. Jangan merasa kecewa jika dunia tidak mengenal anda, tetapi kecewalah jika anda tidak mengenal dunia” -– Konfusius --
 
 (PHX)
 

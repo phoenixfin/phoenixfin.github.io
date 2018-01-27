@@ -96,9 +96,7 @@ Organisasi kemahasiswaan melupakan lubang mana yang seharusnya ditambal dalam in
 
 Tidak bisa dipastikan bentuk yang ideal dari organisasi kemahasiswaan maupun sistem pengaderannya seperti apa. Namun yang jelas, kesadaran dalam diri masing-masing terlebih dahulu diperlukan sebelum bertindak lebih lanjut. Organisasi terbentuk atas adanya kesepakatan kolektif, dan sebagai intelektual, kesepakatan itu harus terus dibentuk ulang melalui diskusi yang akademis. Sekali lagi bagaimana melakukannya, tetap harus diawali dari kesadaran, karena bagaimanapun, untuk menciptakan diskusi yang tepat sasaran, intelektualitas itu sendiri harus tertanam pada pelakunya. Dengan keadaan seperti sekarang ini, marilah kita terlebih dahulu bertanya pada diri masing-masing, sudah adakah intelektualitas pada diri kita?
 
-"_To be wholly devoted to some intellectual exercise is to have succeeded in life._"
-
-- Robert Louis Stevenson -
+"_To be wholly devoted to some intellectual exercise is to have succeeded in life._" -- Robert Louis Stevenson --
 
 (PHX)
 

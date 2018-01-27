@@ -93,7 +93,6 @@ Begitulah literasi. Tidak sesempit bermain aksara. Dapatlah ia kita anggap sakra
 
 Jika dibilang Indonesia tengah mengalami krisis literasi, itu adalah karena minimnya kemampuan membaca keadaan dengan baik, dan bagaimana menuliskan ekspresi sebagai respon dari bacaan tersebut. Toh, wawasan yang luas memang bukan jaminan akan bijaksananya respon yang diberikan terhadap keadaan, mengingat anomali di dunia maya telah begitu absurd hingga kita tak bisa membedakan mana kaum intelektual mana kaum awam. Manusia bukan ditentukan dari pengetahuannya, dan dengan itu, bukan juga dari buku-buku yang dibacanya, tapi dari keutuhannya dalam menjalani hidup, membaca yang dialami secara utuh dan kritis, dan kemudian mentransformasikannya dalam tulisan ekspresi yang juga utuh dan kritis. Kehidupan adalah teks rumit yang bukan memerlukan kemampuan keberaksaraan untuk memahaminya, tapi kemurnian hasrat untuk menjadi diri manusia yang utuh. 
 
-Dengan demikian, terakhir, seperti yang selalu ku tekankan pada diriku sekarang, ku tekankan pula pada semua orang yang mau membaca tulisan ini secara utuh dari awal hingga titik ini: 
-Berhentilah membaca, berlatihlah praktik, berupayalah mengalami!
+Dengan demikian, terakhir, seperti yang selalu ku tekankan pada diriku sekarang, ku tekankan pula pada semua orang yang mau membaca tulisan ini secara utuh dari awal hingga titik ini: __Berhentilah membaca, berlatihlah praktik, berupayalah mengalami!__
 
 (PHX)

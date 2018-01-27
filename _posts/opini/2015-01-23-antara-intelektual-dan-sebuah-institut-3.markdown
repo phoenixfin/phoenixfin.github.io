@@ -15,9 +15,7 @@ description: Kepincangan Pengetahuan di Sebuah Institut bernama ITB
 
 Kasus yang terjadi dekat ini mengenai penjualan sks, terlepas itu disengaja atau tidak, mengindikasikan adanya ketidakseimbangan keilmuan yang terjadi di ITB, membuat perguruan tinggi ini makhluk yang pincang. Akhirnya setelah lama melepas pena, tulisan kembali dapat mengalir dari pikiranku dengan lepas, terwujud dalam sebuah refleksi kecil mengenai institut tempat ku menuntut kebijaksanaan saat ini. Dengan mengingat kembali wawancara lamaku dengan pak Yasraf Amir Pilang (Dosen SR) dan kuliah umum mengenai ITB dan perubahan budaya yang ku ikuti semester lalu, aku berusaha merangkai sedikit kegelisahan dalam sebuah untaian opini sebagai layaknya seorang intelektual polos yang hanya ingin mencari kebenaran... di tengah terjangan zaman yang begitu kompleks dan penuh tanda tanya.
 
-“Orang yang menjadikan kebenaran tergantung kepada salah seorang ahli ilmu saja, maka orang itu lebih dekat kepada pertentangan“
-
-- Goenawan Mohamad -
+“Orang yang menjadikan kebenaran tergantung kepada salah seorang ahli ilmu saja, maka orang itu lebih dekat kepada pertentangan“ -- Goenawan Mohamad --
 
 Pembahasan mengenai intelektual adalah sebuah diskursus yang sangat panjang, mengingat betapa krusialnya golongan ini dalam peradaban manusia. Pada dua tulisan sebelumnya, penulis  telah mencoba menjabarkan beberapa aspek mengenai fenomena intelektualitas  dan bagaimana keadaannya dalam sebuah institusi tempat penulis meniti ilmu saat ini, Institut Teknologi Bandung.
 
@@ -101,9 +99,7 @@ Hal yang terakhir dapat kita lakukan sebagai mahasiswa yang masih sadar adalah t
 
 Pada akhirnya, kita memang berada pada kondisi tertekan. Butuh suatu tekad yang kuat untuk mendobrak keluar dari tekanan tersebut. Dengan bergantinya rektor ITB tahun ini, diharapkan ada perubahan baru yang dapat menyelematkan ITB dari penjara kompetisi global yang selama ini membuat kita kehilangan jati diri sebagai motor perubahan budaya. Banyak pekerjaan rumah yang harus dilakukan rektor baru bila punya tekad membawa ITB kembali pada hakikatnya. Para insinyur harus diberikan bekal-bekal ilmu sosial. Departemen sosioteknologi sebagai penyeimbang harus dimaksimalkan. Tiga unsur pokok ITB harus diintegrasikan dalam sebuah sistem dialektika. Fasilitas seperti Sabuga dikembalikan fungsinya sebagai sasana budaya, bukan sekedar menjadi tempat konser atau seminar-seminar dogmatis. Kajian dan diskusi antar-intelektual seperti dosen harus semakin diintensifkan. Paradigma mahasiswa yang kuliah berorientasi kerja pun harus diluruskan. Terakhir, minimal saya, dan teman-teman mahasiswa yang lain, yang masih punya idealisme yang cukup kuat untuk berdiri tegak menantang arus, harus terus menjaga integritas dan menyebarkan idealisme tersebut demi masa depan bersama yang lebih baik.
 
-Baik buruknja nilai dengan hasil Universiteit terutama tergantung pada pemilihan orang2 jang didjadikan maha-guru.
-
- - S. Kalapaking, “Hal Universiteit” -
+"Baik buruknja nilai dengan hasil Universiteit terutama tergantung pada pemilihan orang2 jang didjadikan maha-guru." -- S. Kalapaking, “Hal Universiteit” --
 
 (PHX)
 
