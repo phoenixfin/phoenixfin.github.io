@@ -1,0 +1,128 @@
+---
+title: "Dear Moirae"
+layout: post
+date: 2015-03-06 11:30
+image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
+headerImage: false
+tag:
+- mitologi
+- takdir
+- moirae
+category: monolog
+author: aditya
+description: Perenungan Terhadap Triplet Perajut Takdir
+---
+
+Sudah berkali-kali beribu pikiran melintas dalam kompleksitas neuron di kepalaku. Terkadang dalam visualisasi yang sangat jelas, terkadang dalam abstraksi yang terbatas. Termasuk satu hal yang ku coba ungkapkan saat ini, mengenai apa yang menggelisahkan pikiranku selama bertahun-tahun, yang juga menggelisahkan peradaban manusia selama berabad-abad, yang terkadang dicoba jawab dengan berbagai cara, dari agama hingga logika. Pernahkah ada orang yang hidup tanpa bertanya, ke arah mana semua kehidupan ini? Entahlah, jikalau ada, orang tersebut tentu sangat bahagia, karena sesungguhnya pertanyaan adalah jarum yang sangat menyiksa, membuat kita sulit menerima, lebih menuntut untuk bertanya.
+
+...
+
+_Dear Moirae, yang menguasai takdir._
+
+_Terkesan konyol karena aku menulis surat kepada 3 objek sekaligus, namun tak mengapa, karena aku hanya ingin melakukan sesuatu yang sederhana, yaitu bertanya. Atau, apakah bertanya adalah sebuah dosa? Entah, siapa aku yang bisa menentukan. Maka wahai 3 wanita pemegang benang takdir, izinkan aku mengungkapkan beberapa hal. Aku terkadang tak habis pikir dengan kalian bertiga wahai para Moirae, karena kalian telah membuat seluruh manusia tanpa terkecuali tersiksa, hidup hanya dengan menerka-nerka dan  bertanya-tanya. Ketidakpastian selalu melingkupi dunia ini, dalam berbagai kemungkinannya yang entah deterministik atau probabilistik. Namun keberadaan kalian membuat segalanya semakin membingungkan. Apakah kalian hanya representasi agar manusia dapat menerima yang mereka alami?_
+
+_Ya, Clotho, Lachesis, Atropos, aku sebenarnya tak peduli wujud kalian seperti apa. Meskipun Hesiod dalam teogoninya mendeskripsikan kalian cukup jelas: Clotho yang memegang gumpalan benang menggulung garis kehidupan seseorang, Lachesis yang memegang timbangan dan pengukur menentukan pembagian kehidupan antar setiap orang, dan Athropos yang memegang gunting menentukan kapan benang kehidupan itu diputus. Namun Moirae, ini bukan tentang kalian, seperti halnya objek mitologi lainnya, ini mengenai kegelisahanku, kegelisahan juga seluruh umat manusia, yang berujung pada sebuah pertanyaan. Wahai Moirae, apa itu takdir?_
+
+_Tidakkah kalian lihat, bagaimana Oedipus menghadapi sebuah tragedi dengan membunuh ayahnya dan mengawini ibunya sendiri, hingga akhirnya ia membutakan matanya karena tak kuasa melihat kejamnya takdir yang ia alami? Atau bagaimana Hektor yang akhirnya dipastikan gugur di tangan Akhiles pada perang troya? Atau bagaimana Herakles yang mau tidak mau diharuskan menjalankan 12 tugas berat karena perbuatan yang bukan kesalahannya? Atau terlepas dari kisah lama, bagaimana perang salib terjadi hingga mengorbankan nyawa ribuan orang dengan sia-sia? Atau bagaimana secara tragis ribuan orang yahudi dibunuh dalam kamp konsentrasi jerman selama perang dunia II? Bisakah kalian menjelaskan semua itu? Apakah itu salah satu-dua orang? Apakah kami bisa menyalahkan oedipus dalam tragedi yang ia alami? Apakah kami bisa menyalahkan Hitler atas apapun yang terjadi di perang dunia II? Semua itu tetap merujuk pada satu pertanyaan, apa itu takdir?_
+
+_Dalam sebuah renungan panjangku mengenai pertanyaan ini, wahai Moirae, muncul satu pertanyaan yang lebih sederhana: apakah manusia punya kehendak bebas? Apakah kami memang bebas memilih kehidupan yang akan kami jalani? Bila memang seperti itu, kenapa manusia masih tidak bisa mengontrol hidupnya? Terkadang diperbudak oleh keadaan, terkadang dipenjara oleh ketidaktahuan. Apakah tindakanku menulis saat ini adalah kehendak bebasku? Atau itu hanyalah rangkaian sebab-akibat yang ku alami selama 20 tahun hidup di dunia, hingga akhirnya dalam sebuah jaring-jaring yang kompleks, berujung pada tindakanku menulis pada detik ini? Bahkan aku dapat hidup 20 tahun di dunia pun ditentukan oleh pengalaman hidup ibuku selama 32 tahun sebelumnya hidup di dunia. Maka apakah tindakanku menulis saat ini ditentukan pula oleh tindakan nenekku 52 tahun yang lalu atau memang tindakan ini benar-benar bebas kehendakku. Lagipula, apa itu kehendak?_
+
+_Ketika melihat seseorang membunuh, korupsi, atau apapun, bisakah kita menyalahkan mereka? Apakah mereka melakukan itu semua dalam suatu kehendak bebas? Bagaimana jika mereka melakukan itu karena pengalaman hidupnya bertahun-tahun sejak kecil membuatnya mempersepsi dunia dengan cara berbeda, sehingga akhirnya mereka berada dalam kesadaran untuk melakukan tindakan itu semua? Dan kehidupan mereka sejak kecil tentu saja disebabkan oleh banyak faktor. Apakah mereka bertanggung jawab atas semua faktor itu? Bisakah mereka mengendalikan faktor-faktor itu? Jika tidak, kenapa kami bisa bertanggung jawab sepenuhnya pada hidup kami yang jelas tidak bebas? Jawab aku wahai Moirae, apa itu takdir?_
+
+_Begitu banyak hal tragis di dunia ini wahai Moirae, yang manusia hanyabisa pasrah menerima. Lihatlah pengamen di pinggiran jalan atau kolong jembatan, lihatlah para buruh di tengah industri urban, apakah mereka punya kehendak atas apa yang mereka alami? Para agamawan mengajarkan agar cukup menerima dan yakin bahwa semua itu telah digariskan Tuhan dengan baik. Lalu untuk apa kami diberi kesadaran? Apa yang sebenarnya digariskan? Untuk apa semua semesta ini ada bila akhirnya berada dalam sebuah alur pasti? Apakah kami semua hanyalah robot? Bidak-bidak catur yang sedang dimainkan dalam sebuah ilusi kehendak bebas? Maka tetap saja aku bertanya wahai Moirae, apa itu takdir?_
+
+_Terkadang, banyak yang mengaitkan takdir dengan usaha yang kita lakukan. Selama kita berusaha, maka kita akan mendapatkan hasil yang sesuai. Tapi apa itu usaha? Bagaimana dengan seseorang yang hanya butuh melihat sekilas untuk memahami suatu pelajaran ketimbang yang butuh membaca berkali-kali untuk dapat paham? Apakah ada keadilan dalam berusaha? Apakah hubungan takdir dan usaha merupakan fungsi linear? Namun tentu saja bagaimanapun juga usaha seseorang, ia tetap tidak punya kehendak yang sepenuhnya bebas akan apapun yang akan terjadi dalam hidupnya, walaupun ia mungkin tetap mendapatkan hasil, terlepas itu sesuai atau tidak. Apakah yang sebenarnya terjadi di dunia ini? Apa itu takdir?_
+
+...
+
+Aku terhenti. Paragraf terakhir mengenai usaha dan takdir mengingatkanku pada suatu tulisan oleh Lie Tzu dalam bukunya mengenai Tao. Aku periksa 3 lemari buku yang mengelilingi kamar kosku. Hingga akhirnya aku menyadari bahwa buku itu ada di dalam tas kecil di pojokan kamar, bersama Qur’an dan buku inti ajaran Buddha. Aku buka dan mencari cepat, hingga akhirnya menemukan sebuah percakapan antara Usaha dan Takdir.
+
+...
+
+_Pada suatu hari Usaha berkata pada Takdir, “Pencapaianku lebih besar daripada pencapaianmu.” Takdir  tidak setuju. Ia segera menantang, “Apa yang telah kau lakukan sehingga pencapaianmu melampaui aku?”_
+
+_Usaha menyahut, “Apakah seseorang berumur panjang atau mati muda, kaya atau miskin, berhasil atau gagal, tergantung padaku.” Takdir langsung menukas, “Kepandaian Si Tua Peng  tidak sebanding dengan kepandaian Kaisar Yao dan Kaisar Shun, tapi ia berumur panjang dan hidup sehat. Di lain pihak, Yen-hui, siswa Konfusius yang terbaik meninggal pada usia 18 tahun. Kebajikan Konfusius jauh melampaui para tuan tanah. Tapi, dibandingkan para tuan tanah itu Konfusius miskin dan papa. Kaisar Shang-t’sou kejam dan biadab tapi hidup makmur dan berumur panjang. Sebaliknya, para menterinya yang penuh kebajikan justru mati mengenaskan. Ada seorang pria yang mengorbankan kekayaan dan keberuntungannya agar adiknya bisa bekerja pada tuan tanah Cheng. Orang ini tetap miskin dan tidak dikenal sepanjang hidupnya. Lalu ada orang lain yang tidak punya kebajikan maupun kemampuan dan menjadi tuan tanah Chi’i.Bagaimana dengan Po-Yi dan Shu-ch;i yang mati kelaparan di gunung karena tidak mau menjual kejujuran dan kehormatan mereka untuk melayani tuan tanah musuh mereka? Apa yang bisa kau katakan tentang pejabat-pejabat korup yang kaya serta orang-orang pekerja keras yang miskin?”_
+
+_Usaha tak menyangka pernyataannya dihujani bukti-bukti bertubi-tubi. Dahinya berkerut. Namun, Takdir melanjutkan, “Jika kau seefektif yang kau katakan, mengapa tak kau buat para pekerja keras menjadi kaya? Mengapa tak kau beri orang yang penuh kebajikan dengan hidup makmur dan umur panjang? Mengapa orang pandai dan terampil menganggur serta mengapa orang bodoh mendapat tempat penting di pemerintahan?”_
+
+_Dihadapkan tantangan ini Usaha tak bisa berkata apa-apa. Dengan malu-malu ia berkata pada Takdir, “Kau benar. Aku tak berdampak terlalu besar. Tapi aku berani berkata bahwa banyak hal terjadi karena kau berniat mengacaukan, memutar balik takdir orang-orang dan menikmatinya.”  Takdir lalu berkata, “Aku tidak bisa memaksa arah terjadinya suatu hal. Aku hanya membuka pintu agar mereka bisa lewat. Jika sesuatu berjalan lurus, aku akan membiarkannya mengikuti jalan yang lurus. Jika sesuatu berbelok, aku tidak menghalanginya. Tak sesuatu pun, tidak kau atau aku, bisa mengatur arah jalan suatu hal. Umur panjang atau pendek, kaya atau miskin, berhasil atau gagal, untung atau sial, semua datang dengan sendirinya. Bagaimana aku bisa mengarahkan suatu kejadian atau bahkan tahu di mana suatu hal akan berakhir?”_
+
+...
+
+Selalu saja menarik, ajaran Tao mengenai kekosongan dan aliran memang bahkan menafikan takdir sebagai sesuatu yang deterministik terhadap semesta. Dunia ini hanyalah berada dalam aliran kosong yang terus berputar tanpa henti, tanpa beban, seperti air yang terus mencari tempat terendah, seperti Yin menjadi Yang dan Yang menjadi Yin. Mirip dengan ajaran Buddha, mistisme timur (Hindu, Buddha, Konfusian, Tao) memang cenderung mengarah pada nothingness atau kekosongan. Dunia ini hanyalah persepsi yang tercipta dari hasrat. Hal ini mengingatkanku pada film _The Matrix_ yang mana realita yang ada hanyalah persepsi yang diciptakan mesin pada kepala kita, seperti apa yang dikatakan Morpheus, “jika yang kau maksud adalah apa yang kau bisa rasakan apa yang kau cium,yang bisa kau rasakan, dan lihat maka ‘nyata’ hanya sinyal listrik yang diterjemahkan oleh otakmu.”
+
+Memang hal itu sedikit berlawanan dengan agama ibrahimiyah (yahudi, kristen, islam) yang cenderung meyakini adanya eksistensi Maha dia tas segalanya yang memang mengatur segala sesuatu. Dalam islam sendiri, takdir (memang serapan Indonesia dari bahasa arab) secara harfiah berarti kuasa atau ukuran/kadar. Artinya ada “sesuatu” lain di semesta ini yang murni punya kuasa (kehendak bebas) untuk mengukur atau membatasi arah segala sesuatu. Aku mungkin bukan agamawan yang baik, karena aku lebih banyak bertanya sebelum langsung meyakini. Maka terlepas dari dogma dan agama apapun, aku coba menahan perut yang lapar dan melanjutkan pelepasan semua pikiranku melalui common sense sesederhana mungkin yang ku punya, demi sebuah pemahaman umum tentang takdir. Maka aku pun kembali mengetik...
+
+... 
+
+_Wahai 3 wanita pengendali takdir, apa yang sebenarnya kalian pertimbangkan ketika menentukan suatu benang kehidupan? Bahkan dewa-dewa pun tunduk pada kalian! Kelahiran Apolo, Artemis, dan Atena, pertempuran para Titan,ancaman Taifun yang melahirkan Cerebrus, Ladon, Hidra, Khimera, dan monster-monster lainnya, atau kematian Feton karena kenekatannya menaiki kereta surya ayahnya sang dewa matahari, Helios, semua berada dalam perkiraan kalian. Bagaimana dengan manusia? Apa yang sebenarnya kau tuliskan bagi kami yang tak punya kekuatan ini? Apakah ini lelucon? Apakah kalian mempermainkan kami para manusia dengan buku takdir kalian? Lalu untuk apa kami diberikan kesadaran, seakan-akan dapat memilih namun kami tahu semua tindakan kami telah berada dalam alur pasti? Tetap saja muncul suatu paradoks, karena tak mungkin kehendak bebas dan determinisme takdir ada secara bersamaan. Jika takdir itu benar-benar ada, kita tidak mungkin punya kehendak bebas, jika kita punya kehendak bebas, tidak mungkin takdir kita benar-benar ditentukan. Alangkah konyolnya semua ini! Maka tetap saja tak bisa ku jawab, apa itu takdir?_
+
+_Hmm, pernahkah kalian mendengar istilah bounded rationality? Jika tidak, itu adalah suatu istilah yang menyatakan bahwa rasionalitas yang kami miliki adalah terbatas, bergantung pada pengetahuan kami saat itu. Sederhananya, kami memilih berdasar apa yang kami tahu, dan apa yang kami tahu termasuk bagaimana kami mempersepsi dunia. Apakah seseorang akan bawa payung atau enggak ditentukan oleh persepsinya terhadap cuaca. Apakah seseorang akan marah atau enggak ketika dihina ditentukan oleh persepsinya terhadap hinaan. Tapi, apakah yang menentukan persepsi? Jelas, pengalaman! Apa yang kami alami sebelum-sebelumnya menentukan bagaimana kami berpikir atau bagaimana kami memilih pada suatu titik waktu. Jika demikian, bukankah itu berarti pilihan kami pada tiap saat adalah bebas? Apakah kami memiliki kuasa terhadap hidup kami sendiri? Apakah memang yang dinamakan usaha itu ada? Atau apakah itu hanyalah ilusi yang tercipta dalam suatu permainan takdir raksasa? Entahlah Moirae, tetap semua berakar pada satu pertanyaan, apa itu takdir?_
+
+_Namun, tidakkah itu sedikit menjawab suatu poin? Bahwa pada tiap bingkai waktu, kita hanya memiliki pilihan yang terbatas, bukan berarti pilihan kita mutlak ditentukan. Artinya masih ada sebagian kecil kebebasan terkandung dalam pemilihan tindakan pada tiap percabangan hidup. Bukankah takdir memang hanya berarti kadar atau ukuran atau batasan. Ia hanya membatasi ruang gerak pilihan kami. Ya, artinya usaha masih memiliki makna! Tapi apakah sesignifikan itu? Bukankah itu hanyalah kebebasan yang terlingkup dalam ketidakbebasan? Hanyalah ketidakpastian yang terlingkup dalam kepastian? Tetap saja paradoks! Adakah jalan tengah di antara keduanya?_
+
+_Sekarang kita lihat, mungkinkah Moirae, bahwa yang paling berkuasa adalah hukum alam? Siapa yang bisa mengalahkan kehendak gaya gravitasi? Maka jika demikian, semua hal yang berkaitan dengan alam, jika terlepas dari manusia, berada dalam alur yang mendekati deterministik. Dalam skala makro, determinisme ini berlaku kuat. Namun wahai Moirae yang agung, tidakkah kau tahu bahwa sesungguhnya dalam skala mikro semesta bertindak mendekati probabilistik? Dalam termodinamika hingga fisika kuantum saat ini, telah terlihat jelas bahwa mikrokosmos bekerja dalam ketidakpastian. Lalu kenapa ketika beranjak ke makrokosmos segalanya menjadi sebuah alur yang pasti? Apa ada yang salah? Apakah ini berkaitan dengan cara kerja takdir?_
+
+_Ah, tentunya kau tahu ini berkaitan erat dengan statistik, ilmu yang kupelajari di kuliah saat ini. Sesuatu yang pada level satuan ataupun kelompok kecil bisa bersifat probabilistik, akan memiliki sifat deterministik dalam sebuah populasi besar. Artinya apa? Sifat  kepastian muncul ketika kumpulan ketidakpastian dijadikan satu! Gerak partikel gas merupakan gerakan acak dengan kecepatan yang sangat beragam, namun ketika partikel gas dilihat sebagai suatu kumpulan, kecepatan keseluruhan akan memberi nilai statis temperatur gas itu.Demikian pula manusia, sifat individu begitu unik dan beragam, namun dalam suatu kumpulan ia seakan bertindak dalam suatu pola deterministik. Tentu saja kau paham ini Moirae, bukankah ini caramu untuk mempermainkan kami?_
+
+_Apa yang sebenarnya menyebabkan adanya sifat seperti ini dalam statistik? Apakah karena individu atau satuan memiliki kecenderungan hingga akhirnya menjadi suatu pola dalam skala yang lebih besar? Berarti paradoks yang sebelumnya ada bisa terbongkar! Usaha manusia sama sekali tidak bebas. Ia berada dalam suatu kecenderungan, hal yang seakan probabilistik dan bebas dalam skala satuan, namun bila melihatnya dalam suatu kumpulan, kebebasan itu hancur dalam sebuah pola yang deterministik, ya, suatu pola takdir! Pilihan dalam satu bingkai waktu mungkin ‘terasa’ bebas bagi kami, namun sebenarnya kebebasan kami terjebak dalam suatu kecenderungan, hingga jika dilihat dalam kumpulan bingkai waktu, atau suatu periode, ada pola yang bermain di dalamnya._
+
+_Mungkin itu akan menimbulkan pertanyaan, apa yang sebenarnya menimbulkan kecenderungan itu? Sudah sangat jelas tentunya, pengalaman. Hidup manusia, atau keseluruhan semesta ini, dapat diibaratkan suatu persamaan dengan begitu banyak, atau bahkan tak terhingga, variabel. Dengan begitu kompleksnya keterkaitan antara variabel-variabel ini, tentu saja persamaan ini tidak linear, sehingga mungkin tidak dapat dilihat dalam suatu alur sebab-akibat yang teratur. Walaupun begitu, ketaklinearan ini sebenarnya memperlihatkan pola yang lebih dalam, bukan sekedar keacakan yang kacau. Kondisi tertentu pada suatu waktu ditentukan oleh keadaannya pada waktu berikutnya, begitu seterusnya hingga apa yang dikenal dalam persamaan diferensial dengan kondisi awal. Maka kecenderungan yang ada pada suatu titik waktu ditentukan oleh keadaannya pada titik waktu sebelumnya, yang secara akumulatif ditentukan oleh keseluruhan pengalamannya dalam alur waktu. Bila ditarik mundur, bukankah ini akan terus saling terkait hingga akhirnya menuju asal mula waktu, suatu kondisi awal, penentu segalanya?_
+
+_Di sinilah kami para manusia menabrak tembok Moirae, agamawan mungkin akan mudah memberikan jawabannya, namun terlepas dari itu, fisika kontemporer saat ini hanya menemukan singularitas di awal waktu, yang mana apapun yang terjadi sebelum ini masih tidak terdefinisikan. Maka, bukankah itu berarti takdir hanya ditentukan oleh kondisi awal ini? Artinya kalian hanya bekerja pada saat mula-mula, yang mana keberjalanannya tak perlu lagi butuh campur tangan kalian, atau mungkin, ah tidak! Aku lupa bahwa kami mengenal apa yang disebut sebagai masalah nilai batas! Artinya tidak hanya kondisi awal yang pasti, namun suatu kondisi batas, entah di akhir, entah di tengah, yang akhirnya menentukan alur keseluruhan sistem tersebut. Mungkinkah itu terjadi Moirae? Kalian, takdir, hanya menentukan secara pasti sebagian titik pada alur waktu, dan membiarkan sistem berbuat sedemikian rupa. Exactly!_
+
+_Permainan yang mengagumkan Moirae, kau mendesain persepsi manusia sedemikian rupa sehingga takdir seakan masih berada di tangan manusia. Kau membuat skenario sedemikian rupa sehingga seakan tiap manusia merupakan individu bebas padahal hanya pemain naskah dalam suatu drama agung alam semesta. Kecenderungan yang kami miliki pada satu titik waktu pada dasarnya merupakan kepastian pada alur keseluruhan. Aku sebenarnya tak menyukai ini Moirae, walaupun memang begitu mengagumkan ketika memahami ini. Untuk apa aku hidup bila hanya jadi korban takdir? Inilah resiko kesadaran mungkin. Bukankah terkadang kebenaran itu menyakitkan? Apakah ini yang menyebabkan agama mencegah manusia agar tidak terlalu jauh mengetahui?_
+
+_Walaupun begitu, aku menemukan sesuatu yang masih mengganjal, apakah kalian yang memang benar-benar menentukan kondisi-kondisi batas itu? Jika tidak, maka itu berarti kondisi batas itu ada begitu saja! Sama absurdnya dengan bila kondisi batas itu memang diberikan, karena bagaimana kalian dapat mengintervensi titik tengah tanpa harus mengubah keseluruhan alur sistem? Atau mungkin lebih mendasar lagi, bagaimana kalian menentukan kondisi-kondisi itu pada awalnya? Sekali lagi, mungkin agamawan akan lebih mudah memberikan jawabannya, namun itu tidak cukup bagiku. Karena itu berarti memang kami harus mengandaikan ‘sesuatu’ di luar semesta untuk memberikan/mengintervensi kondisi-kondisi batas tersebut, maka semesta yang dimaksud menjadi bukan himpunan keseluruhan yang sesungguhnya. Suatu kontradiksi! Tidak bisakah kami memahami semua itu dalam satu himpunan pembicaraan tanpa harus mengandaikan sesuatu di ‘luar’ sistem?_
+
+_Cukuplah aku rasa. Kalian memang begitu membingungkan wahai para Moirae. Hingga detik ini pemahamanku terhadap takdir masih memiliki lubang-lubang pertanyaan yang belum terjawab. Namun bila cukup mengabaikan pengganjal yang terakhir, maka memang takdir adalah suatu skenario agung raksasa yang begitu mengagumkan, yang didesain sedemikian sehingga kami manusia tidak sadar sedang menjalankan peran persis seperti naskah, persis seperti yang tertulis, dengan suatu ilusi kecenderungan dalam persepsi untuk membuat kami merasa bebas dengan tiap pilihan kami. Ya, itulah takdir! Drama agung semesta. Walaupun begitu, terlepas dari ketidakbebasan kami dalam memilih, tetaplah nikmati tiap tariannya, maksimalkan kesadaran, hingga kami dapat merasakan bahwa hidup sepenuhnya milik kami!_
+
+_Memang aku belum cukup puas Moirae, tunggu saja, akan ku gapai kebenaran padamu suatu saat. Namun untuk saat ini, mungkin cukup seperti apa yang dikatakan Lenka:_
+
+_Enjoy the Show! :)_
+
+_Salah satu aktor dalam drama takdir,_
+
+_Finiarel._
+
+...
+
+Ah, aku kembali ke kesadaranku, ke dunia nyata, ke suasana yang mana hanya terdengar senyap suara mp3 laptop dan detik jam yang jarum pendeknya sedikit melewati angka satu. Menulis memang seakan pergi ke dimensi lain, dimensi penuh imajinasi dan kata-kata, membuatku seakan terasingkan dari dunia nyata yang sesungguhnya. Ketika kembali sadar, ku sadari tenggoranku mulai mengering, maka ku teguk air sejenak dari botol minum di sebelah laptop selagi mengamati semua hasil ketikanku selama 3 jam terakhir.
+
+Aku menyadari bahwa sebenarnya masih banyak yang ingin ku tulis mengenai ini. Namun seperti Darwin dan ilmuan-ilmuan brilian lainnya, aku ingin lebih hati-hati dalam mengemukakan teori. Secara intuitif, bagiku ilmu matematika pada dasarnya bisa memperlihatkan bagaimana abstraksi filosofis banyak hal, termasuk takdir bisa dibentuk untuk pemahaman lebih komprehensif tanpa ada loncatan logika. Seperti halnya dinamika non-linear ataupun statistik, aku tak ingin matematika hanyalah alat terhadap hal-hal teknis. Matematika dan filsafat lahir secara bersamaan, ia bukanlah sekedar alat, tapi media abstraksi yang lebih sistematis, ketimbang filsafat yang cenderung spekulatif dan meraba-raba. Namun terlepas dari hal itu, takdir memang selalu menjadi pertanyaan terbesar dalam peradaban manusia, baik bagi mereka yang taat dalam keyakinan maupun bagi yang radikal dalam pemikiran, baik bagi mereka yang tunduk pada dogma atau agama maupun bagi mereka yang tunduk pada logika.
+
+Seperti biasa, perutku selalu berbunyi di tengah malam. Namun apa yang bisa ku makan jam segini selain indomie yang jelas tidak sehat? Ku coba abaikan selagi berpikir lebih lanjut. Aku merasa takdir tidak pernah bisa dipahami dengan baik karena realita tidak bisa memberi data yang cukup untuk dapat menginduksinya menjadi suatu pemahaman yang menyeluruh. Walaupun sains koginisi akhir-akhir ini telah banyak mengemukakan teori tentang kesadaran manusia, tetap saja itu belum lengkap karena begitu banyaknya variabel yang bermain. Itulah kekurangan dari sains eksperimental, sifatnya yang induktif terbatasi pada data yang bisa diambil. Karena itulah aku lebih menyukai pendekatan filosofis dan matematis karena sifatnya yang deduktif, abstraksi yang dilakukan bisa menyeluruh tanpa membutuhkan data yang komplit, selama mengikuti aksioma dan alur logika yang runtut.
+
+Pikiranku terhenti. Lapar yang mulai menggangguku tertahan ketika saat ini playlist mp3 laptopku beralih pada satu lagu berjudul “Tarian Takdir”. Sayup-sayup mengiringi sunyi di malam yang purnama, suara Tarjo mulai berbunyi.
+
+...
+
+_Jika tak diizinkan menari di dalamnya_
+
+_Maka itu bukan bagian revolusiku_
+
+_Aku hanya ingin menyembah tuhan_
+
+_Yang mengerti bagaimana caranya menari_
+
+_Menarilah menarilah menarilah menarilah...._
+
+_Aku akan tahu siapa dirimu saat kau menari_
+
+_"If I can't dance to it_
+
+_I don't want your revolution"_
+
+_Para darwis berputar memusat di dalamnya_
+
+_Cakrawala menumpu titik jiwanya_
+
+_Gemulai lekuk Brahmana mengelilingi api_
+
+_Berotasi anggun tasbihkan diri ilahi_
+
+...
+
+Memang, takdir itu adalah tarian, yang mana menuntut kita untuk cukup menikmati alunannya. Di balik itu semua, takdir tetaplah eksistensi kompleks yang tidak mudah dipahami. Namun, alih-alih merusak intuisi hidup hanya dengan pemikiran bahwa kebebasan kita dikendalikan tariannya, alangkah baiknya bila kita menari bersamanya. Maka wahai manusia, menarilah!
+
+(PHX)

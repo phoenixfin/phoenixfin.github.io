@@ -65,7 +65,7 @@ _bayangnya pun tak mampu kauraih_
 
 _bila engkau diam, ia akan datang menghampiri hinggap di hatimu_
 
-
+<br>
 
 _Kekasihku ulurkan jemari tanganmu_
 
@@ -129,7 +129,7 @@ _Genggam tangannya ajakbernyanyi_
 
 _Bekerja sama dalam harmoni_
 
- 
+ <br>
 
 _Kita tak perlu eksis negara_
 
@@ -139,7 +139,7 @@ _Kita kafiri kedok dominasi_
 
 _Kita akhiri tindak tirani_
 
- 
+ <br>
 
 _Tangan mandiri menanam padi_
 
@@ -157,7 +157,7 @@ _Berangkai tulang terangi malam_
 
 _Siang menjelang hasrat tak padam_
 
- 
+ <br>
 
 _Tanpa titah tuan_
 
