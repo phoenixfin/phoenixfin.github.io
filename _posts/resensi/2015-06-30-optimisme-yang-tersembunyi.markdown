@@ -1,5 +1,5 @@
 ---
-title: "Optimisme yang Tersembunyi"
+title: Optimisme yang Tersembunyi
 layout: post
 date: 2015-06-30 17:36
 image: /assets/images/blog/beradab-bersama-arsip.jpg
