@@ -7,9 +7,13 @@ title: Resensi
   {% for book in site.data.resensi  %}
   <article class="book">
     <figure class="book-cover">
-      <a href="{{ site.url }}{{ post.url }}">
-        <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
-      </a>
+		{% for post in site.posts %}
+			{% if post.title == book.title %}
+				<a href="{{ site.url }}{{ post.url }}">
+				  <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
+				</a>
+			{% endif %}
+		{% endfor %}
     </figure>
     <div class="book-info">
 		<h3 style="font-size:70%;">{{ book.title }}</h3>
