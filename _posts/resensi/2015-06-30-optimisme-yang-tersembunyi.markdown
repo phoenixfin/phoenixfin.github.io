@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - teknologi
 - transendensi
-category: opini
+category: resensi
 author: aditya
 description: Review Film Transendence (2014)
 ---
@@ -49,7 +49,7 @@ Apakah evolusi seperti itu mungkin akan terjadi? Tentu saja, kemungkinan selalu 
 
 Kemungkinan seperti itu lah yang ditakutkan orang-orang, termasuk yang dicerminkan oleh salah satu kelompok radikal anti-teknologi dalam Trascendence. Aku sangat setuju ketika Bree (Kate Mara), salah satu anggota kelompok tersebut, dengan jelas mengatakan “_Machines are meant to aid the human mind...not supplant it._” Paradigma teknologi saat ini tanpa sadar membuat teknologi seperti eksistensi yang “menggantikan” pekerjaan manusia, bukan lagi membantu, dan yang tergantikan paling banyak adalah kegiatan berpikir, menghasilkan manusia-manusia yang pikirannya kosong. Tentu saja dengan realitas seperti masa kini, wajar saja jika kita merasa pesimis. Jika tidak ingin itu terjadi, mulailah membenahi diri. Solusi untuk semua kemungkinan teknologi di masa depan ada pada dunia pendidikan, sebuah dunia penempaan manusia, yang akan menentukan akan menjadi seperti apa kelak masyarakat ke depannya. Tidaklah salah menggunakan teknologi, tapi mulailah bertanya: Untuk apa? Apakah tanpa teknologi aku tak bisa hidup? Sebelum semuanya terlambat, dan hidup kita bergantung padanya, dan kita hanya menjadi hewan yang berdiri tegak. Terlepas dari pesimisme itu, cobalah nikmati karya Wally Pfester yang satu ini, ambil kontemplasi, dan lihat bahwa optimisme masih ada di masa depan hubungan manusia-teknologi, walaupun probabilitasnya sangat kecil.
 
-"Maybe it was all invevitable. An unavoidable collision between mankind and technology. -– Will Caster --
+"_Maybe it was all invevitable. An unavoidable collision between mankind and technology._" -– Will Caster --
 
 (PHX)
 
