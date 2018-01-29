@@ -15,11 +15,6 @@ description: Review Film Transendence (2014)
 Kenapaaaa
 
 <div class="side-by-side">
-    <div class="toright">
-		<img class="image" src="http://phoenixfin.github.io/assets/images/film/good-will-hunting.jpg" alt="Alt Text">
-        <figcaption class="caption">Cover film Transendence</figcaption>
-    </div>
-
     <div class="toleft">
 		<p>
 		Judul	      : Transcendence <br>
@@ -29,6 +24,11 @@ Kenapaaaa
 		Genre         : Drama <br>
 		Pemeran       : Johnny Depp, Rebecca Hall, Morgan Freeman
 		</p>
+    </div>
+	
+    <div class="toright">
+		<img class="image" src="http://phoenixfin.github.io/assets/images/film/good-will-hunting.jpg" alt="Alt Text">
+        <figcaption class="caption">Cover film Transendence</figcaption>
     </div>
 </div>
 
