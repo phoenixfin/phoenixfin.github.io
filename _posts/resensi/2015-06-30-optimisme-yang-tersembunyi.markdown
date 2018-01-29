@@ -12,22 +12,18 @@ author: aditya
 description: Review Film Transendence (2014)
 ---
 
-Kenapaaaa
-
 <div class="side-by-side">
     <div class="toleft">
-		<img class="image" src="/assets/images/film/transendence.jpg" alt="cover film Transendence" align="middle">
+		<img class="image" src="/assets/images/film/transendence.jpg" alt="cover film Transendence" align="right">.
     </div>
 
     <div class="toright">
-		<p>
 		<b>Judul</b>	     : Transcendence <br> <br>
 		<b>Sutradara</b>     : Wally Pfister <br> <br>
 		<b>Tanggal Rilis</b> : 18 April 2014 <br> <br>
 		<b>Durasi</b>        : 119 menit <br> <br>
 		<b>Genre</b>         : Drama <br> <br>
 		<b>Pemeran</b>       : Johnny Depp, Rebecca Hall, Morgan Freeman
-		</p>
     </div>
 </div>
 
