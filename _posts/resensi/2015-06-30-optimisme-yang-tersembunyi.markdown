@@ -11,7 +11,7 @@ category: opini
 author: aditya
 description: Review Film Transendence (2014)
 ---
-<img class="image" src="/assets/images/film/transendence.jpg" alt="cover film Transendence" height="500px" align="left" style="PADDING-RIGHT: 15px;">
+<img class="image" src="/assets/images/film/transendence.jpg" alt="cover film Transendence" height="300px" align="left" style="PADDING-RIGHT: 15px;">
 		
 __Judul__	     : Transcendence 
 
