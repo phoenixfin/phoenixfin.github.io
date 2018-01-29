@@ -16,7 +16,7 @@ url:  http://phoenixfin.github.io
 
 permalink: /:title/
 
-# analytics-google: 'UA-113258248-1'
+analytics-google: 'UA-113258248-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
