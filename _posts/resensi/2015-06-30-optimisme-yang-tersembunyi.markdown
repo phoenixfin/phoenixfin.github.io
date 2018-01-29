@@ -12,9 +12,11 @@ author: aditya
 description: Review Film Transendence (2014)
 ---
 
+Kenapaaaa
+
 <div class="side-by-side">
     <div class="toleft">
-		<img class="image" src="/assets/images/film/transendence.jpg" alt="Alt Text">
+		<img class="image" src="http://phoenixfin.github.io/assets/images/film/good-will-hunting.jpg" alt="Alt Text">
         <figcaption class="caption">Cover film Transendence</figcaption>
     </div>
 
