@@ -21,17 +21,12 @@ Kenapaaaa
     </div>
 
     <div class="toright">
-		__Judul__	      : Transcendence 
-		
-		__Sutradara__     : Wally Pfister 
-		
-		__Tanggal Rilis__ : 18 April 2014 
-		
-		__Durasi__        : 119 menit 
-		
-		__Genre__         : Drama 
-		
-		__Pemeran__       : Johnny Depp, Rebecca Hall, Morgan Freeman
+		<b>Judul</b>	     : Transcendence <br>
+		<b>Sutradara</b>     : Wally Pfister <br>		
+		<b>Tanggal Rilis</b> : 18 April 2014 <br>		
+		<b>Durasi</b>        : 119 menit <br>		
+		<b>Genre</b>         : Drama <br>		
+		<b>Pemeran</b>       : Johnny Depp, Rebecca Hall, Morgan Freeman
     </div>
 	
 
