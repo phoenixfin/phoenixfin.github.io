@@ -15,20 +15,20 @@ description: Review Film Transendence (2014)
 Kenapaaaa
 
 <div class="side-by-side">
-    <div class="toleft">
+    <div class="toright">
 		<img class="image" src="http://phoenixfin.github.io/assets/images/film/good-will-hunting.jpg" alt="Alt Text">
         <figcaption class="caption">Cover film Transendence</figcaption>
     </div>
 
-    <div class="toright">
-		
+    <div class="toleft">
+		<p>
 		Judul	      : Transcendence <br>
 		Sutradara     : Wally Pfister <br>
 		Tanggal Rilis : 18 April 2014 <br>
 		Durasi        : 119 menit <br>
 		Genre         : Drama <br>
 		Pemeran       : Johnny Depp, Rebecca Hall, Morgan Freeman
-		
+		</p>
     </div>
 </div>
 
