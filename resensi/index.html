@@ -1,0 +1,22 @@
+---
+layout: page
+title: Resensi
+---
+
+<main class="shelf">
+  {% for book in site.data.kompilasi  %}
+  <article class="book">
+    <figure class="book-cover">
+      <a href="{{ site.url }}{{ post.url }}">
+        <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
+      </a>
+    </figure>
+    <div class="book-info">
+	  <a href="{{ site.url }}{{ post.url }}">
+		<h3 style="font-size=70%">{{ book.title }}</h3>
+		<p style="font-size:70%;">{{ book.author }}</p>
+	  </a>
+    </div>
+  </article>
+  {% endfor %}
+</main>

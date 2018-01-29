@@ -22,18 +22,18 @@
             {% endif %}
         {% endif %}
 
+		{% if site.kompilasi == true %}
+            {% if page.title != "Kompilasi" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/kompilasi">Kompilasi</a>
+                </li>
+            {% endif %}
+        {% endif %}
+		
         {% if site.arsip == true %}
             {% if page.title != "Arsip" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/arsip">Arsip</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        {% if site.kompilasi == true %}
-            {% if page.title != "Kompilasi" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/kompilasi">Kompilasi</a>
                 </li>
             {% endif %}
         {% endif %}
