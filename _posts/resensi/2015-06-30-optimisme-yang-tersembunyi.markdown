@@ -16,20 +16,25 @@ Kenapaaaa
 
 <div class="side-by-side">
     <div class="toleft">
-		<p>
-		__Judul__	      : Transcendence <br>
-		__Sutradara__     : Wally Pfister <br>
-		__Tanggal Rilis__ : 18 April 2014 <br>
-		__Durasi__        : 119 menit <br>
-		__Genre__         : Drama <br>
-		__Pemeran__       : Johnny Depp, Rebecca Hall, Morgan Freeman
-		</p>
-    </div>
-	
-    <div class="toright">
-		<img class="image" src="/assets/images/film/trasendence.jpg" alt="Alt Text">
+		<img class="image" src="/assets/images/film/transendence.jpg" alt="Alt Text">
         <figcaption class="caption">Cover film Transendence</figcaption>
     </div>
+
+    <div class="toright">
+		__Judul__	      : Transcendence 
+		
+		__Sutradara__     : Wally Pfister 
+		
+		__Tanggal Rilis__ : 18 April 2014 
+		
+		__Durasi__        : 119 menit 
+		
+		__Genre__         : Drama 
+		
+		__Pemeran__       : Johnny Depp, Rebecca Hall, Morgan Freeman
+    </div>
+	
+
 </div>
 
 ...
