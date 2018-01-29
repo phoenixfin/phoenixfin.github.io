@@ -16,20 +16,19 @@ Kenapaaaa
 
 <div class="side-by-side">
     <div class="toleft">
-		<img class="image" src="/assets/images/film/transendence.jpg" alt="Alt Text">
-        <figcaption class="caption">Cover film Transendence</figcaption>
+		<img class="image" src="/assets/images/film/transendence.jpg" alt="cover film Transendence" align="middle">
     </div>
 
     <div class="toright">
-		<b>Judul</b>	     : Transcendence <br>
-		<b>Sutradara</b>     : Wally Pfister <br>		
-		<b>Tanggal Rilis</b> : 18 April 2014 <br>		
-		<b>Durasi</b>        : 119 menit <br>		
-		<b>Genre</b>         : Drama <br>		
+		<p>
+		<b>Judul</b>	     : Transcendence <br> <br>
+		<b>Sutradara</b>     : Wally Pfister <br> <br>
+		<b>Tanggal Rilis</b> : 18 April 2014 <br> <br>
+		<b>Durasi</b>        : 119 menit <br> <br>
+		<b>Genre</b>         : Drama <br> <br>
 		<b>Pemeran</b>       : Johnny Depp, Rebecca Hall, Morgan Freeman
+		</p>
     </div>
-	
-
 </div>
 
 ...
