@@ -7,8 +7,8 @@ title: Resensi
   {% for book in site.data.resensi  %}
   <article class="book">
     <figure class="book-cover">
-      <a href="http://facebook.com">
-        <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
+      <a href="{{ site.url }}{{ post.url }}">
+        <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
       </a>
     </figure>
     <div class="book-info">
