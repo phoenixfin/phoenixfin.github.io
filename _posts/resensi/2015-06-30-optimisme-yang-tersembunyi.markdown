@@ -19,20 +19,20 @@ description: Review Film Transendence (2014)
     </div>
 
     <div class="toright">
-		<p>
+		
 		Judul	      : Transcendence <br>
 		Sutradara     : Wally Pfister <br>
 		Tanggal Rilis : 18 April 2014 <br>
 		Durasi        : 119 menit <br>
 		Genre         : Drama <br>
 		Pemeran       : Johnny Depp, Rebecca Hall, Morgan Freeman
-		</p>
+		
     </div>
 </div>
 
 ...
 
-_A man : “So you want to create a god? Your own god?” _
+_A man : “So you want to create a god? Your own god?”_
 
 _Will Caster :“That's a very good question. Isn't that what man has always done?”_
 
