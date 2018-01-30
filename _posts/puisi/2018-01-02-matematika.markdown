@@ -1,6 +1,6 @@
 ---
 title: Matematika
-layout: post
+layout: poets
 category: puisi
 author: aditya
 description: Review Film Good Will Hunting (1998)
