@@ -1,7 +1,6 @@
 ---
 title: Matematika
 category: puisi
-hidden: false
 content: 
   Jika maka
   Terdapat semua
