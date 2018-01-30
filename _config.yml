@@ -8,6 +8,9 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
+collections: 
+- poetry
+
 resume: false
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
