@@ -10,7 +10,7 @@ tag:
 - pendidikan
 category: resensi
 author: aditya
-description: Review Film World's Greatest Dad (2003)
+description: Review Film World's Greatest Dad (2009)
 ---
 
 <img class="image" src="/assets/images/film/world-greatest-dad.jpg" alt="cover film World's Greatest Dad" height="300px" align="left" style="PADDING-RIGHT: 15px;">
