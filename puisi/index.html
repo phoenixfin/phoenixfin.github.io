@@ -2,7 +2,7 @@
 # blog page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
-title: Opini
+title: Puisi
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
@@ -20,10 +20,11 @@ title: Opini
 	{% else %}
 		{% for post in site.posts %}
 			{% if post.category == 'puisi' %}
-				{% if post.hidden != true %}
-					<h2 align="center"> {{ post.title }}tes </h2>
-					<p> {{ post.content }}</p>
-				{% endif %}
+				<div class="item {% if post.star %}star{% endif %}">
+					<a class="url" href="{{ site.url }}{{ post.url }}">
+						<h3 class="title">{{ post.title }}</h3>
+					</a>
+				</div>
 			{% endif %}
 		{% endfor %}
 	{% endif %}
