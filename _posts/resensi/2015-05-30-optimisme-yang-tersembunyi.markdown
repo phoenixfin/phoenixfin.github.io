@@ -1,12 +1,13 @@
 ---
 title: Optimisme yang Tersembunyi
 layout: post
-date: 2015-06-30 17:36
+date: 2015-05-30 17:36
 image: /assets/images/blog/beradab-bersama-arsip.jpg
 headerImage: false
 tag:
 - teknologi
 - transendensi
+- Robin Williams
 category: resensi
 author: aditya
 description: Review Film Transendence (2014)

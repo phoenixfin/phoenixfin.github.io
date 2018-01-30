@@ -1,13 +1,14 @@
 ---
 title: Pendidikan yang Membebaskan
 layout: post
-date: 2015-06-25 06:27
+date: 2015-05-25 06:27
 image: /assets/images/blog/beradab-bersama-arsip.jpg
 headerImage: false
 tag:
 - sastra
 - hidup
 - pendidikan
+- Robin Williams
 category: resensi
 author: aditya
 description: Review Film Dead Poets Society (1989)

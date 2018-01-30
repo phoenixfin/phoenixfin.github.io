@@ -1,13 +1,14 @@
 ---
 title: Hidup Sepenuhnya
 layout: post
-date: 2015-06-29 07:45
+date: 2015-05-29 07:45
 image: /assets/images/blog/beradab-bersama-arsip.jpg
 headerImage: false
 tag:
 - matematika
 - hidup
 - pendidikan
+- Robin Williams
 category: resensi
 author: aditya
 description: Review Film Good Will Hunting (1998)
