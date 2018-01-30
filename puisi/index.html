@@ -1,0 +1,30 @@
+---
+# blog page must be named index.html and in its own folder to support pagination
+# https://jekyllrb.com/docs/pagination/
+layout: page
+title: Opini
+---
+<section class="list">
+	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.paginate %}
+		{% for post in paginator.posts %}
+			{% if post.category == 'opini' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+
+		{% include pagination.html%}
+	{% else %}
+		{% for post in site.posts %}
+			{% if post.category == 'puisi' %}
+				{% if post.hidden != true %}
+					<h2 align="center"> {{ post.title }} </h2>
+					<p> {{ post.content }}</p>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+</section>
