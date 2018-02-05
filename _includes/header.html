@@ -1,5 +1,4 @@
-{% if page.title == "Home"
-   or page.title == "Booklet"
+{% if page.title == "Booklet"
    or page.title == "Buku"
    or page.title == "Arsip"
    or page.title == "Kompilasi"
@@ -8,9 +7,9 @@
    or page.title == "Opini"
    or page.title == "Resensi"
    or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
+%}{% assign otherHeader = true %}{% endif %}
 
-{% if showHeader == true %}
+{% if if page.title == "Home" %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
@@ -26,6 +25,27 @@
         <h2 class="description">{{ site.bio }}</h2>
 
         {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% if otherHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+        {% else %}
+            <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </span>
+        {% endif %}
+
+        <h2 class="title">{{ site.name }}</h1>
+        <h3 class="description">{{ site.bio }}</h2>
+
+        {% include social-links.html %}
+		
+		<h2>{{ page.title }}</h2>
     </header>
 {% endif %}
 
