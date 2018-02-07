@@ -2,8 +2,8 @@
 title: "Matematika Mencari Makna II: Kenyataan Buatan"
 layout: post
 date: 2015-05-28 01:44
-image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
-headerImage: false
+image: /assets/images/blog/matematika-mencari-makna-2.jpg
+headerImage: true
 tag:
 - matematika
 - makna
@@ -60,3 +60,5 @@ Ketika matematika dianggapsebagai alat untuk menyelesaikan permasalahan praktis 
 Tidak ada yang berbeda sesungguhnya dari awal matematika berkembang  hingga saat ini selain kompleksitas dan kerincian realita yang ingin modelkan. Bahkan tujuannya sendiri pun tetap sama, yaitu kebutuhan untuk memahami diiringi kebutuhan untuk melakukan. Berkembangnya matematika menjadi saksi keinginan manusia untuk menguasai realita. Seperti halnya teknologi, selama hasrat manusia dengan kebutuhan-kebutuhannya yang tak pernah habis masih ada, matematika akan terus berkembang dan meluas. Jarak pandangnya pun semakin lebar, pada ranah teori ia semakin abstrak, pada ranah praktis ia semakin kompleks. Pengembangan matematika sebagai alat untuk mempersepsi mungkin hanya akan berhenti bila realita sudah bisa tergambarkan sepenuhnya, tapi apakah itu mungkin terjadi?
 
 (PHX)
+
+<img class="image" src="/assets/images/blog/matematika-mencari-makna-2.jpg" alt="Alt Text">

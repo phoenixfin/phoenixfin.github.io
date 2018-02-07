@@ -3,7 +3,7 @@ name: Phoenix Literacy
 bio: Self-defining life of Aditya Firman Ihsan 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about literacy work of Aditya Firman Ihsan
 
 external-image: false
 picture: assets/images/profile.jpg
@@ -15,7 +15,7 @@ resume: false
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url:  http://phoenixfin.github.io
+url:  http://phoenixfin.me
 
 permalink: /:title/
 

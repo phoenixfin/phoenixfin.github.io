@@ -2,8 +2,8 @@
 title: "Matematika Mencari Makna IV: Spiritualitas Logika"
 layout: post
 date: 2015-08-13 08:05
-image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
-headerImage: false
+image: /assets/images/blog/matematika-mencari-makna-4.jpg
+headerImage: true
 tag:
 - matematika
 - makna
@@ -98,3 +98,5 @@ __NB__:
 Saya pribadi tidak menemukan banyak alasan ketika tertarik dengan matematika. Semacam ada suatu ketertarikan pada entitas bernama matematika, sesuatu yang tidak akan ditemukan pada ilmu lain. Seiring waktu saya kuliah 2 tahun bersama matematika sendiri pun saya merasakan seperti yang dikatakan dosen saya pada kuliahnya, bagai menelusuri jalan berkabut yang mana mungkin orang-orang teknik atau ilmu lain sudah tahu jalan berkabut itu titik akhirnya dimana, namun sensasi ketika menerobos kabut tersebutlah yang menjadi hal tak tergantikan. Pada dasarnya saya sendiri punya target unuk mencari kebenaran pada ilmu ini. Itulah kenapa tercipta semua tulisan pencarian makna ini.
 
 (PHX)
+
+<img class="image" src="/assets/images/blog/matematika-mencari-makna-4.jpg" alt="Alt Text">

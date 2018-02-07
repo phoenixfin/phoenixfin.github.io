@@ -2,8 +2,8 @@
 title: "Matematika Mencari Makna III: Wajah Masa Kini"
 layout: post
 date: 2015-08-06 00:54
-image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
-headerImage: false
+image: /assets/images/blog/matematika-mencari-makna-3.jpg
+headerImage: true
 tag:
 - matematika
 - makna
@@ -87,3 +87,5 @@ Lembaga indpenden penelitian lainnya, tidak bisa berbuat banyak tanpa ada bantua
 Hal ini mengingatkan penulis pada salah satu pemodelan yang dilakukan salah satu mahasiswa ITB mengenai kenapa produk jurnal ilmiah di Indonesia kalah jauh dibanding produk jurnal ilmiah di Malaysia, khususnya pada bidang matematika. Kapan lagi riset di Indonesia bisa maju bila tidak mendapat perhatian khusus dari yang memiliki otoritas. Dunia akademik sendiri pun tengah teracuni paradigma work-oriented sehingga membuat minat dalam pengembangan ilmu sendiri sangat minim, sedangkan di dunia penelitian, ketiadaan dana menjadi batu pengganjal terbesar, membuat mereka secara pragmatis mau tidak mau bergerak ke arah komersial. Padahal, sesungguhnya begitu banyak permasalahan di Indonesia yang bisa diselesaikan dengan baik melalui pemodelan matematika yang berkualitas. Ketika matematika sebenarnya telah menemukan jati dirinya saat ini di dunia modern, di Indonesia orang-orang masih mengenalinya seperti alien dari antah berantah yang sulit dipahami.
 
 (PHX)
+
+<img class="image" src="/assets/images/blog/matematika-mencari-makna-3.jpg" alt="Alt Text">

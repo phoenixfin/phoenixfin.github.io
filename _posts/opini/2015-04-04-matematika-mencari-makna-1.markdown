@@ -2,8 +2,8 @@
 title: "Matematika Mencari Makna I: Eksistensi tanpa Definisi"
 layout: post
 date: 2015-04-04 01:54
-image: /assets/images/blog/menuju-dunia-pasca-literasi.jpg
-headerImage: false
+image: /assets/images/blog/matematika-mencari-makna-1.jpg
+headerImage: true
 tag:
 - matematika
 - makna
@@ -112,3 +112,5 @@ _“Math is like going to the gym for your brain. It sharpens your mind.”_ -- 
 _“All Mathematics is Symbolic Logic”_ -- Bertrand Russell
 
 _“Mathematics is the classification and study of all possible patterns._” -- Walter Warwick Sawyer
+
+<img class="image" src="/assets/images/blog/matematika-mencari-makna-1.jpg" alt="Alt Text">
