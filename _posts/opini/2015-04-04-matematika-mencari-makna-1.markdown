@@ -10,7 +10,7 @@ tag:
 - definisi
 category: opini
 author: aditya
-description: Membongkar pertanyaaan sederhana: apa itu matematika?
+description: Membongkar pertanyaaan sederhana, apa itu matematika?
 ---
 
 Apa itu matematika? Sebuah objek yang sebenarnya bisa menimbulkan banyak tanya. Setelah hampir 2 tahun mencoba pendekatan dengannya, saya belum banyak melakukan perenungan secara serius mengenai yang satu ini. Walau Bertrand Russel sudah berusaha memancing dengan bukunya “_Introduction to Mathematical Philosophy_”, tetap saja perhatianku teralihkan oleh hal-hal permukaan di ruang kelas dalam bermacam mata kuliah, membuatku selalu gagal mencoba mencari esensi di balik semua teorema itu. Hingga akhirnya tidak lama yang lalu sesorang mengirimkan rentetan pertanyaan melalui _private message_ Facebook, hasratku bertanya muncul kembali, yang ku tahu harus segera ku turuti sebelum tenggelam dalam rutinitas sebagai ketua himpunan.
