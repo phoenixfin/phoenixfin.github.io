@@ -1,0 +1,56 @@
+---
+title: Orang-orang Baik
+layout: post
+date: 2015-12-28 22:31
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+- Biografi
+- Mafia
+- Robert De Niro
+category: resensi
+author: aditya
+description: Review Film Goodfellas (2015)
+---
+
+<img class="image" src="/assets/images/film/goodfellas.jpg" alt="cover film Goodfellas" height="300px" align="left" style="PADDING-RIGHT: 15px;">
+
+__Judul__                   : Goodfellas
+
+__Sutradara__            : Martin Scorsese
+
+__Tanggal Rilis__       : 21 September 1990
+
+__Durasi__                 : 146 menit
+
+__Genre__                 : Biografi, Kriminal, Drama
+
+__Pemeran__             : Robert De Niro, Ray Liotta, Joe Pesci
+
+...
+
+“_You know, we always called each other good fellas. Like you said to, uh, somebody, "You're gonna like this guy. He's all right. He's a good fella. He's one of us." You understand? We were good fellas. Wiseguys. But Jimmy and I could never be made because we had Irish blood. It didn't even matter that my mother was Sicilian. To become a member of a crew you've got to be one hundred per cent Italian so they can trace all your relatives back to the old country. See, it's the highest honor they can give you. It means you belong to a family and crew. It means that nobody can fuck around with you. It also means you could fuck around with anybody just as long as they aren't also a member. It's like a license to steal. It's a license to do anything. As far as Jimmy was concerned with Tommy being made, it was like we were all being made. We would now have one of our own as a member._” -- Henry Hill --
+
+Kehidupan dunia hitam memang memiliki sensasinya tersendiri untuk dijalani. Kebebasan penuh bisa dimiliki untuk melakukan banyak hal, namun terkadang memiliki banyak resiko yang tidak bisa dipandang sebelah mata. Tapi apa lagi yang diinginkan manusia selain kebebasan? Manusia ribuan tahun konflik hanya untuk saling merebutkan satu hal tersebut. Hal itu juga lah yang diceritakan oleh Henry Hill dalam kesaksiannya selama menjadi mafia pada keluarga Lucchese yang kemudian menjadi buku berjudul “Wiseguys” oleh Nicholas Pileggi dan selanjutnya menjadi film berjudul “Goodfellas” oleh Martin Scorsese.
+
+Awalnya film yang berdurasi hampir 3 jam ini ingin diberi judul “Wiseguy” oleh Scorsese, mengikuti buku yang menjadi basis utama ceritanya, namun karena pada masa itu ada serial TV yang berjudul sama, maka untuk mencegah ambiguitas, Scorsese menggantinya dengan “Goodfellas”. Intinya sama, sebutan untuk mereka-mereka yang bersama-sama menggunakan kebebasan semau mereka. Entah itu memang sebutan nyata atau hanyalah improvisasi dari Pileggi ataupun Scorsese, yang jelas itu jadi semacam sarkasme. Memang cukup menarik bahwa kisah kehidupan seorang mafia bisa dikisahkan penuh di sini.
+
+Goodfellas secara umum memang menceritakan kisah hidup Henry Hill (Ray Liotta), seorang mafia yang sejak kecil telah terlibat dalam dunia hitam itu hingga akhirnya kemudian berbalik menjadi informan buat pemerintah. Kisah yang diceritakan dalam film ini memang langsung merupakan cerita dari Henry. Tidak ada plot utama yang terlihat dalam film. Benar-benar seperti hanya menceritakan alur hidup Henry sejak kecil dari peristiwa satu ke peristiwa lainnya. Henry Hill awalnya hanya diminta berjual rokok hasil curian dalam jaringan keluarga Paulie Cicero (Paul Sorvino). Dari pekerjaan sederhana itu, Henry belajar banyak hal mengenai kehidupan mafia dan bertemu dengan dua orang yang kemudian menjadi rekannya untuk beberapa waktu ke depan, yaitu James Conway (Robert De Niro) dan Tommy DeVito (Joe Pesci). Hingga besar Henry terus menjalani kehidupan sebagai mafia dan terlibat dalam banyak tindakan, mulai dari pembunuhan, penyelundupan narkoba, perampokan, penyuapan, dan lain sebagainya. Pada suatu titik kritis, Henry, James, dan Paulie ditangkap, namun Henry, dengan program perlindungan saksi, membongkar segalanya.
+
+Mengenai kecocokan dengan realita, mungkin tidak perlu diragukan lagi, karena ini berasal dari kesaksian langsung pelaku. Tapi tetap tentu akurasi tidak bisa sepenuhnya 100% karena ini hanyalah film yang diskenario dan memiliki banyak improvisasi. Film ini berlatar waktu sekitar 1955-1980. Hampir semua tokoh yang ditampilkan dalam film mengalami pengubahan nama dari realita selain beberapa orang termasuk Henry Hill sendiri untuk menghormati keluarga yang terkait (karena yang diubah hanyalah nama belakang), seperti James Conway yang seharusnya Jimmy Burke, Tommy DeVito yang seharusnya Tommy DeSimone, atau Paulie Cicero yang seharusnya Paul Vario. Keluarga Mafia yang diceritakan di sini pun jelas mengalami pengubahan nama. Keluarga Cicero dalam film merupakan keluarga Lucchese di dunia nyata, yang mana merupakan salah satu dari 5 keluarga kriminal terorganisir terbesar di Amerika pada masa itu. Empat keluarga lainnya adalah Bonanno, Colombo, Gambino, dan Genovese. Dalam film Godfather, 5 keluarga ini direpresentasikan dengan 5 nama yang berbeda. Ya tentu saja, kehidupan mafia itu nyata dan seakan dimaklumi oleh masyarakat maupun pemerintah. Apa yang terjadi di dunia bawah tanah pun sebenarnya berperan banyak dalam aliran ekonomi bila bisa dibuat legal, namun selama masih ilegal, semua putaran uang itu hanya mengisi kantong-kantong tertentu. Salah satu fakta menarik adalah bahwa kasus perampokan yang terjadi pada Bandara John F. Kennedy pada 1978, yang menjadi salah satu sorotan utama pada Goodfellas, baru benar-benar terselesaikan pada Januari 2014 dengan ditangkapnya beberapa tokoh kriminal utama di New York terkait kasus tersebut.
+
+Menonton Goodfellas terasa menonton film dokumenter biografi sungguhan, namun dengan pembawaan fiksi. Hal ini disebabkan kejadian demi kejadian ditayangkan satu per satu seakan memang tengah bercerita suatu rangkai kehidupan seorang Henry Hill secara komprehensif. Dengan narasi yang membantu menjembatani rangkai kejadian, kita seperti terbawa langsung dalam kehidupan gelap Henry Hill. Apalagi pembawaan Scorsese cukup khas dalam “bercerita” suatu kehidupan melalui film, seperti bagaimana ia membuat The Wolf of Wall Street (2013) dengan cara yang sama. Awalnya mungkin kita akan cukup kesulitan mengikuti cerita karena beberapa rangkai peristiwa ditampilkan cukup cepat dan kemudian berpindah ke peristiwa lainnya tanpa ada hubungan yang jelas, membuat kita sedikit sukar menemukan benang merah ketika setelah ini maka ini kemudian ini. Contoh sederhannya adalah ketika Billy Batts tiba-tiba dibunuh oleh Tommy hanya karena mengejeknya. Kejadian itu seakan langsung menimbulkan tanya, “apa yang terjadi?” dalam pikiranku. Tapi kurasa itulah kekurangan dari menceritakan sesuatu narasi yang panjang melalui film, mau tidak mau pasti diperingkas dan dipadatkan hingga informasi yang tersampaikan terkadang begitu implisit atau bahkan tidak lengkap.
+
+Kejeniusan Martin Scorsese dalam membuat film memang terbukti di sini. Untuk membuat film dengan banyak dialog tentu tidak mudah. Oleh karena itu ia hanya memberikan beberapa materi cerita pada aktor dan menyuruh mereka berimprovisasi. Dari beberapa percobaan, ia mengambil kalimat-kalimat terbaik untuk menjadikannya naskah yang asli, itupun masih dapat diimprovisasi lagi. Ketika adegan marahnya Tommy di tempat makan ketika dikatakan lucu pun Scorsese tidak memberitahu apa yang akan terjadi pada semua aktor lain agar ekspresi kaget yang tercipta bisa natural. Selain itu plot cerita yang dibuat pun begitu mengalir seiring waktu berlalu mengiringi kehidupan Henry. Maka sudah jelas jika film ini memborong 38 penghargaan dari berbagai institusi dan festival seperti Oscar atau BAFTA. Bahkan, Goodfellas mendapat penghargaan "_culturally, historically, and aesthetically significant_" dan terpilih untuk preservasi dalam Register Film Nasional oleh US Library of Congress. Dengan semua itu, film ini sering dianggap sebagai salah satu film terbaik sepanjang masa, baik dalam genre kriminal maupun drama.
+
+Aku sendiri cukup kagum dengan bagimana Scorsese bisa menggambarkan kehidupan mafia semirip mungkin. Sebenarnya untuk diklarifikasi pun cukup sulit, karena ya tentu saja yang bisa mengetahui apakah memang kehidupan kriminal adalah seperti yang digambarkan film hanya orang-orang yang secara langsung telah mengalami. Salah satu yang menarik adalah cara berbicara mereka yang begitu kasar, bahkan terhitung sekitar 312 kali kata “fuck” terucapkan. Bahkan awalnya Scorsese dan kawan-kawan cukup khawatir akan ada banyak respon negatif terkait betapa kasarnya dialog-dialog yang terucap, serta beberapa adegan-adegan kekerasan yang mungkin kurang bisa diterima, namun pada akhirnya film ini tetap diterima secara luas, tertutupi oleh reputasi Scorsese sebagai sutradara film. Agar semuanya dapat menghayati kisah dengan baik, semua tokoh utama di Goodfellas, Robert De Niro, Joe Pesci, dan Ray Liotta, cukup sering berdiskusi dengan Nicollas Pileggi, yang kemudian juga membagikan hasil-hasil risetnya selama menulis Wiseguys. Nicolas tentu telah melakukan banyak riset terkait kisah ini karena tentu ini adalah cerita yang sensitif dan butuh kehati-hatian dalam menuliskannya.
+
+Menonton film ini memunculkan rasa takut sekaligus rasa penasaran dengan dunia mafia. Membayangkannya mungkin terasa menyenangkan memiliki kebebasan untuk melakukan banyak hal tanpa harus terikat aturan atau batasan-batasan umum, walau gantinya adalah resiko yang tinggi dan kehidupan yang mungkin bisa dikatakan “tidak sehat”, baik secara fisik maupun psikis. Tentu jika berbicara etika, sudah tidak perlu dibahas lagi, walau sebenarnya mengenai baik dan buruk sendiri pun sangat tergantung perspektif tertentu. Mereka tidak bisa disalahkan sepenuhnya atas apa yang mereka lakukan, karena adanya dunia itu tentu memiliki banyak faktor dan sebab yang mungkin mereka hanyalah korban dari faktor itu. Ya terlepas dari itu, di sini terlihat bahwa dalam menjalani hidup, ketika mendapatkan sesuatu, pasti ada sesuatu lain yang hilang, atau ketika kehilangan sesuatu, pasti ada sesuatu lain yang kita dapatkan. Prinsip keseimbangan sederhana. Ketika kita ingin kehidupan normal dan sehat, mungkin kita akan kehilangan banyak kebebasan kita, atau sebaliknya, seperti yang diinginkan Henry, ketika kita ingin hidup dengan banyak kebebasan, tentu kehidupan kita tidak akan normal dan selalu dihantui kegelisahan dan ketidaktenangan.
+
+ Di sini aku sedikit sadar akan betapa relatifnya kata “baik”. Ya, goodfellas memiliki maknanya sendiri-sendiri. Siapa lah yang bisa disebut goodfellas atau wiseguys di sekitar kita tentu akan beda-beda tiap golongan masyarakat. Yang jelas, selalu dalam setiap kelompok masyarakat, orang-orang dalam lingkaran tertentu akan saling membantu dan menjadi pahlawan ataupun orang baik buat sekitarnya, di kelompok itu tentunya. Mengenai apakah itu beneran “baik” atau enggak, siapa kita berhak menghakimi. Yang penting jika kita sudah punya standar baik, maka pegang itu sebagai dasar kita bertindak dan hidup selanjutnya.
+
+“_For as long as I can remember I always wanted to be a gangster. To me that was better than being president of the United States. To be a gangster was to own the world._” -- Henry Hill --
+
+(PHX)
+
+<img class="image" src="/assets/images/film/goodfellas-1.jpg" alt=""> 
