@@ -15,7 +15,7 @@ description: Apa sesungguhnya kaitan antara matematika dengan realita?
 
 Tidak bisa disebut sambungan, namun rangkaian dari [bagian pertama][1]
 
-[1]: https://www.facebook.com/notes/aditya-finiarel-phoenix/matematika-mencari-makna-bagian-i-eksistensi-tanpa-definisi/10153089497306355
+[1]: phoenixfin.me/matematika-mencari-makna-1
 
 Pencarian terhadap makna bukanlah suatu hal yang bisa selesai dengan singkat, bahkan bisa membutuhkan ribuan tahun, apalagi untuk suatu eksistensi seabsurd matematika. Bisa dibayangkan, matematika, selayaknya hidup, Tuhan, takdir, atau cinta, merupakan salah satu objek yang telah menjadi pembahasan abadi sejak pertama kali peradaban manusia muncul. Hampir tiada akhir. Karena melihat di masa kini pun, matematika masih meluaskan dirinya ke dalam bentuk paling abstrak dalam ranah teori sekaligus ke bentuk paling kompleks dalam ranah praktis.
 
