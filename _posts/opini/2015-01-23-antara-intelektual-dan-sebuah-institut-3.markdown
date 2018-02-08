@@ -1,5 +1,5 @@
 ---
-title: "Antara Intelektual dan Sebuah Institut 3 (Keseimbangan Ilmu)"
+title: "Antara Intelektual dan Sebuah Institut 3: Keseimbangan Ilmu"
 layout: post
 date: 2015-01-23 13:27
 image: /assets/images/blog/antara-intelektual-dan-sebuah-institut-3.jpg

@@ -15,9 +15,9 @@ description: Logika dalam matematika layaknya agama yang memiliki unsur esoteris
 
 Tidak bisa disebut sambungan, namun rangkaian dari sebelumnya ([bagian pertama][1], [bagian kedua][2], [bagian ketiga][3])
 
-[1]: phoenixfin.me/matematika-mencari-makna-1
-[2]: phoenixfin.me/matematika-mencari-makna-2
-[3]: phoenixfin.me/matematika-mencari-makna-3
+[1]: http://phoenixfin.me/matematika-mencari-makna-1
+[2]: http://phoenixfin.me/matematika-mencari-makna-2
+[3]: http://phoenixfin.me/matematika-mencari-makna-3
 
 "Dari pikiran Pencipta didatangkan angka. Dari jumlah didatangkan geometri. Dari geometri didatangkan simbol. Dari simbol muncul surat dan surat itu berasal dari luar mulut manusia. Jadi,... ceritakan lagi, atas Nama Siapa kita berbicara?" -- Claudia Pavonis
 

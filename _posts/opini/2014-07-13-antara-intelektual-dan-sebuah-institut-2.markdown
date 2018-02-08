@@ -1,5 +1,5 @@
 ---
-title: "Antara Intelektual dan Sebuah Institut 2 (Meninjau Posisi Intelektual)"
+title: "Antara Intelektual dan Sebuah Institut 2: Meninjau Posisi Intelektual"
 layout: post
 date: 2014-07-13 10:33
 image: /assets/images/blog/antara-intelektual-dan-sebuah-institut-2.jpg

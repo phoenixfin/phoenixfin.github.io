@@ -15,8 +15,8 @@ description: Bagaimana posisi matematika di era sekarang?
 
 Tidak bisa disebut sambungan, namun rangkaian dari sebelumnya ([bagian pertama][1] & [bagian kedua][2])
 
-[1]: phoenixfin.me/matematika-mencari-makna-1
-[2]: phoenixfin.me/matematika-mencari-makna-2
+[1]: http://phoenixfin.me/matematika-mencari-makna-1
+[2]: http://phoenixfin.me/matematika-mencari-makna-2
 
 Mencari makna adalah sebuah pencarian yang membutuhkan banyak perspektif. Selayaknya sebuah pohon yang bisa dilihat dari berbagai sudut pandang, sebagai kumpulan sel, bahan bangunan, tempat berteduh, atau sekedar penghias taman, demikian juga entitas bernama matematika. Apalagi mengingat kerumitan dan misteri entitas ini telah menjadi pertanyaan besar selama berabad-abad. Ribuan orang telah bermatematika, namun hanya sedikit yang mengambil kontemplasi untuk sekedar mempertanyakan makna. Kali ini, saya hanya ingin sedikit realistis dan mencoba melihat posisi dan bentuk matematika dalam peradaban modern saat ini yang selalu berputar maju. Tentu, semua hal mengalami transformasi dan penyesuaian seiring zaman, maka bila dulu matematika hanyalah sekedar ilmu hitung, seperti apa matematika saat ini?
 
