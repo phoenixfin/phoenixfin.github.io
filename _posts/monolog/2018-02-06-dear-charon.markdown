@@ -1,0 +1,133 @@
+---
+title: "Dear Charon"
+layout: post
+date: 2018-02-06 15:19
+image: /assets/images/blog/dear-charon.jpg
+headerImage: true
+tag:
+- mitologi
+- kematian
+- charon
+category: monolog
+author: aditya
+description: Perenungan terhadap pengantar ruh
+---
+
+Sudah seharusnya minggu lalu aku menulis lagi, tapi entah kenapa ide itu mendadak macet di kepala, terutama setelah selama seminggu pikiranku tersingkirkan oleh perasaan yang tak hilang-hilang. Dengan kematian kakak iparku di usia muda selasa lalu, tetiba kesadaranku bahwa aku telah siap untuk mati mendadak menguap dalam pertanyaan lama yang kembali. Aku teringat pada surat yang ku kirim pada Thanantos (Dear Thanantos), namun kali ini aku tak sungkan untuk mengganggunya kembali, maka mungkin saudaranya bisa menjadi tempatku bercerita.
+
+***
+
+_Dear Charon, yang masih sibuk dengan sampan ruhmu_
+
+_Tak ada yang pantas untuk ku ucapkan pertama kali selain minta maaf. Beberapa tahun yang lalu aku telah lancang pada saudaramu, Thanantos, namun aku tak bisa membendung pikiranku lagi. Kali ini aku sedikit lebih lega karena kau sedikit berbeda wahai Charon, karena kau hanyalah pengantar ruh, untuk menyusuri sungai Styx dan menyerahkannya pada Hades dan tiga hakimnya, berbeda dengan Thanantos, yang merupakan personifikasi dari kematian itu sendiri. Sungguh absurd setiap kali aku membahas ini, hanya saja, kematian itu sesungguhnya begitu dekat, sedekat kehidupan itu sendiri. Bukankah memang kematian ada karena kehidupan? Hidup selamanya pun menjadi konsep yang tak logis, meskipun itu merupakan hal yang telah sering dicari manusia sepanjang peradaban, mulai dari semistis elixir of life atau philosopher’s stone, hingga sekarang semodern transhumanisme, meski itu masih proyeksi._
+
+_Lagipula Charon, apa yang manusia cari dalam hidup? Aku seringkali mencoba membayangkan bila hidupku cukup panjang, tak perlu sampai selamanya, dan mencoba memikirkan apa yang sebenarnya ingin ku lakukan, ingin ku raih, ingin ku dapatkan dalam kehidupan yang panjang itu, namun yang ku capai dalam pikiranku justru kehampaan yang semakin menekan. Keinginan dalam hidup tidak akan pernah menuju kemana-mana bukan? Aku bahkan menyangsikan ada yang namanya ‘puncak’ dari hasrat manusia dalam hidup, karena setiap kali kita ingin sesuatu, mendapatkan sesuatu, keinginan yang baru akan terus muncul. Dalam bayangan ekstrimku sendiri pun, seandainya kelak setelah mati aku mencapai kehidupan abadi di dunia lain, di akhirat, aku bahkan bingung apa yang akan ku lakukan dalam kehidupan abadi itu. Justru mungkin yang ada hanyalah kejenuhan dan kebosanan. Tidakkah kita bisa belajar dari berbagai kisah mengenai nafsu (desire) tak akan pernah membawa manusia kemana-mana selain pada penyiksaan diri tanpa henti?_
+
+_Mengenai itu Charon, aku teringat ucapan seorang senior, nafsu itu sifatnya selalu meng-upgrade diri bersama pengalaman, maka selalu berhati-hatilah dalam mengalami. Ia mencontohkan bahwa seorang yang hidup bercukupan, yang telah terbiasa tidur nyenyak dengan kasur busa tipis beralaskan lantai sehari-harinya, ketika sekali saja merasakan spring bed mewah di suatu hotel, maka kasur busa itu tidak akan senyaman biasanya. Hal itu begitu nyata dalam kehidupan sehingga aku pun memang sedari awal selalu menjaga keterikatanku pada materi. Seorang kawan pernah berkata padaku bahwa ia membutuhkan smartphone untuk kuliah dan menjalankan kewajiban-kewajibannya, seakan-akan itu memang suatu kebutuhan primer, yang tidak bisa tidak, yang niscaya harus, yang menjadi syarat, untuk menjalankan perkuliahan. Tentu saja ia mengatakan itu untuk menanggapi kritikku sejak dulu mengenai kemelekatan pada smartphone, dan dengan santai aku buktikan bahwa aku kuliah hingga lulus sarjana dan magister dan aktif di berbagai kegiatan organisasi kampus, tanpa menggunakan smartphone sedikitpun. Dan sesungguhnya tanpa aku buktikan pun, para pendahulu-pendahuluku dulu telah membuktikannya menjalani perkuliahan tanpa teknologi yang melenakan. Bukankah nafsu itu menjadi sesuatu yang mengerikan Charon? Tidakkah kamu sendiri sering melihat betapa banyak ruh-ruh yang sesungguhnya tidak ingin engkau bawa ke Hades hanya karena nafsunya untuk terus ada di dunia tidak hilang-hilang?_
+
+_Wahai Charon, memang keinginan dan kebutuhan seakan bukan lagi sesuatu yang berbeda. Dalam ajaran sufi, dikatakan bahwa hawa nafsu bisa berbentuk begitu halus sehingga begitu sulit terdeteksi, membuatnya seakan-akan menjadi sesuatu yang wajar, dengan beragam rasionalisasi yang normal. Terkadang aku sendiri pun bertanya, apa yang sebenarnya kubutuhkan dalam hidup, selain segala penunjang kehidupan itu sendiri atau dalam ekonomi disebut kebutuhan primer? Hampir tidak ada Charon, tentu selain hasrat untuk terus menghidupi hidup itu sendiri. Manusia dalam mengikuti hawa nafsunya selalu terbawa dalam rantai kebutuhan baru yang membuat manusia gagal memahami kesederhanaan sesungguhnya dari hidup. Aku terkadang sering begitu damai ketika melihat orang-orang yang hidup sederhana namun tetap merasa cukup, bangga dengan kehidupannya, dan tidak sedikitpun terlalu terbawa keinginan berlebih atas begitu banyak komoditas yang ditawarkan pasar. Mengapa kita seakan-akan tidak bisa bahagia, tidak bisa hidup, jika tidak dengan motor, HP, TV, dan macam-macam komoditas lainnya, ketika para pendahulu kita dulu bisa melewatkan waktunya tanpa apa-apa. Aku terkadang sering membayangkan, apa yang dilakukan orang-orang abad pertengahan di waktu luangnya. Tentu mereka lebih sering berinteraksi dengan sesama, belajar banyak hal, berlatih ini itu, menikmati alam dan pemandangan, ketimbang fenomena saat ini dimana 5 menit waktu luang akan membawa tangan secara otomatis pada smartphone dan jempolnya akan bergesek-gesek denganya entah sekadar melihat instagram atau semacamnya._
+
+***
+
+Aku berhenti sejenak, membaca ulang apa yang telah ku tulis. Ah, sepertinya sifat burukku dalam menulis kembali muncul, membuat bahasannya menjadi kemana-mana. Meskipun sesungguhnya bagiku segala hal terkait erat, termasuk mengenai kemelakatan dunia dengan kematian, karena pada dasarnya yang membuat orang tidak ingin mati adalah kemelakatan dunia itu sendiri. Terkait hal ini, aku jadi ingat sebuah kisah dari Ajahn Brahm yang menceritakan tentang seorang Biksuni yang tinggal di sebuah gua Sri Langka dan hanya hidup dari derma masyarakat sekitar.
+
+Suatu hari, ia bangun pagi dan melihat seekor tikus telah menggigit dan melubangi jubahnya, maka ketika ia menerima derma makanan, ia sekalian meminta secarik kain rombeng dan benang untuk menambal jubah tersebut kepada penyantunnya. Ia pun menambal jubah itu, namun sayangnya, tikus terus menerus melubangi jubahnya, hingga ia pun berpikir, bahwa daripada meminta kain rombeng dan benang terus, kenapa tidak sekalian ia meminta kucing, agar tikus itu pergi dengan sendirinya. Ketika ia telah mendapatkan seekor kucing, sayangnya ia lupa bahwa kucing butuh diberi makan khusus karena tidak bisa makan makanan manusia. Ia pun akhirnya meminta susu pada pendermanya. Setelah beberapa hari, ia kembali berpikir bahwa daripada ia meminta susu terus menerus, mengapa ia tidak meminta sapi sekalian, agar susu selalu tersedia. Setelah ia mendapatkan sapi, ia sadar bahwa sapi juga harus makan, sehingga Ia kemudian meminta jerami atau rumput dari pendermanya. Daripada meminta jerami terus menerus, ia kembali berpikir, kenapa tidak sekalian meminta ladang, agar jerami selalu tersedia. Para pendukungnya begitu dermawan sehingga mereka pun memberikannya sepetak ladang. Sedapatnya biksuni ini sepetak ladang, malangnya ia karena ia harus menabur benih, menyabit rumput, kemudian memanggulnya untuk memberi makan sapi, untuk diperah dan diberikan kepada kucing. Karena ia jadi tidak punya waktu untuk meditasi, ia pun berpikir bahwa ia butuh seorang bocah yang bisa mengurus semua itu. Para pendukungnya pun memberikannya anak laki-laki untuk membantunya. Sayangnya, anak laki-laki ini tidak mau tinggal di gua, sehingga si biksuni harus membangunkan gubug terpisah untuknya. Ia pun meminta kembali pada para pendermanya beberapa bahan bangunan untuk gubug tersebut.
+
+Kisah itu berhenti di situ, namun begitu dalam makna yang bisa dipetik, mengenai ‘kebutuhan’ yang akan selalu memunculkan ‘kebutuhan’ lainnya. Bayangkan saja biksuni tersebut, hanya bermula dari gigitan tikus, ia jadi merasa membutuhkan kucing, sapi, ladang, dan sebuah gubug. Sering kita begitu mudah terbawa keinginan sehingga lupa mempertimbangkan apa yang sesungguhnya kita butuhkan. Rantai kebutuhan itu pun lama-lama membentuk jaring-jaring kompleks yang semakin membuat hidup kita rumit dengan sendirinya. Begitu rumitnya sehingga kita terkadang tidak paham sesungguhnya akar kebutuhan untuk punya akun instagram itu asalnya dari mana. Dan, Ups. Sudahlah, imajinasiku sudah terlalu lama melayang sehingga aku lupa bahwa aku tengah menulis untuk Charon.
+
+***
+
+_Kehidupan manusia memang rumit Charon, maka maafkanlah aku bila omonganku ngelantur kemana-mana. Akan tetapi, tidak bisa dipungkiri bahwa pertanyaan mendasar mengenai kebutuhan untuk hidup terkait erat dengan kesiapan manusia untuk menemuimu, menghadapi saudaramu, dan memutuskan hubungan dengan dunia atas tanah. Pikiran logis manusia seringkali melakukan rasionalisasi atas semua kebutuhan mereka sehingga seakan-akan semuanya adalah sesuatu yang tepat dan wajar untuk dilakukan. Aku sering mendengar berbagai alasan manusia atas kemelakatannya dalam hidup. Sekadar pertanyaan, ‘kenapa kamu tidak jalan saja dari kos, skalian olahraga, dan jaraknya pun tidak jauh juga’, bisa mendapat jawaban ‘ya kan kalau pakai motor lebih efektif, lebih ini, lebih itu, aku jadi bisa menggunakan waktuku untuk ini, untuk itu’. Tentu aku tidak bisa menyalahkan, wahai Charon, hanya saja, bagiku semua alasan itu muncul belakangan, setelah keinginan untuk dimudahkan oleh motor telah ada sebelumnya. Toh, bukankah kelembaman manusia itu menjadi sifat dasar? Teknologi berkembang hanya dari keinginan agar segalanya mudah, menyuburkan rasa malas. Bahkan sering dikatakan bahwa ‘ilmu pengetahuan pada dasarnya adalah kemalasan yang sistematis’._
+
+_Ah Charon, tapi sudahlah. Aku sendiri memang tidak punya hak untuk menghakimi siapapun. Justru aku sendiri sedih, ketika melihat kemelakatan itu begitu natural sehingga sudah tidak terlihat lagi sebagai sesuatu yang kurang baik. Hanya baru kemudian ketika manusia menemui kesulitan, atau bahkan kematian, lah, yang akan membuat kemelekatan itu menjadi sebuah siksaan. Ajaran buddha sering menegaskan bahwa sumber dari penderitaan adalah kemelakatan. Bahkan islam ataupun ajaran Ibrahimiyah lainnya sendiri menekankan bahwa kehidupan dunia ini terlalu fana untuk dipeluk terlalu erat. Kita menderita dengan penghasilan yang sedikit karena kita punya keinginan untuk beli berbagai macam hal, lupa bahwa kesederhanaan hidup hanya berdasar pada kebutuhan biologis dan kebahagiaan. Tapi, apa pula itu kebahagiaan Charon? Mungkin sedikit ironi aku menanyakan ini padamu, karena kau hanyalah Dewa dengan tugas spesifik, tapi mungkin kau bisa mengerti dari bagaimana wajah orang-orang yang kau antar menyusuri Styx. Begitu sedikit mereka yang bisa mendatangi dunia orang mati dengan senyuman bukan? Begitu menyedihkan Charon, kematian itu adalah sesuatu yang pasti ada bagi kami manusia, namun begitu jarang dari kami yang bisa menyambutnya dengan sukacita._ 
+
+_Ada apa dengan kematian sehingga ia menjadi begitu menakutkan? Aku pernah menanyakan ini pada saudaramu, yang tentu tidak dijawabnya, karena ia lah kematian itu sendiri! Aku lah sebagai manusia yang harus menjawabnya. Dan sepertinya tidak cuma aku, setiap manusia harus menjawabnya. Dalam perenungan panjangku mengenai itu, aku sempat berpikir bahwa aku telah siap menemuimu, namun pada suatu titik dimana seakan kematian itu begitu dekat denganku, entah mengapa beberapa bayangan akan dunia ini masih menghantui. Pertanyaan klasik akan makna hidup yang telah ku lalui selama hamper 23 tahun menjadi tusukan keras di hati. Tidakkah itu ironis Charon? Apa aku perlu mematikan semua keinginanku di dunia ini untuk benar-benar bisa menyambutmu?_
+
+_Ah Charon, mungkin saja sesungguhnya itu masalah seberapa jauh kita memahami kehidupan ini sendiri, meski itu sendiri pun memberikan begitu banyak sudut pandang. Kita bisa saja memandang hidup ini hanya bagian dari siklus alam, lahir melalui proses reproduksi, menjalani hidup melalui berbagai metabolisme, kemudian meninggal, terkubur, dan terdekomposisi menjadi unsur organik yang akan menghidupkan kehidupand lainnya. Terus dan terus seperti itu. Kita hanyalah bagian dari arus besar semesta, mengapa harus tersiksa dengan kedirian kita sendiri? Ajaran Tao seperti itu sebenarnya begitu bijak, namun entah kenapa terasa ekstrim bagiku sendiri karena kedirian seorang manusia itu tetaplah sesuatu yang perlu dirayakan, tidak lah sekedar satu jasad makhluk hidup yang mengarungi dunia untuk kemudian mati dan bersatu bersama alam. Di seberang yang lain, kita bisa saja memandang hidup sebagai sesuatu yang melampaui wujud itu sendiri, dengan setiap individu adalah sosok special dan unik yang berhak menggapai banyak hal selama ia masih bernafas. Diri manusia adalah apa yang berhasil ia capai dan maksimalkan melalui setiap waktu yang dilalui, maka selama jantung masih berdetak, teruslah kita optimalkan semua keinginan, obsesi, dan mimpi dalam titik terjauh, selama masih ada yang perlu digapai di dunia ini. Mana yang tepat Charon? Entahlah. Pada akhirnya, bagaimanapun kita menjalani hidup, fakta bahwa kematian itu ada tidak akan pernah berubah. Akan tetapi Charon, mungkinkah, wujud kematian itu sendiri bisa berubah?_
+
+_Ku rasa jawabannya iya Charon. Kematian itu sosok abstrak transenden yang begitu imajiner, membuat interpretasi terhadapnya menjadi bermacam-macam. Aku pernah melihat gambaran akan kematian sebagai suatu transisi ke kehidupan baru yang lebih cerah dan bercahaya. Kematian menjadi sesuatu yang sangat indah dan begitu damai. Ada pula gambaran kematian sebagai objek menakutkan, suatu fase kecerabutan paksa atas dunia, yang sering memang terjadi secara menyakitkan. Ada lagi yang memandang kematian hanyalah kekosongan, karena itu hanyalah akhir dari kesadaran atas hidup, dan tidak ada apa-apa lagi setelah itu karena ‘ada’ hanya muncul dari persepsi. Aku sendiri, masing menganggap kematian sebagai ruang gelap penuh misteri yang hanya bisa ku ketahui isinya ketika aku benar-benar menemuinya. Bukankah yang bisa benar-benar memahami kematian adalah yang mati itu sendiri?_
+
+***
+
+Aku terhenti lagi, tersadar akan sesuatu. Rasa-rasanya aku masih begitu materialistik ketika menganggap kematian hanyalah sekadar akhir dari kehidupan, hanyalah sekedar berhentinya fungsi biologis dari jasad. Bukankah terdapat konteks kematian lain? Manusia akan selalu mengalami dua kelahiran dan dua kematian. Kelahiran pertama dan kematian kedua adalah siklus jasad, sedangkan apa yang terjadi pada kelahiran kedua dan kematian pertama? Itu lah yang sering dalam khazanah Tasawuf, dan mistisme timur lainnya, sebagai kematian hawa nafsu, atau kematian hasrat, atau kematian ego, yang mengawali dari kelahiran batin secara utuh. Jejak-jejak dorongan fisiologis yang berasal dari jasad butuh untuk ‘dimatikan’ untuk benar-benar melahirkan batin yang secara murni dan apa adanya melihat semesta, penuh kesadaran, dan memahami esensi dan makna dari kehidupan. Begitu banyak orang mati secara jasad sebelum gagal lahir secara batin dan memahami hakikat sesungguhnya semesta dan kehidupan agung ini. Dalam hal ini aku pun jadi ingat syair Rumi berjudul “‘Mati’ sebelum kau mati” (Muutu Qabla anta Muutu).
+
+... 
+
+_Kau sudah banyak menderita_ <br>
+_Tetapi kau masih terbalut tirai’_ <br>
+_Karena kematian adalah pokok segala_ <br>
+_Dan kau belum memenuhinya_ <br>
+_Deritamu tak kan habis sebelum kau ‘Mati’_ <br>
+_Kau tak kan meraih atap tanpa menyelesaikan anak tangga_ <br>
+_Ketika dua dari seratus anak tangga hilang_ <br>
+_Kau terlarang menginjak atap_ <br>
+_Bila tali kehilangan satu elo dari seratus_ <br>
+_Kau tak kan mampu memasukkan air sumur ke dalam timba_ <br>
+_Hai Amir, kau tak kan dapat menghancurkan perahu_ <br>
+_Sebelum kau letakan “mann” terakhir_ <br>
+_Perahu yang sudah hancur berpuing-puing_ <br>
+_Akan menjadi matahari di Lazuardi_ <br>
+_Karena kau belum ‘Mati’,_ <br>
+_Maka deritamu berkepanjangan_ <br>
+_Hai Lilin dari Tiraz, padamkan dirimu di waktu fajar_ <br>
+_Ketahuilah mentari dunia akan tersembunyi_ <br>
+_Sebelum gemintang bersembunyi_ <br>
+_Arahkan tombakmu pada dirimu_ <br>
+_Lalu ‘Hancurkan’lah dirimu_ <br>
+_Karena mata jasadmu seperti kapas di telingamu_ <br>
+_Wahai mereka yang memiliki ketulusan_ <br>
+_Jika ingin terbuka ‘tirai’_ <br>
+_Pilihlah ‘Kematian’ dan sobekkan ‘tirai’_ <br>
+_Bukanlah karena ‘Kematian’ itu kau akan masuk ke kuburan_ <br>
+_Akan tetapi karena ‘Kematian’ adalah Perubahan_ <br>
+_Untuk masuk ke dalam Cahaya_ <br>
+_Ketika manusia menjadi dewasa, matilah masa kecilnya_ <br>
+_Ketika menjadi Rumi, lepaslah celupan Habsyi-nya_ <br>
+_Ketika tanah menjadi emas, tak tersisa lagi tembikar_ <br>
+_Ketika derita menjadi bahagia, tak tersisa lagi duri nestapa…_
+
+...
+
+Rumi secara jelas menyarankan untuk matilah sebelum mati. Bahwa mati jasad terlalu rendah untuk dilalui manusia, bahwa kematian sesungguhnya yang perlu dikejar adalah kematian ego, yang menjadi tirai penyelebung visi dan mata hati kita untuk melihat segala sesuatu secara lebih jelas dan melampaui wujud fisik itu sendiri. Dengan penyingkapan tirai itu lah hidup ini mencapai bentuk utuhnya, dan kebenaran pun menampakkan diri tanpa persepsional apapun. Sayang, melalui kelahiran kembalinya diri ini tidak semudah 9 bulan mengandung seorang ibu, bidan yang bisa membimbing persalinan batin ini pun bukan lah seseorang yang bisa dipanggil kapanpun, bahkan merasa memiliki kandungan dalam diri pun belum tentu disadari setiap orang. Itu lah kenapa Islam meminta manusia untuk terus melakukan refleksi ke dalam diri, menekan hawa nafsu, untuk kemudian bertransformasi menjadi apa yang disebut dengan nafsul muthmatinnah. 
+
+Aku kembali terdiam sejenak. Mencoba mengais-ngais sedikit memori akan hal ini. Setelah beberapa saat, aku coba ambil Al-Qur’an dari tasku dan membuka beberapa lembar.
+
+Ya, memang jelas tertulis, namun sayangnya ayat yang meminta muslim untuk mati sebelum mati sering disalahgunakan untuk justifikasi terorisme, padahal jika dilihat kembali Qur’an surat An-Nisa ayat 66, “Dan sesungguhnya kalau Kami perintahkan kepada mereka, ‘Bunuhlah diri kalian atau keluarlah kalian dari kampung kalian,’ niscaya mereka tidak akan melakukannya, kecuali sebagian kecil dari mereka.”. Terlebih lagi, aku ingat pernah diriwayatkan secara shahih bahwa Muhammad pernah berkata “jihad yang paling utama adalah jihad melawan dirinya dan hawa nafsunya”. 
+
+Sayang sekali memang. Pandangan materialistik yang terlalu terfokus pada dunia fisik ini, bahkan dalam konsep kematian dan kehidupan pun membuat agama menjadi korban interpretasi. Jika memang hidup dan mati sesederhana itu, ku rasa dunia ini akan terasa begitu hampa. 
+
+Ku taruh kembali Qur’an yang sedari tadi ku pegang ke dalam tas. Kepalaku terasa lebih lega atas beberapa kesadaran yang sempat kembali barusan. Ku rasa Charon perlu ku beritahu.
+
+***
+
+_Wahai Charon, meski mungkin hanya mereka yang telah mati yang benar-benar memahami apa itu kematian, kurasa pertanyaan kematian itu tetap bisa kembali pada bagaimana kita hidup itu sendiri. Api yang selalu membakar semangatku sedari dulu pada masa kemahasiswaan adalah konsep bahwa hidup yang maksimal, hidup yang diperjuangkan sepenuh hati, secapek apapun itu, pada akhirnya akan menghasilkan istirahat yang nikmat. Bukankah hanya disaat kita lelah lah tidur itu terasa sangat nyenyak? Namun, lelah yang dibayangi oleh beban atau obsesi untuk hari berikutnya tidak akan bisa menghasilkan istirahat yang hakiki. Dengan itu pun, aku ingin mati dengan puas karena telah hidup, bukan mati dengan lelah menjalaninya. Kami sebagai manusia hanya perlu melupakan apa yang belum kami capai dalam hidup, dan terus menerus mensyukuri dengan kepuasan atas detik yang terlewati satu per satu. Hanya dengan seperti itu lah, kami bisa siap untuk mati pada detik berikutnya._
+
+_Tidakkah kau lihat mereka yang menderita saat kau antar ke Hades, Charon? Mereka terbawa bayang-bayang atas apa yang belum mereka dapatkan, apa yang belum mereka capai, apa yang belum mereka lakukan, lupa pada apa yang telah mereka capai, dapatkan, dan lakukan, sedangkan mustahil manusia mati tanpa melakukan apa-apa. Bahkan kau tentu rasakan sendiri kan Charon? Betapa beberapa orang bahkan berusaha mengelabuimu untuk menghindari kematian, hanya untuk berusaha mengejar terus menerus apa yang belum dicapai di dunia. Lihatlah Sisifus, yang sampai hati menipumu dan mengikatmu selama beberapa waktu hanya karena ingin tetap bersenang-senang di dunia. Manusia modern pun demikian wahai Charon, berusaha mengembangkan teknologi secanggih mungkin, hanya untuk memenuhi nafsu dalam kehidupan, membuat kami, para manusia modern ini, sangat sukar untuk mensyukuri apa yang menjadi dasar esensi manusia, yang sesungguhnya begitu sederhana. Ya, Charon, begitu sederhana, karena yang penting adalah kami harus terus menerus mensyukuri tiap detik yang berlalu, dan terus sadar bahwa kami telah hidup. Berusahalah sekuat tenaga atas detik yang menjumpa, tanpa perlu memikirkan detik selanjutnya._
+
+_Siksaan kami bukan dari kematian Charon. Siksaan kami datang dari diri kami sendiri, dari diri yang selalu terbawa bayang-bayang penyesalan masa lalu dan ketidakpastian masa depan, dari diri yang tidak mampu memahami kapan merasa cukup, dari diri yang selalu merisaukan apa yang belum didapatkan, dari diri yang tidak bisa bersyukur atas apa yang telah di dapatkan, dari diri yang tidak bisa hanya fokus pada apa yang bisa kita lakukan saat ini, hanya saat ini, bukan besok atau kemarin, karena pada dasarnya, kita hanya hidup di masa ini saja, di detik ini, detik yang terus menerus memperbarui diri, dan dengan itu, hidup kami pun selalu meperbarui diri, sehingga kami pun, selalu siap menghadapi kematian di detik berikutnya._
+
+_Mengenai apa yang kami cari dalam hidup, itu pilihan setiap individu dari kami. Pandangan atas hidup hanya perlu ditengahkan. Kami harus sadar bahwa kami memang hanyalah titik mungil, bagian kecil, dari semesta agung yang begitu raksasa, sekaligus kami harus sadar bahwa setiap unit dari kami sendiri adalah mikrokosmos yang lebih kompleks bahkan dari seluruh semesta ini. Hanya dengan mampu menyeimbangkan kesadaran atas kedirian dan kesemestaan ini lah kami, manusia, mampu paham makna sesungguhnya dari hidup. Namun tentu saja, untuk bisa mencapai kesadaran semesta, ego diri harus dimatikan, hawa nafsu harus ditundukkan, kemelakatan atas dunia harus dipatahkan, dan kelahiran kedua harus diperjuangkan. Itu hal yang terasa sulit, namun tidak mustahil. Iya kan, Charon? Kau lah saksi atas manusia-manusia yang tidak mampu memahami hidupnya sendiri, sehingga kematian hanyalah hantu yang begitu menyiksa. Sedangkan tidakkah kematian itu begitu dekat sehingga bisa dianggap sebagai sahabat sejati? Ya jelas saja, selalu ada kemungkinan detik berikutnya, benar-benar detik berikutnya, sehingga aku tidak bisa menyelesaikan surat ini, kematian itu datang._
+
+_Maka dari itu Charon, mungkin kau perlu sedikit menasihati mereka yang mendatangimu dengan setengah hati sebelum benar-benar mengantarkan mereka melewati Cerebrus dan gerbang Hades. Sayang kan, bila mereka duduk di perahumu dengan penuh sendu dan tanpa semangat, terbawa kemelekatan atas dunia, dan tersiksa atas terlepasnya semua itu. Ya, tapi memang mau bagaimana lagi, hawa nafsu itu begitu natural ada dalam manusia, sehingga mematikannya bukanlah hal yang sulit. Namun apa salahnya tersenyum dalam kematian? Bisa jadi Hades merupakan tempat yang menyenangkan, toh, seperti apa yang muslim yakini, ‘tiap-tiap yang bernyawa akan merasakan mati’. Jadi, karena kematian itu akan selalu datang, bukankah lebih baik disambut dengan meriah? Apalagi, setiap orang hanya mengalami kematian hanya sekali! Seperti halnya mereka yang selalu merayakan momen sekali seumur hidup seperti wisuda dan pernikahan, mengapa tidak melakukan hal yang sama pada kematian? Well, Charon, ketika mereka mendatangimu, kau sapa lah, beri salam dan selamat, serta beri bunga dan hadiah jika perlu._
+
+_Kurasa cukup itu dulu. Maaf menganggu kesibukan rutinmu Charon. Semoga ini bisa mengobati bosanmu menunggu penumpang baru di perahumu. Ku titip salam buat mereka yang telah mati, semoga mereka mampu mensyukuri hidupnya, dan bisa mengarungi dunia orang mati dengan lancar. Terakhir, ku kutip Jostein Gaarder untuk menutup surat ini._
+
+_“I sat thinking how terribly sad it was that people are made in such a way that they get used to something as incredible as living. One day we suddenly take the fact that we exist for granted - and then, yes, then we don’t think about it anymore until we are about to leave the world again.”_
+
+_Salam,_
+
+_Diri yang ingin merengkuh kematian sepenuh hati,_
+
+_Finiarel_
+
+***
+
+....
+
+....
+
+Entah kenapa mendadak terasa hidup ini memang begitu sederhana. Manusia memperumit diri dengan semua temuan, pengetahuan, dan teknologi yang dihasilkannya. Secarik memori yang masih fresh atas kematian iparku minggu lalu pun kembali, terutama atas begitu polos anak yang ditinggalkannya. Ya, keponakanku. Ia masih berumur 4 tahun, namun ia satu-satunya orang yang tidak merasa bersedih saat itu. Ia mengatakan bahwa bapaknya telah meninggal dunia tanpa beban apapun. Dan ketika semua orang meneteskan air mata, ia berlari kesana kemari dengan suka cita. Kata orang-orang, ia belum paham konsep kematian, tapi bagiku, ia, dan semua anak kecil pada umumnya, justru paling jujur melihat kehidupan ini, apa adanya. Mungkin kita harus kembali seperti anak kecil lagi, menikmati setiap momen dan setiap detik, tanpa beban, tanpa kerisauan atas masa depan, karena yang perlu dipikirkan dan dimaksimalkan, hanyalah masa kini. 
+
+“Tahun selanjutnya, bulan depan, lusa nanti, esok hari, sejam lagi, 3 menit kemudian, atau detik yang mampir sesaat, aku tak tahu kapan maut menjemputku. ‘Aku ingin pergi menjemput kematian karena aku ingin hidup dengan kesadaran.. karena saat aku mati nanti aku tak mau menyadari bahwa aku belum hidup’. Sehingga,...Aku memilih menjadi tolol yang terus mencoba tanpa putus asa daripada menjadi jenius mendengkur yang tak pernah menciptakan apa-apa” - Senartogok
+
+(PHX)

@@ -8,18 +8,18 @@ description: Kumpulan resensi film.
   {% for book in site.data.resensi  %}
   <article class="book">
     <figure class="book-cover">
-		{% for post in site.posts %}
-			{% if post.title == book.title %}
-				<a href="{{ site.url }}{{ post.url }}">
-				  <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
-				</a>
-			{% endif %}
-		{% endfor %}
+		<a href="{{ site.url }}{{ post.url }}">
+		  <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
+		</a>
     </figure>
-    <div class="book-info" align="center">
-		<h4>{{ book.title }}</h4>
-		<p style="font-size:90%;">{{ book.author }}</p>
-    </div>
+	{% for post in site.posts %}
+		{% if post.title == book.title %}
+			<div class="book-info" align="center">
+				<h4>{{ book.title }}</h4>
+				<p style="font-size:90%;">{{ book.author }}</p>
+			</div>
+		{% endif %}
+	{% endfor %}
   </article>
   {% endfor %}
 </main>

@@ -1,0 +1,45 @@
+---
+title: Booklet Phx Vol. 01 - Dear God(s)
+refer: vol01
+layout: post
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+- matematika
+- hidup
+- pendidikan
+- Robin Williams
+category: resensi
+author: aditya
+description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan terhadap semesta
+---
+
+<img class="image" src="/assets/images/cover/booklet1.jpg" alt="__" height="500px" align="left" style="PADDING-RIGHT: 15px;">
+
+Aku ingat hal paling sederhana mengenai menulis, bahwa ia hanya butuh ide! Bukan berbagai teori dan motivasi. Maka dengan demikian pula tercipta bermacam (walau belum terlalu banyak, apalagi sebanyak karyanya Tarjo) tulisan yang entah munculnya dari mana untuk sekedar mengisi linimasa akun facebook-ku. Mungkin semua itu belum jujur. Mungkin. Karena terkadang aku masih menulis untuk dibaca orang, bukan untuk menulis itu sendiri. Namun tak apalah, karena di tengah rutinitasku kuliah dan berkegiatan di kampus, berhasil mencipta rangkaian kata adalah kesenangan tersendiri. Tidak berniat untuk masuk ke percetakan atau nongol di rak buku toga mas, apalagi gramedia, tapi hanya sekedar pemuas kehendak ketika tak ada hiburan lain selain memandang layar _microsoft word_.
+
+Alhamdulillah sejak pertama menginjak di perguruan tinggi, aku berhasil mencipta hingga 40an tulisan hingga saat ini. Walau mungkin terkadang bagiku isinya bisa membuat mual orang yang baca, maklum, karena bahasa masih tak peduli pembaca dengan panjang yang kurang terkira, yang terpenting dari menulis adalah menulis itu sendiri. Militansi yang terjaga dari suatu proses adalah segalanya! Bahkan ketika ribuan kali mencoba namun tetap tak bisa pun bukanlah alasan untuk berhenti. Dan sekarang, aku coba merangkum dan mengelompokkan beberapa di antaranya untuk sekedar menjadi apresiasi untuk diri sendiri, agar menarik dibaca, dan semoga bisa mendorongku untuk terus mencipta. So kun fayakun! Jadilah booklet pertamaku. Yeay.
+
+Apapun isinya, aku hanya bisa berdoa, semoga bermanfaat bagi siapapun yang membaca.
+
+(PHX)
+
+***
+
+__Daftar Konten__
+
+- Bumi ([Dear Gaia][1])
+- Cinta ([Dear Eros][2])
+- Kuasa ([Dear Zeus][3])
+- Takdir ([Dear Moirae][4])
+- Mati ([Dear Thanantos][5])
+
+[1]: http://phoenixfin.me/dear-gaia
+[2]: http://phoenixfin.me/dear-eros
+[3]: http://phoenixfin.me/dear-zeus
+[4]: http://phoenixfin.me/dear-moirae
+[5]: http://phoenixfin.me/dear-thanantos
+
+# [Unduh!][6]
+[6]: https://issuu.com/aditya-finiarelphoenix/docs/_1_dear_god_s_
