@@ -1,0 +1,44 @@
+---
+title: Booklet Phx Vol. 04 - In-telek
+refer: vol04
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai intelektualitas dan perguruan tinggi
+---
+
+<img class="image" src="/assets/images/cover/booklet4.jpg" alt="__" height="500px">
+
+Sekedar lanjutan dari esai-esai yang tercipta mengenai mahasiswa. Mungkin sama saja, nama hanya karena agar beda. Walau sebenarnya di sini aku perluas menjadi bentuk umum intelektualitas, namun tetap saja kacamataku tidak bisa lepas dari statusku sendiri, mahasiswa.
+
+Tulisan-tulisan ini juga tercipta dari berbagai keresahan polosku ketika dua setengah tahun pertama menjadi mahasiswa. Entah kenapa eksistensi bernama intelektualitas adalah hal yang cukup menjadi sorotan utama pikiranku sejak pertama mengenalnya. Apa yang menarik dari intelektual? Banyak yang bilang mereka kaum yang menjadi harapan utama bangsa, mereka kaum yang bisa menjadi penengah semua masalah, mereka kaum yang menjadi garda terdepan kemajuan. Lalu? Dengan semua intelektual yang begitu melimpah di Indonesia, apa yang terjadi? Entahlah, entah.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Antara Intelektual dan Sebuah Institut 1][1]
+
+#### [Antara Intelektual dan Sebuah Institut 2][2]
+
+#### [Antara Intelektual dan Sebuah Institut 3][3]
+
+#### [Intelektualitas Kader Intelektual][4]
+
+
+[1]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-1
+[2]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-2
+[3]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-3
+[4]: http://phoenixfin.me/intelektualitas-kader-intelektual
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_4_in-telek
