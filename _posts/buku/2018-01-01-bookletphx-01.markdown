@@ -11,9 +11,9 @@ author: aditya
 description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan terhadap semesta
 ---
 
-<img class="image" src="/assets/images/cover/booklet1.jpg" alt="__" height="500px" align="center">
-
 <div align="center">
+	<img class="image" src="/assets/images/cover/booklet1.jpg" alt="__" height="500px">
+
 	<p>Aku ingat hal paling sederhana mengenai menulis, bahwa ia hanya butuh ide! Bukan berbagai teori dan motivasi. Maka dengan demikian pula tercipta bermacam (walau belum terlalu banyak, apalagi sebanyak karyanya Tarjo) tulisan yang entah munculnya dari mana untuk sekedar mengisi linimasa akun facebook-ku. Mungkin semua itu belum jujur. Mungkin. Karena terkadang aku masih menulis untuk dibaca orang, bukan untuk menulis itu sendiri. Namun tak apalah, karena di tengah rutinitasku kuliah dan berkegiatan di kampus, berhasil mencipta rangkaian kata adalah kesenangan tersendiri. Tidak berniat untuk masuk ke percetakan atau nongol di rak buku toga mas, apalagi gramedia, tapi hanya sekedar pemuas kehendak ketika tak ada hiburan lain selain memandang layar <i>microsoft word</i>.</p>
 
 	<p>Alhamdulillah sejak pertama menginjak di perguruan tinggi, aku berhasil mencipta hingga 40an tulisan hingga saat ini. Walau mungkin terkadang bagiku isinya bisa membuat mual orang yang baca, maklum, karena bahasa masih tak peduli pembaca dengan panjang yang kurang terkira, yang terpenting dari menulis adalah menulis itu sendiri. Militansi yang terjaga dari suatu proses adalah segalanya! Bahkan ketika ribuan kali mencoba namun tetap tak bisa pun bukanlah alasan untuk berhenti. Dan sekarang, aku coba merangkum dan mengelompokkan beberapa di antaranya untuk sekedar menjadi apresiasi untuk diri sendiri, agar menarik dibaca, dan semoga bisa mendorongku untuk terus mencipta. So kun fayakun! Jadilah booklet pertamaku. Yeay.</p>
@@ -28,7 +28,7 @@ description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan te
 
 # Daftar Konten
 
-## Bumi ([Dear Gaia][1])
+<h2 align="center"> Bumi ([Dear Gaia][1]) </h2>
 
 ## Cinta ([Dear Eros][2])
 
@@ -46,5 +46,6 @@ description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan te
 
 ***
 
-# [Unduh!][6]
+# [Akses!][6]
+
 [6]: https://issuu.com/aditya-finiarelphoenix/docs/_1_dear_god_s_
