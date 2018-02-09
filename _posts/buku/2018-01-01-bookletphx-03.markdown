@@ -1,0 +1,46 @@
+---
+title: Booklet Phx Vol. 03 - Mahasi(s)wa
+refer: vol03
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai kemahasiswaan ITB
+---
+
+<img class="image" src="/assets/images/cover/booklet3.jpg" alt="__" height="500px">
+
+Apapun isi tulisan, sebenarnya yang terpenting adalah proses penulisannya. Terbebas dari apakah ia tercipta. Bukankah yang terpenting dari menulis adalah kegiatan menulis itu sendiri? Maka ketika mata polosku sebagai mahasiswa melihat fenomena yang ada pun, kata-kata bisa menuangkan keresahan itu lebih baik. Tak peduli seberapa dangkal otakku dalam memakai teori, karena yang dimiliki setiap manusia adalah logika dan emosi. Dengan dua hal itu pun aku mencipta, bukan dengan literasi yang berlebihan.
+
+Tulisan mengenai mahasiswa aku awali ketika dulu akan mengikuti Diklat Aktivis Terpusat pada semester dua aku menginjak dunia mahasiswa. Apalah yang ku punya selain pertanyaan? Maka berangkatlah aku dari situ, hanya dari pertanyaan. Tapi bukankah itu cukup? Karena dengan hasrat dan kehendak yang alami, semua itu akan terwujud dengan sendirinya. Maka nikmatilah!
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Pergerakan Mahasiswa yang Ideal][1]
+
+#### [Mahasiswa, Dakwah, dan Paradigma][2]
+
+#### [Kaderisasi Intelektual][3]
+
+#### [Mengenai Kajian dan Kebenaran][4]
+
+#### [Mahasiswa, Dakwah, dan Paradigma 2][5]
+
+[1]: http://phoenixfin.me/pergerakan-mahasiswa-yang-ideal
+[2]: http://phoenixfin.me/mahasiswa-dakwah-dan-paradigma
+[3]: http://phoenixfin.me/kaderisasi-intelektual
+[4]: http://phoenixfin.me/mengenai-kajian-dan-kebenaran
+[5]: http://phoenixfin.me/mahasiswa-dakwah-dan-paradigma-2
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/aditya-finiarelphoenix/docs/_1_dear_god_s_

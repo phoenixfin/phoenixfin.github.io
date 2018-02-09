@@ -24,10 +24,4 @@ layout: page
     </div>
 {% endif %}
 
-{% if site.show-author %}
-    {% include author.html %}
-{% endif %}
-
-{% if site.disqus.categories contains page.category %}
-    {% include disqus.html %}
-{% endif %}
+<a class="next" href="{{ site.url }}{{ page.category }}">Kembali &raquo;</a>

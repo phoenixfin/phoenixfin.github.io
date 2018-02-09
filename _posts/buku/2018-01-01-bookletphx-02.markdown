@@ -1,0 +1,63 @@
+---
+title: Booklet Phx Vol. 02 - Ray(y)a
+refer: vol02
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Curhatan mengenai kehidupan bersama seorang teman imajiner
+---
+
+<img class="image" src="/assets/images/cover/booklet2.jpg" alt="__" height="500px">
+
+Memang, kekuatan sebenarnya dari suatu proses adalah konsistensi, bukan inisiasi ataupun finalisasi. Tak ada yang peduli bagaimana kita memulainya atau mengakhirinya, bukankah yang terpenting adalah bagaimana kita menjalaninya? Itulah yang kurasakan ketika terus berusaha mencipta kata-kata. Tak peduli arahnya kemana, tak peduli hasil akhirnya apa, yang terpenting adalah konsisten menulis apapun yang terjadi. Apa lagi yang menjadi halangan ketika kehendak sudah menjadi kekuatan?
+
+Tak ku duga sih. Hanya berawal dari keisengan di masa SMA untuk mengikuti festival film Indonesia,aku bersama seorang dua orang kawan memasuki dunia cinematografi dan membuat sebuah visualisasi monolog yang bertemakan perbedaan. Hasilnya, sekedar sebuah surat untuk seseorang tokoh imajiner bernama Rayya. Hanya itu. Entah dimulai dari apa, yang “hanya itu” aku transformasikan dalam sebuah konsistensi untuk membuat sebuah rangkaian kisah sederhana. Benar-benar sederhana. Tak butuh ide yang rumit. Aku hanya membayangkan aku memang sedang menulis surat untuk orang sepikiran yang lama tak berjumpa denganku. Maka apa? Mainkan imajinasi dan bum! Terkumpul rangkaian kisah yang terdiri dari 10 surat dengan topik berbeda. Dan ini menjadi booklet keduaku.
+
+Selamat menikmati
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Surat Untuk Perbedaan][1]
+
+#### [Semua Tentang Kita][2]
+
+#### [Kerinduan Akan Cahaya][3]
+
+#### [Dalam Keabu-abuan][4]
+
+#### [Ilusi][5]
+
+#### [Yang Terlupakan][6]
+
+#### [Mahanusia][7]
+
+#### [Akar Rumput][8]
+
+#### [Sederhana][9]
+
+#### [The Answer][10]
+
+[1]: http://phoenixfin.me/dear-rayya-1
+[2]: http://phoenixfin.me/dear-rayya-2
+[3]: http://phoenixfin.me/dear-rayya-3
+[4]: http://phoenixfin.me/dear-rayya-4
+[5]: http://phoenixfin.me/dear-rayya-5
+[6]: http://phoenixfin.me/dear-rayya-6
+[7]: http://phoenixfin.me/dear-rayya-7
+[8]: http://phoenixfin.me/dear-rayya-8
+[9]: http://phoenixfin.me/dear-rayya-9
+[10]: http://phoenixfin.me/dear-rayya-10
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/aditya-finiarelphoenix/docs/_2_ray_y_a
