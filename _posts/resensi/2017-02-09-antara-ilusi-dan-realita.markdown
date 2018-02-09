@@ -1,0 +1,65 @@
+---
+title: Antara Ilusi dan Realita
+layout: post
+date: 2017-02-09 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+- realita
+- komedi
+- kehidupan
+category: resensi
+author: aditya
+description: Review Film The Truman Show (1998)
+---
+
+<img class="image" src="/assets/images/film/the-truman-show.jpg" alt="cover film Good Will Hunting" height="300px" align="left" style="PADDING-RIGHT: 15px;">
+
+__Judul__                   : The Truman Show
+__Sutradara__            : Peter Weir
+__Tanggal Rilis__       : 5 Juni 1998
+__Durasi__                 : 103 menit
+__Genre__                 : Komedi, Drama, Sci-fi
+__Pemeran__             : Jim Carrey, Ed Harris, Laura Linney
+
+***
+
+Christof: _I know you better than you know yourself_.
+Truman: _You never had a camera in my head!_
+
+***  
+
+Apa makna hidup? Pertanyaan seperti ini mungkin akan muncul di kepala setiap orang. Hanya saja, tidak semua kondisi memungkinkan pertanyaan tersebut dipertahankan untuk kemudian diperjuangkan jawabannya. Entah tertimpa oleh pikiran-pikiran lain, ataupun memang waktu telah dipenuhi oleh kesibukan sehingga tak ada kesempatan sedikitpun untuk sekedar merenunginya, pertanyaan seperti itu lebih sering tenggelam dalam otak manusia ketimbang tersadari dan terangkat dalam usaha untuk menjawab. Itulah mengapa banyak manusia yang lebih sering membiarkan hidupnya mengalir dan menerimanya apa adanya, tanpa perlu banyak pikir dan tanya. Bukankah itu hidup yang menyenangkan? Yang cukup sekedar dinikmati dan dihayati. Terkadang pertanyaan-pertanyaan ‘filosofis’ seperti itu hanya akan merusak kenyamanan karena tentu itu akan membongkar ulang arti segala sesuatu yang terkait di dalamnya, membongkar pandangan kita terhadap dunia, bahkan juga membongkar pemahaman kita mengenai diri sendiri. Pertanyaan itulah yang kurasa kemudian menjadi dasar cerita film The Truman Show, sebuah film luar biasa yang mengisahkan bagaimana jika hidup hanyalah rekayasa. 
+
+Film The Truman Show awalnya hanya menceritakan kehidupan sehari-hari seorang manusia biasa yang cukup ceria bernama Truman Burbank (Jim Carrey). Truman hidup normal selayaknya orang-orang pada umumnya: tinggal di sebuah rumah sederhana, bekerja di kantor, dan lain sebagainya. Kehidupannya diceritakan cukup detail pada awal film, dari bagaimana ayahnya meninggal tenggelam di tengah laut, hingga bagaimana ia jatuh cinta dengan seorang gadis bernama Lauren (Natascha McElhone). Tentu mayoritas penonton akan cukup terserap pada kisah-kisah awal yang normal ini dan sukar menduga apa yang menjadi inti film ini kemudian.
+
+Mulai pertengahan film, barulah mulai sedikit terbaca bahwa kehidupan normal Truman bukanlah inti kisahnya. Dengan diperlihatkannya beberapa kejanggalan dari kehidupan Truman, seperti bagaimana ia melihat cahaya jatuh dari langit, suara aneh di radio, atau bagaimana ia seakan selalu dicegah untuk keluar dari pulau Seahaven, pulau tempat ia tinggal saat itu. Truman sendiri diperlihatkan kecurigaannya terkait hal tersebut, yang membuat ia kemudian memutuskan untuk mencari tahu. Setelah titik ini lah imajinasi para penonton mungkin akan dipermainkan dengan beragam ekspektasi terhadap kemungkinan-kemungkinan dari film tersebut. Ketika terlihat bahwa film ini tidak lah sekedar sebuah film komedi keseharian sederhana sebagamana yang mungkin dibayangkan oleh penonton, inti sesungguhnya dari film ini barulah terlihat.
+
+Aku sendiri tak pernah menyangka apa yang kemudian diperlihatkan di bagian akhir film. Ternyata kehidupan Truman hanyalah rekayasa! Dan bayangkan saja, semua rekayasa itu telah dilakukan selama 30 tahun lebih sejak Truman lahir, dan itu semua hanya untuk sebuah reality show! Ide terciptanya film ini bisa kubilang gila hingga bisa merancang kisah seperti ini. Pada bagian akhir film, memang semua kejanggalan dari kehidupan Truman satu per satu diperjelas, dengan suasana emosional yang perlahan dibangun. Puncaknya adalah ketika Truman akhirnya memutuskan untuk mengarungi lautan, sesuatu yang didesain harusnya tidak terjadi disebabkan ia trauma atas kematian ayahnya, untuk keluar dari semua kejanggalan di pulau Seahaven. Bahkan di titik itu pun sang sutradara dari skenario kehidupan Truman, Christof (Ed Harris), sebegitu kerasnya mencegah Truman untuk mengetahui yang sesungguhnya hingga menciptakan badai kencang untuk melawan perahu Truman. Di tengah kondisi seperti itu pun, Truman dengan tegarnya masih dapat berteriak “Is that the best you can do? You're gonna have to kill me!” Ketika melihat adegan itu, aku merasa seperti melihat keteguhan seorang manusia untuk mencari makna hidupnya. Film ini pun diakhiri dengan keberhasilan Truman untuk keluar dari penjara skenario yang telah mendesain seluruh hidupnya selama 30 tahun lebih, hanya dengan konsep sederhana, sebagaimana ku kutip di awal tulisan ini “_you never had a camera in my head!_”
+
+Film ini bisa dikatakan cukup luar biasa dalam hal kisah. Begitu banyak makna yang bisa didapat dari cerita yang diperlihatkan. Bisa dikatakan juga, makna-makna ini berlapis-lapis, bergantung pada sejauh apa seorang penonton menggali dan bergantung perspektif awal penonton. Lapis-lapis makna ini merentang dari hanya sekedar sebuah komedi yang menghibur, drama mengenai makna kehidupan, kritik terhadap media, hingga konsep ketuhanan. Tentu tidak mudah merancang suatu film dengan ide gila seperti ini. Dilihat dari sisi manapun, film ini tetaplah merupakan sebuah masterpiece. Sayang, herannya tidak ada satupun piala Oscar yang diberikan pada film ini untuk kategori apapun, meskipun film ini jelas memenangi penghargaan-penghargaan lainnya, yang secara total berjumlah 38 penghargaan. 
+
+<img class="image" src="/assets/images/film/the-truman-show-1.jpg" alt="">
+
+Untuk sebuah film komedi, kurasa film ini memang agak sedikit keluar jalur. Memang tetap ada unsur-unsur jenaka yang diperlihatkan di film, namun itu tidaklah banyak, dan itu pun hanya padat di bagian awal film. Di bagian tengah ke akhir, ketika twist dari film ini mulai diperlihatkan, suasana pun berubah menjadi lebih serius dan emosional ketimbang jenaka dan santai. Ini yang kemudian membuat banyak reviewer menekankan hal yang sama, yakni kekecewaan akan genre komedi dari film ini. Melihat Jim Carrey sebagai pemeran utama, dan dengan jelas juga dikenalkan bahwa film The Truman Show bergenre komedi, ekspektasi orang-orang ketika akan menonton film ini tentu mengarah pada suasana rileks dan menyenangkan, terutama untuk mereka yang memang lagi butuh hiburan. 
+
+Jika dipikir-pikir kembali, film ini bisa sedikit dikatakan agak sukar masuk akal. Bayangkan saja, bagaimana sebuah rekayasa lengkap dari satu kehidupan dirancang dan direkam untuk ditonton sepanjang waktu. Pertanyaan bagaimana, hingga untuk apa kurasa pantas untuk diajukan. Cukup sulit terbayang kiranya rasio pendapatan yang didapat dari sebuah _reality show_ lengkap dari lahir sepanjang waktu dengan pengeluaran untuk mendesain segala sesuatu tersebut. Apalagi, jika itu memang mungkin ada, mendesain setiap detik kehidupan agar bisa selalu menarik penonton merupakan sebuah konsep yang gila. Meskipun begitu, hal seperti ini dapat dipandang sebagai sebuah satire terhadap media-media yang mulai cukup gencar mengadakan acara _reality show_ yang mengungkap kehidupan orang lain di hadapan ribuan layar kaca hanya demi keuntungan. Ya mungkin kelak, para produsen acara televisi bisa bertindak seekstrim film ini demi menggali segila mungkin hal-hal yang dapat menarik penonton, termasuk merekayasa kehidupan seseorang dari lahir. 
+
+Herannya, bagian mengenai bahwa hidup hanyalah _reality show_ ini cukup memiliki efek yang signifikan pada beberapa penonton. Beberapa tahun sejak terpublikasikannya film ini, muncul kelainan yang dikenal dengan _Truman Syndrome_ atau _The Truman Show Delusion_. Secara umum, sindrom ini menganggap apa yang terjadi pada Truman terjadi juga pada kehidupan mereka, sehingga memandang dunia ini hanyalah rekayasa sebuah _reality show_. Pada sebuah artikel New York Times tahun 2008, beberapa psikolog di Inggris dan Amerika menceritakan beberapa orang yang mengalaminya, yang mana percaya bahwa ia hanyalah bintang dalam acara televisinya sendiri. Sebagian besar dari mereka menyebut-nyebut film ini selama dalam terapi, sehingga disimpulkan gejala ini memang disebabkan oleh film tersebut. Pada 16 September 2013, sebuah kasus pun secara spesifik dituliskan oleh Andrew Marrantz mengenai seorang mahasiswa yang mengidap delusi ini pada sebuah artikel di New Yorker berjudul “_Unreality Star_”.
+
+Terlepas dari atribut humornya dan satire terhadap medianya, hal yang paling ku tangkap dari film ini adalah bagaimana hidup dimaknai semestinya. Truman Show merupakan gambaran modern yang cukup jelas dari alegori gua Plato, meskipun tentu tidak murni serupa. Alegori gua Plato, yang mengimajinasikan bagaimana manusia-manusia gua yang hidup hanya melihat bayangan dari celah cahaya dari luar dan mengetahui ‘kebenaran’ hanya dari situ, hingga akhirnya seseorang keluar dari gua tersebut dan melihat secara lebih jelas dunia ini. The Truman Show memperlihatkannya, bagaimana apa yang kita sebut sebagai ‘realita’ atau ‘kebenaran’ hanyalah konstruksi dari apa yang kita persepsi selama hidup sejak lahir melalui indra kita. Bagi Truman, kehidupannya di pulau Seahaven akan menjadi realita karena itulah yang ia persepsikan sejak lahir. Film lain yang cukup jelas memperlihatkan ini adalah film The Matrix, hanya saja The Matrix terlalu fiksi dan apokaliptik ketimbang Truman Show. Dari kedua film tersebut kita bisa dapatkan bagaimana memaknai hidup dengan mempertanyakannya. Dengan mempertanyakan, kita tidak akan semudah itu menerima apa yang kita persepsikan sebagai realita begitu saja, dan kemudian kita bisa menumbuhkan tekad untuk berusaha mencari apa yang menjadi realita sesungguhnya dalam hidup ini. Maka ya tentu, hidup adalah proses tanpa henti mencari makna. 
+
+Sayangnya, kenyamanan seseorang dalam suatu kondisi mencegahnya untuk memiliki keinginan lebih di luar itu. Apalagi, jika persepsi bahwa kondisi di luarnya lebih buruk ketimbang kondisi yang ia nyamankan, hasrat untuk keluar akan tergantikan oleh rasa takut. Serupa dengan alegori gua, Truman Show memperlihatkan bagaimana orang-orang yang memang terjebak oleh kemudahan dan kenyamanan tidak akan punya hasrat untuk kemana-mana, untuk mencari tahu kebenaran dan realita sesungguhnya dari semesta ini. Bagaimana kita bisa yakin bahwa hidup yang kita alami saat ini memang bukan rekayasa? Jangan-jangan semua ini hanyalah ilusi yang dikonstruksikan oleh pikiran, sedangkan realita sesungguhnya entah apa di luar sana. Itulah yang harus kita cari dalam semangat memaknai hidup. Namun, kita tidak bisa menyalahkan sifat natural manusia untuk lebih cenderung memilih menerima dan menikmati seaneh apapun realita yang kita lihat, seperti yang dikatakan Christof sendiri "_we accept the reality we are presented with_".
+
+Dalam kondisi ekstrimnya, bisa saja kita kemudian mengarahkan Truman Show pada alegori agama, yang mana kita bisa menganggap Christof sebagai modifikasi dari Christ yang melambangkan Tuhan dan Truman sebagai modifikasi dari True Man yang melambangkan setiap manusia yang utuh. Hal seperti ini agak sedikit sukar diterima karena sang Sutradara di sini diperlihatkan secara jelas sebagai sosok manusia biasa, sehingga sulit dianalogikan dengan Tuhan. Namun, di sini ada semacam pesan tersirat yang bisa diambil bahwa makna manusia yang utuh adalah manusia yang selalu berusaha memperjuangkan kehendak bebasnya untuk melepaskan diri dari belenggu rekayasa, manipulasi, atau kontrol dalam bentuk apapun. Terlihat jelas di bagian akhir film bagaimana pertarungan antara kehendak bebas dan kontrol ini terjadi. Pada tiitk dimana Truman sampai mengatakan “_You have to kill me!_”, itulah titik simbol bahwa kehendak bebas yang kuat hanya bisa diruntuhkan dengan kematian. Jikalau pun Truman mati dalam prosesnya memperjuangkan kebebasannya, maka ia mati dalam keadaan bebas, dalam keadaan menang sepenuhnya dari kontrol. 
+
+Kita semua sesungguhnya hidup dalam gua, karena kita tidak akan pernah bisa lepas dari persepsi kita sendiri. Namun, tentu kita bisa berusaha untuk memperluas persepsi seluas mungkin demi memaknai hidup yang terlanjur telah terberi ini. Yang dibutuhkan untuk itu pun hanya satu, sebuah hasrat. Pertanyaan dasar yang mungkin mengawali Truman untuk menguatkan diri keluar dari pulau itu, lebih pilih hidup nyaman dan tentram namun terpenjara dalam sebuah rekayasa tanpa kebebasan lebih untuk berkehendak atau keluar dari kenyamanan itu meskipun tidak ada jaminan apapun terkait kondisi di luar itu namun mengambil penuh kontrol terhadap kehendak sendiri? Mungkin bisa kita tanyakan ke diri masing-masing.
+
+***
+
+Mike Michaelson: Christof, let me ask you, why do you think that Truman has never come close to discovering the true nature of his world until now?
+Christof: We accept the reality of the world with which we're presented. It's as simple as that.
+
+***
+
+(PHX)
