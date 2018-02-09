@@ -1,7 +1,7 @@
 ---
 title: Booklet Phx Vol. 01 - Dear God(s)
 refer: vol01
-layout: post
+layout: bookdes
 date: 2015-05-29 07:45
 image: /assets/images/blog/beradab-bersama-arsip.jpg
 headerImage: false
@@ -26,17 +26,17 @@ description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan te
 
 ***
 
-# Daftar Konten
+## Daftar Konten
 
-<h2 align="center"> Bumi ([Dear Gaia][1]) </h2>
+### Bumi ([Dear Gaia][1])
 
-## Cinta ([Dear Eros][2])
+### Cinta ([Dear Eros][2])
 
-## Kuasa ([Dear Zeus][3])
+### Kuasa ([Dear Zeus][3])
 
-## Takdir ([Dear Moirae][4])
+### Takdir ([Dear Moirae][4])
 
-## Mati ([Dear Thanantos][5])
+### Mati ([Dear Thanantos][5])
 
 [1]: http://phoenixfin.me/dear-gaia
 [2]: http://phoenixfin.me/dear-eros
