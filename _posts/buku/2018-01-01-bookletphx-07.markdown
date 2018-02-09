@@ -1,0 +1,28 @@
+---
+title: Booklet Phx Vol. 07 - Spora-dis
+refer: vol07
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan puisi bertema lepas
+---
+
+<img class="image" src="/assets/images/cover/booklet7.jpg" alt="__" height="500px">
+
+_“...We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.”_
+
+_(John Keating - Dead Poets Society)_
+
+Puisi adalah milik setiap manusia, seperti kata Pram, manusia tanpa sastra hanyalah hewan yang pandai. Maka meski baru berkenalan belum lama, dimediasi Lingkar Sastra, aku mencoba mulai terus mencipta, tak peduli aku bisa apa. Ini bukanlah bagaimana ada bakat ataupun minat, tapi semua hanyalah mengenai hasrat! Seberapa ingin kita mencipta, dan mentransformasikan diri menuju hidup sepenuhnya.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]:https://issuu.com/Aditya-FiniarelPhoenix/docs/_7_spora-dis

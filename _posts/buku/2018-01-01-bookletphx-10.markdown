@@ -1,0 +1,28 @@
+---
+title: Booklet Phx Vol. 10 - Metamatika
+refer: vol10
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika
+---
+
+<img class="image" src="/assets/images/cover/booklet10.jpg" alt="__" height="500px">
+
+Daripada terlihat seperti “salah jurusan” karena selama ini menulis apa-apa selalu di luar keilmuanku di perguruan tinggi, maka kali ini tulisanku khusus ku dedikasikan untuk ilmu yang tengah ku cumbui saat ini.
+
+Ya, matematika bukan lah sekedar ilmu hitung, ia juga bukan hanya cara berpikir, ia lebih dari semua itu. Ia bagaikan agama, yang dipuja-puja manusia semenjak logika mulai berbicara, ia bagaikan raja, yang dipatuhi dengan taat tanpa banyak tanda tanya, ia bagaikan negara, yang mengatur dan meregulasi cara kerja ilmu-ilmu lainnya, ia bagaikan semesta, yang selalu ada di setiap jengkal kehidupan manusia.
+
+Aku memang baru 3 tahun benar-benar mendalami makhluk yang satu ini, tapi bukankah pencarian kebenaran tetap butuh jejak-jejak perjalanan? Maka inilah jejak tercatat dari yang ku temukan selama ini.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]:https://issuu.com/Aditya-FiniarelPhoenix/docs/_10_metamatika

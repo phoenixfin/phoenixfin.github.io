@@ -1,0 +1,28 @@
+---
+title: Booklet Phx Vol. 09 - Jurnal Resimen
+refer: vol09
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Catatan-catatan kritik seorang anggota resimen mahasiswa
+---
+
+<img class="image" src="/assets/images/cover/booklet9.jpg" alt="__" height="500px">
+
+Pengalaman tiadalah berarti tanpa kristalisasi menjadi kumpulan catatan yang kelak bisa jadi pembelajaran. Maka itulah yang selalu ku lakukan dalam tiap momen hidupku, termasuk apa yang ku alami dalam sebuah entitas bernama Resimen Mahasiswa.
+
+Terkadang kehidupan berorganisasi terasa biasa saja bagi kebanyakan orang, namun bagiku, ia tetap bisa menjadi sebuah kisah yang penuh ironi dan tanda tanya, memberiku banyak makna.
+
+Sesungguhnya senjata seorang intelektual hanyalah kata-kata dengan amunisi gagasan dan pemikiran. Maka inilah caraku bertarung dan berjuang dengan semua idealisme yang ku punya, selayaknya seorang tentara yang bertempur ke medan juang dengan semua kehormatan yang ia punya.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]:https://issuu.com/Aditya-FiniarelPhoenix/docs/_9_jurnal_resimen
