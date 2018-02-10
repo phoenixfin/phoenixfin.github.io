@@ -44,4 +44,4 @@ Bagai sastra
 
 Tanpa makna	
 
-(PHX)
+(PHX, Bandung, 2014)

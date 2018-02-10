@@ -1,0 +1,47 @@
+---
+title: Tekno
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Ah, benda apa itu?
+
+Begitu berkilau
+
+Luar biasa!
+
+Ia bercahaya!
+
+<br>
+
+Ah, benda apa itu?
+
+Begitu ramping
+
+Luar biasa!
+
+Ia bersuara!
+
+<br>
+
+Ah, benda apa itu?
+
+Begitu  banyak
+
+Luar biasa!
+
+Ia dimana-mana!
+
+<br>
+
+Maka aku bertanya
+
+Pada yang ku anggap 
+
+pintar, yang dijawabnya
+
+“Tidakkah kau tahu?
+
+Itu rasul baru.”
