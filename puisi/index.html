@@ -29,7 +29,15 @@ title: Puisi
 						</div>
 					{% endif %}
 				</div>
-				<div class="column"></div>
+				<div class="column">
+					{% if post.category == 'puisi2' %}
+						<div class="item">
+							<a class="url" href="{{ site.url }}{{ post.url }}">
+								<h3 class="title">{{ post.title }}</h3>
+							</a>
+						</div>
+					{% endif %}
+				</div>
 			</div>
 		{% endfor %}
 	{% endif %}
