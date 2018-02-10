@@ -1,0 +1,43 @@
+---
+title: Booklet Phx Vol. 19 - Pendidikan
+refer: vol19
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai pendidikan
+---
+
+<img class="image" src="/assets/images/cover/booklet19.jpg" alt="__" height="500px">
+
+Pendidikan adalah inti dari pembangunan, inti dari kemajuan, dan inti dari peradaban. Pendidkan adalah sebuah proses agar setiap manusia dapat mengutuhkan dirinya sendiri dalam kehidupan. Pendidikan secara luhur bermakna bagaimana seseorang menemukan jalan hidupnya. Namun sayang, bagaikan sebuah kutukan, apa yang awalnya diharapkan untuk menjadi hasil dari pendidikan, justru balik menyerang pendidikan itu sendiri, menciptakan ironi dalam peradaban manusia.
+
+Ada apa dengan pendidikan? Ku coba paparkan fenomena yang ada. Kesimpulannya apa terserah pada pembaca. Yang ku tahu, tak ada yang bisa disalahkan dari keadaan saat ini, dengan semua dilema dan ironinya.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Penindasan Pendidikan][1]
+
+#### [Penindasan Pendidikan 2][2]
+
+#### [Balada Korupsi Indonesia][3]
+
+#### [Antara Intelektual dan Sebuah Institut 4][4]
+
+[1]: http://phoenixfin.me/penindasan-pendidikan
+[2]: http://phoenixfin.me/penindasan-pendidikan-2
+[3]: http://phoenixfin.me/balada-korupsi-indonesia
+[4]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-4
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_19_pendidikan

@@ -1,0 +1,40 @@
+---
+title: Booklet Phx Vol. 22 - Aktual
+refer: vol22
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai isu-isu aktual pada awal 2017
+---
+
+<img class="image" src="/assets/images/cover/booklet22.jpg" alt="__" height="500px">
+
+Banyak hal terjadi setiap harinya dan cenderung berlalu begitu saja. Merespon langsung mungkin bisa saja, namun dengan jatuhnya makna informasi dan kebenaran di era digital ini, itu sama saja bermain latah. Sedangkan untuk menanggapi dengan kritis, tentu butuh waktu. Itupun sebelum yang tertanggap sudah tertimpa informasi lain.
+
+Ah, itulah mengapa aku jarang menulis hal-hal aktual. Hanya saja tuntutan sebuah jabatan beberapa waktu lalu memaksaku untuk akhirnya mencipta tulisan mengenai berita aktual. Apalah artinya, semua berita yang ku bahas akan segera berlalu dengan derasnya badai informasi. Tak apa, karena toh aku menulis tanpa terlalu berharap terbaca. Anggaplah ini arsip, bahwa sesuatu pernah terjadi dan aku menanggapinya.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Palu dan Arit][1]
+
+#### [Bandung Selatan, Mengapa Dikau Banjir][2]
+
+#### [PKI Bangkit, Lelucon Kah][3]
+
+[1]: http://phoenixfin.me/palu-dan-arit
+[2]: http://phoenixfin.me/banjir-bandung-selatan
+[3]: http://phoenixfin.me/pki-bangkit-lelucon
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_22_aktual

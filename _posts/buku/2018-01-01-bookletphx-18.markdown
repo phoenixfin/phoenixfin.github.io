@@ -1,0 +1,24 @@
+---
+title: Booklet Phx Vol. 18 - Ka-Him 3
+refer: vol18
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Catatan pribadi seorang ketua himpunan bagian terakhir
+---
+
+<img class="image" src="/assets/images/cover/booklet18.jpg" alt="__" height="500px">
+
+Setelah booklet ke 6 dan 12, sampailah aku pada edisi terakhir catatan sebagai ketua himpunan di booklet ke 18 ini. Walaupun sangat terasa di bagian akhir ini adalah saat-saat ketika konsistensiku berada di titik terendahnya, minimal aku sudah berusaha menuliskan apa yang bisa ku tuliskan selagi aku ingat dan sempat. Ketika dibaca pun alhamdulillah, tidak dibaca pun tak masalah.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_18_ka-him

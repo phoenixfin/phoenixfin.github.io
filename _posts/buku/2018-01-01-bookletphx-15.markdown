@@ -1,0 +1,43 @@
+---
+title: Booklet Phx Vol. 15 - Te(kn)ologi
+refer: vol15
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai teknologi
+---
+
+<img class="image" src="/assets/images/cover/booklet15.jpg" alt="__" height="500px">
+
+Teknologi adalah suatu eksistensi yang penuh misteri. Ia ada dimana-mana. Ia menyatu dengan kita semua. Ia bahkan sesungguhnya adalah sifat alamiah dari manusia itu sendiri. Ia bagaikan agama. Ia bagaikan penguasa. Ia bagaikan negara. Bahkan ia juga bagaikan alam ini sendiri.
+
+Itulah mengapa pembahasan mengenai teknologi tak akan pernah selesai hingga kita bisa benar-benar tahu masadepan seperti apa. Begitu banyak spekulasi bermunculan karena betapa berbahayanya ancaman teknologi ini kelak, di sisi lain, keanggunan dan kemudahan yang ditawarkan teknologi juga menjadi bagian mimpi tersendiri bagi manusia terhadap masa depan. Ah, kita tidak akan pernah tahu. Kumpulan tulisan ini pun mungkin tetap tidak akan pernahbisa menjawab masa depan.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Ironi Informasi][1]
+
+#### [Dalam Penjara Teknologi][2]
+
+#### [Penindasan Teknologi][3]
+
+#### [Ia bernama Technium][4]
+
+[1]: http://phoenixfin.me/ironi-informasi
+[2]: http://phoenixfin.me/dalam-penjara-teknologi
+[3]: http://phoenixfin.me/penindasan-teknologi
+[4]: http://phoenixfin.me/ia-bernama-technium
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_15_te_kn_ologi

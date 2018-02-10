@@ -19,13 +19,20 @@ title: Puisi
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
-			{% if post.category == 'puisi' %}
-				<div class="item">
-					<a class="url" href="{{ site.url }}{{ post.url }}">
-						<h3 class="title">{{ post.title }}</h3>
-					</a>
-				</div>
-			{% endif %}
+		<div class="row">
+			<div class="column">
+				{% if post.category == 'puisi' %}
+					<div class="item">
+						<a class="url" href="{{ site.url }}{{ post.url }}">
+							<h3 class="title">{{ post.title }}</h3>
+						</a>
+					</div>
+				{% endif %}
+			</div>
+			<div class="column">
+			</div>
+		</div>
+		
 		{% endfor %}
 	{% endif %}
 </section>

@@ -1,0 +1,38 @@
+---
+title: Booklet Phx Vol. 25 - Me-nerva
+refer: vol25
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan monolog self-critics dari seorang kawan kosmik
+---
+
+<img class="image" src="/assets/images/cover/booklet25.jpg" alt="__" height="500px">
+
+Aku adalah entitas yang tak bisa dilihat. Sama halnya setiap mata tidak bisa melihat mata itu sendiri. Aku butuh cermin untuk diketahui, aku hanya dapat melihat pantulanku. Meskupun semu, paling tidak aku tahu, bahwa itu adalah aku.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Katanya ‘sih’ Sarjana][1]
+
+#### [Jangan Menulis!][2]
+
+#### [Menyemestakan Manusia][3]
+
+[1]: http://phoenixfin.me/katanya-sih-sarjana
+[2]: http://phoenixfin.me/jangan-menulis
+[3]: http://phoenixfin.me/menyemestakan-manusia
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_25_me-nerva

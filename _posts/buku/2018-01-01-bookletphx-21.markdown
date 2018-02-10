@@ -1,0 +1,42 @@
+---
+title: Booklet Phx Vol. 21 - Literarsip
+refer: vol21
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai arsip dan literasi
+---
+
+<img class="image" src="/assets/images/cover/booklet21.jpg" alt="__" height="500px">
+
+Tulisan selalu dianggap sakral bagi para intelektual, seakan syahadat yang menjadi syarat wajib status muslim. Mungkin memang iya, mungkin juga tidak. Namun yang jelas, ia memiliki perannya sendiri dalam kehidupan manusia. Tanpa tulisan, manusia mungkin tetap akan jadi manusia, tapi toh manusia sendiri butuh wujud eksplisit atas abstraksi yang ada dalam dirinya. Lagipula, tulisan bukanlah suatu konsep tunggal yang sederhana. Ia tergabung dalam suatu entitas bernama literasi. Atas nama entitas itu lah booklet ini bisa tercipta, dan atas nama entitas itu lah jutaan kata telah tercipta tiap harinya dari berbagai kepala manusia.
+
+Merayakan kekaryaan 20 bookletku atas namanyalah kemudian ku baktikan booklet ke-21 ini untuknya. Mungkin literasi itu seperti Tao bagi para pecinta kata, ia hanya bisa dirasakan dan tidak bisa sekedar dinamakan. Tapi ku rasa sedikit penyelidikan terhadapnya tidaklah percuma, maka inilah dia!
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Mari Berliteraksi!
+
+#### [Literasi Mencari Arti][2]
+
+#### [Arsiptektur, Pencarian Jati Diri Mahasiswa][3]
+
+#### [‘Beradab’ Bersama Arsip][4]
+
+[2]: http://phoenixfin.me/literasi-mencari-arti
+[3]: http://phoenixfin.me/arsiptektur
+[4]: http://phoenixfin.me/beradab-bersama-arsip
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_21_literarsip

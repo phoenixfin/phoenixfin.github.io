@@ -1,0 +1,42 @@
+---
+title: Booklet Phx Vol. 20 - Semest(iny)a
+refer: vol20
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai semesta, bumi, dan alam
+---
+
+<img class="image" src="/assets/images/cover/booklet20.jpg" alt="__" height="500px">
+
+Semesta bukanlah sekedar objek, yang hanya perlu diobservasi, diteliti, dipelajari, atau bahkan dieksploitasi. Semesta adalah kita. Semesta adalah aku, kamu, dan semua orang. Bayangkan bila seluruh semesta merupakan badanmu, maka rasakanlah tiap makna yang terkandung dalam tiap imaji. Semestinya memang begitu, tapi...
+
+Mungkin memang manusia dan semesta akan terus berada dalam ironi. Menciptakan kisah yang tak akan pernah selesai dan selalu terulang. Semesta hanya bisa terdiam dalam kasih sayangnya, rela diperkosa dan diperlakukan apa adanya untuk cintanya pada manusia. Biarlah. Semoga tulisan-tulisan ini bisa mengungkap beberapa.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### [Kesatuan dan Kebijaksanaan][1]
+
+#### Anarkisme Semesta
+
+#### [Jejaring Sosial][3]
+
+#### [Antara Alam dan Teknologi][4]
+
+[1]: http://phoenixfin.me/kesatuan-dan-kebijaksanaan
+[3]: http://phoenixfin.me/jejaring-sosial
+[4]: http://phoenixfin.me/antara-alam-dan-teknologi
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_20_semest_iny_a

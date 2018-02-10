@@ -1,0 +1,26 @@
+---
+title: Booklet Phx Vol. 17 - Dia-spora
+refer: vol17
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan puisi bertema lepas
+---
+
+<img class="image" src="/assets/images/cover/booklet17.jpg" alt="__" height="500px">
+
+Puisi adalah karya sastra paling sederhana, mungkin, namun ia bisa memendam makna hingga sepadat bintang neutron, sedalam tartarus, atau seluas batas semesta. Puisi bagiku adalah cara paling mudah berkspresi dalam kata-kata, ia membuatku bisa lepas dalam cengkramann kaku tata bahasa dan merayakan segalanya, dari cinta hingga jagad raya.
+
+Pengalamanku dalam dunia sastra memang masih belum seberapa, tapi apakah itu menghalangiku untuk berkarya? Maka setelah beberapa kali menuangkan rangkai kata, aku kumpulkan semuanya dan inilah dia satu lagi antologi sederhana dari seorang amatir.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://issuu.com/Aditya-FiniarelPhoenix/docs/_17_diaspora
