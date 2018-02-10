@@ -8,9 +8,9 @@ title: Puisi
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% else %}
-		{% for post in site.posts %}
-			<div class="row">
-				<div class="column">
+		<div class="row">
+			<div class="column">
+				{% for post in site.posts %}
 					{% if post.category == 'puisi' %}
 						<div class="item">
 							<a class="url" href="{{ site.url }}{{ post.url }}">
@@ -18,9 +18,10 @@ title: Puisi
 							</a>
 						</div>
 					{% endif %}
-				</div>
-				<div class="column">
-					tes tes tes
+				{% endfor %}
+			</div>
+			<div class="column">
+				{% for post in site.posts %}
 					{% if post.category == 'puisi2' %}
 						<div class="item">
 							<a class="url" href="{{ site.url }}{{ post.url }}">
@@ -28,8 +29,8 @@ title: Puisi
 							</a>
 						</div>
 					{% endif %}
-				</div>
+				{% endfor %}
 			</div>
-		{% endfor %}
+		</div>
 	{% endif %}
 </section>
