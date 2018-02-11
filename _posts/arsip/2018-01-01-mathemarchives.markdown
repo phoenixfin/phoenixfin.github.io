@@ -1,6 +1,6 @@
 ---
 title: "Mathemarchives!"
-layout: post
+layout: bookdes
 date: 2013-11-20 15:41
 headerImage: false
 tag:
