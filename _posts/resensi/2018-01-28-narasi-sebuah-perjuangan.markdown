@@ -29,11 +29,11 @@ __Pemeran__             : Yun-seok Kim, Jung-woo Ha, Hae-jin Yoo
 
 ...
 
-<iframe width="600" height="337" src="https://www.youtube.com/embed/j9bww7VD4Gs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Cukup banyak yang memuji dan bahkan berkaca dari perkembangan ekonomi dan budaya di Korea Selatan saat ini. Berbagai komoditas, dari gadget, film, hingga musik dari negara tersebut termasuk dalam konsumsi utama masyarakat Indonesia, padahal, jika dilihat dari umurnya, sesungguhnya mereka tidaklah jauh berbeda dibanding Indonesia, mengingat Korea Selatan secara resmi merdeka pada tahun 1948. Tidakkah kemudian kita sempat mencoba bertanya, apa yang membuat Korea Selatan menjadi seperti sekarang ini? Mungkin faktornya banyak, namun hal yang pasti adalah rantai sejarah dalam dinamika pemerintahan Korea Selatan memiliki andil penting dalam majunya Korea Selatan. Salah satu dari dinamika tersebut, dicoba dibungkus dalam bentuk produk layar lebar oleh Joon Hwan Jang melalui film “1987: When the Day Comes.”
 
 Judul film ini sebenarnya tidaklah menarik sama sekali bagi mereka yang tidak mengerti dengan sejarah Korea. Padahal, tahun 1987 merupakan tahun yang sangat penting dalam sejarah Korea Selatan, mengingat pada tahun itu terjadi reformasi besar-besaran melalui apa yang dikenal dengan _June Struggle_ atau _June Democratic Movement_. Tahun 1987 bisa dibilang merupakan tahun 1998-nya Indonesia versi Korea Selatan, dimana terjadi demonstrasi massif yang meruntuhkan rezim otoritarian yang sejak 1948 menjangkit pemerintahan Korea Selatan. Ketika saya pertama kali diajak oleh seorang kawan untuk menonton ini pun, saya tidak merasakan ketertarikan apa-apa darinya. Setelah mencoba membaca sinobsis dan mempelajari sedikit sejarah Korea Selatan, barulah kemudian film ini menjadi pantas untuk ditonton di bioskop, dan syukurnya, saya sama sekali tidak rugi atas narasi epik yang berhasil disajikan Joon Hwan Jang dalam memperlihatkan gejolak politik di Korea Selatan sebelum terjadinya _June Struggle_ pada 1987. Tentu saja perasaan saya tidak salah, karena film ini mendapat rating 8.3 pada IMDB dan 83% tomatometer dengan 100% _audience score_ pada Rotten Tomatoes.
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/j9bww7VD4Gs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Ketegangan yang tak pernah Usai
 
@@ -48,6 +48,7 @@ Ketegangan yang muncul sejak awal film ini pun diperdalam oleh tangisan menyayat
 
 <figure>
   <img class="image" src="/assets/images/film/1987-1.jpg" alt="Alt Text">
+  
   <figcaption>Ayah dan Paman Park Yong-Chul melepaskan abu kremasi Park ke sungai</figcaption>
 </figure>
 
