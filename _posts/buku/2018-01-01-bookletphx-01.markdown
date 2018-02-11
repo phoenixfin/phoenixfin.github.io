@@ -13,8 +13,9 @@ description: Kumpulan monolog terhadap para dewa mengenai berbagai perenungan te
 
 <img class="image" src="/assets/images/cover/booklet1.jpg" alt="__" height="500px">
 
-Tebal: 43 Halaman
-Terbit: 14 April 2015
+__Tebal__: 43 Halaman
+
+__Terbit__: 14 April 2015
 
 ***
 
