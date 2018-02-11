@@ -84,7 +84,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [opini, monolog, resensi]
+post-advance-links: [opini]
 
 # show author block at the end of a post ?
 show-author: true
