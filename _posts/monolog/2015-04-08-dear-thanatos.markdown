@@ -15,7 +15,7 @@ description: Perenungan Terhadap Sang Pencabut Nyawa
 
 Entah dengan apa perlu ku awali tulisan ini. Semuanya hanya timbul dari kehendak tanpa apa-apa. Inilah hidup yang ingin berusaha ku hidupi, yang dengannya aku mencoba mengungkapkan yang menjadi negasi terhadapnya, kematian. Ini mungkin yang terakhir dari serial Surat untuk Dewa. Karena semua representasi dasar semesta ini telah ku rangkai, apa lagi? Maka siapapun yang (mau) membaca ini semua, nikmatilah.
 
-...
+***
 
 _Dear Thanatos, perwujudan tanpa wujud_
 
@@ -47,51 +47,31 @@ _Lebih lagi, lihatlah alam ini, setiap sistem hidup selalu merupakan subsistem d
 
 _Namun apakah itu cukup Thanatos? Tentu saja tidak. Ego manusia terlalu besar untuk bisa dilebur dengan kesadaran tingkat tinggi mengenai kesatuan semesta, entah itu dalam wujud Tuhan atau alam, bergantung kepercayaan. Karena tetap saja kematian menjadi suatu gagasan yang sangat menguasai pikiran manusia. Lihatlah betapa orang-orang, dulu ataupun sekarang, di tempatku berada ataupun di belahan dunia yang lain, begitu memandang kematian sebagai suatu sosok yang misterius, menghantui manusia dalam siksaan ketidakpastian. Izinkan aku mengutip salah satu hymne kaum Orphic yang mengandung rangkaian emosi tak terungkap terhadap kematian :_
 
-<br>
+...
 
 _"To Thanatos, Fumigation from Manna._
 
-<br>
-
-_Hear me, O Death, whose empire unconfin'd_
-
-_extends to mortal tribes of ev'ry kind._
-
-_On thee, the portion of our time depends,_
-
+_Hear me, O Death, whose empire unconfin'd_ <br>
+_extends to mortal tribes of ev'ry kind._ <br>
+_On thee, the portion of our time depends,_ <br>
 _whose absence lengthens life, whose presence ends._
 
-<br>
-
-_Thy sleep perpetual bursts the vivid folds_
-
-_by which the soul, attracting body holds :_
-
-_common to all, of ev'ry sex and age,_
-
+_Thy sleep perpetual bursts the vivid folds_ <br>
+_by which the soul, attracting body holds :_ <br>
+_common to all, of ev'ry sex and age,_ <br>
 _for nought escapes thy all-destructive rage._
 
-<br>
-
-_Not youth itself thy clemency can gain,_
-
-_vigorous and strong, by thee untimely slain._
-
-_In thee the end of nature’s works is known,_
-
-_in thee all judgment is absolved alone._
-
-_No suppliant arts thy dreadful rage control,_
-
-_no vows revoke the purpose of thy soul._
-
+_Not youth itself thy clemency can gain,_ <br>
+_vigorous and strong, by thee untimely slain._ <br>
+_In thee the end of nature’s works is known,_ <br>
+_in thee all judgment is absolved alone._ <br>
+_No suppliant arts thy dreadful rage control,_ <br>
+_no vows revoke the purpose of thy soul._ <br>
 _O blessed power, regard my ardent prayer,_
-
-<br>
 
 _and human life to age abundant spare.”_
 
-<br>
+...
 
 _Betapa kematian menggambarkan suatu kuasa tanpa tandingan! Tapi tidakkah manusia sadar, bahwa engkau sediri Thanatos, tunduk pada Moirae? Ya, 3 dewi saudaramu itu. Kematian hanyalah bagian dari takdir yang dipintal oleh mereka, sebuah skenario agung raksasa yang memainkan semuanya, yang menciptakan ilusi dalam kehendak. Bukankah kau hanya menjalankan tugas untuk menjemput mereka yang sudah datang waktunya? Tapi kenapa engkau menjadi sosok yang lebih ditakuti ketimbang takdir sendiri? Ada apa dengan kematian sehingga persepsi manusia terhadapnya bisa begitu kuat?_
 
@@ -105,35 +85,23 @@ _Pembebasan diri inilah yang sering dikenal dalam ajaran timur sebagai penceraha
 
 _Ah, ini pun membuatku bertanya, apakah aku telah hidup? Apakah aku telah menghidupi hidupku sepenuhnya sehingga bisa menyambut kedatanganmu dengan lapang dada? Entahlah, namun kapanpun kau datang, aku tidak punya hasrat untuk menolak atau menghindar. Berpusat pada kehidupan adalah yang terbaik bisa kami lakukan sebagai manusia. Apa lagi? Karena yang kami miliki memang hanya kehidupan. Engkau sendiri, Thanatos, ada karena kehidupan. Ya, engkau sendiri kehidupan. Maka seperti halnya suratku pada yang lain, aku persembahkan cuplikan lagu untukmu, lagu dari seorang kawan yang menyebut dirinya filsuf kehidupan :_
 
-<br>
+...
 
-_“engkaulah warna yang aku lukis_
+_“engkaulah warna yang aku lukis_ <br>
+_engkaulah goresan garis yang kugambar_ <br>
+_engkaulah kalimat yang kucatat_ <br>
+_engkaulah nyanyian yang kusenandungkan_ <br>
+_engkaulah puisi yang kudeklamasikan_ <br>
+_engkaulah buku yang aku baca_ <br>
+_engkaulah wanita yang ku puja_ <br>
+_engkaulah agama yang aku taati_ <br>
+_engkaulah negara yang aku patuhi_ <br>
+_engkaulah politik yang aku simpulkan_ <br>
+_engkaulah memori yang selalu kukenang_ <br>
+_engkaulah tuhan tempatku berpulang_ <br>
+_karena engkaulah kehidupan!”_ <br>
 
-_engkaulah goresan garis yang kugambar_
-
-_engkaulah kalimat yang kucatat_
-
-_engkaulah nyanyian yang kusenandungkan_
-
-_engkaulah puisi yang kudeklamasikan_
-
-_engkaulah buku yang aku baca_
-
-_engkaulah wanita yang ku puja_
-
-_engkaulah agama yang aku taati_
-
-_engkaulah negara yang aku patuhi_
-
-_engkaulah politik yang aku simpulkan_
-
-_engkaulah memori yang selalu kukenang_
-
-_engkaulah tuhan tempatku berpulang_
-
-_karena engkaulah kehidupan!”_
-
-<br>
+...
 
 _Aku teringat pula pada apa yang pernah dikatakan Mark Twain: “Ketakutan terhadap mati datang dari ketakutan terhadap hidup. Seseorang yang hidup sepenuhnya akan siap untuk mati kapanpun.” Kelak, semua makna hidup itu akan terlihat sendirinya ketika kau datang menjemput. Maka makna apa yang bisa didapat dari hidup yang tidak terhidupi? Kematian hanya akan menjadi sia-sia. Bukankah kesimpulan memang selalu terletak di akhir? Dalam konteks agama ibrahimiyah pun, hanya dengan hidup yang dimaksimalkan dengan ibadah lah yang bisa merengkuh kematian kematian dengan tenang. Maka Thanatos,kau hanyalah titik yang perlu kami jemput dengan sepenuh kehidupan, wujud yang tidak perlu menghantui kami dalam pikiran, sosok yang harus kami pandang dengan kewajaran. Bahkan mungkin, kematian adalah kebahagiaan yang sesungguhnya, puncak dari kehidupan itu sendiri. Bagiku sendiri, bukankah kematian adalah pembebasan hidup yang sesungguhnya? Bukankah dengan kematian aku dapat segera melihat kebenaran yang selama ini hanya bisa ku raba-raba? Kematian juga adalah wujud kerinduan terhadap Tuhan bagi kaum montoheis. Maka apa yang perlu ditakuti dari kematian? Datanglah Thanatos, dengan menghidupi hidup, kami akan menyambutmu sebaik yang kami bisa._
 
@@ -143,7 +111,7 @@ _Yang berusaha hidup,_
 
 _Finiarel_
 
-...
+***
 
 Demikianlah kehidupan. Terlepas dari agama apapun, tidak pernah ada yang salah dari usaha memaksimalkan hidup. Kematian memang penilai terbaik dari kehidupan, penyimpul segalanya. Jika ada yang sedang mencari makna hidup, ketahuilah bahwa pencarian itu hanya akan selesai ketika mati. Karena saat mati lah semua makna keluar dan terungkap.
 

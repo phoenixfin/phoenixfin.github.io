@@ -21,9 +21,11 @@ description: Kumpulan arsip yang kukumpulkan, rapihkan, dan kelola.
 	{% else %}
 		{% for post in site.posts %}
 			{% if post.category == 'arsip' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
+				<div class="item">
+					<a class="url" href="{{ site.url }}{{ post.url }}">
+						<h3 class="title">{{ post.title }}</h3>
+					</a>
+				</div>
 			{% endif %}
 		{% endfor %}
 	{% endif %}

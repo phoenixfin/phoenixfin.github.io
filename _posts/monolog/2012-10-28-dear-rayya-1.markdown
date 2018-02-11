@@ -14,7 +14,6 @@ author: aditya
 description: Curhatan mengenai keberagaman
 ---
 
-
 _Bantul, 28 Oktober 2009_
 
 _Dear Rayya in London,_
@@ -31,7 +30,7 @@ _Satu hal yang paling penting Rayya, bahwa Differences… has been created to un
 
 _Salam hangat, Finiarel._
 
-...
+***
 
 (PHX)
 

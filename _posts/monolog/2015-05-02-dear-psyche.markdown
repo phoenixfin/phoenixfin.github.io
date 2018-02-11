@@ -15,7 +15,7 @@ description: Perenungan Terhadap Sesosok Manusia Biasa
 
 Malam sebelum ujian mungkin malam yang terkadang sakral bagi setiap mahasiswa, dikhususkan untuk belajar atau istirahat, namun anomali tetap selalu bisa terjadi. Seperti yang ku lakukan malam ini, hanya sekedar melanjutkan pengungkapan makna dengan dewa-dewa, berhubung aku teringat pada hal yang dulu sempat membuatku bertanya-tanya, maka ku coba tuliskan lagi seperti pada eros dan lainnya. Bedanya mungkin kali ini yang ku tuju bukanlah sosok super yang dihamba. Ini bukanlah mengenai apa-apa, melainkan suatu eksistensi bernama jiwa.
 
-...
+***
 
 _Dear Psyche, dengan sebuah kisah perjalanan_
 
@@ -23,11 +23,11 @@ _Jika biasanya aku mengungkap makna pada dewa-dewa, kali ini mungkin cukup pada 
 
 _Salam wahai gadis rupawan, aku terkadang berusaha untuk membayangkanmu, yang dikatakan memiliki paras begitu indah, yang bahkan mengalahkan dewi kecantikan sendiri, sang Afrodite, sang Venus, dewi yang lahir dari genital Uranus. Agak sulit masuk imajinasiku sayangnya. Bagaimana mungkin aku bisa membayangkan wanita tercantik sebumi? Karena sebenarnya bagiku kecantikan itu adalah hal dengan subjektivitas tinggi. Atau mungkin ada standar tertentu? Entahlah. Namun bagaimana engkau menjadi simbol jiwa membuatku bertanya. Mungkin jawabannya ada pada bagaimana aku memaknai kisahmu o psyche._
 
-...
+***
 
 Aku termenung sejenak. Mencoba mengingat bagaimana kisah eros dan psyche menjadi kisah yang begitu bermakna. Mungkin terkesan sederhana. Tapi mitologi selalu menyimpan lebih dari yang tersampaikan. Sebelum berlanjut, aku menyeruput kopi sejenak agar neuron kepalaku tetap mendapat suplai oksigen dari jantung yang mulai dipacu oleh kafein.
 
-...
+***
 
 _Wahai psyche, maaf mungkin aku ingin sedikit membahas masa lalumu, aku hanya ingin mengambil makna darinya. Apakah aku salah? Bukankah semua kisah tidak bermanfaat selain untuk memberi pembelajaran? Kisahmu dikatakan menyimbolkan perjuangan setiap jiwa untuk menemukan jati dirinya melalui cinta. Tentu, aku ingat bagaimana semua itu dimulai,  bagaimana ketika dulu kau hanyalah manusia biasa, yang memiliki hidup normal sebagai seorang putri dari seorang raja, yang hanya berharap sekedar mendapatkan sesosok pendamping dan menjalani kehidupan normal layaknya seorang manusia. Namun Moirae memang selalu menyimpan rahasia terbesar manusia. Kau diberikan wajah begitu cantik hingga kenormalan hidup hanya akan menjadi angan. Kecantikanmu bahkan membuat Afrodite cemburu! Membuat semua laki-laki di dunia hanya bisa mengagumimu, tanpa punya keberanian sedikit pun untuk mencintaimu._
 
@@ -41,19 +41,18 @@ _Aku sepertinya mengerti betapa menyesalnya engkau saat itu psyche, hingga akhir
 
 _Tapi apalah arti semua itu dibandingkan kekuatan cinta, seperti yang ku tuliskan pada Eros sendiri, bahwa cinta adalah kehidupan, cinta adalah bagaimana kita mengabdi.  Maka kau tetap berhasil membawakan apa yang diminta Afrodite tanpa kurang suatu apapun. Namun sayang, keraguan itu tetap selalu menjadi petaka. Rasa penasaranmu pada kecantikan Persefone membuatmu melanggar peringatan yang melarangmu untuk tidak melihat apa yang kau bawa dari dunia Hades. Ah malangnya kau ketika itu wahai psyche, kutukan akhirnya menyelimutimu dan membawamu pada tidur abadi. Siapa lagi yang bisa menyelamatkanmu selain Eros sendiri, yang selama ini selalu mengamati dalam cemas? Maka datanglah ia dan menyembuhkanmu dengan semua cinta yang ia miliki._
 
-...
+***
 
 Aku termenung lagi, apa yang terjadi setelah itu sebenarnya bisa diprediksi. Namun yang ku ingat pada akhir kisah itu adalah dialog dua kekasih itu pertama kalinya ketika Psyche bangun...
 
-_"Psyche, what am I going to do with you? Will you never learn?"_
-
+_"Psyche, what am I going to do with you? Will you never learn?"_ <br>
 _"I have learned,"_ kata Psyche lembut. _"I've learned that I love you."_
 
 Begitulah mitologi. Sekarang mungkin saatnya bertanya, apa makna itu semua? Satu hal lagi mengenai kisah ini adalah atas semua perjuangan Psyche, Zeus menganugrahinya dengan keabadian dan hasilpernikahannya dengan Eros menghasilkan anak yang bernama Hedone, yang berarti kesenangan.
 
 Setelah berkisah, memang tak ada yang lebih baik selain mencoba menggali hikmah. Maka biarkan kepalaku mengalir dalam sebuah kesadaran rasionalitas paling sederhana, agar tidak butuh banyak teori, untuk sekedar memahami.
 
-...
+***
 
 _Wahai Psyche, akhir dari kisahmu memang begitu bahagia. Sekarang kau abadi layaknya dewi! Namun di atas semua itu, selalu ada tanya yang tersisa. Karena apalah gunanya aku bercerita bila tak mencoba mencari makna? Ku sebenarnya tak terlalu peduli akan bagaimana hidup para dewa sesungguhnya, namun bukankah kalian adalah personifikasi setiap eksistensi dan misteri? Maka kali ini apa yang sebenarnya kau representasikan Psyche? Secara sederhana, namamu berarti jiwa. Namun tidakkah kata itu sebenarnya memiliki begitu banyak persepsi? Apa sebenarnya jiwa?_
 
@@ -73,7 +72,7 @@ _Namun, bagaimana proses ini berlangsung bergantung pada struktur materinya, mak
 
 _Ah, baru ku sadari penjelasan sebelumnya agak sedikit terlalu jauh psyche, namun tak masalah demi sebuah pemahaman yang komprehensif. Namun melihat mayoritas pemahaman saat ini, terutama untuk agamawan ibrahimiyah, jiwa adalah sesuatu yang tetap ada walaupun struktur materinya (tubuh) berhenti berproses secara autopoetik, dengan suatu konsep kehidupan sesudah mati. Lalu bagaimana dengan itu Psyche? Apakah jiwa tetap mungkin bisa ada tanpa terwujud secara fisik? Lalu apa yang membawanya? Dalam prinsip strukur -proses, proses selalu terwujud dalam struktur, karena tanpa struktur, proses tidak akan terjadi, seperti halnya materi-energi. Bukankah semua perspektif yang ditimbulkan oleh jiwa muncul dari tubuh? Bukankah jiwa sendiri berkembang dari tubuh? Bagaimana jiwa memahami, merasakan sakit, atau bentuk personifikasi lainnya adalah perspektif yang muncul dari tubuh. Bagamana mungkin jiwa mengetahui apa itu “sakit” tanpa adanya tubuh yang memiliki saraf, yang memunculkan ide mengenai “sakit” dalam proses autopoesis neuron dalam otaknya?_
 
-...
+***
 
 Aku berhenti. Bingung melanjutkan ke arah mana, karena ternyata aku membahas terlalu jauh. Memang jiwa adalah suatu konsep yang tidak mudah untuk dipahami. Sebenarnya satu-satunya yang mengganjal dan belum bisa ku pahami adalah konsep jiwa yang terlepas dari tubuh. Karena perspektif akan jiwa itu muncul dari tubuh itu sendiri. Dengan kata lain, tidak mungkin membayangkan jiwa tanpa ada konsep tubuh. Memangnya seperti apa? Sesuatu yang tak tampak oleh mata biasa, atau sesuatu berwarna putih yang melayang-layang di udara, yang kemudian ternyata bisa berpikir dan berbicara? Padahal konsep berpikir dan berbicara muncul dari tubuh.
 
@@ -85,7 +84,7 @@ Lagipula, melalui proses autopoetik yang terus membentuk diri, yang dinamakan de
 
 Ah begitu kompleks. Namun terlepas dari itu, lebih baik ku lanjutkan suratku yang tertunda.
 
-...
+***
 
 _Psyche, mungkin sebaiknya tak perlu kau pikirkan semua teori memuakkan yang baru saja ku tuliskan. Kembali pada pertanyaanku di awal, apa itu jiwa?_
 
@@ -97,69 +96,40 @@ _Kisahmu mengingatkanku pada kisah lain dalam sufisme, Psyche. Sebuah kisah kary
 
 _Itulah kesucian jiwa Psyche, itulah keabadian yang berhasil kau dapatkan! Semuanya hanya murni pengungkapan diri sendiri, dengan menyingkirkan semua hal yang dapat menghalangi setiap jiwa untuk jujur dengan jati dirinya sebagai sosok aliran yang tak pernah tetap._
 
-...
+***
 
 Tanganku terhenti lagi untuk kesekian kalinya. Di antara semua serial suratku pada mitologi, sepertinya kali ini yang paling panjang. Entah. Mungkin karena jiwa memang bahasan yang begitu luas. Ia bisa menyerempet kemana-mana. Bukankah pemurnian jiwa ada di setiap agama? Pemurnian ini pun banyak bentuknya, bergantung keyakinan dan seberapa mengenal kita dengan noda yang kita miliki sendiri, serta bagaimana menyingkirkannya sebenarnya hanya bergantung seberapa keras kita berusaha. Seperti yang terungkap dalam kitab Taois Tsan-Tung-Chi (Sang Tritunggal) mengenai keabadian, yang salah satu cuplikannya tertulis sebagai berikut :
 
-<br>
-
-_“Padankan Yin dan Yang pada matahari dan bulan,_
-
-_Dan gunakan api dan air untuk saling mengaktifkan._
-
-_Ketiga harta – telinga, mata, dan mulut –_
-
-_Tutup dan kuncilah mereka dan jangan sampai ada yang keluar._
-
-_Makhluk yang mengalami pencerahan terbendam di kedalaman._
-
-_Mengapung dan berkelana, mengarahkan dari dalam._
-
-_Penglihatan dan pendengaran berliku-liku dan tidak lurus._
-
-_Buka dan tutup harus diselaraskan._
-
-_Dalam poros dan sumbu diri,_
-
-_Gerakan dan ketenangan haruslah tak pernah lelah._
-
-_Jagalah energi jika li (api) ada di dalam._
-
-_Jangan membebani energi cerdas dari k’an (air)._
-
-_Tutup mulut dan berhentilah bicara;_
-
-_Jarang bicara berarti mengalir dengan kesatuan yang tak terpisah-pisah._
-
-_Inilah tiga prinsip penting:_
-
-_Buat tubuhmu santai dan masuklah ke dalam sebuah ruang kosong;_
-
-_Abaikan keinginan dan kembalilah kepada kekosongan dan ketidaan._
-
-_Ketika tak ada buah pikir, kau akan menemukan yang tetap._
-
-_Biarkan kesulitan mendorongmu ke depan._
-
-_Pusatkan pikiran dan jangan biarkan berkelana._
-
-_Rangkullah jiwa saat kau tidur._
-
-_Perhatikan saat ia peduli dan waspadalah saat ia abai._
-
-_Kulitmu akan dilembabkan hingga bersinar._
-
-_Tulang dan persendian akan tumbuh kokoh dan kuat._
-
-_Ketika semua racun telah dikeluarkan,_
-
-_Satu-satunya yang tertinggal adalah yang yang sejati”_
-
-<br>
+_“Padankan Yin dan Yang pada matahari dan bulan,_ <br>
+_Dan gunakan api dan air untuk saling mengaktifkan._ <br>
+_Ketiga harta – telinga, mata, dan mulut –_ <br>
+_Tutup dan kuncilah mereka dan jangan sampai ada yang keluar._ <br>
+_Makhluk yang mengalami pencerahan terbendam di kedalaman._ <br>
+_Mengapung dan berkelana, mengarahkan dari dalam._ <br>
+_Penglihatan dan pendengaran berliku-liku dan tidak lurus._ <br>
+_Buka dan tutup harus diselaraskan._ <br>
+_Dalam poros dan sumbu diri,_ <br>
+_Gerakan dan ketenangan haruslah tak pernah lelah._ <br>
+_Jagalah energi jika li (api) ada di dalam._ <br>
+_Jangan membebani energi cerdas dari k’an (air)._ <br>
+_Tutup mulut dan berhentilah bicara;_ <br>
+_Jarang bicara berarti mengalir dengan kesatuan yang tak terpisah-pisah._ <br>
+_Inilah tiga prinsip penting:_ <br>
+_Buat tubuhmu santai dan masuklah ke dalam sebuah ruang kosong;_ <br>
+_Abaikan keinginan dan kembalilah kepada kekosongan dan ketidaan._ <br>
+_Ketika tak ada buah pikir, kau akan menemukan yang tetap._ <br>
+_Biarkan kesulitan mendorongmu ke depan._ <br>
+_Pusatkan pikiran dan jangan biarkan berkelana._ <br>
+_Rangkullah jiwa saat kau tidur._ <br>
+_Perhatikan saat ia peduli dan waspadalah saat ia abai._ <br>
+_Kulitmu akan dilembabkan hingga bersinar._ <br>
+_Tulang dan persendian akan tumbuh kokoh dan kuat._ <br>
+_Ketika semua racun telah dikeluarkan,_ <br>
+_Satu-satunya yang tertinggal adalah yang yang sejati”_ <br>
 
 Aku pun jadi teringat pada pepatah islam yang awalnya dikatakan hadits Rasulullah namun kemudian dikatakan palsu : “Barangsiapa mengenal dirinya maka sungguh ia telah mengenal Tuhannya.” Sebenarnya walaupun akhinya disebutkan bahwa itu hanyalah perkataan Yahyaa bin Mu’aadz Ar-Raaziy, namun ada makna mendalam yang terkandung di dalamnya. Mungkin jika ingin merujuk yang benar-benar hadits, aku teringat satu hal mengenai pencarian jati diri ini  yaitu Abu Hurairah radhiyallahu 'anhu berkata bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Allah berfirman: 'Aku berada pada sangkaan hamba-Ku, Aku selalu bersamanya jika ia mengingat-Ku, jika ia mengingat-Ku pada dirinya maka Aku mengingatnya pada diri-Ku, jika ia mengingat-Ku dalam suatu kaum, maka Aku mengingatnya dalam suatu kaum yang lebih baik darinya, dan jika ia mendekat kepada-Ku satu jengkal maka Aku mendekat padanya satu hasta, jika ia mendekat pada-Ku satu hasta maka Aku mendekat padanya satu depa, jika ia datang kepada-Ku dengan berjalan kaki, maka Aku akan datang kepadanya dengan berlari.”
 
-...
+***
 
 _Maka Psyche, jiwa hanyalah bentuk yang tak pernah tetap, bagaikan sungai yang selalu mengalir. Ketika aliran sungai itu lancar, maka jernihlah ia dan terbentuklah cermin yang akan memantulkan cahaya apapun yang datang kepadanya. Dan akhirnya tidak ada definisi apapun yang bisa mendeskripsikan jiwa, sehingga makna jiwa akan selalu abadi, karena ia kosong, ia hanya memantulkan, ia menyatu dalam aliran langit dan bumi. Bukankah itu makna keabadian yang kau dapatkan setelah perjuanganmu menebus keraguan? Maka apa yang kau hasilkan setelah itu? Hedone! Ya, anak hasil pernikahanmu dengan Eros adalah simbol perayaan terbesar dalam kehidupan. Bahwa kebahagiaan (pleasure/hedone) hanyalah penyatuan jiwa yang telah murni dengan cinta atau pengabdian yang utuh._
 
@@ -173,6 +143,6 @@ _Dengan jiwa yang masih berjuang,_
 
 _Finiarel_
 
-...
+***
 
 (PHX)

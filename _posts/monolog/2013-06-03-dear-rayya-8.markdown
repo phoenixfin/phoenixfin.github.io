@@ -15,7 +15,7 @@ description: Curhatan mengenai manusia
 
 Tanpa perlu banyak tanda tanya, terkadang makna memang cukup terenkirpsi dalam rangkaian kata-kata berkunci bahasa.
 
-...
+***
 
 _Bandung, 10 November 2012_
 
@@ -53,6 +53,6 @@ _Temanmu,_
 
 _Finiarel_
 
-...
+***
 
 (PHX)

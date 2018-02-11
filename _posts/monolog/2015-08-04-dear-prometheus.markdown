@@ -18,7 +18,7 @@ Zaman memang banyak berubah. Perjalanan ribuan kilometer bisa dilalui dengan san
 
 Bercerita tentang mitologi tidak sekedar menikmati dunia dongeng, tapi sebuah penelusuran lautan implisitas yang terdifusi dalam pernak-pernik imajinasi. Sayang, sekarang mitologi dinodai oleh film-film fiksi yang mengotori nilai-nilai sesungguhnya dari kisah yang orisinil, maka dalam rangka melestarikan semua nilai-nilai luhur itu juga, aku rangkum lagi semua kegelisahanku dalam bentuk monolog bersama tokoh mitos. Jika sebelumnya dalam surat-suratku dengan dewa-dewa berisi pembahasan mengenai cinta, jiwa, atau kematian, maka kali ini aku mencoba membahas sumber dari mana semua itu berasal. Pada siapa lagi kegelisahan ini aku tuju selain pada seorang titan yang paling mencintai manusia, yang pengorbanannya terhadap manusia tidak bisa ditandingi oleh dewa manapun?
 
-...
+***
 
 _Dear Prometeus, dengan pengorbanannya yang tak terlupakan_
 
@@ -26,13 +26,13 @@ _Entah dimana kau sekarang, wahai titan agung. Tak pernah lagi ku dengar kabarmu
 
 _Aku masih terheran dengan apa yang kiranya menyebabkanmu begitu ingin menolong  manusia. Bukankah manusia adalah makhluk yang hina? Hingga akhirnya kami berkali-kali dimusnahkan untuk kemudian dilahirkan kembali. Seperti apa yang terjadi pada generasi emas dan perak, generasi perunggu pun musnah akibat sifat-sifat dasar kami. Ah, mengenai kemusnahan generasi ketiga ini, aku teringat bahwa ini hanyalah permainan kesewenang-wenangan Zeus. Aku tak tahu, Prometeus, siapa aku berhak menilai. Namun ingin ku ingat ulang semua yang telah terjadi._
 
-...
+***
 
 Sebentar, aku teringat sesuatu. Tentu tidak banyak yang paham bahwa dalam mitologi Yunani, manusia lahir dalam 4 generasi: Emas, Perak, Perunggu, dan Pahlawan, maka biarlah aku bercerita sedikit. Memang yang namanya mitologi tentunya memiliki banyak versi, namun mengingat yang cukup umum dipakai adalah karya Hesiod, maka itulah yang ku gunakan. Seperti halnya yang kemudian diceritakan kembali oleh Menealos dan Yannis Stephanides, generasi awal manusia, generasi emas, adalah generasi yang hidup bahagia dengan kenikmatan tanpa henti. Mereka tidak mengenal rasa sakit atau letih, kematian mereka pun perlahan diam-diam bagai tidur yang nikmat. Pada kala itu bumi bagai surga dengan memberikan hasil melimpah ruah. Namun karena kekejaman Kronos, semua itu musnah, yang kemudian dilanjutkan generasi baru, yaitu generasi perak. Generasi ini sangatlah berlawanan dengan generasi sebelumnya, manusia menjadi bodoh dan lemah,tak punya keinginan bekerja dan hidup apa adanya, barbar dan kasar. Hingga akhirnya Zeus tak tahan melihatmereka dan mengirim mereka semua ke Hades.
 
 Zeus setelah itu menciptakan generasi baru manusia yang lebih seimbang, yang tidak sebagus generasi emas namun tidak selemah generasi perak. Pada awalnya semua berjalan biasa, manusia hidup dengan normal dan tetap memuja para dewa. Namun karena ketiadaan pengetahuan, mereka hidup sangatlah sederhana, tinggal di gubuk-gubuk sederhana atau gua-gua, tidak dapat mengolah apapun dengan baik, dan tidak bisa berkembang. Dari sinilah kisah Prometeus muncul. Oke, mari kita lanjutkan.
 
-...
+***
 
 _Memang, Prometeus, manusia generasi perunggu kala itu tidak tahu apa-apa  sehingga tidak bisa berbuat banyak dalam hidupnya. Namun bukankah mereka tidak lemah seperti generasi Perak? Sehingga mereka bisa berburu dan bekerja keras dengan baik untuk menghidupi hidup mereka sendiri. Tapi tentu itu tidak bisa membuatmu tahan membiarkannnya, bukan? Aku tak tahu apa yang ada di kepalamu wahai Prometeus, apa yang kau pikirkan sehingga bersedia mengorbankan apapun demi cintamu pada umat manusia. Aku selalu ingat yang kau katakan, “Tidak ada hal yang baik dan indah dapat diperoleh tanpa pengorbanan”._
 
@@ -50,7 +50,7 @@ _Maka masuklah saudaramu dalam perangkap, Prometeus. Celakalah ia, karena Pandor
 
 _Dengan lepasnya seluruh hawa jahat, kehidupan manusia berubah, kesengsaraan dan kejahatan terjadi dimana-mana silih berganti tanpa henti, memberi Zeus untuk memberi hukman pada mereka, memusnahkan seluruh manusia seperti yang ia lakukan pada generasi Perak. Dan kau hanya bisa memperhatikan semua itu dengan duka yang mendalam. Dengan memburuknya sifat manusia, apalagi tidak lagi menghormati para dewa, Zeus menyalahkanmu dan menyiapkan hukuman, untukmu dan untuk seluruh umat manusia.Tapi tidakkah itu aneh, Prometeus? Siapa yang mengirimkan Pandora ke bumi? Siapa yang bertanggung jawab atas kejahatan yang kini mewabah di dunia? Siapa yang harus dipersalahkan bila manusia berada dalam keadaan yang amat menyedihkan? Mungkin karena ini mitologi, tidaklah terlalu masalah jika Zeus tidak mempertimbangkan itu semua dan langsung menjatuhkan keputusan. Tapi ini cukup mengusik, Prometeus. Siapa yang sebenarnya membuat manusia menjadi jahat? Apakah manusia jahat karena keinginannya sendiri? Apakah manusia salah ketika misalnya ia menjadi jahat karena masa kecil yang kurang baik dan ia tumbuh dengan psikologis yang tidak normal? Apakah manusia memang bisa salah, ketika sebenarnya kuasa manusia terhadap takdirnya sendiri begitu minim? Mungkin akan lancang bila menyalahkan Yang Kuasa sepenuhnya, entah siapa, mungkin Zeus, mungkin juga yang lain, bergantung kepercayaan masing-masing, tapi salahkan kami atas sebab-sebab yang tidak bisa kami kendalikan? Tidak perlu kau jawab Prometeus, tidak perlu. Sebenarnya telah ku coba cari jawabannya dalam suratku pada dewi-dewi Takdir, para Moirae. Aku tidak ingin terlalu memikirkan itu sekarang.Lagipula siapa aku berhak bertanya._
 
-...
+***
 
 Jeda. Seperti biasa. Mengumpulkan dan menata kata-kata. Apa yang terjadi selanjutnya sebenarnya merupakan kisah hampir di semua peradaban. Mengenai banjir besar yangmenenggelamkan semua manusia, bukankah itu dikisahkan dimana-mana? Dari bangsa Viking hingga Islam, hanya tokoh dan embel-embelnya yang berbeda, termasuk Yunani. Aku sendiri cukup terheran-heran kenapa kisah banjir bisa diceritakan di berbagai tempat dan waktu yang berbeda. Apakah karena memang kisah ini nyata dan mengalami modifikasi berbeda-beda oleh manusia? Sepertinya begitu. Ini juga menjadi sebuah bukti bahwa semua konsep mitologi pada akhirnya berakar sama. Aku sering memperhatikan, kisah mengenai perang besar, atau sebuah epik, pun selalu ada, namun dengan bentukan yang berbeda, seperti Ragnarok di Viking, Perang Troya di Yunani, atau Barathayudha di India. Memang, semakin kita mengetahui mitologi, semakin semua terasa indah dan menarik. Mitologi bagaikan bungkus yang merangkum berbagai pembelajaran dalam kisah-kisah yang pantas dibaca siapapun , dari anak-anak hingga dewasa. Mitologi hanya sejarah yang berhias.Baiklah, kita lanjutkan saja.
 
@@ -60,7 +60,7 @@ _“Segera saja mega hitam menyelubungi bumi. Awan terus datang dan bertambah te
 
 Benar-benar penggambaran yang memukau mengenai situasi datangnya banjir. Banyak yang mengenal kisah ini sebagai kisah Bahtera Nuh, namun kali ini, di mitologi Yunani, kita mengenalnya dengan Banjir Besar Deukalion. Kenapa Deukalion? Daripada terlalu banyak intermeso di tengah usaha pengumpulan kata-kata di tengah malam yang tenang, sebaiknya aku lanjutkan saja suratku pada sang Titan.
 
-...
+***
 
 _Dimanakah kau kala itu Prometeus? Tentu saja kau tidak akan tinggal diam melihat hal ini. Tentu, tentu. Kau pasti akan menyelamatkan manusia bagaimana pun caranya. Dan itulah yang kau lakukan! Sekali lagi kau tunjukkan pengabdianmu pada umat manusia, mengacaukan rencana Zeus yang menginginkan penghancuran total seluruh bangsa manusia. Tapi tidak, tidak total. Anakmu melakukan tugasnya dengan baik. Ya, Deukalion, raja Ftiotis, yang atas petunjukmu, sang ayah, membangun bahtera dari ratusan pohon ek dan pohon sipres. Dengan bantuan istrinya, Pirha, dan anak-anaknya, pekerjaan Deukalion berjalan lancar dan cepat. Kau tentu bangga dengan anakmu Prometeus, karena berikutnya ia dan Pirha lah yang menjadi penyelamat umat manusia, yang kemudian memulai generasi baru umat manusia, setelah berakhirnya generasi Perunggu akibat banjir teresebut._
 
@@ -96,7 +96,7 @@ _Dengan kebebasan untuk hidup sepenuhnya,_
 
 _Finiarel_
 
-...
+***
 
 Pada akhirnya aku hanya ingin bercerita. Apa yang terjadi dengan Zeus, Prometeus, Herakles, ataupun dewa-dewa lainnya, tidak ada yang tahu. Puncak Olimpus saat ini pun hanya ditemani angin dingin dan kabut yang tebal, menyisakan kisah-kisah epik masa lalu. Tapi bukankah yang terpenting dari cerita adalah maknanya? Janganlah merusak keindahan suatu kisah dengan rasionalitas, karena pada akhirnya, kumpulan kisah seperti mitologi adalah paket kisah bijak yang cemerlang bagai jalinan terang imajinasi yang muncul dari kedalaman berabad-abad. Sayang, pikiran manusia masa kini sudah dirusak oleh  logika dan ilmu pengetahuan, melupakan hal-hal indah yang melampaui rasionalitas itu sendiri. Tapi tak apalah, karena apalah arti menyalahkan, yang terpenting dimanapun dan kapanpun kita hidup, mari hidupi hidup ini sepenuhnya.
 

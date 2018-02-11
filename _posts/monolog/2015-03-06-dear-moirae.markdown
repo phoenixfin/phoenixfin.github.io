@@ -15,7 +15,7 @@ description: Perenungan Terhadap Triplet Perajut Takdir
 
 Sudah berkali-kali beribu pikiran melintas dalam kompleksitas neuron di kepalaku. Terkadang dalam visualisasi yang sangat jelas, terkadang dalam abstraksi yang terbatas. Termasuk satu hal yang ku coba ungkapkan saat ini, mengenai apa yang menggelisahkan pikiranku selama bertahun-tahun, yang juga menggelisahkan peradaban manusia selama berabad-abad, yang terkadang dicoba jawab dengan berbagai cara, dari agama hingga logika. Pernahkah ada orang yang hidup tanpa bertanya, ke arah mana semua kehidupan ini? Entahlah, jikalau ada, orang tersebut tentu sangat bahagia, karena sesungguhnya pertanyaan adalah jarum yang sangat menyiksa, membuat kita sulit menerima, lebih menuntut untuk bertanya.
 
-...
+***
 
 _Dear Moirae, yang menguasai takdir._
 
@@ -33,7 +33,7 @@ _Begitu banyak hal tragis di dunia ini wahai Moirae, yang manusia hanyabisa pasr
 
 _Terkadang, banyak yang mengaitkan takdir dengan usaha yang kita lakukan. Selama kita berusaha, maka kita akan mendapatkan hasil yang sesuai. Tapi apa itu usaha? Bagaimana dengan seseorang yang hanya butuh melihat sekilas untuk memahami suatu pelajaran ketimbang yang butuh membaca berkali-kali untuk dapat paham? Apakah ada keadilan dalam berusaha? Apakah hubungan takdir dan usaha merupakan fungsi linear? Namun tentu saja bagaimanapun juga usaha seseorang, ia tetap tidak punya kehendak yang sepenuhnya bebas akan apapun yang akan terjadi dalam hidupnya, walaupun ia mungkin tetap mendapatkan hasil, terlepas itu sesuai atau tidak. Apakah yang sebenarnya terjadi di dunia ini? Apa itu takdir?_
 
-...
+***
 
 Aku terhenti. Paragraf terakhir mengenai usaha dan takdir mengingatkanku pada suatu tulisan oleh Lie Tzu dalam bukunya mengenai Tao. Aku periksa 3 lemari buku yang mengelilingi kamar kosku. Hingga akhirnya aku menyadari bahwa buku itu ada di dalam tas kecil di pojokan kamar, bersama Qur’an dan buku inti ajaran Buddha. Aku buka dan mencari cepat, hingga akhirnya menemukan sebuah percakapan antara Usaha dan Takdir.
 
@@ -53,7 +53,7 @@ Selalu saja menarik, ajaran Tao mengenai kekosongan dan aliran memang bahkan men
 
 Memang hal itu sedikit berlawanan dengan agama ibrahimiyah (yahudi, kristen, islam) yang cenderung meyakini adanya eksistensi Maha dia tas segalanya yang memang mengatur segala sesuatu. Dalam islam sendiri, takdir (memang serapan Indonesia dari bahasa arab) secara harfiah berarti kuasa atau ukuran/kadar. Artinya ada “sesuatu” lain di semesta ini yang murni punya kuasa (kehendak bebas) untuk mengukur atau membatasi arah segala sesuatu. Aku mungkin bukan agamawan yang baik, karena aku lebih banyak bertanya sebelum langsung meyakini. Maka terlepas dari dogma dan agama apapun, aku coba menahan perut yang lapar dan melanjutkan pelepasan semua pikiranku melalui common sense sesederhana mungkin yang ku punya, demi sebuah pemahaman umum tentang takdir. Maka aku pun kembali mengetik...
 
-... 
+***
 
 _Wahai 3 wanita pengendali takdir, apa yang sebenarnya kalian pertimbangkan ketika menentukan suatu benang kehidupan? Bahkan dewa-dewa pun tunduk pada kalian! Kelahiran Apolo, Artemis, dan Atena, pertempuran para Titan,ancaman Taifun yang melahirkan Cerebrus, Ladon, Hidra, Khimera, dan monster-monster lainnya, atau kematian Feton karena kenekatannya menaiki kereta surya ayahnya sang dewa matahari, Helios, semua berada dalam perkiraan kalian. Bagaimana dengan manusia? Apa yang sebenarnya kau tuliskan bagi kami yang tak punya kekuatan ini? Apakah ini lelucon? Apakah kalian mempermainkan kami para manusia dengan buku takdir kalian? Lalu untuk apa kami diberikan kesadaran, seakan-akan dapat memilih namun kami tahu semua tindakan kami telah berada dalam alur pasti? Tetap saja muncul suatu paradoks, karena tak mungkin kehendak bebas dan determinisme takdir ada secara bersamaan. Jika takdir itu benar-benar ada, kita tidak mungkin punya kehendak bebas, jika kita punya kehendak bebas, tidak mungkin takdir kita benar-benar ditentukan. Alangkah konyolnya semua ini! Maka tetap saja tak bisa ku jawab, apa itu takdir?_
 
@@ -85,7 +85,7 @@ _Salah satu aktor dalam drama takdir,_
 
 _Finiarel._
 
-...
+***
 
 Ah, aku kembali ke kesadaranku, ke dunia nyata, ke suasana yang mana hanya terdengar senyap suara mp3 laptop dan detik jam yang jarum pendeknya sedikit melewati angka satu. Menulis memang seakan pergi ke dimensi lain, dimensi penuh imajinasi dan kata-kata, membuatku seakan terasingkan dari dunia nyata yang sesungguhnya. Ketika kembali sadar, ku sadari tenggoranku mulai mengering, maka ku teguk air sejenak dari botol minum di sebelah laptop selagi mengamati semua hasil ketikanku selama 3 jam terakhir.
 
@@ -97,28 +97,17 @@ Pikiranku terhenti. Lapar yang mulai menggangguku tertahan ketika saat ini playl
 
 ...
 
-_Jika tak diizinkan menari di dalamnya_
-
-_Maka itu bukan bagian revolusiku_
-
-_Aku hanya ingin menyembah tuhan_
-
-_Yang mengerti bagaimana caranya menari_
-
-_Menarilah menarilah menarilah menarilah...._
-
-_Aku akan tahu siapa dirimu saat kau menari_
-
-_"If I can't dance to it_
-
-_I don't want your revolution"_
-
-_Para darwis berputar memusat di dalamnya_
-
-_Cakrawala menumpu titik jiwanya_
-
-_Gemulai lekuk Brahmana mengelilingi api_
-
+_Jika tak diizinkan menari di dalamnya_ <br>
+_Maka itu bukan bagian revolusiku_ <br>
+_Aku hanya ingin menyembah tuhan_ <br>
+_Yang mengerti bagaimana caranya menari_ <br>
+_Menarilah menarilah menarilah menarilah...._ <br>
+_Aku akan tahu siapa dirimu saat kau menari_ <br>
+_"If I can't dance to it_ <br>
+_I don't want your revolution"_ <br>
+_Para darwis berputar memusat di dalamnya_ <br>
+_Cakrawala menumpu titik jiwanya_ <br>
+_Gemulai lekuk Brahmana mengelilingi api_ <br>
 _Berotasi anggun tasbihkan diri ilahi_
 
 ...

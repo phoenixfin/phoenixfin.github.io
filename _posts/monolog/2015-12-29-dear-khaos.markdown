@@ -19,7 +19,7 @@ Ya setelah menahan ide yang kebelet keluar sejak berminggu-minggu yang lalu, akh
 
 Dengan merenggangkan tangan, tarik nafas dalam, aku biarkan jariku menari anggun di atas keyboard untuk mengiringi nada-nada gagasan yang terus mengalun. Setelah menuliskan yang mengenai waktu sebelumnya (Dear Khronus), ku telah merenung beberapa waktu untuk mengendapkan semua ide yang ada untuk dirangkai cantik bersama kata-kata.
 
-...
+***
 
 _Dear Khaos, Yang Ada Dimana-mana,_
 
@@ -48,13 +48,13 @@ _Menarik bukan Khaos? Inilah yang terkandung dalam dirimu, yang menjalankan seme
 
 _Siklus lah yang membuat segalasesuatu jadi stabil dan seimbang. Kalaupun ada gangguan, siklus ini akan menyesuaikan diri dengan sendirinya agar kestabilan tetap tercapai. Proses menyesuaikan diri ini biasanya membuat sistem berada dalam keadaan transisi yang mana ditandai kekacauan, suatu siklus baru sebelum akhirnya terbentuk keteraturan baru. Ambillah contoh suatu peradaban, yang mana sering kali ada gangguan seperti naiknya penguasa yang kurang baik. Keadaan ini akan memicu keadaan baru yang kurang stabil sehingga secara natural akan terjadi proses penstabilan diri yang ditandai dengan kekacauan, suatu transisi keadaan. Setelah pergolakan dan konflik panjang, akan terbentuk tatanan baru yang lebih stabil dari sebelumnya. Proses ini secara umum terjadi di segala sektor di alam. Dalam ilmu yang ku pelajari wahai Khaos, matematika, sistem dinamik memang memiliki mekanismenya sendiri untuk terus bergerak dalam pola-pola menuju kestabilan, atau ekuilibrium._
 
-...
+***
 
 Ku terdiam sejenak, untuk kesekian kalinya. Tentu saja. Tidak mudah untuk merangkai tulisan seperti ini. Maka harus selalu ada jeda untukku sekedar menyegarkan pikiran dengan pekerjaan lain, makan apa yang bisa dimakan, atau menatap kejauhan pada jendela yang terpampang di balik laptopku. Aku teringat sejak SMP bahwa impianku adalah bisa memahami semesta yang kompleks ini, yang kemudian berubah sedikit ketka SMA menjadi ingin mencari kebenaran. Imipan yang belum berubah hingga saat ini kurasa. Semua yang ku tuliskan selama ini toh hanyalah berbagai bentuk catatan-catatan hasil pencarianku terhadap kebenaran yang kubungkus dengan cara berbeda-beda.
 
 Tapi apalah artinya. Kebenaran itu telah bertransformasi menjadi banyak imaji. Bahkan ketika orang-orang yunani kuno membayangkan semesta lahir dari kekosongan bernama Khaos pun, itu adalah kebenaran. Terkadang memakai cara berpikir seperti mereka membantuku untuk lebih merasa bebas untuk berimajinasi dan berabstraksi. Dan sekarang, aku berusaha mengabstraksi semua kejadian di alam semesta dalam suatu benang merah yang sama, sebuah siklus. Ide ini menginspirasiku ketika aku melihat betapa kerennya sistem persamaan diferensial yang menjadi dasar bergeraknya suatu sistem, apalagi yang dinamik. Tentu saja ilmu matematikaku terkait halini masih belum mapan, namun secara abstrak telah ku pahami dan ku integrasikan dengan semua pemahamanku yang lain terkait semesta. _Well_, ku harap aku tidak terlalu mengada-ngada. 
 
-...
+***
 
 _Wahai Khaos, dalam sistem yang lebih kompleks, dikenal apa yang disebut sebagai butterfly effect, kondisi dimana satu gangguan kecil dapat menyebabkan pengaruh besar pada keseluruhan sistem. Kondisi yang menjadi bagian dari teori yang memakai namamu ini, teori Khaos, merupakan fenomena yang menjadi contoh mekanisme penstabilan diri sistem. Butterfly effect atau efek kupu-kupu disebut demikian karena sering memakai penjelasan sederhana bahwa kepakan kupu-kupu di suatu belahan dunia dapat menyebabkan badai di belahan bumi yang lain. Hal ini karena atmosfer merupakan satu kesatuan sistem yang kompleks, ketika ada gangguan yang memengaruhi kestabilan secara tidak langsung, secara natural atmosfer akan menyesuaikan diri yang mungkin mengakibatkan badai di tempat lain. Hal ini terjadi secara menyeluruh di seluruh semesta, wahai Khaos, termasuk dalam sistem manusia. Tidakkah kau lihat perang sipil Syiria yang terjadi sekarang? Tahukah kamu bahwa konflik skala negara, bahkan skala internasional karena amerika dan prancis ikut campur, seperti itu hanya disebabkan oleh tindakan 6 anak muda yang melukis grafiti yang berisi kritik pemerintah di sebuah tembok jalanan di kota Daraa? Coret-coret dinding oleh anak-anak mungkin tindakan sederhana yang secara wajar terjadi di hampir semua tempat di negara berkembang, tapi karena sistem mengindentifikasi tindakan itu sebagai gangguan, tercipta mekanisme penstabilan diri secara alami yang akhirnya berujung pada keadaan transisi yang kacau seperti saat ini. Pada suatu titik, konflik ini akan selesai dan akan tercipta suatu sistem baru yang lebih stabil. Sekali lagi Khaos, mengagumkan bukan?_
 
@@ -84,7 +84,7 @@ _Dengan kesadaran tunggal,_
 
 _Finiarel_
 
-...
+***
 
 Apalah artinya semua kata-kata panjang di atas bila akhinya subjektvitaslah yang menang? Hal yang cukup merisaukan sebenarnya, ketika semua kembali ke masing-masing orang untuk memahaminya seperti apa, entah sepaham, entah menolak, entah ragu. Semua tetap kembali pada setiap individu. Ya, bentuk sederhana dari anarki, yang juga dijalani semesta ini. Tulisan ini toh hanyalah untaian usahaku untuk mengungkap sekelumit kebenaran yang ku amati. Mungkin saja sekelumit di sini hanyalah setetes air di tengah samudra luas, tapi kebenearan tetaplah kebenaran, walau hanya setetes. Manusia bukankah memang selalu ditakdirkan untuk mengejar yang tak mungkin? Semua proses “sia-sia” itulah yang membuat kita semua ini manusia. Maka apapun yang kalian pahami dengan apa yang aku ungkapkan, yang ku harapkan hanya satu, semoga bermanfaat. Kamu setuju atau tidak, semesta pada akhrinya akan tetap menjadi semesta.
 
