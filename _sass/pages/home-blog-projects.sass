@@ -42,9 +42,8 @@
     > .puis > .item > .url
         width: 100%
         display: block
-        padding: 20px 0
+        padding: 7px 0
         text-decoration: none
-
 
     > .item > .url > .title
         margin: 0
@@ -52,7 +51,16 @@
         font-weight: 500
         transition: all ease-in-out .2s
 
+    > .puis > .item > .url > .title
+        margin: 0
+        width: 75%
+        font-weight: 500
+        transition: all ease-in-out .2s
+
     > .item:hover > .url > .title
+        color: $delta
+
+    > .puis > .item:hover > .url > .title
         color: $delta
 
     // maybe we can't nest html5 elements
