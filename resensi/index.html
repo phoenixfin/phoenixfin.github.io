@@ -12,12 +12,12 @@ description: Kumpulan resensi film.
     </figure>
 	{% for post in site.posts %}
 		{% if post.title == book.title %}
-			<a href="{{ site.url }}{{ post.url }}">
 				<div class="book-info" align="center">
-					<h4>{{ book.title }}</h4>
+					<a class="url" href="{{ site.url }}{{ post.url }}">
+						<h4>{{ book.title }}</h4>
+					</a>
 					<p style="font-size:90%;">{{ book.author }}</p>
 				</div>
-			</a>
 		{% endif %}
 	{% endfor %}
   </article>
