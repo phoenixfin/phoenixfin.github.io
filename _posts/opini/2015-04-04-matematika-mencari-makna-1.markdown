@@ -59,10 +59,9 @@ Maka ketika kita bertanya lagi, apa itu matematika, jawabannya tidak pernah ada,
 
 (PHX)
 
-...
+***
  
-__Appendiks__ : 
-
+__Appendiks__ : <br>
 Di bawah adalah berbagai usaha untuk mendefinisikan matematika. Perhatikan bahwa semua definisi itu benar dalam beberapa sisi namun tidak ada yang benar-benar secara lengkap menggambarkan keseluruhan matematika.
 
 _“A mathematician is a blind man in a dark room looking for a black cat which isn't there.”_ -- Charles Darwin

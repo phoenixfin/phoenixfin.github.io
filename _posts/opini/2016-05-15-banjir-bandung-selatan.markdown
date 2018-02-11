@@ -46,6 +46,7 @@ Melihat dari segi iklim pun, cekungan Bandung , beserta wilayah sekitar Bandung 
  
 <figure>
   <img class="image" src="/assets/images/blog/banjir-bandung-selatan-7.jpg" alt="Alt Text">
+  
   <figcaption>Kontur Curah Hujan Bandung dan sekitarnya</figcaption>
 </figure>
  
@@ -87,6 +88,7 @@ Elevasi lahan di sekitar hulu yang lebih rendah ketimbang permukaan sungai ketik
 
 <figure>
   <img class="image" src="/assets/images/blog/banjir-bandung-selatan-13.jpg" alt="Alt Text">
+  
   <figcaption>Data Sebaran Pemanfaatan Lahan DAS Citarum Hulu (2010)</figcaption>
 </figure>
 

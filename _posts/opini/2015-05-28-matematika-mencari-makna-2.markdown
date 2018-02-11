@@ -17,6 +17,8 @@ Tidak bisa disebut sambungan, namun rangkaian dari [bagian pertama][1]
 
 [1]: http://phoenixfin.me/matematika-mencari-makna-1
 
+***
+
 Pencarian terhadap makna bukanlah suatu hal yang bisa selesai dengan singkat, bahkan bisa membutuhkan ribuan tahun, apalagi untuk suatu eksistensi seabsurd matematika. Bisa dibayangkan, matematika, selayaknya hidup, Tuhan, takdir, atau cinta, merupakan salah satu objek yang telah menjadi pembahasan abadi sejak pertama kali peradaban manusia muncul. Hampir tiada akhir. Karena melihat di masa kini pun, matematika masih meluaskan dirinya ke dalam bentuk paling abstrak dalam ranah teori sekaligus ke bentuk paling kompleks dalam ranah praktis.
 
 Pada tulisan sebelumnya, sudah sedikit saya coba paparkan apa yang selama ini saya pikirkan mengenai definisi matematika, yang berujung pada suatu kesimpulan yang mungkin tak memuaskan. Tapi memang, matematika telah menjadi sesuatu yang tak bisa didefinisikan, ia saat ini telah bertransformasi menuju suatu wujud yang bisa melebur ke semua eksistensi. Walau mungkin saya sendiri hanyalah mahasiswa yang baru mengenal wujud ini selama 3 tahun, yang mungkin hanya baru mengetahui kurang dari satu persen dari apa sesungguhnya matematika, namun saya tidak dapat menahan diri untuk melepaskan kontemplasi. Untuk kali ini, saya tak akan membahas lagi definisi, namun mencoba satu perspektif yang sejak awal selalu menjadi paradigma umum terhadap matematika, bahwa matematika hanyalah tools, suatu perkakas yang tinggal pakai untuk menyelesaikan permasalahan-permasalahan praktis. Tentu saja itu tidak salah, tapi apa salahnya mencoba merefleksi.

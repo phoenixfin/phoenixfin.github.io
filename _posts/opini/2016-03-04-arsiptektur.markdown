@@ -14,7 +14,8 @@ author: aditya
 description: Kebingungan atas keadaan kemahasiswaan masa kini bisa disebabkan oleh gagalnya kita memahami narasi yang melatarbelakangi eksistensi mahasiswa itu sendiri. Darimana kita paham narasi itu? Arsip masa lalu
 ---
 
-“... arsip -sekecil apa pun- mampu bergulir dalam berbagai kesempatan, menciptakan rangkaian akumulasi pengetahuannya sendiri, ketersebaran dan kemudahan aksesnya, sehingga informasi arsip tersebut memiliki “nafas” yang lebih panjang sebagai bagian dari sejarah masyarakatnya.” -- Anna Mariana, “Menghidupkan Arsip, mencipta Wacana”, dalam Arsipelago --
+> “... arsip -sekecil apa pun- mampu bergulir dalam berbagai kesempatan, menciptakan rangkaian akumulasi pengetahuannya sendiri, ketersebaran dan kemudahan aksesnya, sehingga informasi arsip tersebut memiliki “nafas” yang lebih panjang sebagai bagian dari sejarah masyarakatnya.” <br>
+> -- Anna Mariana, “Menghidupkan Arsip, mencipta Wacana”, dalam Arsipelago --
 
 Tanpa perlu melihat ke kalender, kita ketahui bahwa saat ini kita tengah berada di tahun 2016 Masehi, setelah 108 tahun sejak berdirinya organisasi pemuda Boedi Oetomo, 88 tahun berlalu sejak dirumuskannya sumpah pemuda, 71 tahun sejak dirumuskannya proklamasi, 51 tahun sejak ditumbangkannya PKI, 38 tahun sejak dimandulkannya kebebasan akademis dengan NKK-BKK, dan 18 tahun sejak jatuhnya orde baru dan mulainya era reformasi. Ada apa dengan 2016? Tidak ada yang bisa menjawab pada dasarnya, karena selayaknya membaca novel, kita tidak akan pernah paham keseluruhan kisah sebelum mencapai akhir dari cerita, tapi minimal, kita bisa memahami apa yang telah terjadi dari awal kisah hingga titik dimana kita tengah membaca. Tapi tentu, bila kita langsung membuka halaman tengah novel dan memulai membaca, kita akan merasa bingung pada kisah yang sesungguhnya terjadi, dan hanya bisa menerka-nerka. 
 
@@ -59,6 +60,7 @@ Melihat keadaan masa kini, yang mana budaya literasi menurun terus menerus sebag
 
 <figure>
   <img class="image" src="/assets/images/blog/arsiptektur-1.jpg" alt="Alt Text">
+  
   <figcaption>Gambar utama pada halaman depan arsip tabloid Boulevard edisi IV, Februari 1994, yang menyiratkan salah satu cuplikan sejarah terkait perayaan sumpah pemuda oleh DEMA pada 1971</figcaption>
 </figure>
 

@@ -18,6 +18,8 @@ Setelah setahun menulis [Kaderisasi Intelektual][1], sekarang dalam suasana yang
 
 [1]: http://phoenixfin.github.io/kaderisasi-intelektual
 
+***
+
 Manusia pada hakikatnya memiliki dualisme, dua kutub yang selalu menyertai perjalanan panjang kehidupan dan peradaban, yaitu individualitas dan sosialitas. Aspek individualitas akan menghasilkan dunia dalam diri manusia itu sendiri, yang dapat membuatnya  memiliki jati diri dan kehendak, keterampilan dan pengetahuan, yang secara bebas ia miliki sebagai seorang individu. Aspek sosialitas menyeimbangkan aspek ini dengan sistem kontrol yang berasal dari manusia lain, menghasilkan suatu dunia kolektif yang lahir dalam pemahaman bersama, jati diri dan kehendak yang tercipta pun kolektif. Aspek sosial ini secara terstruktur kemudian tersusun pada apa yang sekarang dikenal dengan organisasi, atau saudara semaknanya, seperti komunitas, klub, dan lain sebagainya. 
 
 Organisasi tercipta  dalam rangka kecendrungan pemenuhan penyeimbangan dua kutub manusia. Penciptaan pemahaman kolektif akan menghasilkan tujuan bersama, yang mengesampingkan ego demi kepentingan komunal. Seperti yang sudah saya bahas pada tulisan sebelumnya, pemahaman kolektif ini lah, atau yang lebih nyaman disebut dengan kesepakatan, bersama-sama dengan pelaku atau subyek kolektivitas dari pemahaman itu yang kemudian menjadi dasar organsisasi. Singkatnya, organisasi secara sederhana punya dua pilar, yakni pelaku dan kesepakatan.Untuk membuat suatu organisasi dapat bertindak dinamis, pelaku harus mengalami translasi generasi untuk mempertahankan keberlanjutan dari organisasi tersebut. Sebuah sistem yang stabil harus memiliki alur masuk dan keluar yang konsisten, sehingga isi dari sistem akan selalu terperbarui secara periodik dan teratur. Proses atau mekanisme  translasi generasi inilah yang sebenarnya merupakan deskripsi dasar dari apa yang kita kenal dengan kaderisasi.
@@ -96,7 +98,8 @@ Organisasi kemahasiswaan melupakan lubang mana yang seharusnya ditambal dalam in
 
 Tidak bisa dipastikan bentuk yang ideal dari organisasi kemahasiswaan maupun sistem pengaderannya seperti apa. Namun yang jelas, kesadaran dalam diri masing-masing terlebih dahulu diperlukan sebelum bertindak lebih lanjut. Organisasi terbentuk atas adanya kesepakatan kolektif, dan sebagai intelektual, kesepakatan itu harus terus dibentuk ulang melalui diskusi yang akademis. Sekali lagi bagaimana melakukannya, tetap harus diawali dari kesadaran, karena bagaimanapun, untuk menciptakan diskusi yang tepat sasaran, intelektualitas itu sendiri harus tertanam pada pelakunya. Dengan keadaan seperti sekarang ini, marilah kita terlebih dahulu bertanya pada diri masing-masing, sudah adakah intelektualitas pada diri kita?
 
-"_To be wholly devoted to some intellectual exercise is to have succeeded in life._" -- Robert Louis Stevenson --
+> "_To be wholly devoted to some intellectual exercise is to have succeeded in life._" <br>
+> -- Robert Louis Stevenson --
 
 (PHX)
 

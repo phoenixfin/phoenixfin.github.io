@@ -14,7 +14,8 @@ author: aditya
 description: Teknologi informasi telah menciptakan penjara yang narapidananya secara sukarela masuk ke dalamnya
 ---
 
-“Aku takut suatu hari teknologi akan melampaui interaksi manusia. Dunia akan memiliki generasi idiot” -- Albert Einstein --
+> “Aku takut suatu hari teknologi akan melampaui interaksi manusia. Dunia akan memiliki generasi idiot” <br>
+> -- Albert Einstein --
 
 Zaman telah membawa kita dalam suatu kondisi yang cukup ironis. Menimbulkan berbagai tanda tanya baru, yang tak pernah muncul sebelumnya. Dunia sekarang berada pada kondisi dimana masalah tidak terlihat sebagai masalah, padahal masalah itu telah jelas terlihat nyata di depan mata. Mungkin memang dunia saat ini terlihat begitu nyaman dan aman. Tentu saja! Teknologi ada dimana-mana, apalagi sekarang yang membuat susah orang? Ya, dunia memang terasa indah ketika kita dengan mudahnya menghubungi kawan yang jauh hanya dengan menyentuh sebuah layar berpendar. Ya, dunia memang terasa indah ketika informasi apapun bisa mengalir begitu mudahnya layaknya sungai di musim berhujan. Ya, dunia memang terasa indah ketika tak perlu lagi berjalan berjam-jam untuk mencapai tempat yang jauh. Ya, dunia memang indah. Namun apakah memang sepenuhnya indah dengan semua teknologi yang ada?
 
@@ -94,7 +95,8 @@ Dalam dunia irasional, apa lagi yang dapat mengendalikan emosi? Pada akhirnya, k
 
 Kalian yang masih punya hati tentu bisa sangat memahami betapa fatalnya dampak teknologi pada manusia. Jadi tunggu apa lagi? Masih mau jadi korban dan bingung pada keadaan? _But, who knows?_ Pilihan tetap ada pada diri masing-masing
 
-“Matrix adalah dunia impian ciptaan komputer yang dibuat untuk mengendalikan kita untuk mengubah manusia menjadi seperti ini (baterai)” -- Morpheus, dalam film The Matrix (1999) --
+> “Matrix adalah dunia impian ciptaan komputer yang dibuat untuk mengendalikan kita untuk mengubah manusia menjadi seperti ini (baterai)” <br>
+> -- Morpheus, dalam film The Matrix (1999) --
 
 (PHX)
 

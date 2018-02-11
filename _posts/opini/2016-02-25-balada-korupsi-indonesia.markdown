@@ -14,7 +14,8 @@ author: aditya
 description: Ada apa dengan korupsi yang seakan-akan mengakar dalam di Indonesia?
 ---
 
-"Orang yang cemburu sepertiku, jika bercermin membelah cermin. Jika Pemilu-menjual suara. Jika tak punya uang-jadi penipu. Jika punya uang-jadi rentenir. Jika menjadi supporter-menyalah-nyalahkan wasit. Jika mencintai-menyakiti. Jika menjadi politisi-korupsi." -- Andrea Hirata --
+> "Orang yang cemburu sepertiku, jika bercermin membelah cermin. Jika Pemilu-menjual suara. Jika tak punya uang-jadi penipu. Jika punya uang-jadi rentenir. Jika menjadi supporter-menyalah-nyalahkan wasit. Jika mencintai-menyakiti. Jika menjadi politisi-korupsi." <br>
+> -- Andrea Hirata --
 
 Belum lama ini tengah hangat isu mengenai revisi UU KPK yang menjadi landasan yuridis berdirinya lembaga yang selama ini dipercaya cukup efektif menangkap dan mengadili pesakitan-pesakitan parasit negara. Mungkin memang wacana terkait korupsi adalah wacana yang bisa membuat hati, telinga, dan pikiran gatal sendiri dengan campuran sensasi antara jengkel, sedih, dan bingung disebabkan betapa wacana ini selalu menghiasi berita-berita sepanjang tahun. Kita sebenanrya bisa memandang korupsi ini dengan beragam cara. Memang tidak bisa dipungkiri sistem dan keberjalanan mekanismenya memberi pengaruh yang cukup besar terkait probabilitas terjadinya tindakan-tindakan yang merugikan negara. Itu lah yang menjadi fokus utama isu yang akhir-akhir ini tengah berkembang terkait terancamnya KPK untuk dilemahkan, karena memang keberadaan KPK adalah salah satu bentuk penekanan probabilitas terjadinya tindakan korupsi dari segi sistem. Dengan menyempitkan celah-celah kesempatan untuk melakukan tindak pidana korupsi, niat-niat untuk melakukan itu bisa ditekan. Ya tentu saja, kesempatan adalah sebab utama mengapa manusia bertindak.
 

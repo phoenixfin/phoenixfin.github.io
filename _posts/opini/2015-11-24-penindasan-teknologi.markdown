@@ -15,7 +15,8 @@ author: aditya
 description: Teknologi berkembang dalam suatu periodisasi pergeseran kuasa, namun pada akhirnya mencipta anomali di masa kini.
 ---
 
-“_Humanity is acquiring all the right technology for all the wrong reasons._” -- R. Buckminster Fuller --
+> “_Humanity is acquiring all the right technology for all the wrong reasons._” <br>
+> -- R. Buckminster Fuller --
 
 Setelah sekian lama tidak menuangkan opini, terutama untuk wacana terkait teknologi, kajian yang diadakan HMIF dan MG beberapa hari yang lalu cukup memberiku sedikit hasrat untuk kembali berkata-kata. Seperti yang pernah kukatakan sebelumnya pula, kajian tanpa tulisan bagaikan lulus tanpa wisuda. Maka daripada hanya menjadi hiburan untuk segelintir mahasiswa di malam selasa, sekaligus nostalgia tulisan lama terkait hal yang sama, ku coba tuliskan ulang pembahasan terkait teknologi beserta kaitannya dengan keadaan kini.
 
@@ -85,7 +86,8 @@ Dengan semua yang terjadi pada era informasi ini, seakan tidak ada pertentangan 
 
 Dengan semakin pesatnya perkembangan teknologi, entah berbentuk apa kondisi masyarakat di masa depan. Kebutuhan yang terus berkembang selalu dijawab oleh teknologi yang terus bertransformasi. Pada saat ini, semua kebutuhan, darikebutuhan fisiologis, rasa aman, hubungan sosial, penghargaan, hingga aktualisasi diri, seakan bisa dipenuhi semua oleh dunia maya. Meninjau masa lalu, kita melihat bagaimana masyarakat selalu memiliki konflik dan pertentangan terkait kuasa terhadap pemenuhan kebutuhannya yang pada akhirnya mempartisi dunia dalam penindas dan tertindas. Namun dengan era informasi seperti sekarang ini, ketertindasan sudah memasuki tahap paling berbahaya, yaitu persepsi dan pikiran. Karena jika pikiran saja tertindas, maka apa lagi kebebasan yang kita miliki sebagai manusia sejati? 
 
-“_The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life._” -- Andrew Brown --
+> “_The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life._” <br>
+> -- Andrew Brown --
 
 (PHX)
 

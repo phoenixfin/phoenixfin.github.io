@@ -16,7 +16,7 @@ description: ITB mulai mengarah pada haluan baru. Ada apa dengan konsep Entrepre
 
 Mungkin ini hanya rangkuman dan tambahan singkat dari 3 tulisan sebelumnya. Karena sebenarnya wacana mengenai ITB tidak akan merambat terlalu jauh dari bagaimana fungsi ITB sebagai sebuah pabrik intelektual. Keinginan untuk menulis tulisan lanjutan sebenarnya sudah ada sejak obrolanku dengan Pak Hendra terkait semakin minimnya orang-orang yang mengabdikan diri untuk perkembangan ilmu pengetahuan. Dengan adanya seminar oleh MWA- WM beberapa hai yang lalu, aku memunculkan kembali wacana itu ke pikiranku, walau sebenarnya tidak banyak konstruksi ide yang bisa dilakukan. Yah, semoga bermanfaat saja.
 
-...
+***
 
 Banyak yang bilang bahwa pendidikan merupakan kunci dari berkembangnya suatu bangsa.  Tidak bisa dipungkiri memang, pendidikan memegang peranan penting dalam pengembangan manusia, dari keterampilan dasar, pengetahuan, hinggakkarakter. Itulah kenapa wacana mengenai pendidikan sesungguhnya merupakan wacana yang tidak pernah habis terbahas selama bangsa itu masih ingin terus mengembangkan diri. Sudah jelas bahwa proses pendidikan bukanlah proses yang singkat, bahkan bertingkat-tingkat pada praktik formalnya, dari dasar, menengah, hingga tinggi. Jika melihat dari tujuan luhur pendidikan, yakni memanusiakan manusia, tentu mereka yang telah menempuh keselurhan tingkat bisa lebih “termanusiakan” dengan kematangan pikiran maupun karakter yang secara utuh terwujud dalam diri seorang individu. Dari sini lah kemudian muncul  istilah intelektual. Ya, kaum yang dikatakan menjadi pemegang arah perubahan.
 

@@ -15,7 +15,7 @@ author: aditya
 description: Fenomena zaman yang mengarah pada era posliterasi
 ---
 
-"__Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future.__
+> "__Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future.__
 
 Tiga kalimat di atas mungkin terasa hiperbolis, namun layak untuk direnungi, dikaji, dan diperdalam lebih lanjut. Kalimat yang begitu provokatif tersebut ditulis oleh Michael Ridley di halaman depan web-based project bernama Beyond Literacy yang ia bangun sejak 2012 lalu. Proyek ini merupakan sebuah eksperimen untuk membuka ruang diskursus mengenai fenomena yang terjadi secara global di dunia literasi. Ridley tidak mengajukan banyak hal, hanya sebuah kemungkinan bahwa akan tergantikannya aksara dengan sesuatu lain, yang ia belum tahu apa, dan hal itu akan merevolusi manusia secara masif dan total sebagaimana dahulu literasi merevolusi manusia bertradsi lisan. 
 
@@ -113,7 +113,7 @@ Bila dirangkum, pilihan pertama bisa disebut konservatif, pilihan kedua bisa dis
 
 Yang bisa saya pastikan di sini adalah apa yang Michael Ridley katakan, bahwa literasi baca-tulis ala aksara tidak akan bertahan. Kecuali kelak tiba-tiba internet mendadak hancur atau semua perangkat elektronik mendadak mati, literasi akan berevolusi ke bentuk yang baru, sebuah neo-literasi. Hiperteks akan terus berkembang hingga kelak bahkan memungkinkan transfer informasi bisa melalui apa yang disebut techlepathy, atau kehidupan ini menjadi murni simulasi dalam virtual reality. Bentuknya seperti apa, kita tidak bisa memastikan, karena semua ada pada pilihan kita yang hidup sekarang. Dengan semua itu, mengutip kembali Ridley, cukup mari kita rayakan:
 
-__"Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future."__
+> __"Reading and writing are doomed. Literacy as we know it is over. Welcome to the post-literate future."__
 
 (PHX)
 

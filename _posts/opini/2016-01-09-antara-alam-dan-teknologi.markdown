@@ -16,9 +16,10 @@ description: Mengulas tuntas hubungan rumit antara alam dan teknologi, yang dije
 
 Pembahasan mengenai teknologi memang tidak ada habisnya. Kali ini, seakan seorang aktivis ekologi, aku mencoba melihat perspektif baru mengenai bagaimana hubungan teknologi pada alam selama ini. Teknologi tidak mungkin tidak memiliki dampak buruk. Itu sudah pasti, ia merupakan representasi nafsu manusia yang tidak pernah puas dengan kehdidupannya sendiri. Tapi bagaimana dampak buruk ini bisa dinetralkan? Tentu saja bukan dengan menutup mata dan hanya terkesima pada betapa mengagumkan dan bermanfaatnya teknologi, tapi dengan menganggap teknologi itu benar-benar sebuah musuh, maka akan terlihat jelas semua keburukanya. Seperti kata Edward Abbey, “_You can't study the darkness by flooding it with light._” Ya tulisan ini hanyalah satu lagi wujud kegelisahanku ketika melihat orang-orang semakin buta pada betapa berbahayanya teknologi. Benar atau salahnya, kita tidak akan pernah bisa tahu, yang kita tahu hanyalah fenomena teknologi saat ini nyata adanya dan entah akan menjadi apa di masa depan. Well, terlepas dari itu, semoga bermanfaat!
 
-...
+***
 
-“_Human use, population, and technology have reached that certain stage where mother Earth no longer accepts our presence with silence._” -― Dalai Lama XIV --
+> “_Human use, population, and technology have reached that certain stage where mother Earth no longer accepts our presence with silence._” <br>
+> -― Dalai Lama XIV --
 
 Sudah bukan rahasia lagi bagaimana teknologi telah berkembang sedemikian rupa dalam kurun seabad terakhir. Ia selalu menjadi instrumen manusia untuk menyingkap lebih banyak realita, entah untuk dipelajari ataupun dieksploitasi. Bermula dari sesederhana perkakas untuk menyingkap realita baru bahwa pohon bisa ditebang ataupun binatang bisa dibunuh, hingga alat-alat canggih untuk menyingkam ragam realita yang lebih terbuka dari kecilnya partikel elementer hingga luasnya jagad raya. Ya, teknologi sejak dahulu merupakan perpanjangan tangan manusia, instrumen untuk menghubungkan manusia dengan lingkungannya.
 
@@ -115,7 +116,8 @@ Teknologi sudah pasti tidak bisa dihentikan perkembangannya. Terlalu naif bila l
 
 Pada akhirnya, manusia memang selalu seperti berhadapan dengan kemampuannya sendiri yang luar biasa. Hanya satu kunci yang dibutuhkan manusia sesungguhnya untuk dapat menggunakan kemampuan itu dengan baik dan hidup berkualitas: kebijaksanaan. Etika sebagai salah satu unsur kebijaksanaan sering diabaikan dan dianggap tidak penting dalam perkembangan ilmu dan teknologi. Selama ini teknologi selalu berkembang sekedar didasarkan pada rasa ingin tahu atau dorongan kepentingan tertentu. Manfaat-manfaat teknologi yang terlihat menjanjikan sering dijadikan dalih pembenaran buat mereka untuk terus menerus mengembangkan teknologi dengan membabi-buta. Pada akhirnya kecepatan berkembangnya teknologi jauh melebihi kecepatan manusia untuk dapat bijaksana mengelola dan memanfaatkannya. Tinggal menunggu waktu hingga alam, beserta manusia itu sendiri, hancur akibat dari kerakusan yang muncul berwujud teknologi. Entah kapanitu terjadi, atau mungkin, entah apakah itu akan terjadi atau tidak, cukup tanyakanlah pada diri masing-masing.
 
-"_Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction._" -- E. O. Wilson --
+> "_Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction._" <br>
+> -- E. O. Wilson --
 
 (PHX)
 

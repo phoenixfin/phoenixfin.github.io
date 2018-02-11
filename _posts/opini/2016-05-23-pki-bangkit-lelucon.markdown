@@ -16,7 +16,7 @@ description: Fobia atas komunisme dan PKI di Indonesia telah menancap begitu era
 
 2 hari yang lalu, 18 tahun reformasi menjadi refleksi bersama, 3 hari yang lalu 108 tahun lahirnya Boedi Oetomo menjadi tonggak momentum kebangkitan nasional. Dari dua hari bersejarah bulan Mei tersebut, keadaan yang terjadi justru malah anomali dalam kebebasan berekspresi. Bukannya memikirkan bagaimana Indonesia bangkit, yang beredar malah komunisme yang bangkit. Aku pun tergerak untuk sekedar menuliskan beberapa hasil obrolan dengan pegiat literasi, penjual buku, hingga dosen mengenai keadaan ini.
 
-...
+***
 
 Tak ada hujan tak ada angin, tiba-tiba isu mengenai bangkitnya komunisme muncul begitu saja entah darimana. Hal ini pun kemudian diikuti serangkaian tindakan yang tidak masuk akal, dimulai dari menangkap orang-orang yang berartribut palu arit hingga penyitaan buku-buku bernuansa kiri. Beragam respon pun tercipta menanggapi, seperti adanya Pernyataan Bandung yang menolak pemberangusan buku atas nama puluhan penggiat literasi, sastrawan, penulis, dan budayawan. Beberapa pihak memilih untuk diam dan mengambil wilayah aman, menganggap ini hanyalah permainan isu yang selalu terjadi di percaturan kepentingan di Indonesia. Spekulasi-spekulasi menghiasi. Berbagai pertanyaan secara wajar muncul menyikapi: Ada apa gerangan? 
 

@@ -14,7 +14,8 @@ author: aditya
 description: Salah satu kemungkinan dari berkembangnya teknologi adalah terciptanya eksistensi raksasa yang berperilaku layaknya superorganisme seperti Bumi. Tapi, seperti apa?
 ---
 
-“Sepanjang sejarah manusia, kita telah begitu bergantung pada mesin untuk bertahan hidup. Nasib, rupanya, bukan tanp rasa ironi,” -- Morpheus, dalam film The Matrix (1999) --
+> “Sepanjang sejarah manusia, kita telah begitu bergantung pada mesin untuk bertahan hidup. Nasib, rupanya, bukan tanp rasa ironi,” <br>
+> -- Morpheus, dalam film The Matrix (1999) --
 
 Apa yang dikatakan Morpheus di atas sebenarnya akan memberikan bahan kontemplasi dan refleksi yang panjang dan mendalam jika dihayati baik-baik. Teknologi, yang juga terwuijud dalam mesin, telah menjadi dilema dan ironi umat manusia sejak eksistensi bernama manusia itu sendiri ada hingga entah sampai kapan.Diskursus dan ragam bahasan terkait teknologi tidak pernah menjadi makanan yang basi untuk terus dikunyah. Apalagi, kondisi dunia saat ini sudah berada pada era yang mana teknologi seakan menjadi satu dengan kehidupan manusia, membuat semesta ini terbagi menjadi tiga eksistensi besar: alam, manusia, dan teknologi. Awalnya semua hanyalah hubungan antara alam dan manusia, teknologi sekedar perantara antara mereka berdua, namun, sepertinya tumbuhnya teknologi menjadi suatu eksistensi tersendiri yang setara tidak bisa dicegah.
 
@@ -93,7 +94,8 @@ Jika kembali melihat akarnya, manusia sebagai makhluk yang memiliki kesadaran da
 
 Melihat keadaan sekarang, mungkin kita bisa saja pesimis. Dunia dikendalikan oleh modal, etika dan moral mulai dilupakan, serta kesadaran ekologis dan sosial mulai terkikis. Sudah menjadi rahasia umum bahwa korporasilah yang menjadi motor utama perkembangan teknologi sedangkan korporasi sendiri selalu memiliki kepentingan dan ego masing-masing. Di tempat lain, akademisi dan simpatisan ekologi yang menuntut etika dan moral dari perkembangan teknologi dibungkam oleh ketiadaan modal. Pemerintah sebagai pihak ketiga pun hanya bisa berdiam diri dan menonton dalam dilema. Salah satu jalan terbaik untuk memperbaiki semuanya adalah dunia pendidikan, tempat dimana anak-anak yang kelak akan menjadi penggerak dunia di masa depan bisa dibangun kesadaran dan kebijaksnaannya agar memahami bahwa teknologi tidaklah seindah yang terlihat. Walau sebenarnya jalan pendidikan itu sendiri mulai mandul akibat berkuasanya modal dan tidak berdayanya pemerintah, apakah kita akan menyerah? Semua kembali pada diri masing-masing. Renungi dan lakukan apa yang bisa kita lakukan.
 
-"_If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner._" -– Omar Bradley (General, US Army) –-
+> "_If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner._" <br>
+> -– Omar Bradley (General, US Army) –-
 
 (PHX)
  

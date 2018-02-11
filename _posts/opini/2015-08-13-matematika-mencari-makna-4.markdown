@@ -19,7 +19,10 @@ Tidak bisa disebut sambungan, namun rangkaian dari sebelumnya ([bagian pertama][
 [2]: http://phoenixfin.me/matematika-mencari-makna-2
 [3]: http://phoenixfin.me/matematika-mencari-makna-3
 
-"Dari pikiran Pencipta didatangkan angka. Dari jumlah didatangkan geometri. Dari geometri didatangkan simbol. Dari simbol muncul surat dan surat itu berasal dari luar mulut manusia. Jadi,... ceritakan lagi, atas Nama Siapa kita berbicara?" -- Claudia Pavonis
+***
+
+> "Dari pikiran Pencipta didatangkan angka. Dari jumlah didatangkan geometri. Dari geometri didatangkan simbol. Dari simbol muncul surat dan surat itu berasal dari luar mulut manusia. Jadi,... ceritakan lagi, atas Nama Siapa kita berbicara?" <br>
+> -- Claudia Pavonis --
 
 Ada semacam kekosongan yang saya rasakan ketika hanya mempelajari matematika sebagai sebuah metode atau sebagai sebuah tuntutan untuk memahami, apalagi sekedar meraih nilai, memenuhi mata kuliah, atau mengejar kelulusan. Entah memang para pengajar yang terlalu kaku memperlihatkan matematika “apa adanya”, atau memang perguruan tinggi masa kini sudah mengalami pergeseran tujuan dari semata-mata mengenalkan dunia pada siswanya menjadi sebagai pabrik tenaga kerja. Karena apa yang terjadi justru adalah bagaimana Tugas Akhir segera selesai, bagaimana perusahaan-perusahaan mau menerima anak matematika, atau bagaimana anak-anak segera lulus tanpa peduli seberapa paham ia dengan matematika.
 

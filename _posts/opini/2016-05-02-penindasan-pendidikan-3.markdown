@@ -18,7 +18,7 @@ Tidak bisa disebut lanjutan, tapi hanyalah rangkaian dari 2 tulisan sebelumnya: 
 [1]: http://phoenixfin.me/penindasan-pendidikan-1
 [2]: http://phoenixfin.me/penindasan-pendidikan-2
 
-...
+***
 
 Pendidikan adalah inti dari pembangunan, inti dari kemajuan, dan inti dari peradaban. Pendidikan adalah sebuah proses agar setiap manusia dapat mengutuhkan dirinya sendiri dalam kehidupan. Pendidikan secara luhur bermakna bagaimana seseorang menemukan jalan hidupnya. Namun sayang, bagaikan sebuah kutukan, apa yang awalnya diharapkan untuk menjadi hasil dari pendidikan, justru balik menyerang pendidikan itu sendiri, menciptakan ironi dalam peradaban manusia.
 

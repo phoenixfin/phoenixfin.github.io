@@ -28,7 +28,7 @@ Sebelum mulai, mungkin aku ingin memaparkan dulu beberapa berita akhir-akhir ini
 
 Ya, begitulah.
 
-...
+***
 
 Palu dan arit sesungguhnya adalah perkakas dasar yang cukup sering dipakai dalam kehidupan sehari-hari, bahkan keduanya merupakan bagian dari 5 perkakas dasar dalam permainan “Harvest Moon – Back to Nature”. Namun sayang, identitas suatu objek bukan sekedar ditentukan oleh dirinya sendiri, tapi dibentuk juga oleh sejarah dan paradigma yang melihatnya. Itu lah yang terjadi akhir-akhir ini dengan munculnya beragam kejadian, dari pembubaran hingga penangkapan, hanya disebabkan sebuah logo yang mengandung dua perkakas dasar tersebut. Sebenarnya ada apa dengan palu arit? Mengapa pandangan terhadapnya begitu buruk seakan keduanya merupakan senjata iblis?
 

@@ -12,7 +12,8 @@ author: aditya
 description: Banjirnya Informasi dalam Kehidupan Modern
 ---
 
-"_Everybody gets so much information all day long that they lose their common sense_" -- Gertrude Stein --
+> "_Everybody gets so much information all day long that they lose their common sense_" <br>
+> -- Gertrude Stein --
 
 Telah banyak hal yang terjadi dalam rangkaian arus peristiwa mempengaruhi bagaimana manusia berpikir. Dari zaman ke zaman, dari periode ke periode, arah dan bentuk pikiran manusia berganti tiada henti dalam suatu siklus autopoesis, siklus yang membangun dirinya sendiri, hingga akhirnya walau manusia seakan mengulang sejarah dalam kasus yang tak pernah jauh berbeda, sebenarnya yang diulang hanyalah prosesnya, sementara struktur dan pola yang berlaku telah tiada di tempat, mengalami perombakan terus menerus, dengan berbagai bumbu yang terus dicampur dalam adonan kompleks peradaban. Pada akhirnya semua elemen yang berperan dalam sejarah adalah pabrik raksasa manusia-manusia baru, memproduksi tiada henti bentukan-bentukan baru pemikiran manusia. Semua elemen, tanpa terkecuali, termasuk teknologi.
 
@@ -70,7 +71,8 @@ Seperti yang pernah disebutkan Michio Kaku dalam bukunya _Physics of The Future_
 
 Informasi mungkin bagaikan sebuah kekuatan tiada tandingannya. Orang yang mengendalikan harta (materi) mengendalikan manusia, orang yang mengendalikan energi mengendalikan dunia, tapi orang yang mengendalikan informasi mengendalikan semuanya. Apalagi dengan adanya akal, informasi tersebut dapat berubah sedemikian rupa menjadi sangat bermanfaat atau sangat berbahaya. Masa depan alam semesta adalah milik kita bersama, oleh karena itu tak ada yang dapat saya lakukan selain berharap bahwa kesadaran itu dapat bangkit ke semakin banyak manusia, seperti yang ditulis Shakespheare dalam karyanya, Julius Caesar, "_The fault, dear Brutus, is not inour stars, but in ourselves …._” Marilah bersama kita sempatkan waktu sejenak di tengah keributan, kesibukan, dan lalu lintas informasi dunia yang tiada henti, dalam sebuah perenungan penuh mendalam, tenang, dan jernih mengenai apa yang sebenarnya terjadi, dan apa yang seharusnya kita lakukan.
 
-"Karena kebodohan kita membuat kesalahan, dan dari kesalahan kita belajar" -- Anonim --
+> "Karena kebodohan kita membuat kesalahan, dan dari kesalahan kita belajar" <br>
+> -- Anonim --
 
 (PHX) 
 

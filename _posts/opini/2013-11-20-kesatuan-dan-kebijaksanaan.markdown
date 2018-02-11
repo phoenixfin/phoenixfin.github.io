@@ -13,16 +13,11 @@ author: aditya
 description: Perenungan atas keadaan bumi dan alam
 ---
 
-_Bumi yang indah tercipta,_
-
-_Berdada luas, menampung_
-
-_Segala Sesuatu, Bumi melahirkan_
-
-_Langit berbintang, yang sederajat dengan sendirinya,_
-
-_Untuk melindunginya dari segala sudut dan menjadi_
-
+_Bumi yang indah tercipta,_ <br>
+_Berdada luas, menampung_ <br>
+_Segala Sesuatu, Bumi melahirkan_ <br>
+_Langit berbintang, yang sederajat dengan sendirinya,_ <br>
+_Untuk melindunginya dari segala sudut dan menjadi_ <br>
 _Rumah abadi untuk para dewa yang diberkati._
 
 Sebuah penjelasan mengenai bagaimana segala sesuatu bermula, dicoba jelaskan oleh Hesiod, seorang penyair Yunani, dalam sajak singkat tersebut. Visualisasi mengenai alam pada awalnya terlihat jelas diberikan sebagai representasi konsep berpikir manusia pada zamanya, yang mungkin dari perspektif masyarakat masa kini dikenal sebagai _paradise_ atau utopia dengan segala kesempurnaan dan keindahannya. Keadaan bagaikan negeri dongeng ini pun sebenarnya merupakan harapan bawah sadar manusia akan tempat tinggalnya, akan kehidupannya sepanjang zaman, di manapun di seluruh bumi.

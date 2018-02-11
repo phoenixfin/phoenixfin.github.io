@@ -13,7 +13,8 @@ author: aditya
 description: Sistemasi dan Pembahasan terkait Kajian dan Diskusi
 ---
 
-"Kesalahan-kesalahan yang telah mengakar di suatu masyarakat sangat sulit dihapuskan oleh kebenaran yang datang kemudian." -- Anonim --
+> "Kesalahan-kesalahan yang telah mengakar di suatu masyarakat sangat sulit dihapuskan oleh kebenaran yang datang kemudian." <br>
+> -- Anonim --
 
 Di tengah arus informasi yang semakin deras, pertarungan antar pemikiran tiada henti berlangsung semakin bebas tanpa batas. Ilmu pengetahuan semakin kabur dan tak teridentifikasi. Tak dapat dibedakan lagi mana fakta mana opini, mungkin. Ketika keadaan yang kacau akan makna kebenaran ini mulai merasuk tanpa disadari, manusia akan selalu memilih jalan termudah, percaya apa yang bisa dipercaya. Tapi apa lah arti dari sebuah kepercayaan, bila pada akhirnya itu hanya akan semakin merenggut dan mengikis habis eksistensi kebenaran di setiap makna semesta? Sebuah fenomena yang rumit tengah terjadi di tengah abad yang serba absurd. Batas antara kepercayaan dan pengetahuan mungkin semakin menipis menuju tak terlihat. Jika semua itu terjadi, dimana kita akan berpegang?
 
@@ -82,6 +83,7 @@ Mungkin tulisan ini tidak dapat menjawab banyak hal mengenai pertanyaan-pertanya
 
 Banyak permasalahan menunggu untuk dikaji ulang. Yang terpenting adalah jangan takut mendobrak formalitas demi sebuah kebenaran, karena terkadang menjadi militan itu perlu untuk sebuah pemikiran revolusioner. Seperti apa yang dikatakan seorang filsuf pendidikan, Robert M. Hutchins, universitas hanya ada untuk menemukan dan menyampaikan kebenaran. Keluaran terakhir dari sebuah perguruan tinggi tentunya adalah intelektual yang memenuhi tujuan akhir pendidikan, namun mengingat esensi intelektualitas adalah lebih dari sekedar karakter, perlu kita renungi bersama akan apa yang dapat kita lakukan. Jangan sampai semua kemudahan yang ada mengaburkan mata kita dalam sebuah ilusi indah mengenai masa depan yang cerah namun melupakan realita sebenarnya dari sebuah kebenaran. Apakah kajian masih layak menjadi budaya di KM-ITB atau tidak, hanya kita yang dapat menentukan.
 
-“Lihatlah dua kali kalau ingin menemukan kebenaran, lihatlah sekali saja kalau ingin menemukan keindahan” -– Henri Frederic Amiel (Filsuf) --
+> “Lihatlah dua kali kalau ingin menemukan kebenaran, lihatlah sekali saja kalau ingin menemukan keindahan” <br>
+> -– Henri Frederic Amiel (Filsuf) --
 
 (PHX)

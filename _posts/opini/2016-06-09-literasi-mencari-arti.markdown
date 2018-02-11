@@ -14,7 +14,8 @@ author: aditya
 description: Kata literasi seperti telah menjadi hal yang cukup sering terucap akhir-akhir ini. Ada apa sebenarnya dengan kata itu?
 ---
 
-“Sebenarnya dalam sejarah peradaban umat manusia, kemajuan suatu bangsa tidak bisa dibangun dengan hanya bermodalkan kekayaan alam yang melimpah maupun pengelolaan tata negara yang mapan, melainkan berawal dari peradaban buku atau penguasaan literasi yang berkelanjutan dari satu generasi ke generasi berikutnya.” -– Anonim –-
+> “Sebenarnya dalam sejarah peradaban umat manusia, kemajuan suatu bangsa tidak bisa dibangun dengan hanya bermodalkan kekayaan alam yang melimpah maupun pengelolaan tata negara yang mapan, melainkan berawal dari peradaban buku atau penguasaan literasi yang berkelanjutan dari satu generasi ke generasi berikutnya.” <br>
+> -– Anonim –-
 
 Baca dan tulis sudah menjadi tindakan yang secara wajar terjadi dalam kehidupan sehari-hari, mulai dari yang sesederhana membaca papan reklame di sepanjang jalan, atau menuliskan nama sendiri ketika mengisi suatu formulir tertentu. Mungkin bisa dikatakan lebih dari setengah waktu kita dalam sehari selain tidur dihabiskan dengan dua tindakan tersebut. Tentu, dua tindakan itu bukan lah hal yang aneh. Justru yang aneh adalah apabila tidak bisa melakukan dua tindakan itu. Sayangnya, betapa biasanya dua tindakan itu justru seakan menenggelamkan makna sesungguhnya dan apa kekuatan di baliknya.
 
@@ -102,8 +103,7 @@ Menteri Pusat Studi Arsip dan Kajian Kebijakan Kabinet KM ITB 2016
 
 (PHX)
 
-__Nb__: 
-
+__Nb__: <br>
 Jujur, bingung mencari judul. Maka ya sudah, literasi memang tengah mencari arti, yang hilang dalam hiruk pikuk peradaban yang ia bangun sendiri.
 
 <img class="image" src="/assets/images/blog/literasi-mencari-arti.jpg" alt="Alt Text">

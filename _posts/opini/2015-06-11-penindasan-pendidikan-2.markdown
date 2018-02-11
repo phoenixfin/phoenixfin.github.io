@@ -84,7 +84,8 @@ Puncak utama pendidikan adalah otentitas atau keunikan diri, dengan seseorang te
 
 Secara sederhana, di tengah kutukan peradaban yang menindas pendidikan ini, mulailah segalanya dengan menjadi diri sendiri, kemudian transformasikan seluruh otentitas dan kesadaran diri dalam bentuk tindakan-tindakan yang berpengaruh pada orang lain. Karena pendidikan hanyalah bagaimana kita semua menjadi manusia sepenuhnya, bukan sekedar menjadi pengikut zaman, robot peradaban, sekrup industri, atau budak korporasi. 
 
-"Pendidikan bukan persiapan untuk hidup. Pendidikan adalah hidup itu sendiri" -- John Dewey --
+> "Pendidikan bukan persiapan untuk hidup. Pendidikan adalah hidup itu sendiri" <br>
+> -- John Dewey --
 
 (PHX)
 
