@@ -52,7 +52,8 @@ Tak perlu kita bawa nama kemahasiswaan dan hal-hal idealis-retoris lainnya untuk
 
 Mungkin perlu kita kaji bersama sistem pendidikan yang ada di Indonesia. Walau sekarang kurikulum baru berbasis karakter akan segera dieksekusi oleh pemerintah tahun ini, hal itu tidak dapat banyak menjanjikan karena perumusannya terkesan mendadak dan tanpa persiapan yang matang. Namun tetap saja posisi perguruan tinggi sebagai pintu terakhir tercetaknya hasil akhir proses pendidikan tidak mendapat perhatian khusus dalam proses pematangan karakter untuk membentuk intelektual yang utuh dan sempurna. Pada akhirnya, segala permasalahan yang ada di negeri ini tidak dapat dipandang dalam satu aspek semata, kesatuan kompleks seluruh komponen di negeri bersatu padu berkontribusi untuk menjadikan segalanya terasa sistemik dan siklik. Namun sebenarnya, dimulai dari pendidikan, harapan untuk perubahan itu selalu ada. Bagaimana cara mengubahnya renungilah dalam benak masing-masing. Lembaga pendidikan sebesar ITB akan selalu berada dalam tanda tanya besar dalam berbagai fenomena yang ada di negeri ini. Memang, Intelektual adalah benteng terakhir pertahanan Indonesia dalam menjawab serangan global, bagaimana kita menjawabnya, marilah cukup tanamkan kesadaran dalam diri masing-masing, ini semua adalah masalah bagaimana kita menjadi manusia yang utuh.
 
-“Kalau sekedar bertujuan menyampaikan informasi dan pengetahuan, tak satupun universitas punya justifikasi apa pun untuk tetap berdiri sejak berkembangnya mesin cetak  di abad ke limabelas!” -- Alfred N. Whitehead (Matematikawan-filsuf) -- 
+> “Kalau sekedar bertujuan menyampaikan informasi dan pengetahuan, tak satupun universitas punya justifikasi apa pun untuk tetap berdiri sejak berkembangnya mesin cetak  di abad ke limabelas!” 
+> -- Alfred N. Whitehead (Matematikawan-filsuf) -- 
 
 (PHX)
 
