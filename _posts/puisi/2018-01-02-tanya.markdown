@@ -1,0 +1,19 @@
+---
+title: Tanya
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Menantang langit ku cemburu
+
+Merunduk bumi ku tersedu
+
+Menatap samudra ku terpaku
+
+Merengkuh hutan ku tak mampu
+
+Menyisakan tanya kaku
+
+Siapa aku

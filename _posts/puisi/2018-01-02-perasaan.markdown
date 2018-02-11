@@ -1,0 +1,15 @@
+---
+title: Perasaan
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Bukan dengan pedang
+
+Aku dimatikan
+
+Tapi dengan
+
+Perasaan

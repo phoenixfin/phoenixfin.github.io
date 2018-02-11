@@ -1,0 +1,13 @@
+---
+title: Bosan
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Hei bosan,
+
+Tidakkah kau bosan
+
+Terus membuatku bosan?

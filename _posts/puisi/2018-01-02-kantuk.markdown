@@ -1,0 +1,15 @@
+---
+title: Kantuk
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Kaburnya nyata dan maya
+
+Persepsi bertemu ambigu
+
+Bagai bangun setengah sadar
+
+Pesta nikmatnya dunia maya

@@ -1,7 +1,7 @@
 ---
 title: Terlewati
 layout: bookdes
-category: puisi2
+category: puisi
 author: aditya
 description: 
 ---

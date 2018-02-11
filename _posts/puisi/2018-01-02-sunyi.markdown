@@ -1,0 +1,15 @@
+---
+title: Sunyi
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Siapa setia pengisi hati
+
+saksi malam selalu temani
+
+kala semua kawan pergi
+
+hingga mentari menandai pagi
