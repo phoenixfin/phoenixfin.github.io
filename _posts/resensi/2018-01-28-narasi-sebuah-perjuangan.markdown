@@ -96,24 +96,16 @@ Tentu apa yang dijelaskan di atas hanyalah simplifikasi dari rangkaian peristiwa
 
 Itulah yang terjadi pada 1987. Seorang mahasiswa aktivis, presiden himpunan mahasiswa linguistik, Park Yong-chul, yang meninggal setelah disiksa oleh polisi hanya karena dianggap oposisi yang mengancam pemerintah, bisa membuat sebuah reaksi berantai yang memuncak pada reformasi Juni 1987. Seperti halnya film berbasis sejarah yang tidak murni dokumenter, tentu apa yang terjadi pada film 1987 karya Joon Hwan-jang ini tidaklah sepenuhnya fakta, terutama drama romansa Yeon-hee dan Lee Han-yeol yang disisipkan sebagai bumbu pemanis film. ACIB sendiri pun hanyalah karangan belaka, namun tentu tekanan dan penyiksaan terhadap oposisi merupakan fakta yang sungguh-sungguh terjadi. Eksistensi seorang tokoh oposisi Kim Yong Nam pun juga merupakan fakta. Ia naik menjadi presiden pada tahun 1993 sebagai presiden pertama dalam 30 tahun yang berasal dari kalangan sipil. Selain itu, kematian Park Yong-Chul adalah sungguh-sungguh bagian dari sejarah Korea Selatan, juga kematian Lee Han Yeol, yang pemakamannya dihadiri jutaan rakyat Korea Selatan. Foto bagaimana Lee Han Yeol terluka parah setelah kepalanya terkena peluru gas air mata juga telah menjadi foto bersejarah yang telah menjadi simbol pergerakan rakyat Korea Selatan untuk mencapai demokrasi seutuhnya. 
 
+<center>
+<img class="image" src="/assets/images/film/1987-3.jpg" alt="Alt Text"><br>
+Pakaian dan asesoris yang dipakai Lee Han Yeol pada saat ia terkena tembakan gas air mata, diabadikan di Lee Han Yeol Memorial Museum
 
-<figure>
-  <img class="image" src="/assets/images/film/1987-3.jpg" alt="Alt Text">
-  <figcaption>Pakaian dan asesoris yang dipakai Lee Han Yeol pada saat ia terkena tembakan gas air mata, diabadikan di Lee Han Yeol Memorial Museum</figcaption>
-</figure>
+<img class="image" src="/assets/images/film/1987-4.jpg" alt="Alt Text"><br>
+Poster “Save Han-Yeol!” tergantung di Universitas Yonsei setiap Juni
 
-
-<figure>
-  <img class="image" src="/assets/images/film/1987-4.jpg" alt="Alt Text">
-  <figcaption>Poster “Save Han-Yeol!” tergantung di Universitas Yonsei setiap Juni</figcaption>
-</figure>
-
-
-<figure>
-  <img class="image" src="/assets/images/film/1987-5.jpg" alt="Alt Text">
-  <figcaption>Foto Park Yong Chol dibawa oleh protestan sebagai simbol perlawanan</figcaption>
-</figure>
-
+<img class="image" src="/assets/images/film/1987-5.jpg" alt="Alt Text"><br>
+Foto Park Yong Chol dibawa oleh protestan sebagai simbol perlawanan</figcaption>
+</center>
 
 Jika kita kembali pada pertanyaan, “apa yang membuat Korea Selatan menjadi seperti sekarang?”, maka narasi sejarah di atas bisa menjadi salah satu jawabannya, namun bukan satu-satunya jawaban. Analisis dari segi ekonomi dan budaya juga perlu dilihat karena kita belum melihat apa mungkin justru penguasa-penguasa awal Korea Selatan lah yang berkontribusi dalam meletakkan batu pijakan untuk memajukan perekonomian, seperti halnya Soeharto dengan konsep pembangunan besar-besarannya pada masa orde baru.
 
@@ -134,7 +126,5 @@ Salam Pembebasan!
 (PHX)
 
 
-<figure>
-  <img class="image" src="/assets/images/film/1987-6.jpg" alt="Alt Text">
-  <figcaption>Acara pemakaman Lee Han Yeol yang dihadiri jutaan penduduk Korea Selatan</figcaption>
-</figure>
+<img class="image" src="/assets/images/film/1987-6.jpg" alt="Alt Text"><br>
+Acara pemakaman Lee Han Yeol yang dihadiri jutaan penduduk Korea Selatan

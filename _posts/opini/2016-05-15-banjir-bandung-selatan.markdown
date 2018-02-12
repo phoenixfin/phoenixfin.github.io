@@ -44,11 +44,7 @@ Melihat dari segi iklim pun, cekungan Bandung , beserta wilayah sekitar Bandung 
  
 <img class="image" src="/assets/images/blog/banjir-bandung-selatan-6.jpg" alt="Alt Text">
  
-<figure>
-  <img class="image" src="/assets/images/blog/banjir-bandung-selatan-7.jpg" alt="Alt Text">
-  
-  <figcaption>Kontur Curah Hujan Bandung dan sekitarnya</figcaption>
-</figure>
+<img class="image" src="/assets/images/blog/banjir-bandung-selatan-7.jpg" alt="Alt Text">
  
 # Banjir, sebuah Kewajaran
 
@@ -86,11 +82,8 @@ Walaupun pemerintah Jawa Barat sudah terus mendesak pembangunan kolam retensi di
 
 Elevasi lahan di sekitar hulu yang lebih rendah ketimbang permukaan sungai ketika banjir sebenarnya juga tanpa sebab. Padatnya pemukiman beserta pabrik-pabrik industri di sekitar wilayah tersebut merupakan salah satu faktor yang memperparah hal tersebut. Bangunan di sana, terutama pabrik-pabrik besar, menyedot air dari dalam tanah dalam jumlah yang cukup banyak sehingga mengakibatkan land subsidence atau penurunan muka tanah. Hal ini terjadi karena ketika air tanah terus disedot keluar, lapisan air tanah jadi berkurang sehingga lapisan batuan di atasnya turun. Daya serap tanah wilayah itu pun sangatlah minim sehingga air-air tanah tidak bisa kembali mengisi lapisan air tanah. Mengingat hal ini, dirasa memang sangat diperlukan untuk mengatur ulang tata guna lahan di sekitar DAS Citarum Hulu agar penurunan muka tanah yang terjadi dapat dikurangi sehingga tidak memperparah cekungan yang mengakibatkan genangan banjir.
 
-<figure>
-  <img class="image" src="/assets/images/blog/banjir-bandung-selatan-13.jpg" alt="Alt Text">
-  
-  <figcaption>Data Sebaran Pemanfaatan Lahan DAS Citarum Hulu (2010)</figcaption>
-</figure>
+<img class="image" src="/assets/images/blog/banjir-bandung-selatan-13.jpg" alt="Alt Text"><br>
+Data Sebaran Pemanfaatan Lahan DAS Citarum Hulu (2010)
 
 Untuk yang sebab kedua, satu-satunya solusi adalah meningkatkan kapasitas sungai citarum. Hal ini dapat dilakukan dengan dua cara yang sering dikenal dengan normalisasi sungai, yaitu pelebaran badan sungai, atau pengerukan untuk menambah kedalaman. Pelebaran badan sungai sudah mulai sukar dilakukan karena daerah tepi sungai sekitar Citarum hulu sudah dipadati penduduk sehingga pelebaran akan memakan biaya banyak untuk pembebasan lahan. Pengerukan sendiri membutuhkan biaya yang cukup besar karena memang bukan hal yang mudah dilakukan mengingat alat pengeruk harus bisa menggapai dasar sungai. Kecuali kita memiliki teknologi lain untuk pengerukan selain dengan eskavator sederhana, pengerukan dasar sungai akan menjadi kesulitan tersendiri. Sebenarnya normalisasi sungai tidak hanya sekedar melebarkan atau mengeruk sungai, tapi juga pembangunan tanggul dan sudetan (anak sungai baru), namun untuk pembangunan sudetan sendiri sama sulitnya dengan pelebaran.
 

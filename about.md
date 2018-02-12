@@ -5,7 +5,6 @@ layout: page
 
 <center>
 <img class="image" src="/assets/images/about.jpg" alt="Alt Text" width="500px">
-</center>
 
 <p>Tentang aku bukanlah hal yang bisa aku deskripsikan sendiri. Aku adalah apa yang terlihat dari karya-karyaku, maka hanya kalian para pembaca dan penikmat lah yang bisa menilaiku. Lagipula, konsep mengenal memang tidak bisa hanya sekedar melalui deskripsi singkat, paling tidak itu membutuhkan interaksi dan komunikasi yang cukup untuk pemahaman satu sama lain mengenai individu bisa dicapai. Akan tetapi, mungkin secara sederhana bisa ku kenalkan sedikit bahwa namaku adalah Aditya Firman Ihsan, orang yang mengaku matematikawan namun senang menulis hal lain. Aku kerap menggunakan alias PHX atau Phoenix di beberapa tempat, terutama dunia maya, karena toh dunianya maya, maka namanya pun harus maya, mengingat identitasku di situ pun maya. Ya, kau tak mungkin mengenal secara nyata seseorang melalui dunia maya alias tak nyata. Dengan itu, jika ingin mengenalku lebih lanjut, ya mari berinteraksi secara nyata. Sila hubungi via surel terlebih dahulu bila ada yang ingin dikomunikasikan.
 
@@ -16,3 +15,5 @@ layout: page
 <p> Semoga bermanfaat</p>
 
 <p><b>(PHX)</b></p>
+
+</center>
