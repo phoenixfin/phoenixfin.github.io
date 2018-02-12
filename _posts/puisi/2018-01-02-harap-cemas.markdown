@@ -6,8 +6,6 @@ author: aditya
 description: 
 ---
 
-Harap Cemas
-
 Kita dekat
 
 Kita jauh

@@ -69,7 +69,6 @@ Narasi besar film 1987 jika dilihat sebenarnya terbagi menjadi dua narasi kecil 
   <figcaption>Wartawan  Yoon Sang-Sam berusaha melewati barikade polisi untuk mengejar Ayah dan Paman dari Park</figcaption>
 </figure>
 
-
 Menariknya dari narasi kedua ini adalah, adanya romansa yang ditampilkan di tengah-tengah ketegangan. Karena cukup berbahaya bagi Han, ia meminta keponakannya, Yeon-Hee, untuk memberikan pesan kepada Kim Yong Sam. Dari sinilah kemudian fokus protagonis bergeser ke Yeon-Hee dan masuk lah bumbu-bumbu romansa itu. Tidak masalah sebenarnya, hanya saja bagi saya agak sedikit terasa aneh dan film jadi terasa tidak konsisten dengan ketegangan yang disajikannya sejak awal. Hanya saja, jika dilihat dari keseluruhan narasi 1987, adanya romansa ini cukup penting sebagai gerbang untuk menceritakan sosok Lee Han-Yeol, aktivis yang menjadi simbol kedua pergerakan rakyat Korea Selatan pada reformasi 1987. Mengenai Yeon-Hee sendiri, ia juga merepresentasikan bagaimana ketakutan dan tekanan yang dirasakan rakyat biasa dalam pemerintahan yang otoriter. Yeon-Hee dijebak dalam simalakama ketika paman dan kekasihnya sendiri merupakan aktivis oposisi pemerintah, sedangkan ia sendiri takut untuk berbuat apa-apa. 
 
 Jika kita tarik kembali sudut pandang ke keseluruhan film, benang merah yang terlihat adalah kejadian-kejadian yang memicu kemarahan rakyat Korea Selatan untuk melakukan reformasi pada _June Struggle_. Kejadian pertama dan utama adalah usaha-usaha pemerintah untuk menekan oposisi baik dengan doktrin anti-komunisme, ‘pembersihan’ tokoh dan aktivis, maupun dengan konvrontasi dan kekerasan langsung terhadap demonstrasi. Kejadian pertama ini menghasilkan kejadian kedua, yakni kematian Park-Yong Chul, yang secara perlahan memantik ekskalasi isu buruknya pemerintahan Presiden Chun. Kejadian ketiga, sebagai bentuk hasil dari kejadian pertama, adalah ditundanya pemilihan langsung dan diperpanjangnya kekuasaan Presiden Chun. Kejadian ketiga ini, ditambah pantikan dari kejadian kedua, yang jelas membakar semangat rakyat untuk melawan, menghasilkan perlawanan yang semakin intens kepada pemerintah. Terakhir, semua itu berujung pada kejadian keempat, yakni terluka parahnya Lee Han Yeol saat demonstrasi hingga kemudian semakin memperbesar api perlawanan hingga runtuhnya kekuasaan Presiden Chun. Joo-Hwan Cang sudah cukup bagus menciptakan alur untuk menjembatani semua kejadian itu, meskipun masih terasa kurang mengalir dan patah. Akan tetapi, hal itu bisa saya bilang wajar,mengingat kejadian sejarah sesungguhnya tidak bisa diungkapkan dalam satu narasi tunggal. Sejarah adalah kumpulan dari narasi-narasi yang saling terkait dan mempengaruhi.
@@ -97,14 +96,14 @@ Tentu apa yang dijelaskan di atas hanyalah simplifikasi dari rangkaian peristiwa
 Itulah yang terjadi pada 1987. Seorang mahasiswa aktivis, presiden himpunan mahasiswa linguistik, Park Yong-chul, yang meninggal setelah disiksa oleh polisi hanya karena dianggap oposisi yang mengancam pemerintah, bisa membuat sebuah reaksi berantai yang memuncak pada reformasi Juni 1987. Seperti halnya film berbasis sejarah yang tidak murni dokumenter, tentu apa yang terjadi pada film 1987 karya Joon Hwan-jang ini tidaklah sepenuhnya fakta, terutama drama romansa Yeon-hee dan Lee Han-yeol yang disisipkan sebagai bumbu pemanis film. ACIB sendiri pun hanyalah karangan belaka, namun tentu tekanan dan penyiksaan terhadap oposisi merupakan fakta yang sungguh-sungguh terjadi. Eksistensi seorang tokoh oposisi Kim Yong Nam pun juga merupakan fakta. Ia naik menjadi presiden pada tahun 1993 sebagai presiden pertama dalam 30 tahun yang berasal dari kalangan sipil. Selain itu, kematian Park Yong-Chul adalah sungguh-sungguh bagian dari sejarah Korea Selatan, juga kematian Lee Han Yeol, yang pemakamannya dihadiri jutaan rakyat Korea Selatan. Foto bagaimana Lee Han Yeol terluka parah setelah kepalanya terkena peluru gas air mata juga telah menjadi foto bersejarah yang telah menjadi simbol pergerakan rakyat Korea Selatan untuk mencapai demokrasi seutuhnya. 
 
 <center>
-<img class="image" src="/assets/images/film/1987-3.jpg" alt="Alt Text"><br>
-Pakaian dan asesoris yang dipakai Lee Han Yeol pada saat ia terkena tembakan gas air mata, diabadikan di Lee Han Yeol Memorial Museum
+<p><img class="image" src="/assets/images/film/1987-3.jpg" alt="Alt Text"><br>
+Pakaian dan asesoris yang dipakai Lee Han Yeol pada saat ia terkena tembakan gas air mata, diabadikan di Lee Han Yeol Memorial Museum</p>
 
-<img class="image" src="/assets/images/film/1987-4.jpg" alt="Alt Text"><br>
-Poster “Save Han-Yeol!” tergantung di Universitas Yonsei setiap Juni
+<p><img class="image" src="/assets/images/film/1987-4.jpg" alt="Alt Text"><br>
+Poster “Save Han-Yeol!” tergantung di Universitas Yonsei setiap Juni</p>
 
-<img class="image" src="/assets/images/film/1987-5.jpg" alt="Alt Text"><br>
-Foto Park Yong Chol dibawa oleh protestan sebagai simbol perlawanan</figcaption>
+<p><img class="image" src="/assets/images/film/1987-5.jpg" alt="Alt Text"><br>
+Foto Park Yong Chol dibawa oleh protestan sebagai simbol perlawanan</p>
 </center>
 
 Jika kita kembali pada pertanyaan, “apa yang membuat Korea Selatan menjadi seperti sekarang?”, maka narasi sejarah di atas bisa menjadi salah satu jawabannya, namun bukan satu-satunya jawaban. Analisis dari segi ekonomi dan budaya juga perlu dilihat karena kita belum melihat apa mungkin justru penguasa-penguasa awal Korea Selatan lah yang berkontribusi dalam meletakkan batu pijakan untuk memajukan perekonomian, seperti halnya Soeharto dengan konsep pembangunan besar-besarannya pada masa orde baru.
@@ -125,6 +124,7 @@ Salam Pembebasan!
 
 (PHX)
 
-
+<center>
 <img class="image" src="/assets/images/film/1987-6.jpg" alt="Alt Text"><br>
 Acara pemakaman Lee Han Yeol yang dihadiri jutaan penduduk Korea Selatan
+</center>
