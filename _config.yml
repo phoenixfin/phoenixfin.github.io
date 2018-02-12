@@ -10,9 +10,6 @@ description: A blog about literacy work of Aditya Firman Ihsan
 external-image: false
 picture: assets/images/profile.jpg
 
-collections: 
-- poetry
-
 resume: false
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume

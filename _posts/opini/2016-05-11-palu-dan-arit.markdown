@@ -15,16 +15,26 @@ description: Komunisme telah tertanam dalam konteks negatif begitu kuatnya dalam
 
 Sebelum mulai, mungkin aku ingin memaparkan dulu beberapa berita akhir-akhir ini:
 
-- http://medan.tribunnews.com/2016/05/09/ikan-pki-ditangkap-di-jogja
-- http://kaltim.tribunnews.com/2016/05/10/bila-ada-yang-menggunakan-atribut-pki-laporkan
-- http://megapolitan.kompas.com/read/2016/05/10/08360691/Saat.Kaus.Band.Metal.Dikira.Lambang.Palu.Arit.PKI
-- http://batampos.co.id/2016/05/10/ormas-pemuda-batam-siap-ganyang-gerakan-pki/
-- http://jatim.metrotvnews.com/peristiwa/VNnxz37k-atribut-pki-beredar-dprd-jatim-masyarakat-harus-bersatu-lawan-pki
-- http://berita.suaramerdeka.com/smcetak/mui-ingatkan-bahaya-gerakan-pki/
-- http://nasional.sindonews.com/read/1107335/12/fkppi-tegaskan-pemerintah-jangan-minta-maaf-kepada-pki-1462858651
-- http://regional.kompas.com/read/2016/05/09/06440011/Dandim.Pamekasan.Instruksikan.Tangkap.Pengguna.Atribut.PKI
-- http://nasional.rimanews.com/keamanan/read/20160510/279437/Politikus-PPP-Palu-Arit-Itu-PKI-Jangan-Dibiarkan-
+- [http://medan.tribunnews.com/2016/05/09/ikan-pki-ditangkap-di-jogja][1]
+- [http://kaltim.tribunnews.com/2016/05/10/bila-ada-yang-menggunakan-atribut-pki-laporkan][2]
+- [http://megapolitan.kompas.com/read/2016/05/10/08360691/Saat.Kaus.Band.Metal.Dikira.Lambang.Palu.Arit.PKI][3]
+- [http://batampos.co.id/2016/05/10/ormas-pemuda-batam-siap-ganyang-gerakan-pki/][4]
+- [http://jatim.metrotvnews.com/peristiwa/VNnxz37k-atribut-pki-beredar-dprd-jatim-masyarakat-harus-bersatu-lawan-pki][5]
+- [http://berita.suaramerdeka.com/smcetak/mui-ingatkan-bahaya-gerakan-pki/][6]
+- [http://nasional.sindonews.com/read/1107335/12/fkppi-tegaskan-pemerintah-jangan-minta-maaf-kepada-pki-1462858651][7]
+- [http://regional.kompas.com/read/2016/05/09/06440011/Dandim.Pamekasan.Instruksikan.Tangkap.Pengguna.Atribut.PKI][8]
+- [http://nasional.rimanews.com/keamanan/read/20160510/279437/Politikus-PPP-Palu-Arit-Itu-PKI-Jangan-Dibiarkan-][9]
 - dan masih banyak lagi.
+
+[1]: http://medan.tribunnews.com/2016/05/09/ikan-pki-ditangkap-di-jogja
+[2]: http://kaltim.tribunnews.com/2016/05/10/bila-ada-yang-menggunakan-atribut-pki-laporkan
+[3]: http://megapolitan.kompas.com/read/2016/05/10/08360691/Saat.Kaus.Band.Metal.Dikira.Lambang.Palu.Arit.PKI
+[4]: http://batampos.co.id/2016/05/10/ormas-pemuda-batam-siap-ganyang-gerakan-pki/
+[5]: http://jatim.metrotvnews.com/peristiwa/VNnxz37k-atribut-pki-beredar-dprd-jatim-masyarakat-harus-bersatu-lawan-pki
+[6]: http://berita.suaramerdeka.com/smcetak/mui-ingatkan-bahaya-gerakan-pki/
+[7]: http://nasional.sindonews.com/read/1107335/12/fkppi-tegaskan-pemerintah-jangan-minta-maaf-kepada-pki-1462858651
+[8]: http://regional.kompas.com/read/2016/05/09/06440011/Dandim.Pamekasan.Instruksikan.Tangkap.Pengguna.Atribut.PKI
+[9]: http://nasional.rimanews.com/keamanan/read/20160510/279437/Politikus-PPP-Palu-Arit-Itu-PKI-Jangan-Dibiarkan-
 
 Ya, begitulah.
 
@@ -56,9 +66,9 @@ Seperti yang aku nyatakan sebelumnya. Identitas suatu objek tidak bisa diartikan
 
 Setelah revolusi industri semakin membuat imperialisme baru semakin merajalela. Kepemilikan terhadap faktor produksi sebagai modal/kapital pun menjadi kekuasaan baru yang menindas. Seperti yang diungkap Marx, hal ini menciptakan struktur kelas dengan hegemoni kapital yang berlebihan. Selayaknya makna komunisme pada awalnya, tentu ini hal yang sangat ditentang. Istilah ini pun bergeser menjadi ideologi anti-kapitalisme. Pada tahap lebih lanjutnya, pemahaman anti-kapitalisme ini pun diimplementasikan menjadi paham bahwa kaum pekerja harus memerjuangkan haknya dengan revolusi strutktur sosial. Karena kemudian yang berhasil mengimplementasikan itu adalah Lenin, ia pun menjadi acuan sebuah negara komunis. Padahal, pemahaman Lenin cukup berbeda dengan Marx karena Lenin menganggap untuk menciptakan kesetaraan, perlu adanya penguasaan terpusat. Ini lah juga yang membuat ia memecah partai sosialis pada kala itu. Faksi Menshevik yang dipimpin oleh Julius Martov cenderung menganggap bahwa struktur harus tetap bebas dan otonom. Karena pengusaan terpusat ini cenderung mengarah pada diktatorisme, paradigma terhadap komunisme pun bergeser lagi menjadi sebuah konsep negara yang totaliter.
  
-Setelah Joseph Stalin mengambil alih kuasa setelah Lenin, paham komunisme pun semakin bergeser lagi menjadi apa yang mungkin lebih pantas disebut sebagai Stalinisme, bagaimana ia memegang kekuasan absolut terhadap negara dan benar-benar menghapus semua bentuk kebijakan pasar yang sebelumnya ketika Lenin masih diterapkan. Pergeseran lain dalam komunisme yang berkembang di Rusia adalah pemahaman bahwa komunisme itu atheis alias tidak menolak adanya agama. Hal ini disebabkan pernyataan Marx yang mengatakan bahwa agama adalah candu masyarakat. Sayangnya, orang-orang terbiasa menjadikan sesuatu simbol tanpa memahami makna sesungguhnya, seperti apa yang aku jelaskan sebelumnya bagaimana simbol itu dipengaruhi konteks waktu dan ruang. Padahal apa yang dimaksud oleh Marx hanyalah bahwa agama dianggap menjatuhkan rasionalitas dan meruntuhkan semangat juang para pekerja. Generalisasi yang dilakukan oleh Marx sebenarnya disebabkan agama pada kala itu memang cenderung menghasilkan orang-orang yang menyerah pada keadaan. Padahal agama dalam beberapa hal justru menganjurkan untuk terus memperjuangkan hak juga. Pada akhirnya, pemahaman terhadap komunisme pun jadi gado-gado dengan ragam bumbu: pemberontak lah, atheis lah, diktator lah, dan lain sebagainya. (Pembahasan lebih detail mengenai pemikiran Marx bisa baca tulisan Okie Fauzi Rachman :  [Apa Itu Marxisme dan Relevansinya Dengan Atheisme][1])
+Setelah Joseph Stalin mengambil alih kuasa setelah Lenin, paham komunisme pun semakin bergeser lagi menjadi apa yang mungkin lebih pantas disebut sebagai Stalinisme, bagaimana ia memegang kekuasan absolut terhadap negara dan benar-benar menghapus semua bentuk kebijakan pasar yang sebelumnya ketika Lenin masih diterapkan. Pergeseran lain dalam komunisme yang berkembang di Rusia adalah pemahaman bahwa komunisme itu atheis alias tidak menolak adanya agama. Hal ini disebabkan pernyataan Marx yang mengatakan bahwa agama adalah candu masyarakat. Sayangnya, orang-orang terbiasa menjadikan sesuatu simbol tanpa memahami makna sesungguhnya, seperti apa yang aku jelaskan sebelumnya bagaimana simbol itu dipengaruhi konteks waktu dan ruang. Padahal apa yang dimaksud oleh Marx hanyalah bahwa agama dianggap menjatuhkan rasionalitas dan meruntuhkan semangat juang para pekerja. Generalisasi yang dilakukan oleh Marx sebenarnya disebabkan agama pada kala itu memang cenderung menghasilkan orang-orang yang menyerah pada keadaan. Padahal agama dalam beberapa hal justru menganjurkan untuk terus memperjuangkan hak juga. Pada akhirnya, pemahaman terhadap komunisme pun jadi gado-gado dengan ragam bumbu: pemberontak lah, atheis lah, diktator lah, dan lain sebagainya. (Pembahasan lebih detail mengenai pemikiran Marx bisa baca tulisan Okie Fauzi Rachman :  [Apa Itu Marxisme dan Relevansinya Dengan Atheisme][10])
 
-[1]: https://www.facebook.com/notes/okie-fauzi-rachman/apa-itu-marxisme-dan-relevansinya-dengan-atheisme/10151804439620980
+[10]: https://www.facebook.com/notes/okie-fauzi-rachman/apa-itu-marxisme-dan-relevansinya-dengan-atheisme/10151804439620980
 
 Setelah perang dunia ke-II, Uni Soviet sebagai salah satu pemenang perang semakin punya kuasa dan memperluas invansinya. Stalin yang begitu percaya diri dan meremehkan kekuatan kapitalisme yang mulai tumbuh subur pun memulai perang dingin dengan menyerang korea selatan. Amerika dan aliansinya pun mulai menyebar kemana-mana untuk mencegah komunisme menyebar dan memperluas kekuatan ekonominya melalui penguasan perdagangan. Indonesia yang baru saja merdeka dan masih tidak stabil pun tidak luput menjadi objek.
 
@@ -97,15 +107,23 @@ Mau bersifat akademis atau tidak, ketika doktrin sudah menutup mata rasionalitas
 Ketika berbicara tentang tatanan masyarakat pun, khusus untuk mengenai pandangan komunisme sendiri, tidak ada yang signifikan. TAP MPRS nomor 25 tahun 1966 yang melarang paham komunis tetap diberlakukan, walau memang mengalami perubahan sedikit. Perubahan ini tertuang dalam TAP MPR Nomor 1 Tahun 2003 pasal 2 ayat 1 yang berbunyi:
 
 Ketetapan Majelis Permusyawaratan Rakyat Sementara Republik Indonesia Nomor XXV/MPRS/I966 tentang Pembubaran Partai Kornunis Indonesia, Pernyataan Sebagai Organisasi Terlarang di Seluruh Wilayah Negara Republik Indonesia bagi Partai Komunis Indonesia dan Larangan Setiap Kegiatan untuk Menyebarkan atau Mengembangkan Faharn atau Ajaran Komunis/MarxismeLeninisme dinyatakan tetap berlaku dengan ketentuan seluruh ketentuan dalarn Ketetapan Majelis Permusyawaratan Rakyat Sernentara Republik Indonesia Nomor XXV/MPRS/1966 ini. ke depan diberlakukan dengan beikeadilan dan menghormati hukum, prinsip demokrasi dan hak asasi manusia. 
+
 TAP ini seakan tidak pernah disosialisasikan, karena ketika melihat tren yang muncul di media, masyarakat masih menganggap TAP MPRS yang lama masih berlaku tanpa ada perubahan apapun, dan dijadikan senjata utama untuk bertindak seenaknya memerangi komunisme. Padahal, dalam pasal itu perlu kita garis bawahi, “...diberlakukan dengan beikeadilan dan menghormati hukum, prinsip demokrasi dan hak asasi manusia.” Pertanyaannya, apakah selama ini dilakukan dengan berkeadilan dan menghormati hukum, prinsip demokrasi dan hak asasi manusia? Bisa ku beri beragam contoh betapa tidak menghormati hukum, prinsip demokrasi, dan hak asasi manusia kejadian pembubaran atas stigma PKI yang terjadi akhir-akhir ini: 
 
--	http://www.berdikarionline.com/kronologis-pelarangan-festival-belok-kiri/
--	https://nasional.tempo.co/read/news/2016/03/24/078756530/larang-monolog-tan-malaka-fpi-dia-tokoh-komunis
--	https://beritagar.id/artikel/berita/perkara-pembubaran-acara-lady-fast-di-yogyakarta
--	https://nasional.tempo.co/read/news/2016/04/03/058759345/fpi-bubarkan-diskusi-yang-digelar-hmi
--	http://sekilaskendari.blogspot.co.id/2016/05/kronologi-pembubaran-acara-world-press.html
--	http://portalkbr.com/05-2016/panitia__dari_awal_polisi_menekan_kami_batalkan_acara_alf_2016/80976.html
- 
+-	[http://www.berdikarionline.com/kronologis-pelarangan-festival-belok-kiri/][11]
+-	[https://nasional.tempo.co/read/news/2016/03/24/078756530/larang-monolog-tan-malaka-fpi-dia-tokoh-komunis][12]
+-	[https://beritagar.id/artikel/berita/perkara-pembubaran-acara-lady-fast-di-yogyakarta][13]
+-	[https://nasional.tempo.co/read/news/2016/04/03/058759345/fpi-bubarkan-diskusi-yang-digelar-hmi][14]
+-	[http://sekilaskendari.blogspot.co.id/2016/05/kronologi-pembubaran-acara-world-press.html][15]
+-	[http://portalkbr.com/05-2016/panitia__dari_awal_polisi_menekan_kami_batalkan_acara_alf_2016/80976.html][16]
+
+[11]: http://www.berdikarionline.com/kronologis-pelarangan-festival-belok-kiri/
+[12]: https://nasional.tempo.co/read/news/2016/03/24/078756530/larang-monolog-tan-malaka-fpi-dia-tokoh-komunis
+[13]: https://beritagar.id/artikel/berita/perkara-pembubaran-acara-lady-fast-di-yogyakarta
+[14]: https://nasional.tempo.co/read/news/2016/04/03/058759345/fpi-bubarkan-diskusi-yang-digelar-hmi
+[15]: http://sekilaskendari.blogspot.co.id/2016/05/kronologi-pembubaran-acara-world-press.html
+[16]: http://portalkbr.com/05-2016/panitia__dari_awal_polisi_menekan_kami_batalkan_acara_alf_2016/80976.html
+
 atau daftar panjang lainnya (tidak hanya terkait komunisme) :
 
 <img class="image" src="/assets/images/blog/palu-dan-arit-3.jpg" alt="Alt Text">
@@ -114,17 +132,13 @@ Logo palu dan arit memang tidak disebutkan dilarang sama sekali dalam pasal ters
 
 Lantas sebagai generasi muda yang gelisah dan haus akan pengetahuan dan ekspresi, apa yang harus kita lakukan? Selama KUHP hasil revisi UU No. 27/1999 dan TAP MPRS  No. 25/1966 (beserta perubahannya) tetap berlaku dan melarang keras paham komunisme/leninisme/marxisme, secara hukum kita tidak bisa berbuat banyak. Apalagi dengan kentalnya doktrin sejarah di kepala masyarakat, aku rasa kita yang harus mengalah. Revisi KUHP lagi yang diwacanakan DPR RI sejak tahun 2013 pun masih menganggap bahwa komunisme adalah ancaman negara. Seperti apa yang tertuang dalam naskah akademiknya yang dipublikasikan pada 2015 yang mana tertulis:
 
-...
+> Mempertahankan larangan penyebaran ajaran komunisme dan marxisme dinilai tidak bertabrakan dengan hak asasi manusia, dengan beberapa alasan sebagaimana dimuat dalam konsideran Undang-Undang Nomor 27 Tahun 1999 sebagai berikut:
 
-Mempertahankan larangan penyebaran ajaran komunisme dan marxisme dinilai tidak bertabrakan dengan hak asasi manusia, dengan beberapa alasan sebagaimana dimuat dalam konsideran Undang-Undang Nomor 27 Tahun 1999 sebagai berikut:
+> 1. bahwa hak asasi manusia merupakan hak dasar yang secara kodrati melekat pada diri manusia antara lain meliputi hak memperoleh kepastian hukum dan persamaan kedudukan di dalam hukum, hak mengeluarkan pendapat, berserikat dan berkumpul berdasarkan Pancasila dan Undang-Undang Dasar 1945;
 
-1. bahwa hak asasi manusia merupakan hak dasar yang secara kodrati melekat pada diri manusia antara lain meliputi hak memperoleh kepastian hukum dan persamaan kedudukan di dalam hukum, hak mengeluarkan pendapat, berserikat dan berkumpul berdasarkan Pancasila dan Undang-Undang Dasar 1945;
+> 2. bahwa Kitab Undang-undang Hukum Pidana terutama yang berkaitan dengan ketentuan mcngenai kejahatan terhadap keamanan negara belum memberi landasan hukum yang kuat dalam usaha mempertahankan Negara Kesatuan Republik Indonesia yang berlandaskan Pancasila sebagai dasar negara; 
 
-2. bahwa Kitab Undang-undang Hukum Pidana terutama yang berkaitan dengan ketentuan mcngenai kejahatan terhadap keamanan negara belum memberi landasan hukum yang kuat dalam usaha mempertahankan Negara Kesatuan Republik Indonesia yang berlandaskan Pancasila sebagai dasar negara; 
-
-3. bahwa paham dan ajaran komunisme/marxisme/Lenimisme dalam praktek kehidupan politik dan kenegaraan menjelmakan diri dalam kegiatan-kegiatan yang bertentangan dengan asas-asas dan sendi-sendi kehidupan bangsa Indonesia yang bertuhan dan beragama serta telah terbukti membahayakan kelangsungan hidup bangsa Indonesia;
-
-...
+> 3. bahwa paham dan ajaran komunisme/marxisme/Lenimisme dalam praktek kehidupan politik dan kenegaraan menjelmakan diri dalam kegiatan-kegiatan yang bertentangan dengan asas-asas dan sendi-sendi kehidupan bangsa Indonesia yang bertuhan dan beragama serta telah terbukti membahayakan kelangsungan hidup bangsa Indonesia;
 
 Apakah benar komunisme itu mengancam atau tidak, tidak ada benar ataupun salah sebenarnya. Karena ideologi sangat bergantung pada yang membawa. Tidak hanya komunisme, ideologi lain seperti islam, liberal, ataupun sekular pun akan menjadi ancaman bila dibawa secara ekstrim dan jauh dari prinsip-prinsip demokrasi dan hak asasi manusia. Namun sayang, referensi gagasan yang menjadi fondasi berpikir alam bawah sadar masyarakat tidak bisa dilepaskan oleh sejarah. Tentu memang banyak fakta-fakta baru yang telah mengungkap kebenaran tragedi 1965, namun rasionalitas tidak semudah itu menyentuh dunia gagasan atau paradigma. Mau semua akademisi mengatakan dari A sampai Z apa sesungguhnya komunisme atau marxisme atau leninisme itu, di mata masyarakat tetap satu: Komunisme adalah ancaman. 
 
@@ -144,8 +158,7 @@ Menteri Pusat Studi Arsip dan Kajian Kebijakan Kabinet KM ITB 2016
 
 (PHX)
 
-__Tambahan:__
-
+__Tambahan:__ <br>
 Berbicara mengenai dunia akademik sendiri, sebenarnya kenyataannya tidak se-ideal itu. Aku teringat salah seorang kawan di ITB yang dipanggil oleh rektorat hanya karena ia memakai kaos palu-arit pada foto di buku osjur. Pada kasus lain, ketika pesta literasi 2016 yang diadakan ISH Tiben, pihak panitia diperingatkan oleh pihak kampus bahwa jika ada konten terkait PKI atau atheisme, komisi disiplin akan bertindak. 
 
 <img class="image" src="/assets/images/blog/palu-dan-arit.jpg" alt="Alt Text">

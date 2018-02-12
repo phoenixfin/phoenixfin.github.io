@@ -6,6 +6,8 @@ layout: compress
 <head>
 	{% if page.headerImage %}
 		<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+	{% else %}
+		<meta property="og:image" content="{{ site.url }}/assets/image/profile.jpg" />
 	{% endif %}
 
 	<meta property="og:description" content="{{ page.description }}" />
