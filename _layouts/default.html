@@ -4,13 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 
-<script>
-	var host = "phoenixfin.github.io";
-	if ((host == window.location.host) && (window.location.protocol != "https:"))
-		window.location.protocol = "https";
-</script>
 <head>
-	<link rel="canonical" href="{{ site.url }}{{site.baseurl}}{{ page.url }}" />
 	{% if page.headerImage %}
 		<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
 	{% else %}
