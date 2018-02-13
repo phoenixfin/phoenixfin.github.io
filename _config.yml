@@ -15,7 +15,6 @@ resume: false
 # resume-url: https://google.com/?q=my+resume
 
 url:  http//phoenixfin.me
-enforce_ssl: phoenixfin.github.io
 
 permalink: /:title/
 
