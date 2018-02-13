@@ -15,5 +15,3 @@ layout: page
 <p> Semoga bermanfaat</p>
 
 <p><b>(PHX)</b></p>
-
-</center>
