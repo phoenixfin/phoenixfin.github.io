@@ -4,7 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	{% if page.headerImage %}
+	{% if page.headerImage == "true" %}
 		<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
 	{% else %}
 		<meta property="og:image" content="{{ site.url }}/assets/image/profile.jpg" />
