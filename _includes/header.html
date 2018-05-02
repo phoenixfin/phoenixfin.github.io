@@ -10,6 +10,8 @@
    or page.title == "Walimatul Ursy"
 %}{% assign otherHeader = true %}{% endif %}
 
+{% assign headernav = true %}
+
 {% if page.title == "Home" %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
@@ -27,7 +29,6 @@
 
         {% include social-links.html %}
     </header>
-	{% assign headernav = true %}
 {% endif %}
 
 {% if otherHeader == true %}
@@ -50,7 +51,8 @@
 		<h1 class="title">{{ page.title }}</h1>
 		<h2 class="description">{{ page.description }}<h2>
     </header>
-	{% assign headernav = true %}
+	{% if page.title == "Walimatul Ursy"
+		{% assign headernav = false %}
 {% endif %}
 
 {% if headernav == true %}
