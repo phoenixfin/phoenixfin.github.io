@@ -1,0 +1,49 @@
+---
+title: Booklet Phx Vol. 26 - Post-Literacy
+refer: vol26
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai fenomena baru literasi di era informasi
+---
+
+<img class="image" src="/assets/images/cover/booklet26.jpg" alt="__" height="500px">
+
+__Tebal__: 50 Halaman
+
+__Terbit__: 1 Mei 2018
+
+***
+
+Literasi  sudah  bukan  barang  baru,  bukan  bayi  yang  baru  lahir  kemarin  sore,  bukan  juga  konsep  yang  masih  seumur  jagung.  Literasi  sudah  mengiringi  kehidupan  manusia  semenjak  aksara  mulai  dipilah-pilah.  Terhitung  ratusan  tahun  literasi  dengan  sabar  dan  pasti  mengasuh  manusia,  untuk  mengembangkan  kehidupan,  mengajarkan  ilmu  dan  pengetahuan,  menyampaikan  kisah  dan  pembelajaran,  selayaknya  ibu  bagi  peradaban.  
+
+Bak  malin  kundang  yang  menafikan  ibunya,  manusia  bertransformasi  dengan  semua  yang  ia  dapatkan  dari  literasi,  menjadikan  kemampuan  baca-tulis  biasa  tidak  lagi  mampu  mendidiknya.  Manusia  membutuhkan  pengasuh  baru  yang  bisa  membimbingnya  dalam  teknologi  yang  ia  buat  sendiri,  yang  melindunginya  dalam  disrupsi  dari  dirinya  sendiri.  Ya,  karena  manusia  telah  memasuki  pintu  tanpa  jalan  kembali,  menginjak  era  baru  yang  membentang  penuh  misteri,  sebuah  era  bernama  pasca-literasi.   
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Literasi 4.0
+
+#### [Menuju Dunia Pasca Literasi][2]
+
+#### Jurnalisme Digital
+
+[1]: http://phoenixfin.me/menuju-dunia-pasca-literasi/
+
+***
+
+<div data-configid="7319434/60800913" style="width:100%; height:500px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://www.dropbox.com/s/uh2f7vjl2iluodr/%2326%20Post-Literacy.pdf?dl=0
