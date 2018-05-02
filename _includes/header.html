@@ -51,8 +51,9 @@
 		<h1 class="title">{{ page.title }}</h1>
 		<h2 class="description">{{ page.description }}<h2>
     </header>
-	{% if page.title == "Walimatul Ursy"
+	{% if page.title == "Walimatul Ursy" %}
 		{% assign headernav = false %}
+	{% endif %}
 {% endif %}
 
 {% if headernav == true %}
