@@ -4,7 +4,7 @@ refer: vol27
 layout: bookdes
 date: 2015-05-29 07:45
 image: /assets/images/cover/booklet27.jpg
-headerImage: true
+headerImage: false
 tag:
 category: booklet
 author: aditya
