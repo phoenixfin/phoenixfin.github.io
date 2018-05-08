@@ -3,7 +3,7 @@ title: Booklet Phx Vol. 27 - Sporasa
 refer: vol27
 layout: bookdes
 date: 2015-05-29 07:45
-image: /assets/images/blog/beradab-bersama-arsip.jpg
+image: /assets/images/cover/booklet27.jpg
 headerImage: false
 tag:
 category: booklet
