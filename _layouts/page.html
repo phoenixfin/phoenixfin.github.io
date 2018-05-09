@@ -3,6 +3,12 @@ layout: default
 ---
 {% include header.html %}
 
-{{content}}
+{% if page.title == "Walimatul Ursy" %}
+    <div align="center">
+	    {{content}}
+    </div>
+{% else %}
+    {{content}}
+{% endif %}
 
 {% include footer.html %}
