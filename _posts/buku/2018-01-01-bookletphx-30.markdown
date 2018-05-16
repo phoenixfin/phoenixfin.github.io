@@ -1,0 +1,35 @@
+---
+title: Booklet Phx Vol. 30 - Kaffah Bag. 2
+refer: vol30
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/cover/booklet30.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan makalah mengenai pemikiran Islam
+---
+ 
+<img class="image" src="/assets/images/cover/booklet30.jpg" alt="__" height="500px">
+ 
+__Tebal__: 56 Halaman
+ 
+__Terbit__: 27 Mei 2018
+ 
+***
+ 
+Pencarian  atas  keutuhan  pemahaman  Islam  tentu  bukan  hal  yang  bisa  dicapai  dengan  singkat.  Islam  sendiri  memiliki  khazanah  yang  begitu  kaya,  belum  lagi  memahami  konteksnya  dalam  kondisi  zaman  dan  beragam  pemikiran  lain.  Oleh  karena  itu,  memahami  agama  Islam  tidaklah  boleh  berhenti  pada  pemahaman  sederhana  atas  kewajiban  pokok  muslim,  namun  juga  makna  dari  setiap  apa  yang  diajarkan  dalam  Al-Qur’an  dan  Al-Hadits.  Belum  lagi,  makna  Al-Qur’an  bertingkat-tingkat  untuk  setiap  ayatnya,  maka  apakah  bisa  kita  cukup  puas  dengan  status  islam  hanya  sekadar  melalui  bersyahadat,  berpuasa,  dan  shalat  5  waktu?  
+
+(PHX) 
+ 
+***
+
+<div data-configid="7319434/61350960" style="width:100%; height:500px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+ 
+***
+ 
+# [Unduh!][akses]
+ 
+[akses]: https://www.dropbox.com/s/be1gv6swbqzb7es/%2330%20Kaffah%20Bag.2.pdf?dl=0
