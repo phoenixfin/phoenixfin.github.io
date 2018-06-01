@@ -6,7 +6,10 @@ description: Mohon Doa Restu atas Pernikahan Kami
 
 <img class="image" src="/assets/images/rifaadit.jpg" alt="__" height="500px">
 
-## 07-07-2018
+<font size="30">Sabtu, 7 Juli 2018</font>
+<font size="24">08.00 - 12.00 WIB</font>
+
+# 07-07-2018
 
 
 ***
