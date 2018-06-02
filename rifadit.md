@@ -20,7 +20,7 @@ description: Mohon Doa Restu atas Pernikahan Kami
 
 # Bonus
 
-<img class="image" style="float:left src="/assets/images/cover/specialed1.jpg" alt="__" height="200px">
+<img class="image" style="float:left" src="/assets/images/cover/specialed1.jpg" alt="__" height="200px">
 
 ## Booklet Phx Special Edition
 
@@ -35,5 +35,3 @@ Aku  sedari  awal  hanyalah  entitas  yang  pincang,  meraung  mencari  penyempu
 #### [Unduh!][akses]
  
 [akses]: https://www.dropbox.com/s/o130r4web1qnwg5/%23Special%20-%20Unity.pdf?dl=0
-
-
