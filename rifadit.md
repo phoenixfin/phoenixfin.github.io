@@ -20,7 +20,7 @@ description: Mohon Doa Restu atas Pernikahan Kami
 
 # Bonus
 
-<img class="image" style="float:left" src="/assets/images/cover/specialed1.jpg" alt="__" hspace="20" height="450px">
+<img class="image" style="float:left" src="/assets/images/cover/specialed1.jpg" alt="__" hspace="20" height="500px">
 
 ## Booklet Phx Special Edition
 
