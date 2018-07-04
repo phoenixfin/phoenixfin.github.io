@@ -27,4 +27,4 @@ Aku  sedari  awal  hanyalah  entitas  yang  pincang,  meraung  mencari  penyempu
  
 # [Unduh!][akses]
  
-[akses]: https://www.dropbox.com/s/o130r4web1qnwg5/%23Special%20-%20Unity.pdf?dl=0
+[akses]: https://github.com/phoenixfin/phoenixfin.github.io/raw/master/assets/spec_unity.pdf
