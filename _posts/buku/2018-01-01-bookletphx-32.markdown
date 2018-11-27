@@ -1,0 +1,47 @@
+---
+title: Booklet Phx Vol. 32 - Kaffah Bag. 4
+refer: vol32
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/cover/booklet32.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan makalah mengenai pemikiran Islam
+---
+ 
+<img class="image" src="/assets/images/cover/booklet32.jpg" alt="__" height="500px">
+ 
+__Tebal__: 41 Halaman
+ 
+__Terbit__: 27 November 2018
+ 
+***
+ 
+Terlalu banyak yang bisa diungkap mengenai interaksi islam dengan realitas. Hanya sebuah usaha kecil melalui tulisan sederhana yang bisa sedikit memberi jejak atas perjalanan pengungkapan tersebut. Itupun mungkin hanya bisa mencatat sekian persen dari khazanah yang seharusnya. Namun paling tidak, hasrat untuk terus mencari tidak boleh berhenti, semangat untuk terus belajar tidak boleh mengenal kata ‘kelar’, dan niat untuk menjadi muslim secara utuh tidak boleh diberi keluh, karena tantangan muslim untuk era ini bagai melawan badai dengan perahu kecil. Haruskah kita menunggu badai itu reda? Atau siap sedia dengan instrumen yang ada?
+
+(PHX) 
+ 
+***
+
+## Daftar Konten
+
+#### Islam dan Budaya Non-Material
+
+#### Problematika Pluralisme dan Esoterisme Agama
+
+#### Gender dan Problematika Keadilan
+
+#### Perginya Sophia dari Philosophia
+
+***
+
+<div data-configid="7319434/66036702" style="width:100%; height:500px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+ 
+***
+ 
+# [Unduh!][akses]
+ 
+[akses]: https://www.dropbox.com/s/rdg49axudg7ni00/%2332%20Kaffah%20Bag.4.pdf?dl=0
