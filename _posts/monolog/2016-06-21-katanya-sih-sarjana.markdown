@@ -157,82 +157,80 @@ _aku menyanyikannya..._
 
 _temanku banyak dan ramai sekali:_<br>
 _gelap,_<br>
-_terang, _<br>
-_cahaya, _<br>
-_hampa/_<br>
-_luka, _<br>
-_kecewa, _<br>
-_gundah, _<br>
-_gulana_<br>
-_tinggi, _<br>
-_rendah, _<br>
-_buntu, _<br>
+_terang,_<br>
+_cahaya,_<br>
+_hampa,_<br>
+_luka,_<br>
+_kecewa,_<br>
+_gundah,_<br>
+_gulana,_<br>
+_tinggi,_<br>
+_rendah,_<br>
+_buntu,_<br>
 _kelana/_<br>
-_sunyi, _<br>
-_sepi, _<br>
-_nyeri, _<br>
+_sunyi,_<br>
+_sepi,_<br>
+_nyeri,_<br>
 _dan perih_<br>
 _asa,_ <br>
-_jelajah, _<br>
-_nisan, _<br>
-_kelam, _<br>
+_jelajah,_<br>
+_nisan,_<br>
+_kelam,_<br>
 _temaram/_ <br>
-_padam, _<br>
-_lebam, _<br>
+_padam,_<br>
+_lebam,_<br>
 _sungsam,_ <br>
-_muram _<br>
-_kubah, _<br>
-_roda, _<br>
+_muram_<br>
+_kubah,_<br>
+_roda,_<br>
 _kincir,_ <br>
-_bau anyir/_<br>
-_layu, _<br>
+_bau anyir,_<br>
+_layu,_<br>
 _tabu,_ <br>
 _gaduh_ <br>
-_meluruh...di telaga rindu _<br>
+_meluruh...di telaga rindu_<br>
 _di sungai malu_
 
 _sahabatku ada dimana-mana:_ <br>
-_hening, _<br>
-_bening, _<br>
-_tenang, _<br>
-_lapang/_<br>
-_lemah, _<br>
-_kaku, _<br>
+_hening,_<br>
+_bening,_<br>
+_tenang,_<br>
+_lapang,_<br>
+_lemah,_<br>
+_kaku,_<br>
 _marah,_ <br>
 _layu,_<br>
-_takut, _<br>
-_getir, _<br>
-_resah, _<br>
-_dan gamang/_<br>
-_senang, _<br>
-_riang, _<br>
-_cerah, _<br>
+_takut,_<br>
+_getir,_<br>
+_resah,_<br>
+_dan gamang,_<br>
+_senang,_<br>
+_riang,_<br>
+_cerah,_<br>
 _dan megah_<br>
 _lunglai,_ <br>
 _timpang,_ <br>
-_profan, _<br>
-_kerasan/_<br>
+_profan,_<br>
+_kerasan_<br>
 _banal,_ <br>
-_aral, _<br>
+_aral,_<br>
 _sakral,_ <br>
 _tumbal_<br>
 _ganas,_ <br>
 _malas,_ <br>
 _tangkas,_ <br>
-_beringas/_<br>
+_beringas,_<br>
 _sayu,_ <br>
 _jengah,_ <br>
 _gerah,_ <br>
-_mendera...di lautan duka _<br>
-_di samudera gembira _<br>
+_mendera...di lautan duka_<br>
+_di samudera gembira_<br>
 _"musuh dari musuhku adalah musuh_ <br>
 _biar kawan dari kawanku menjadi godaan!"_
 
-(Universalitas Kehidupan - Senartogok - [https://www.facebook.com/crime.thinks.org/posts/581988538621298][1])
+(Universalitas Kehidupan - Senartogok)
 
 ...
-
-[1]: https://www.facebook.com/crime.thinks.org/posts/581988538621298
 
 Ke depannya, perjalanan masih merentang panjang. Ku rasa. Apalagi untuk mengejar sesuatu yang tak terkejar: kebenaran (Kalau memang kebenaran itu ada). Walau ku tak pernah bisa yakin ketika perjalananku melalui 4 tahun perkuliahan sarjana ini masih terbilang mudah, entah bagaimana ke depannya. Mungkin hanya kegelapan malam yang akan membantuku. Maka untuk siapapun, ketika kesepian itu mengusik, ingatlah bahwa semesta masih menyediakan ribuan kawan untuk menyemangatimu. Sarjana bagiku bukan hal yang khusus, ia hanya satu cabang dari sekian cabang kehidupan yang telah dan akan ku lalui. Jadi buat yang belum, kenapa harus berkecil hati?
 
