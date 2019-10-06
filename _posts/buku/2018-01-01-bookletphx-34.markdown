@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 34 - (Con)science
+refer: vol34
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/cover/booklet34.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini mengenai sains, alam, dunia, dan manusia
+---
+ 
+<img class="image" src="/assets/images/cover/booklet34.jpg" alt="__" height="500px">
+ 
+__Tebal__: 47 Halaman
+ 
+__Terbit__: 6 Oktober 2019
+ 
+***
+ 
+Sains mungkin nama yang seperti terasingkan dari manusia. Ia hanya identik dengan ilmuan berambut tak rapi, atau laboratorium berisi perangkat yang tak bisa dipahami, atau deretan simbol penuh mister. Sayang, kita lupa bahwa sains justru salah satu yang menjadikan manusia adalah manusia. Ya, sisi positif sekaligus negatifnya. Sisi membangun sekaligus merusaknya. Sains yang memungkinkan manusia membangun gedung pencakar langit, menyingkirkan gelap dari malam, berpindah tempat dalam waktu singkat, namun sains juga lah yang memungkinkan manusia saling membunuh dalam skala besar, memunahkan jutaan spesies, melubangi lapisan ozon.
+
+Apalah daya. Sebuah dilema yang perlu disadari segera.
+
+(PHX) 
+ 
+***
+ 
+# [Unduh!][akses]
+ 
+[akses]: https://www.dropbox.com/s/e0vlezbfzrr3vx3/%2335%20Metamatika%20II.pdf?dl=0
