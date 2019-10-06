@@ -1,0 +1,49 @@
+---
+title: Booklet Phx Vol. 35 - Metamatika II
+refer: vol35
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika, bagian II
+---
+
+<img class="image" src="/assets/images/cover/booklet35.jpg" alt="__" height="500px">
+
+__Tebal__: 51 Halaman
+
+__Terbit__: 6 Oktober 2019
+
+***
+
+Matematika bukanlah entitas yang mudah dimengerti. Ia unik, partikular, terpisahkan, terasingkan, berbeda, khusus, bahkan terisolasi. Sukar menemukan posisinya dalam khazanah ilmu pengetahuan. Keberadaannya pun misteri, karena seakan ia ada begitu saja seiring manusia mengembangkan ilmu lainnya, di saat yang bersamaan ia sering tetiba hadir mengejutkan dalam beberapa aspek kehidupan. 
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Apa itu  Ada? Sebuah Perspektif Matematis
+
+#### Apa itu Bilangan?
+
+#### Matematika Mencari Makna
+
+#### Keindahan dalam Kekacauan
+
+[1]: http://phoenixfin.me/menuju-dunia-pasca-literasi/
+
+***
+
+<div data-configid="7319434/60800913" style="width:100%; height:500px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+***
+
+# [Unduh!][akses]
+
+[akses]: https://www.dropbox.com/s/e0vlezbfzrr3vx3/%2335%20Metamatika%20II.pdf?dl=0
