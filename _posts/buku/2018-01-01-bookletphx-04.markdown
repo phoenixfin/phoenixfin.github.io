@@ -38,10 +38,10 @@ Tulisan-tulisan ini juga tercipta dari berbagai keresahan polosku ketika dua set
 #### [Intelektualitas Kader Intelektual][4]
 
 
-[1]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut
-[2]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-2
-[3]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-3
-[4]: http://phoenixfin.me/intelektualitas-kader-intelektual
+[1]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut
+[2]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-2
+[3]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-3
+[4]: http://phoenixfin.github.io/intelektualitas-kader-intelektual
 
 ***
 

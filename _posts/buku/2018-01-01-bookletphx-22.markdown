@@ -35,9 +35,9 @@ Ah, itulah mengapa aku jarang menulis hal-hal aktual. Hanya saja tuntutan sebuah
 
 #### [PKI Bangkit, Lelucon Kah][3]
 
-[1]: http://phoenixfin.me/palu-dan-arit
-[2]: http://phoenixfin.me/banjir-bandung-selatan
-[3]: http://phoenixfin.me/pki-bangkit-lelucon
+[1]: http://phoenixfin.github.io/palu-dan-arit
+[2]: http://phoenixfin.github.io/banjir-bandung-selatan
+[3]: http://phoenixfin.github.io/pki-bangkit-lelucon
 
 ***
 

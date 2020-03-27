@@ -62,7 +62,7 @@ Kepribadian-kepribadian lainnya, seperti kedisiplinan, pun harus diterapkan seca
 
 Jika melihat dari perspektif lain, perguruan tinggi cenderung dianggap hanya sebagai tempat pengembangan ilmu saja, karena pendidikan karakter sudah dirasa cukup dilakukan hingga sekolah menengah. Inilah paradigma yang keliru. Ini jugalah yang membuat beberapa dosen begitu mudahnya tidak peduli keadaan mahasiswanya, hanya peduli pada pengajaran ilmu ketimbang pembentuka karakter yang diajar. Penerapan-penerapan sederhana dengan dosen menghargai mahasiswanya, tepat waktu masuk kelas, komunikasi yang baik, menegur dengan baik bila ada kesalahan, tidak semena-mena, dan lain sebagainya adalah beragam cara untuk membantu mewujudkan kehidupan kampus yang membentuk watak dan keperibadian. Pembinaan yang baik dalam hal berkegiatan pun menjadi hal yang penting, mengingat banyak hal-hal kecil diremehkan, seperti penggelembungan proposal, padahal menjadi cikal bakal tindakan korupsi di masa mendatang (baca: [Balada Korupsi Indonesia][1]).
 
-[1]: http://phoenixfin.me/balada-korupsi-indonesia
+[1]: http://phoenixfin.github.io/balada-korupsi-indonesia
 
 Nusantara ini memilik i kearifan lokal yang beragam, yang seharusnya bisa menjadi karakter utama bangsa ini. Mengapa kampus ini diberi nama Plaza Widya Nusantara, agar tidak sekedar ilmu yang diutamakan, namun juga bagaimana ilmu itu saling bertukar dan diimplementasikan dengan baik melalui diskusi antar beragam suku di nusantara, agar kenusantaraan itu juga menubuh dalam pembelajaran ilmu sehingga kehidupan di kampus ini bisa membentuk watak dan kepribadian. Tapi sayang, pada realitanya? Entahlah. Mungkin memang tidak perlu heran bila kelak satu per satu alumni kampus ini masuk penjara. 
 

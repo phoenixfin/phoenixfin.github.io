@@ -37,9 +37,9 @@ Ah tak apalah. Secara umum booklet ini tetaplah mengenai satu hal, manusia dan i
 
 #### [Literasi Bukanlah Keberaksaraan][4]
 
-[2]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-5
-[3]: http://phoenixfin.me/penindasan-pendidikan-3
-[4]: http://phoenixfin.me/literasi-bukanlah-keberaksaraan
+[2]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-5
+[3]: http://phoenixfin.github.io/penindasan-pendidikan-3
+[4]: http://phoenixfin.github.io/literasi-bukanlah-keberaksaraan
 
 ***
 

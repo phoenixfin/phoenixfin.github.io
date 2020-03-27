@@ -37,9 +37,9 @@ Merayakan kekaryaan 20 bookletku atas namanyalah kemudian ku baktikan booklet ke
 
 #### [‘Beradab’ Bersama Arsip][4]
 
-[2]: http://phoenixfin.me/literasi-mencari-arti
-[3]: http://phoenixfin.me/arsiptektur
-[4]: http://phoenixfin.me/beradab-bersama-arsip
+[2]: http://phoenixfin.github.io/literasi-mencari-arti
+[3]: http://phoenixfin.github.io/arsiptektur
+[4]: http://phoenixfin.github.io/beradab-bersama-arsip
 
 ***
 

@@ -33,9 +33,9 @@ Aku adalah entitas yang tak bisa dilihat. Sama halnya setiap mata tidak bisa mel
 
 #### [Menyemestakan Manusia][3]
 
-[1]: http://phoenixfin.me/katanya-sih-sarjana
-[2]: http://phoenixfin.me/jangan-menulis
-[3]: http://phoenixfin.me/menyemestakan-manusia
+[1]: http://phoenixfin.github.io/katanya-sih-sarjana
+[2]: http://phoenixfin.github.io/jangan-menulis
+[3]: http://phoenixfin.github.io/menyemestakan-manusia
 
 ***
 

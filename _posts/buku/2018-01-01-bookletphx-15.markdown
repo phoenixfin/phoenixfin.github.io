@@ -37,10 +37,10 @@ Itulah mengapa pembahasan mengenai teknologi tak akan pernah selesai hingga kita
 
 #### [Ia bernama Technium][4]
 
-[1]: http://phoenixfin.me/ironi-informasi
-[2]: http://phoenixfin.me/dalam-penjara-teknologi
-[3]: http://phoenixfin.me/penindasan-teknologi
-[4]: http://phoenixfin.me/ia-bernama-technium
+[1]: http://phoenixfin.github.io/ironi-informasi
+[2]: http://phoenixfin.github.io/dalam-penjara-teknologi
+[3]: http://phoenixfin.github.io/penindasan-teknologi
+[4]: http://phoenixfin.github.io/ia-bernama-technium
 
 ***
 

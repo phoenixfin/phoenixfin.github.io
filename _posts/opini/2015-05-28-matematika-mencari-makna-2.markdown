@@ -15,7 +15,7 @@ description: Apa sesungguhnya kaitan antara matematika dengan realita?
 
 Tidak bisa disebut sambungan, namun rangkaian dari [bagian pertama][1]
 
-[1]: http://phoenixfin.me/matematika-mencari-makna-1
+[1]: http://phoenixfin.github.io/matematika-mencari-makna-1
 
 ***
 

@@ -37,10 +37,10 @@ Ada apa dengan pendidikan? Ku coba paparkan fenomena yang ada. Kesimpulannya apa
 
 #### [Antara Intelektual dan Sebuah Institut 4][4]
 
-[1]: http://phoenixfin.me/penindasan-pendidikan
-[2]: http://phoenixfin.me/penindasan-pendidikan-2
-[3]: http://phoenixfin.me/balada-korupsi-indonesia
-[4]: http://phoenixfin.me/antara-intelektual-dan-sebuah-institut-4
+[1]: http://phoenixfin.github.io/penindasan-pendidikan
+[2]: http://phoenixfin.github.io/penindasan-pendidikan-2
+[3]: http://phoenixfin.github.io/balada-korupsi-indonesia
+[4]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-4
 
 ***
 

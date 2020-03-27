@@ -15,8 +15,8 @@ description: Bagaimana posisi matematika di era sekarang?
 
 Tidak bisa disebut sambungan, namun rangkaian dari sebelumnya ([bagian pertama][1] & [bagian kedua][2])
 
-[1]: http://phoenixfin.me/matematika-mencari-makna-1
-[2]: http://phoenixfin.me/matematika-mencari-makna-2
+[1]: http://phoenixfin.github.io/matematika-mencari-makna-1
+[2]: http://phoenixfin.github.io/matematika-mencari-makna-2
 
 ***
 

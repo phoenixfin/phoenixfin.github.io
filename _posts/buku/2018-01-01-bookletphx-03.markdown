@@ -39,11 +39,11 @@ Tulisan mengenai mahasiswa aku awali ketika dulu akan mengikuti Diklat Aktivis T
 
 #### [Mahasiswa, Dakwah, dan Paradigma 2][5]
 
-[1]: http://phoenixfin.me/pergerakan-mahasiswa-yang-ideal
-[2]: http://phoenixfin.me/mahasiswa-dakwah-dan-paradigma
-[3]: http://phoenixfin.me/kaderisasi-intelektual
-[4]: http://phoenixfin.me/mengenai-kajian-dan-kebenaran
-[5]: http://phoenixfin.me/mahasiswa-dakwah-dan-paradigma-2
+[1]: http://phoenixfin.github.io/pergerakan-mahasiswa-yang-ideal
+[2]: http://phoenixfin.github.io/mahasiswa-dakwah-dan-paradigma
+[3]: http://phoenixfin.github.io/kaderisasi-intelektual
+[4]: http://phoenixfin.github.io/mengenai-kajian-dan-kebenaran
+[5]: http://phoenixfin.github.io/mahasiswa-dakwah-dan-paradigma-2
 
 ***
 

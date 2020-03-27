@@ -15,8 +15,8 @@ description: Alur pendidikan seperti mengalami kepatahan antara konsep pendidika
 
 Tidak bisa disebut lanjutan, tapi hanyalah rangkaian dari 2 tulisan sebelumnya: [Penindasan Pendidikan][1] dan [Penindasan Pendidikan 2][2]
 
-[1]: http://phoenixfin.me/penindasan-pendidikan-1
-[2]: http://phoenixfin.me/penindasan-pendidikan-2
+[1]: http://phoenixfin.github.io/penindasan-pendidikan-1
+[2]: http://phoenixfin.github.io/penindasan-pendidikan-2
 
 ***
 
