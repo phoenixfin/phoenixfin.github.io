@@ -1,0 +1,45 @@
+---
+title: Booklet Phx Vol. 36 - Mahkota
+refer: vol36
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan tulisan di tengah pandemi Covid-19
+---
+
+<img class="image" src="/assets/images/cover/booklet36.jpg" alt="__" height="500px">
+
+__Tebal__: 45 Halaman
+
+__Terbit__: 12 April 2020
+
+***
+
+Ia bernama mahkota, seakan jaya dan penuh kuasa, namun bak memang semesta penuh dilema, ia hanya sebuah untai RNA, makhluk mungil tak kasat mata. Tetapi kecilnya ia layaknya tipu daya, karena ia representasi musuh manusia, yang mengancam setiap jiwa, bahkan stabilitas negara. Mungkin memang hadirnya ia, semacam sebuah pertanda, atau pesan tak berkata, yang entah dikirim darimana, untuk memberi kita semua, bahan evaluasi segala dosa, bahan refleksi menuju bijaksana, atau bahan belajar setiap makna. Entah.
+
+Ia sudah ada bersama kita, tinggal bagaimana kita menjadikannya, pelajaran terbesar dalam peradaban manusia. Maka inilah dia, sedikit usaha, meski hanya untaian kata, untuk sekadar membaca, semua fenomena, yang ditawarkan sang mahkota.
+
+(PHX)
+
+
+***
+
+## Daftar Konten
+
+#### Dear Corona
+
+#### Masih Perlu kah Universitas?
+
+#### Ekonomi Pasca Pandemi
+
+#### Narasi Global: _Rebooting_
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/booklet36.pdf
