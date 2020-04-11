@@ -19,7 +19,7 @@ __Terbit__: 6 Oktober 2019
 
 ***
 
-Matematika bukanlah entitas yang mudah dimengerti. Ia unik, partikular, terpisahkan, terasingkan, berbeda, khusus, bahkan terisolasi. Sukar menemukan posisinya dalam khazanah ilmu pengetahuan. Keberadaannya pun misteri, karena seakan ia ada begitu saja seiring manusia mengembangkan ilmu lainnya, di saat yang bersamaan ia sering tetiba hadir mengejutkan dalam beberapa aspek kehidupan. 
+Matematika bukanlah entitas yang mudah dimengerti. Ia unik, partikular, terpisahkan, terasingkan, berbeda, khusus, bahkan terisolasi. Sukar menemukan posisinya dalam khazanah ilmu pengetahuan. Keberadaannya pun misteri, karena seakan ia ada begitu saja seiring manusia mengembangkan ilmu lainnya, di saat yang bersamaan ia sering tetiba hadir mengejutkan dalam beberapa aspek kehidupan.
 
 (PHX)
 
@@ -41,4 +41,4 @@ Matematika bukanlah entitas yang mudah dimengerti. Ia unik, partikular, terpisah
 
 # [Unduh!][akses]
 
-[akses]: https://www.dropbox.com/s/e0vlezbfzrr3vx3/%2335%20Metamatika%20II.pdf?dl=0
+[akses]: http://phoenixfin.github.io/assets/pdf/booklet35.pdf
