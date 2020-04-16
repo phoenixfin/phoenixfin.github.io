@@ -41,4 +41,4 @@ Matematika bukanlah entitas yang mudah dimengerti. Ia unik, partikular, terpisah
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/booklet35.pdf
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet35.pdf

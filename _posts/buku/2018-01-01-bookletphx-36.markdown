@@ -42,4 +42,4 @@ Ia sudah ada bersama kita, tinggal bagaimana kita menjadikannya, pelajaran terbe
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/booklet36.pdf
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet36.pdf
