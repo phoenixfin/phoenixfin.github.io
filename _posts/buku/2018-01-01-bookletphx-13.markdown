@@ -34,4 +34,4 @@ Aturanku sendiri yang membatasi halaman booklet harus berada pada rentang 40-60 
 
 # [Unduh!][akses]
 
-[akses]:https://www.dropbox.com/s/fxsfxfcb3sx4uzt/%2313%20Statu%28e%29s.pdf?dl=0
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet13.pdf

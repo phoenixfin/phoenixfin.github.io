@@ -34,4 +34,4 @@ Ini hanyalah lanjutan dari catatan-catatanku sebagai ketua HIMATIKA ITB yang sem
 
 # [Unduh!][akses]
 
-[akses]:https://www.dropbox.com/s/gs7dswyo14afliz/%2312%20Ka-Him.pdf?dl=0
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet12.pdf
