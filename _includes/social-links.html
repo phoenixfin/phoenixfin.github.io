@@ -17,6 +17,11 @@
         </a>
     {% endif %}
 
+    {% if site.researchgate %}
+        <a class="link" data-title="www.researchgate.net/profile/{{ site.researchgate }}" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+            <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
+        </a>
+    {% endif %}	
 	
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
