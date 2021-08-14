@@ -12,17 +12,16 @@
     {% endif %}
 
     {% if site.issuu %}
-        <a class="link" data-title="issuu.com/{{ site.issuu }}" href="http://issuu.com/{{ site.issuu }}" target="_blank">
+        <a class="link" data-title="Issuu" href="http://issuu.com/{{ site.issuu }}" target="_blank">
             <svg class="icon icon-issuu"><use xlink:href="#icon-issuu"></use></svg>
         </a>
     {% endif %}
 
-	
-    {% if site.google %}
-        <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
-            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
+    {% if site.researchgate %}
+        <a class="link" data-title="ResearchGate" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+            <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
         </a>
-    {% endif %}
+    {% endif %}	
 
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
@@ -30,20 +29,14 @@
         </a>
     {% endif %}
 
-    {% if site.pinterest %}
-        <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
-            <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
+        <a class="link" data-title="LinkedIn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
         </a>
     {% endif %}
 
     {% if site.youtube %}
-        <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
+        <a class="link" data-title="Youtube" href="http://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
         </a>
     {% endif %}
@@ -54,14 +47,8 @@
         </a>
     {% endif %}
 
-    {% if site.lastfm %}
-        <a class="link" data-title="last.fm/user/{{ site.lastfm }}" href="https://last.fm/user/{{ site.lastfm }}" target="_blank">
-            <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>   
-        </a>
-    {% endif %}
-
     {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+        <a class="link" data-title="Github" href="https://github.com/{{ site.github }}" target="_blank">
             <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
@@ -73,7 +60,7 @@
     {% endif %}
 
     {% if site.quora %}
-        <a class="link" data-title="quora.com/profile/{{ site.quora }}" href="https://id.quora.com/profile/{{ site.quora }}" target="_blank">
+        <a class="link" data-title="Quora" href="https://id.quora.com/profile/{{ site.quora }}" target="_blank">
             <svg class="icon icon-quora"><use xlink:href="#icon-quora"></use></svg>
         </a>
     {% endif %}
@@ -87,18 +74,6 @@
     {% if site.medium %}
         <a class="link" data-title="medium.com/@{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank">
             <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.vimeo %}
-        <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.vimeo }}" target="_blank">
-            <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.lanyrd %}
-        <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
-            <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
         </a>
     {% endif %}
 

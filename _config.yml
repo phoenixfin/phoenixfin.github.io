@@ -31,12 +31,13 @@ analytics-google: 'UA-113258248-1'
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# issuu : aditya-finiarelphoenix
+issuu : aditya-finiarelphoenix
+researchgate: Aditya-Ihsan
 # facebook: phoenixfin
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: aditya-firman-ihsan-4635aa1a3
 # youtube: myyoutube
 # spotify: myspotify
 github: phoenixfin
