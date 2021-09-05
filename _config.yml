@@ -72,6 +72,7 @@ monolog: true
 puisi: true
 opini: true
 resensi: true
+podcast: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
