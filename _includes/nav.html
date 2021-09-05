@@ -70,6 +70,14 @@
             {% endif %}
         {% endif %}
 
+        {% if site.podcast == true %}
+            {% if page.title != "Podcast" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/podcast">Podcast</a>
+                </li>
+            {% endif %}
+        {% endif %}
+		
         {% if site.about == true %}
             {% if page.title != "Tentang" %}
                 <li class="item">
@@ -83,6 +91,6 @@
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
             </li>
         {% endif %}
-
+		
     </ul>
 </nav>
