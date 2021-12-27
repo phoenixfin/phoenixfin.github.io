@@ -1,0 +1,45 @@
+---
+title: Booklet Phx Vol. 37 - Hiatus
+refer: vol37
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Jawaban atas vakumnya kekaryaan
+---
+
+<img class="image" src="/assets/images/cover/booklet37.jpg" alt="__" height="500px">
+
+__Tebal__: 42 Halaman
+
+__Terbit__: 27 Desember 2021
+
+***
+
+Tinta tidak mungkin mengering, karena ia memiliki mata air yang mengalir sering, yakni kehidupan yang mengiring. Semua hanya bergantung sang pengggenggam pena, yang cukup mengurai hidup menjadi tinta, berbalut kompleksnya realita, beserta rumitnya karsa, rasa, dan asa, untuk digoreskan dalam rantai anggun aksara, mengutuh dalam afirmasi diri bernama karya. 
+
+Ketika aliran terhenti, maka curigalah pada diri. Ketika karya terhambat, maka carilah titik sekat, untuk segera diangkat, sebelum jeda semakin lekat, mematikan hasrat. 
+
+Ini hanya ikhtiar kecil untuk bangun dari koma, sebelum jadi titik yang menghentikan cerita, setelah sekian lama hanyut terlena.
+
+(PHX)
+
+
+***
+
+## Daftar Konten
+
+#### Dit, kenapa kau tak menulis lagi (2018)
+
+#### Dit, kenapa kau masih tak menulis? (2019)
+
+#### Kenapa aku tak menulis lagi (2021)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet37.pdf
