@@ -47,11 +47,6 @@ Tulisan mengenai mahasiswa aku awali ketika dulu akan mengikuti Diklat Aktivis T
 
 ***
 
-<div data-configid="7319434/12397402" style="width:100%; height:500px;" class="issuuembed"></div>
-<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
-
-***
-
 # [Unduh!][akses]
 
 [akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet3.pdf
