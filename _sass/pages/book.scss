@@ -14,7 +14,7 @@
   margin: 100px auto;
 }
 
-.book {
+.book .slide {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -32,7 +32,7 @@
 }
 
 @media (min-width: 40rem) {
-  .book {
+  .book .slide {
     -webkit-box-flex: 1;
     -webkit-flex: 1 0 50%;
     -ms-flex: 1 0 50%;
@@ -46,6 +46,15 @@
     -webkit-flex: 1 0 25%;
     -ms-flex: 1 0 25%;
     flex: 1 0 25%;
+  }
+}
+
+@media (min-width: 55rem) {
+  .slide {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 33%;
+    -ms-flex: 1 0 33%;
+    flex: 1 0 33%;
   }
 }
 

@@ -6,14 +6,14 @@ description: Berkas presentasi beragam materi yang pernah dipaparkan pada berbag
 
 <main class="shelf">
   {% for book in site.data.slides  %}
-  <article class="book">
+  <article class="slide">
     <figure class="book-cover">
       <a href="{{ book.link }}">
         <img src="/assets/images/slides/{{ book.image }}" alt="{{ book.title }}">
       </a>
     </figure>
     <div class="book-info">
-      <h3><a style="text-decoration: none;" href="{{ book.link }}">{{ book.title }}</a></h3>     
+      <h4><a style="text-decoration: none;" href="{{ book.link }}">{{ book.title }}</a></h4>     
     </div>
   </article>
   {% endfor %}
