@@ -77,6 +77,14 @@
                 </li>
             {% endif %}
         {% endif %}
+
+        {% if site.presentasi == true %}
+            {% if page.title != "Presentasi" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/presentasi">Presentasi</a>
+                </li>
+            {% endif %}
+        {% endif %}        
 		
         {% if site.about == true %}
             {% if page.title != "Tentang" %}
