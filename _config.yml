@@ -79,7 +79,7 @@ puisi: true
 opini: true
 resensi: true
 podcast: true
-presentasi: true
+slides: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
