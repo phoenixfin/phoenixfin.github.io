@@ -1,0 +1,41 @@
+---
+title: Booklet Phx Vol. 38 - Serambi
+refer: vol38
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Narasi seorang direktur Shuffah Institute
+---
+
+<img class="image" src="/assets/images/cover/booklet38.jpg" alt="__" height="500px">
+
+__Tebal__: 53 Halaman
+
+__Terbit__: 1 Januari 2022
+
+***
+
+Ini hanya secuil kisah tentang serambi
+
+Yang berisi beragam asa dan visi
+
+Ini hanya secuil kisah tentang sebuah lembaga
+
+Dan kegelisahan hati dari ketuanya
+
+Ini hanya secuil kisah tentang akumulasi resah
+
+atas organisasi bernama Shuffah
+
+(PHX)
+
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet38.pdf
