@@ -78,6 +78,14 @@
             {% endif %}
         {% endif %}
 
+        {% if site.antologi == true %}
+            {% if page.title != "Antologi" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/antologi">Antologi</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
         {% if site.slides == true %}
             {% if page.title != "Slides" %}
                 <li class="item">
