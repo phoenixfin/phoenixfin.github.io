@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 39 - T(h)ink
+refer: vol39
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan tulisan singkat tentang pikiran
+---
+
+<img class="image" src="/assets/images/cover/booklet39.jpg" alt="__" height="500px">
+
+__Tebal__: 41 Halaman
+
+__Terbit__: 10 Maret 2022
+
+***
+
+Berpikir tentu saja lebih kompleks daripada apa yang bisa kita deskripsikan. Betapa mengagumkannya kapabilitas ini, terkadang membuat kita begitu bangga berlebih terhadapnya. Namun pada akhirnya, pikiran tetaplah misteri yang memberi kita kesan kekuatan, namun tetap menabrak keterbatasan.
+
+Ini hanya secuil kumpulan tulisan-tulisan singkat dari apa yang bisa dideskripsikan secara sederhana dari pikiran. Tentu usaha ini mungkin hanya bisa mencakup sebagian kecil dari hakikat pikiran sesungguhnya, namun pada akhirnya, sebagai sebuah kekuatan, kita hanya bisa berusaha memahaminya sebaik mungkin, agar bisa menggunakannya dengan lebih bijaksana
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet39.pdf
