@@ -1,0 +1,40 @@
+---
+title: Booklet Phx Vol. 40 - Metamatika III
+refer: vol40
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika, bagian III
+---
+
+<img class="image" src="/assets/images/cover/booklet40.jpg" alt="__" height="500px">
+
+__Tebal__: 59 Halaman
+
+__Terbit__: 10 April 2022
+
+***
+
+Semakin dalam matematika dijelajahi semakin seakan tidak ada batas dan ujungnya. Apa yang dijelajahi juga sebenarnya pun tidak dapat diputuskan eksistensinya. Ibarat menjelajahi pikiran sendiri, sukar menentukan yang mana imajinasi dan yang mana memori, yang mana angan-angan dan yang mana kenyataan. Matematika lebih seperti bahasa, yang digunakan, tapi tidak benar-benar ada. Atau, kalaupun ada, yang jelas bukan secara fisik, namun hanya dalam dunia abstrak platonic entah dimana. Bak menelusuri semesta, semakin jauh pencarian semakin banyak hal mengejutkan, kalau tidak bisa disebut memusingkan.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Matematika dan Krisis Rasionalitas
+
+#### Antara Ciptaan dan Penemuan
+
+#### Di Balik Ketakterhinggaan
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet40.pdf
