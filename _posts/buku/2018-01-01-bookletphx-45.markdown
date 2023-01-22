@@ -1,0 +1,40 @@
+---
+title: Booklet Phx Vol. 45 - Metamatika IV
+refer: vol45
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika, bagian IV
+---
+
+<img class="image" src="/assets/images/cover/booklet45.jpg" alt="__" height="500px">
+
+__Tebal__: 55 Halaman
+
+__Terbit__: 14 Desember 2022
+
+***
+
+Kali ini matematika akan coba ditelusuri jauh lebih dalam lagi, jauh lebih dalam dibanding ketika Neo menerima pil merah dari Morpheus untuk mengetahui the Matrix. Mungkin hasilnya tidak akan setragis itu, namun jauh di dalam penelusuran ini, satu per satu renungan lahir yang justru menghasilkan terus pertanyaan baru. Tapi yang namanya pencarian, mungkin yang penting bukanlah hasilnya, namun proses itu sendiri, yang membawa penjelajahan panjang ke dalam alam pikiran yang entah bagaimana caranya bisa menghasilkan aturan eksak atas semesta.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Apakah Bilangan Riil itu “Riil”? 
+
+#### Apa Objek Dasar Matematika? 
+
+#### Apa Jaminan Matematika itu Benar?
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet45.pdf

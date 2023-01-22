@@ -1,0 +1,42 @@
+---
+title: Booklet Phx Vol. 44 - Ganesha
+refer: vol44
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Penelusuran sejarah ITB
+---
+
+<img class="image" src="/assets/images/cover/booklet44.jpg" alt="__" height="500px">
+
+__Tebal__: 46 Halaman
+
+__Terbit__: 7 Desember 2022
+
+***
+
+Ini hanyalah sekadar proyek sederhana yang tidak gagal menemui ketuntasan. Sebuah rencana besar untuk menulis buku sejarah ITB yang lengkap dicanangkan untuk perayaan 100 tahun perguruan tinggi pada 2020. Proyek ini diinisasi cukup lama, sayang banyak kendala membuat hanya jadi berkas tua di pojokan folder laptop. Penulisan sejarah membutuhkan penyelidikan dan penelusuran intens dari berbagai sumber dan melakukan semua itu oleh satu orang yang tidak fokus hanya akan berujung pada ketertundaan. Well, meskipun tidak selesai, hasil setengah jalan bukanlah kesia-siaan, dan booklet ini adalah buktinya.
+
+Semoga bermanfaat!
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Bagian I: Fajar Perguruan Tinggi Teknik Indonesia (1920-1967)
+
+#### Bagian II: Bangkitnya Pengembangan Teknologi (1967-1998)
+
+#### Galeri
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet44.pdf

@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 46 - Quest(ion) Bag. 2
+refer: vol46
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan jawaban dari pertanyaan di Quora (tema alam)
+---
+
+<img class="image" src="/assets/images/cover/booklet46.jpg" alt="__" height="500px">
+
+__Tebal__: 55 Halaman
+
+__Terbit__: 21 Desember 2022
+
+***
+
+Dengan banyaknya pertanyaan yang telah ku jawab dalam kurun waktu 1 tahun, tentu kompilasi jawaban Quora akan berlanjut ke booklet lain. Sebagai yang menyenangi fisika sedari masa sekolah, tentu saja pertanyaan fisis menjadi termasuk yang menarik untuk dijawab. Memang pertanyaan-pertanyaan di Quora menjadi terasa cukup konyol karena sesungguhnya jawabannya bisa dicari dengan mudah dengan Google. Yang terjadi memang pada akhirnya adalah yang ditawarkan adalah jawaban yang menarik bukan yang lengkap ataupun akurat. Pada titik ini, Quora mulai terlihat downside-nya. Beberapa waktu aku bertahan menjadi penjawab di Quora dengan niat sebagai alternatif proses menulis yang kala itu lagi macet. Pertanyaan di Quora menjadi usulan topik tersendiri yang juga menguji pemahamanku. 
+
+Sebagaimana yang sejak dulu ku pegang, salah satu tujuan dari menulis adalah rekonstruksi pikiran, dan dengan itulah aku terus menerus secara rutin tiap hari mencari pertanyaan untuk dijawab. Dan inilah booklet kedua dari semua jawabanku, khusus terkait alam fisik. Semoga bermanfaat!
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet46.pdf

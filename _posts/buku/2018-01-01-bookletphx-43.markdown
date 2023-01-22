@@ -1,0 +1,34 @@
+---
+title: Booklet Phx Vol. 43 - Quest(ion) Bag. 1
+refer: vol43
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan jawaban dari pertanyaan di Quora (tema umum)
+---
+
+<img class="image" src="/assets/images/cover/booklet43.jpg" alt="__" height="500px">
+
+__Tebal__: 60 Halaman
+
+__Terbit__: 30 November 2022
+
+***
+
+Ketika aku mulai menonaktifkan beberapa (hampir semua lebih tepatnya) media sosial yang ku punya, aku justru menemukan Quora, sebuah platform tanya jawab yang pertanyaan di dalamnya somehow membuatku gatal sendiri untuk menjawabnya. Alih-alih membatasi diri dari komunikasi dunia maya, ku justru menerjunkan diriku ke wilayah baru.
+
+Seperti halnya aku selalu tidak pernah tega melihat kumpulan informasi yang ku keluarkan tidak terkumpul secara rapih, maka apa yang aku tuangkan di Quora pun patut menjadi bookle sendiri, meski tentu saja tidak akan selesai di satu edisi. Sebagai yang memikirkan banyak hal, maka yang ku jawab pun beragam. Apa yang tercantum di sini adalah kumpulan tanya-jawab Quora yang berisi topik-topik umum. 
+
+Well, semoga bermanfaat.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet43.pdf

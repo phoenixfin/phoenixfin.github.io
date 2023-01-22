@@ -1,0 +1,42 @@
+---
+title: Booklet Phx Vol. 42 - Li(f)e
+refer: vol42
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan cerpen tentang kehidupan
+---
+
+<img class="image" src="/assets/images/cover/booklet42.jpg" alt="__" height="500px">
+
+__Tebal__: 49 Halaman
+
+__Terbit__: 20 November 2022
+
+***
+
+Menulis cerpen bagiku bukan hal baru namun juga bukan hal yang sering jadi karyaku. Namun pada akhirnya, aku menyadari begitu banyak hal yang bisa terbaca, melalui narasi dan alur kisah sederhana. Ketika hidup pada akhirnya memang buku terbaik untuk dibaca, maka hanya dari hidup pelajaran bisa menjadi makna. Sedang dalam hidup itu sendiri terlalu banyak ukiran hikmah yang tersembunyi, menyimpan banyak jawaban atas beragam misteri. Kisah-kisah itu hadir setiap harinya, terangkum dalam rangkai fenomena, menyiratkan setumpuk enigma, menanti untuk disingkap dan dibaca sepenuhnya. Booklet ini menjadi usaha awal untuk itu, untuk menangkap kejadian-kejadian semu, yang sebenarnya hadir selalu, dalam setiap waktu yang berlalu, namun terlupakan oleh banyak urusan yang lebih mendahulu.
+
+(PHX)
+
+***
+
+## Daftar Konten
+
+#### Rantai
+
+#### Memento Mori
+
+#### Mundus
+
+#### Kejadian
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet42.pdf
