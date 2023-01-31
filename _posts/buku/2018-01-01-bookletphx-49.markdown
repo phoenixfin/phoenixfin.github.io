@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 49 - Quest(ion) Bag. 3
+refer: vol49
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan jawaban dari pertanyaan di Quora (tema matematika)
+---
+
+<img class="image" src="/assets/images/cover/booklet49.jpg" alt="__" height="500px">
+
+__Tebal__: 47 Halaman
+
+__Terbit__: 5 Januari 2023
+
+***
+
+Sebagai seorang matematikawan, sudah pasti pertanyaan yang paling bisa dijawab adalah pertanyaan tentang matematika. Well, meski ya terkadang aneh-aneh juga pertanyaannya, beberapa di antara pertanyaan itu justru memiliki aspek filosofis yang sangat dalam, entah disengaja oleh penanya atau tidak. Beberapa pertanyaan yang ku temukan di Quora pada akhirnya menjadi inspirasi untuk bahan pikiran dan renungan terkait makna matematika yang kemudian ku tuliskan menjadi artikel terpisah.
+
+Matematika sendiri memang masih entitas yang misteri, maka wajar banyak kemungkinan pertanyaan-pertanyaan semi filosofis yang turut muncul. Tentu tetap banyak pertanyaan-pertanyaan teknis dan konsep yang juga akhirnya ku jawab, namun itu juga dalam rangka menguji pemahamanku terkait yang ditanyakan. And here we are, booklet terakhir dari kumpulan jawaban Quora. Semoga bermanfaat!
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet49.pdf

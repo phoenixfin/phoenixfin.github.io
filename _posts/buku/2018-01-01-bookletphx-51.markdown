@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 51 - Booklet
+refer: vol51
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Cerita di balik lahirnya setiap booklet phx
+---
+
+<img class="image" src="/assets/images/cover/booklet51.jpg" alt="__" height="500px">
+
+__Tebal__: 51 Halaman
+
+__Terbit__: 19 Januari 2023
+
+***
+
+Tak terasa 50 booklet berhasil tercipta. Aku pun tak pernah menyangka. Namun memang kekuatan konsistensi itu luar biasa. Sebagai bagian dari apresiasi diri, sekaligus menelusuri apa yang telah tertapaki, bagaimana setiap perjuangan militansi menjadi sebuah kisah tersendiri, booklet khusus pun aku tapaki, berisi cerita setiap edisi.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet51.pdf

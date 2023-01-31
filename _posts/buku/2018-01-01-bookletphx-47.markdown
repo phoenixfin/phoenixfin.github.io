@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 47 - Sporangium
+refer: vol47
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan puisi bertema lepas
+---
+
+<img class="image" src="/assets/images/cover/booklet47.jpg" alt="__" height="500px">
+
+__Tebal__: 44 Halaman
+
+__Terbit__: 28 Desember 2022
+
+***
+
+Setelah sekian waktu tak bersambung, antologi bisa dihubung. Selang sekian edisi, minimal ku masih bisa berpuisi. Sebagian di dalam ini, bahkan ada puisi cinta lama yang tersimpan sepi, saksi kisah bersama pujaan hati, yang memang belum terarsip rapih.
+
+Entah apakah ku masih bisa bermain sajak ke depannya, tapi ini adalah ikhtiar terakhir yang bisa ku berikan, paling tidak untuk saat ini.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet47.pdf

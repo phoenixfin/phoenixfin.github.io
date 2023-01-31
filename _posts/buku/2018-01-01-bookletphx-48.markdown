@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 48 - Konspirasi
+refer: vol48
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan tulisan bebas terkait teori konspirasi.
+---
+
+<img class="image" src="/assets/images/cover/booklet48.jpg" alt="__" height="500px">
+
+__Tebal__: 46 Halaman
+
+__Terbit__: 31 Desember 2022
+
+***
+
+Dunia dikendalikan oleh sekelompok elit! Program depopulasi manusia tengah berjalan! Sejarah hanyalah skenario yang direncanakan! Pesan-pesan subliminal untuk mengendalikan kita ada dimana-mana!
+
+Ya, teori-teori konspirasi bukanlah hal yang baru beredar di masyarakat. Seringkali itu begitu meyakinkan sehingga menghasilkan paranioa yang luar biasa atas apa yang ada di sekeliling kita. Dalam tingkat yang lebih lanjut, itu bisa sampai mempengaruhi setiap keputusan dan tindakan yang kita ambil. Ada apa sebenarnya dengan teori konspirasi?
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet48.pdf

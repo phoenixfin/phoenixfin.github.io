@@ -250,7 +250,7 @@
   image: booklet42.jpg
   link: http://phoenixfin.github.io/bookletphx-42
 
-- title: Vol. 43 <br> Quest(ion) Bag. 1
+- title: Vol. 43 <br> Quest(ion) 1
   refer: vol43
   author: Kumpulan jawaban dari pertanyaan di Quora (tema umum)
   image: booklet43.jpg
@@ -268,11 +268,59 @@
   image: booklet45.jpg
   link: http://phoenixfin.github.io/bookletphx-45
 
-- title: Vol. 46 <br> Quest(ion) Bag. 2
+- title: Vol. 46 <br> Quest(ion) 2
   refer: vol46
   author: Kumpulan jawaban dari pertanyaan di Quora (tema alam)
   image: booklet46.jpg
   link: http://phoenixfin.github.io/bookletphx-46
+
+- title: Vol. 47 <br> Sporangium
+  refer: vol47
+  author: Kumpulan puisi bertema lepas
+  image: booklet47.jpg
+  link: http://phoenixfin.github.io/bookletphx-47
+
+- title: Vol. 48 <br> Konspirasi
+  refer: vol48
+  author: Kumpulan tulisan bebas terkait teori konspirasi.
+  image: booklet48.jpg
+  link: http://phoenixfin.github.io/bookletphx-48
+
+- title: Vol. 49 <br> Quest(ion) 3
+  refer: vol49
+  author: Kumpulan jawaban dari pertanyaan di Quora (tema matematika)
+  image: booklet49.jpg
+  link: http://phoenixfin.github.io/bookletphx-49
+
+- title: Vol. 50 <br> Metamatika V
+  refer: vol50
+  author: Meninjau lebih jauh makna matematika, bagian V
+  image: booklet50.jpg
+  link: http://phoenixfin.github.io/bookletphx-50
+
+- title: Vol. 51 <br> Booklet
+  refer: vol51
+  author: Cerita di balik lahirnya setiap booklet phx
+  image: booklet50.jpg
+  link: http://phoenixfin.github.io/bookletphx-50
+
+- title: Vol. 52 <br> Jejak
+  refer: vol52
+  author: Serpihan arsip tulisan masa lalu yang tersisa
+  image: booklet52.jpg
+  link: http://phoenixfin.github.io/bookletphx-52
+
+- title: Vol. 53 <br> Chips
+  refer: vol53
+  author: Kumpulan tips-tips sederhana untuk menulis
+  image: booklet53.jpg
+  link: http://phoenixfin.github.io/bookletphx-53
+
+- title: Vol. 54 <br> Akademia
+  refer: vol54
+  author: Kumpulan monolog self-critics sebagai seorang akademisi
+  image: booklet54.jpg
+  link: http://phoenixfin.github.io/bookletphx-54
 
 - title: 
   refer: 

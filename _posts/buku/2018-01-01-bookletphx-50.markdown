@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 50 - Metamatika V
+refer: vol50
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika, bagian V
+---
+
+<img class="image" src="/assets/images/cover/booklet50.jpg" alt="__" height="500px">
+
+__Tebal__: 52 Halaman
+
+__Terbit__: 12 Januari 2023
+
+***
+
+Kali ini, aku akan sedikit mundur sejenak dan mempertanyakan ulang pertanyaan yang mengawali seluruh perjalananku merenungi matematika. Ya, pertanyaan yang bahkan menjadi tulisan pertamaku terkait matematika, yakni apa itu matematika. Aku pertama kali mencoba menjawabnya ketika masih tahun ke-3 studi sarjana. Kali ini, mengangkat kembali pertanyaan itu setelah sekian tahun belajar lebih dalam sampai mencapai gelar doktor, aku entah kenapa merasa ada jawaban yang lebih lengkap yang bisa ku tawarkan. Selebihnya, aku eksplorasi juga atas apa yang menjadi atribut matematika, yakni objek studinya dan keunikannya.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet50.pdf

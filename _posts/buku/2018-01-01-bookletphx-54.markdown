@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 54 - Akademia
+refer: vo54
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan monolog self-critics sebagai seorang akademisi
+---
+
+<img class="image" src="/assets/images/cover/booklet54.jpg" alt="__" height="500px">
+
+__Tebal__: 59 Halaman
+
+__Terbit__: 3 Februari 2023
+
+***
+
+Menjadi akademisi adalah perjalanan yang sepi, dengan lika-liku untuk dimasuki, dan kabut tebal menyimpan misteri. Setiap langkah hanya perlu dimaknai, pelan tapi pasti, dengan penuh hati-hati, bahwa pada akhirnya terjawab nanti.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet54.pdf

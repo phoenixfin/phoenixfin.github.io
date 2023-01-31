@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 53 - Chips
+refer: vol53
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan tips-tips sederhana untuk menulis
+---
+
+<img class="image" src="/assets/images/cover/bookle53.jpg" alt="__" height="500px">
+
+__Tebal__: 43 Halaman
+
+__Terbit__: 30 Januari 2023
+
+***
+
+Menulis itu pekerjaan sederhana, namun sedikit yang mampu atau mau membiasakannya. Apa yang tercantum di sini hanya beberapa “konten” singkat yang dulu tercipta ketika aku berusaha mengampanyekan menulis melalui pengumpulan essay di kalangan pascasarjana. Nama “chips” sebenarnya hanya modifikasi dari “tips” agar terlihat menarik. Tentu sebagai orang yang tidak bermain di media sosial, konten-konten ini hanya tersebar secara sederhana melalui WA. Akan tetapi, pada akhirnya ternyata cukup banyak untuk bisa kujadikan booklet sendiri.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet53.pdf

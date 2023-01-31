@@ -1,0 +1,32 @@
+---
+title: Booklet Phx Vol. 52 - Jejak
+refer: vol52
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Serpihan arsip tulisan masa lalu yang tersisa
+---
+
+<img class="image" src="/assets/images/cover/booklet52.jpg" alt="__" height="500px">
+
+__Tebal__: 58 Halaman
+
+__Terbit__: 25 Januari 2023
+
+***
+
+Betapa sayang ketika ada tulisan hanya tersimpan, yang pada akhirnya hilang dalam kepekatan ingatan, meski sekadar hanya secuil catatan. Pengarsipan kemudian menjadi komponen yang tak bisa dilepaskan, dari terjaganya jejak literasi sebuah perjalanan. Ya, serial booklet ini pun dimaksudkan demikian. Namun, sifatnya yang tematik membuat sebagian tidak mendapat bagian, yang akhirnya terus terdiam di sebuah folder pojokan, menunggu tulisan lain dengan tema seragam. Hingga akhirnya, ku tak ingin mempelama penantian, sifatku menulis terus mengalami perubahan, sehingga tema lama belum tentu bisa kutuliskan ulang. Maka dari itu, semua tulisan masa lalu yang masih rapih tersimpan, aku kumpulkan serabutan, menjadi satu serial khusus sebagai kumpulan langkah kecil cerita panjang. Meski tulisan-tulisan ini seperti tidak berhubungan dan mungkin minim akan makna dan gagasan, mereka tetaplah buah dari pikiran, yang dalam narasi besarnya merupakan bagian dari narasi besar perjalanan.
+
+Tak akan ada 1000 mil tanpa sebuah langkah, maka sampainya aku ke titik ini pun tidak bisa lepas dari setiap langkah itu. Sehingga demikianlah, booklet khusus berisi kumpulan jejak lepas, yang sebelumnya tak terhiraukan, namun sesungguhnya jadi saksi kecil, seluruh pengembaraan.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet52.pdf
