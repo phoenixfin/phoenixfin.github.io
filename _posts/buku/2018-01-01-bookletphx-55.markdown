@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 55 - Metamatika VI
+refer: vo55
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Meninjau lebih jauh makna matematika, bagian V
+---
+
+<img class="image" src="/assets/images/cover/booklet55.jpg" alt="__" height="500px">
+
+__Tebal__: 50 Halaman
+
+__Terbit__: 7 Februari 2023
+
+***
+
+Matematika adalah ilmu yang luas, karena kemampuan abstraksinya bisa tak terbatas. Ia bisa menjamah aspek-aspek yang semakin kontra intuitif, meskipun masih bisa dihubungkan ke realita. Memebedah satu-satu topik mungkin akan menjadi perjalanan panjang dan booklet ini bisa dianggap salah satu inisiasinya. Setelah mencoba menggali di wilayah fundamental dan mendasar di booklet-booklet sebelumnya, kali ini pencarian berlanjut ke topik-topik spesifik.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet55.pdf
