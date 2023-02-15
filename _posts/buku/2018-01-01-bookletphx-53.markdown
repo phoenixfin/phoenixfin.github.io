@@ -11,7 +11,7 @@ author: aditya
 description: Kumpulan tips-tips sederhana untuk menulis
 ---
 
-<img class="image" src="/assets/images/cover/bookle53.jpg" alt="__" height="500px">
+<img class="image" src="/assets/images/cover/booklet53.jpg" alt="__" height="500px">
 
 __Tebal__: 43 Halaman
 

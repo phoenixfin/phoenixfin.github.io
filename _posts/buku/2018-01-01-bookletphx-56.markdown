@@ -1,0 +1,30 @@
+---
+title: Booklet Phx Vol. 56 - Y
+refer: vo56
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Jawaban atas beberapa pertanyaan terhadap diri
+---
+
+<img class="image" src="/assets/images/cover/booklet56.jpg" alt="__" height="500px">
+
+__Tebal__: 54 Halaman
+
+__Terbit__: 11 Februari 2023
+
+***
+
+Kenapa, adalah pertanyaan yang cukup sulit untuk dijawab. Ia berbeda dibanding kata tanya lainnya, seperti apa, siapa, dimana, kapan, bagaimana. Semua meminta informasi spesifik, yang jelas, yang sudah tentu. Sedangkan kenapa, tidak meminta informasi, ia meminta penjelasan, meminta narasi, meminta pertanggungjawaban. Kata kenapa sering kita hindari pada diri sendiri, namun sering kita terapkan ke orang lain. Ini hanya usaha kecil untuk mengarahkan kenapa itu lebih tajam ke diri sendiri.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet56.pdf
