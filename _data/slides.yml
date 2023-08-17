@@ -14,10 +14,6 @@
   image: dialog_evolusi.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/dialog_evolusi.pdf
 
-- title: Seberapa Benar Statistik?
-  image: kebenaran_statistik.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/kebenaran_statistik.pdf
-
 - title: Penyusunan Instrumen Himpunan
   image: ins_himpunan.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/ins_himpunan.pdf
@@ -47,21 +43,21 @@
   image: matematika_islam.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/matematika_islam.pdf
 
-- title: Logical Framework Approach
-  image: logframe.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/logframe.pdf
-
-- title: Literasi Bukan Sekadar Keberksaraan
-  image: literasi_bukan_aksara.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/literasi_bukan_aksara.pdf
-
-- title: Literaksi
-  image: literaksi.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/literaksi.pdf
+- title: Seberapa Benar Statistik?
+  image: kebenaran_statistik.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/kebenaran_statistik.pdf
 
 - title: Apa itu Ketakterhinggaan
   image: tak_hingga.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/tak_hingga.pdf
+
+- title: Memahami Godel
+  image: godel.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/godel.pdf
+
+- title: Logical Framework Approach
+  image: logframe.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/logframe.pdf
 
 - title: Kemahasiswaan, Sejarah atau Masa Depan
   image: sejarah_kemahasiswaan.jpg
@@ -71,14 +67,9 @@
   image: AI_islam.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/AI_islam.pdf
 
-- title: Gnoti Seauthon
-  image: gnoti.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/gnoti.pdf
-
-- title: Gnoti Seauthon dengan Menulis
-  image: gnoti_menulis.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/gnoti_menulis.pdf
-  type: nonacademic
+- title: Islam dan Artificial Intelligence (Materi LMD)
+  image: lmd_ai.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/lmd_ai.pdf
 
 - title: Argumentasi Gagasan
   image: argumen_data.jpg
@@ -91,6 +82,10 @@
 - title: How do we do Data Analytics
   image: da_tools.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/da_tools.pdf
+
+- title: Computer Vision
+  image: cv.png
+  link: http://phoenixfin.github.io/assets/pdf/slides/cv.pdf
 
 - title: Implementasi Ekoliterasi di Era Pascaliterasi
   image: ekopascaliterasi.jpg
@@ -124,9 +119,14 @@
   image: cipta_temu.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf
 
-- title: Gnoti Seauthon! (Serambi)
-  image: diri.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/diri.pdf
+- title: Gnoti Seauthon
+  image: gnoti.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/gnoti.pdf
+
+- title: Gnoti Seauthon dengan Menulis
+  image: gnoti_menulis.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/gnoti_menulis.pdf
+  type: nonacademic
 
 - title: Memento Mori 
   image: mati.jpg
@@ -136,17 +136,9 @@
   image: contemptus_mundi.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/contemptus_mundi.pdf
 
-- title: Computer Vision
-  image: cv.png
-  link: http://phoenixfin.github.io/assets/pdf/slides/cv.pdf
-
-- title: Memahami Godel
-  image: godel.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/godel.pdf
-
-- title: Sophisticated Falsificationism
-  image: falsificationism.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/falsificationism.pdf
+- title: Gnoti Seauthon! (Materi Serambi Literasi)
+  image: diri.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/diri.pdf
 
 - title: Healing dengan Writing
   image: overwriting.jpg
@@ -156,9 +148,21 @@
   image: populer.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/populer.pdf
 
+- title: Literasi Bukan Sekadar Keberksaraan
+  image: literasi_bukan_aksara.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/literasi_bukan_aksara.pdf
+
+- title: Literaksi
+  image: literaksi.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/literaksi.pdf
+
 - title: Bayesian Approach
   image: bayes.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/bayes.pdf
+
+- title: Sophisticated Falsificationism
+  image: falsificationism.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/falsificationism.pdf
 
 - title: 
   image: 
