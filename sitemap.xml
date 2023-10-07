@@ -1,16 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
-<url>
-  <loc>https://phoenixfin.github.io/</loc>
-  <lastmod>2021-10-12T06:14:52+00:00</lastmod>
-</url>
-
-
+    <url>
+        <loc>https://phoenixfin.github.io</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/about</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/booklet</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/buku</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/kompilasi</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/arsip</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/puisi</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/podcast</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/resensi</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/antologi</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://phoenixfin.github.io/slides</loc>
+        <lastmod>2023-10-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
