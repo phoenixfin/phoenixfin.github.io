@@ -75,9 +75,9 @@ antologi: true
 buku: true
 kompilasi: true
 arsip: true
-monolog: true
+# monolog: true
 puisi: true
-opini: true
+# opini: true
 resensi: true
 podcast: true
 slides: true
