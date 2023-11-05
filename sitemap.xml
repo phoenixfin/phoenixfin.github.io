@@ -1,71 +1,1714 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--  created with sitemap generator https://octopus.do  -->
-
-    <url>
-        <loc>https://phoenixfin.github.io</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/about</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/booklet</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/buku</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/kompilasi</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/arsip</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/puisi</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/podcast</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/resensi</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/antologi</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://phoenixfin.github.io/slides</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://phoenixfin.github.io/</loc>
+	<lastmod>2023-10-12T04:35:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/about/</loc>
+	<lastmod>2023-10-12T04:35:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/booklet/</loc>
+	<lastmod>2023-10-12T04:35:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/buku/</loc>
+	<lastmod>2023-10-12T04:35:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/49_minggu.pdf</loc>
+	<lastmod>2023-10-12T04:35:17+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/1463_hari.pdf</loc>
+	<lastmod>2023-10-12T04:35:17+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/merindu_intelektualitas.pdf</loc>
+	<lastmod>2023-10-12T04:35:17+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kompilasi/</loc>
+	<lastmod>2023-10-12T04:35:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/arsip/</loc>
+	<lastmod>2023-10-12T04:35:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/puisi/</loc>
+	<lastmod>2023-10-12T04:35:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pusakarchives/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mathemarchives/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/library-of-phoenix/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/klipini/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/e-book-archives/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/untuk-apa/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tuhan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tuan-tuhan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tetiba/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/terlewati/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/teknologi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/teknolo/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tekno/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tek/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tanya/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/takdir/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/surga/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/sunyi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/selamat-pagi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/sajak-untuk-d/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/sajak-gelap/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/raja-kegelapan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/puasa/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/prasangka/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/petunjuk/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/persepsi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/perhatianku/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/percaya-takut/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/perasaan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/penghapus/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pencarianl/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pemimpin/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pembangunan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pelangi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pecat/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pagi-hari/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/nafsu-malam/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mungkin/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mendua/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-3/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-2/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/malaikat-juga-tahu/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/maha-siwa/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/magang/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/lebih-baik/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/lapar/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/lalu-lalang/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kontradiksi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kantuk/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jam-malam/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jalan-malam/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jalan-jalan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jalan-jalan-4/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jalan-jalan-3/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jalan-jalan-2/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/itb-cisitu/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/ingin/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/inap/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/ilusi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/harap-cemas/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/geming/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/gelap/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/gejolak/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/firasat/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/ditinggal/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/demonstrasi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/demikianlah-cinta/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/delusi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/defense-of-the-ancient/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dari-atas-bukit/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dalam-kesendirian-malam/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dalam-hujan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bosan/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bersin/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/berbalut-kalut/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/belajar/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/api-cemburu/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/anak-kecil/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/amsatz/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/abdi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/podcast/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antologi/</loc>
+	<lastmod>2023-10-12T04:35:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/setetes_intelektualitas.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/terbit.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/gelisah_pasca.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/coretan_untuk_dunia.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/likaliku_pasca.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/buku/covidologi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/slides/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/resensi/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/dialog_evolusi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/crit_thinking.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/logframe.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/argumen_data.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/untuk_apa_pt.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/sejarah_km_itb.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/sejarah_kemahasiswaan.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/ins_himpunan.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/penelitian_ngapain.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/kajian_ngapain.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/apa_itu_benar.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/peta_matematika.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/makna_matematika.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/matematika_islam.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/kebenaran_statistik.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/tak_hingga.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/godel.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/krisis_matematika.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/AI_math.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/AI_pendidikan.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/AI_islam.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/lmd_ai.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/da_tools.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/cv.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/ekopascaliterasi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/pascaliterasi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/logistic_regression.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/model_tuning.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/tf_1.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/tf_2.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/pemodelan.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/gnoti.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/gnoti_menulis.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/mati.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/contemptus_mundi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/diri.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/overwriting.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/populer.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/literasi_bukan_aksara.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/literaksi.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/freewriting.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/bayes.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/slides/falsificationism.pdf</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/hidup-sepenuhnya/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pendidikan-yang-membebaskan/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/optimisme-yang-tersembunyi/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/musik-adalah-semesta/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/melintas-jarak/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tipuan-persepsi/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/apa-yang-terjadi-setelah-mati/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/hidup-memang-hanya-untuk-hidup/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pidato-terbaik-dalam-sejarah/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/legenda-dalam-kehidupan/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kemenangan-jiwa/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kekuatan-ide/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/hasrat-kemanusiaan/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kesederhanaan-hidup/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dingin-mencapai-batas/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/meninjau-kesadaran/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/the-intouchables/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kukuhnya-samudra/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/orang-orang-baik/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/permainan-media/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/inilah-musyawarah/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-ilusi-dan-realita/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/narasi-sebuah-perjuangan/</loc>
+	<lastmod>2023-10-12T04:35:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-01/</loc>
+	<lastmod>2023-10-12T04:35:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-02/</loc>
+	<lastmod>2023-10-12T04:35:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet1.pdf</loc>
+	<lastmod>2023-10-12T04:35:21+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet2.pdf</loc>
+	<lastmod>2023-10-12T04:35:21+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-03/</loc>
+	<lastmod>2023-10-12T04:35:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-04/</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet4.pdf</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet3.pdf</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-06/</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-07/</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet7.pdf</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet6.pdf</loc>
+	<lastmod>2023-10-12T04:35:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-08/</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-09/</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet9.pdf</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet8.pdf</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-10/</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-05/</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-11/</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet10.pdf</loc>
+	<lastmod>2023-10-12T04:35:23+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet5.pdf</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet11.pdf</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-12/</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-13/</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-14/</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet12.pdf</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet13.pdf</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-15/</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet14.pdf</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-16/</loc>
+	<lastmod>2023-10-12T04:35:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-17/</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet15.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet16.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-18/</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet17.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-19/</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet18.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-20/</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet19.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-21/</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet20.pdf</loc>
+	<lastmod>2023-10-12T04:35:25+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-22/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet21.pdf</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-23/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet22.pdf</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-24/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet23.pdf</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-25/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet24.pdf</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-26/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet25.pdf</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-27/</loc>
+	<lastmod>2023-10-12T04:35:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/menuju-dunia-pasca-literasi/</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet26.pdf</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-28/</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet27.pdf</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-29/</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet28.pdf</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-30/</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet29.pdf</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-31/</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet30.pdf</loc>
+	<lastmod>2023-10-12T04:35:27+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-32/</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet31.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-33/</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet32.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-34/</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet33.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-35/</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet34.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-36/</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet35.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet36.pdf</loc>
+	<lastmod>2023-10-12T04:35:28+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-37/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-38/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-39/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet37.pdf</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet39.pdf</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-40/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-41/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-42/</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet40.pdf</loc>
+	<lastmod>2023-10-12T04:35:29+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet41.pdf</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet42.pdf</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-43/</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-44/</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet43.pdf</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-45/</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet44.pdf</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-46/</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet45.pdf</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-47/</loc>
+	<lastmod>2023-10-12T04:35:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet46.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-48/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet47.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-49/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-50/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet48.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet50.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet49.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-51/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-52/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-53/</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet51.pdf</loc>
+	<lastmod>2023-10-12T04:35:31+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet52.pdf</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet53.pdf</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-54/</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-55/</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/bookletphx-56/</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet54.pdf</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet55.pdf</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/assets/pdf/bookletphx/booklet56.pdf</loc>
+	<lastmod>2023-10-12T04:35:32+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/tags/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/penindasan-pendidikan-3/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/balada-korupsi-indonesia/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-mencari-makna-4/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-mencari-makna-3/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/literasi-mencari-arti/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/ia-bernama-technium/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-alam-dan-teknologi/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/penindasan-teknologi/</loc>
+	<lastmod>2023-10-12T04:36:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-charon/</loc>
+	<lastmod>2023-10-12T04:36:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pki-bangkit-lelucon/</loc>
+	<lastmod>2023-10-12T04:36:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/palu-dan-arit/</loc>
+	<lastmod>2023-10-12T04:36:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/arsiptektur/</loc>
+	<lastmod>2023-10-12T04:36:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/literasi-bukanlah-keberaksaraan/</loc>
+	<lastmod>2023-10-12T04:36:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-mencari-makna-2/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-gaia/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-eros/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-zeus/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-afrodite/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-khaos/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-khronus/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-prometheus/</loc>
+	<lastmod>2023-10-12T04:36:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-moirae/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-1/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-2/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/penindasan-pendidikan-2/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/penindasan-pendidikan/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut/</loc>
+	<lastmod>2023-10-12T04:36:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/menyemestakan-manusia/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-4/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-5/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mengenai-kajian-dan-kebenaran/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-10/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-9/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-7/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-8/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-6/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jejaring-sosial/</loc>
+	<lastmod>2023-10-12T04:36:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-rayya-3/</loc>
+	<lastmod>2023-10-12T04:36:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-2/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-3/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/intelektualitas-kader-intelektual/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-5/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-4/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mahasiswa-dakwah-paradigma-2/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pergerakan-mahasiswa-yang-ideal/</loc>
+	<lastmod>2023-10-12T04:36:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/pergerakan-ekonomi-makro-indonesia/</loc>
+	<lastmod>2023-10-12T04:36:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kaderisasi-intelektual/</loc>
+	<lastmod>2023-10-12T04:36:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/mahasiswa-dakwah-dan-paradigma/</loc>
+	<lastmod>2023-10-12T04:36:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-psyche/</loc>
+	<lastmod>2023-10-12T04:36:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/ironi-informasi/</loc>
+	<lastmod>2023-10-12T04:36:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dalam-penjara-teknologi/</loc>
+	<lastmod>2023-10-12T04:36:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kesatuan-dan-kebijaksanaan/</loc>
+	<lastmod>2023-10-12T04:36:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/beradab-bersama-arsip/</loc>
+	<lastmod>2023-10-12T04:36:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/kenapa-tak-menulis-lagi/</loc>
+	<lastmod>2023-10-12T04:36:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/jangan-menulis/</loc>
+	<lastmod>2023-10-12T04:36:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/banjir-bandung-selatan/</loc>
+	<lastmod>2023-10-12T04:36:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/katanya-sih-sarjana/</loc>
+	<lastmod>2023-10-12T04:36:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/dear-thanatos/</loc>
+	<lastmod>2023-10-12T04:37:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/matematika-mencari-makna-1/</loc>
+	<lastmod>2023-10-12T04:37:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/monolog/</loc>
+	<lastmod>2023-10-12T04:37:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phoenixfin.github.io/opini/</loc>
+	<lastmod>2023-10-12T04:37:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
 </urlset>
