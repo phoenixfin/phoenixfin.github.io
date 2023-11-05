@@ -1,0 +1,34 @@
+---
+title: Booklet Phx Vol. 57 - Iqra Sesi 1
+refer: vo57
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Refleksi atas buku yang terbaca
+---
+
+<img class="image" src="/assets/images/cover/booklet57.jpg" alt="__" height="500px">
+
+__Tebal__: 52 Halaman
+
+__Terbit__: 05 November 2023
+
+***
+
+Bacalah! Katanya. 
+
+Tapi, apa sebenarnya membaca? Itu sebuah kata yang tak sederhana. Baca bukan sekadar menyerap mengartikan aksara, tak hanya mengolah kata-kata, namun justru proses mencerna, mengolah makna, dan produksi wacana. Terkadang, kita tak merasa, berapa banyak buku terbaca, namun tak banyak tercipta, tak terbentuk diri lebih bijaksana. Semua pada akhirnya selalu butuh refleksi, agar tak sekadar mengendap dalam memori, 
+
+Booklet ini adalah proses memaknai bacaan, yang sebenarnya sudah lama ku niatkan, ketika sering ku khawatirkan, bacaanku hanya mampir dalam pikiran. Memang, aku menulis selalu untuk mengarsipkan, namun khusus saat ini, spesifik yang ku tuangkan, adalah hasil bacaan harian, produk sebuah kegiatan, baca bareng bersama teman.
+
+(PHX)
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet57.pdf
