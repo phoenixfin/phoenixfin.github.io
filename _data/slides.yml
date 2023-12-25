@@ -123,7 +123,7 @@
   image: pemodelan.jpg 
   link: http://phoenixfin.github.io/assets/pdf/slides/pemodelan.pdf
 
-- title: Matematilka, diciptakan atau ditemukan?
+- title: Matematika, diciptakan atau ditemukan?
   image: cipta_temu.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf
 
@@ -139,6 +139,10 @@
 - title: Memento Mori 
   image: mati.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/mati.pdf
+
+- title: Cogito, Ergo... 
+  image: pikir.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/pikir.pdf
 
 - title: Contemptus Mundi
   image: contemptus_mundi.jpg
@@ -175,7 +179,3 @@
 - title: Sophisticated Falsificationism
   image: falsificationism.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/falsificationism.pdf
-
-- title: 
-  image: 
-  link: 
