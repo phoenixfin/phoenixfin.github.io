@@ -71,13 +71,17 @@
   image: krisis_matematika.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/krisis_matematika.pdf
 
+- title: Pemodelan Matematika
+  image: pemodelan.jpg 
+  link: http://phoenixfin.github.io/assets/pdf/slides/pemodelan.pdf
+
+- title: Matematika, diciptakan atau ditemukan?
+  image: cipta_temu.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf
+
 - title: AI Matematika
   image: AI_math.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/AI_math.pdf
-
-- title: Pendidikan Anak Era AI
-  image: AI_pendidikan.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/AI_pendidikan.pdf
 
 - title: Islam dan Artificial Intelligence
   image: AI_islam.jpg
@@ -119,13 +123,13 @@
   image: tf_2.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/tf_2.pdf  
 
-- title: Pemodelan Matematika
-  image: pemodelan.jpg 
-  link: http://phoenixfin.github.io/assets/pdf/slides/pemodelan.pdf
+- title: Pendidikan Anak Era AI
+  image: AI_pendidikan.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/AI_pendidikan.pdf
 
-- title: Matematika, diciptakan atau ditemukan?
-  image: cipta_temu.jpg
-  link: http://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf
+- title: Benteng Informasi itu Bernama Keluarga
+  image: benteng_informasi.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/benteng_informasi.pdf
 
 - title: Gnoti Seauthon
   image: gnoti.jpg
@@ -179,3 +183,11 @@
 - title: Sophisticated Falsificationism
   image: falsificationism.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/falsificationism.pdf
+
+- title: Sociological Case Studies
+  image: science_socio.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/science_socio.pdf
+
+- title: 
+  image: 
+  link: 
