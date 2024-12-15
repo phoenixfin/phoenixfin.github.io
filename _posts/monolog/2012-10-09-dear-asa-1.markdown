@@ -1,14 +1,14 @@
 ---
 title: "Dear Asa"
 layout: post
-date: 2018-02-19 09:00
+date: 2024-12-15 09:00
 image: /assets/images/blog/dear-afrodite.jpg
 headerImage: true
 tag:
 - Asa
 category: asa
 author: aditya
-description: Perenungan terhadap Sang Dewi Cinta
+description: Catatan Pertama
 ---
 
 _Dear Asa_
