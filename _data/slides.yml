@@ -79,9 +79,25 @@
   image: cipta_temu.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/cipta_temu.pdf
 
+- title: Anomaly Detection based on Operational Data
+  image: anomaly_detection.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/anomaly_detection.pdf
+
+- title: Matematika di Industri Migas
+  image: math_industry.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/math_industry.pdf
+
 - title: AI Matematika
   image: AI_math.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/AI_math.pdf
+
+- title: AI di Pembelajaran Matematika
+  image: AI_math_edu.jpg 
+  link: http://phoenixfin.github.io/assets/pdf/slides/AI_math_edu.pdf
+
+- title: AI and Future of Literacy
+  image: AI_literacy.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/AI_literacy.pdf
 
 - title: Islam dan Artificial Intelligence
   image: AI_islam.jpg
@@ -200,7 +216,4 @@
   image: 
   link: 
 
-- title: 
-  image: 
-  link: 
 
