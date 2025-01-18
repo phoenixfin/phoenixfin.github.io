@@ -1,0 +1,26 @@
+---
+title: "Dear Asa"
+layout: post
+date: 2024-12-15 09:00
+image: /assets/images/blog/dear-afrodite.jpg
+headerImage: true
+tag:
+- Asa
+category: asa
+author: aditya
+description: Catatan Pertama
+---
+
+_Dear Asa_
+
+_Hai, ku tahu ini berat_
+
+_Semoga kau tetap semangat_
+
+_Meski tanpa chat,_
+
+_Ku tahu dikau kuat_
+
+_Sungguh, gadis hebat_
+
+(PHX)
