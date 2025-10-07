@@ -147,6 +147,14 @@
   image: benteng_informasi.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/benteng_informasi.pdf
 
+- title: Penulisan Ilmiah Terstruktur 
+  image: riset_struktur.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/riset_struktur.pdf
+
+- title: AI untuk Menulis
+  image: AI_penulisan
+  link: http://phoenixfin.github.io/assets/pdf/slides/AI_penulisan.pdf
+
 - title: Gnoti Seauthon
   image: gnoti.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/gnoti.pdf
@@ -180,6 +188,10 @@
   image: populer.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/populer.pdf
 
+- title: Penulisan Ilmiah Terstruktur 
+  image: riset_struktur.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/riset_struktur.pdf
+
 - title: Literasi Bukan Sekadar Keberksaraan
   image: literasi_bukan_aksara.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/literasi_bukan_aksara.pdf
@@ -203,6 +215,10 @@
 - title: Sociological Case Studies
   image: science_socio.jpg
   link: http://phoenixfin.github.io/assets/pdf/slides/science_socio.pdf
+
+- title: Decline of Islamic Science
+  image: dec_islam_sci.jpg
+  link: http://phoenixfin.github.io/assets/pdf/slides/dec_islam_sci.pdf
 
 - title: Isu-Isu dalam Sains
   image: isu_sains.jpg
