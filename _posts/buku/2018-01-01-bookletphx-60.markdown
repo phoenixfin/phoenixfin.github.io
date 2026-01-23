@@ -1,0 +1,33 @@
+---
+title: Booklet Phx Vol. 60 - Salmania
+refer: vo58
+layout: bookdes
+date: 2015-05-29 07:45
+image: /assets/images/blog/beradab-bersama-arsip.jpg
+headerImage: false
+tag:
+category: booklet
+author: aditya
+description: Kumpulan opini terkait Masjid Salman ITB
+---
+
+<img class="image" src="/assets/images/cover/booklet60.jpg" alt="__" height="500px">
+
+__Tebal__: 56 Halaman
+
+__Terbit__: 23 Januari 2026
+
+***
+
+Setelah 14 tahun mengenalnya, Masjid di jalan Ganesha, yang awalnya terasa biasa, pada akhirnya memberi banyak pikiran atas apa yang aku rasa, sangat sayang apabila tidak teroptimalkan semestinya, agar “Salman” tidak hanya sekadar nama, atau impian yang hanya terbatas kata-kata.
+
+Potensinya luar biasa, namun terbawa kerumitan dan skala, serta warisan sejarah dan gagasan yang penuh asa, praktiknya semakin membawa banyak tanya, yang harus diperhatikan segera, dengan zaman dan keadaan semakin penuh isu berwarna, yang tak bisa lagi dipandang sebelah mata, dengan cara yang lama. 
+
+(PHX)
+
+
+***
+
+# [Unduh!][akses]
+
+[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet60.pdf

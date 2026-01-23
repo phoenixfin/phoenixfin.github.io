@@ -1,5 +1,5 @@
 ---
-title: Booklet Phx Vol. 58 - Iqra Sesi 2
+title: Booklet Phx Vol. 58 - Iqra Sesi 1
 refer: vo58
 layout: bookdes
 date: 2015-05-29 07:45
@@ -8,25 +8,24 @@ headerImage: false
 tag:
 category: booklet
 author: aditya
-description: Refleksi atas buku yang terbaca sesi 2
+description: Refleksi atas buku yang terbaca
 ---
 
 <img class="image" src="/assets/images/cover/booklet58.jpg" alt="__" height="500px">
 
-__Tebal__: 48 Halaman
+__Tebal__: 52 Halaman
 
-__Terbit__: 3 April 2024
+__Terbit__: 05 November 2023
 
 ***
 
-Bacalah! 
+Bacalah! Katanya. 
 
-Meski tentu saja ada versi yang lebih lengkap, yakni bacalah dengan nama Tuhanmu Yang Menciptakan, mungkin perlu juga ditambahkan “bacalah dengan mengolah!” Terkadang ada begitu banyak hal yang kita baca, tapi hanya sekadar tertampung di kepala, tanpa terproses jadi apa-apa. Apalagi cara memprosesnya, selain dengan yang sederhana, yakni menuangkan kembali apa yang diterima. Aku jadi ingat sebuah pepatah, “baca apa yang kamu tulis, dan tulis apa yang kamu baca”, karena ketika kita menuangkan ulang isi kepala, maka pasti tentu akan otomatis terurai. Ya, booklet hasil bacaan ini kembali hadir untuk memaknai apa yang telah kubaca.
+Tapi, apa sebenarnya membaca? Itu sebuah kata yang tak sederhana. Baca bukan sekadar menyerap mengartikan aksara, tak hanya mengolah kata-kata, namun justru proses mencerna, mengolah makna, dan produksi wacana. Terkadang, kita tak merasa, berapa banyak buku terbaca, namun tak banyak tercipta, tak terbentuk diri lebih bijaksana. Semua pada akhirnya selalu butuh refleksi, agar tak sekadar mengendap dalam memori, 
 
-Ini adalah yang kedua, dari partisipasi sederhana, 22 Hari Baca Buku bersama, kegiatan bersama sesama pecinta pustaka.
+Booklet ini adalah proses memaknai bacaan, yang sebenarnya sudah lama ku niatkan, ketika sering ku khawatirkan, bacaanku hanya mampir dalam pikiran. Memang, aku menulis selalu untuk mengarsipkan, namun khusus saat ini, spesifik yang ku tuangkan, adalah hasil bacaan harian, produk sebuah kegiatan, baca bareng bersama teman.
 
 (PHX)
-
 
 ***
 
