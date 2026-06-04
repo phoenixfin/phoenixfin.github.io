@@ -1,112 +1,73 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
-    <ul class="list">
-        {% if page.title != "Home" %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
-            </li>
-        {% endif %}
+<nav class="topnav" role="navigation" aria-label="Main navigation">
+  <div class="topnav__inner">
 
-        {% if site.booklet == true %}
-            {% if page.title != "Booklet" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/booklet">Booklet</a>
-                </li>
-            {% endif %}
-        {% endif %}
+    <!-- Brand / home link -->
+    <a class="topnav__brand" href="{{ site.url }}/">{{ site.name }}</a>
 
-        {% if site.buku == true %}
-            {% if page.title != "Buku" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/buku">Buku</a>
-                </li>
-            {% endif %}
-        {% endif %}
+    <!-- Nav links -->
+    <ul class="topnav__list" id="topnav-list">
 
-		{% if site.kompilasi == true %}
-            {% if page.title != "Kompilasi" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/kompilasi">Kompilasi</a>
-                </li>
-            {% endif %}
-        {% endif %}
-		
-        {% if site.arsip == true %}
-            {% if page.title != "Arsip" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/arsip">Arsip</a>
-                </li>
-            {% endif %}
-        {% endif %}
+      <!-- Group: Tulis -->
+      {% assign show_tulis = false %}
+      {% if site.puisi or site.opini or site.monolog or site.resensi %}{% assign show_tulis = true %}{% endif %}
+      {% if show_tulis %}
+      <li class="topnav__item">
+        <span class="topnav__link topnav__link--group" tabindex="0">Tulis</span>
+        <ul class="topnav__dropdown" role="menu">
+          {% if site.puisi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Puisi' %} topnav__link--active{% endif %}" href="{{ site.url }}/puisi">Puisi</a></li>{% endif %}
+          {% if site.opini %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Opini' %} topnav__link--active{% endif %}" href="{{ site.url }}/opini">Opini</a></li>{% endif %}
+          {% if site.monolog %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Monolog' %} topnav__link--active{% endif %}" href="{{ site.url }}/monolog">Monolog</a></li>{% endif %}
+          {% if site.resensi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Resensi' %} topnav__link--active{% endif %}" href="{{ site.url }}/resensi">Resensi</a></li>{% endif %}
+        </ul>
+      </li>
+      {% endif %}
 
-        {% if site.monolog == true %}
-            {% if page.title != "Monolog" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/monolog">Monolog</a>
-                </li>
-            {% endif %}
-        {% endif %}
+      <!-- Group: Karya -->
+      {% assign show_karya = false %}
+      {% if site.buku or site.booklet or site.kompilasi or site.antologi %}{% assign show_karya = true %}{% endif %}
+      {% if show_karya %}
+      <li class="topnav__item">
+        <span class="topnav__link topnav__link--group" tabindex="0">Karya</span>
+        <ul class="topnav__dropdown" role="menu">
+          {% if site.buku %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Buku' %} topnav__link--active{% endif %}" href="{{ site.url }}/buku">Buku</a></li>{% endif %}
+          {% if site.booklet %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Booklet' %} topnav__link--active{% endif %}" href="{{ site.url }}/booklet">Booklet</a></li>{% endif %}
+          {% if site.kompilasi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Kompilasi' %} topnav__link--active{% endif %}" href="{{ site.url }}/kompilasi">Kompilasi</a></li>{% endif %}
+          {% if site.antologi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Antologi' %} topnav__link--active{% endif %}" href="{{ site.url }}/antologi">Antologi</a></li>{% endif %}
+        </ul>
+      </li>
+      {% endif %}
 
-        {% if site.puisi == true %}
-            {% if page.title != "Puisi" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/puisi">Puisi</a>
-                </li>
-            {% endif %}
-        {% endif %}
+      <!-- Group: Lainnya -->
+      {% assign show_lainnya = false %}
+      {% if site.podcast or site.slides or site.arsip %}{% assign show_lainnya = true %}{% endif %}
+      {% if show_lainnya %}
+      <li class="topnav__item">
+        <span class="topnav__link topnav__link--group" tabindex="0">Lainnya</span>
+        <ul class="topnav__dropdown" role="menu">
+          {% if site.podcast %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Siniar' %} topnav__link--active{% endif %}" href="{{ site.url }}/siniar">Siniar</a></li>{% endif %}
+          {% if site.slides %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Salindia' %} topnav__link--active{% endif %}" href="{{ site.url }}/salindia">Salindia</a></li>{% endif %}
+          {% if site.arsip %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Arsip' %} topnav__link--active{% endif %}" href="{{ site.url }}/arsip">Arsip</a></li>{% endif %}
+        </ul>
+      </li>
+      {% endif %}
 
-        {% if site.opini == true %}
-            {% if page.title != "Opini" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/opini">Opini</a>
-                </li>
-            {% endif %}
-        {% endif %}
+      <!-- Tentang -->
+      {% if site.about %}
+      <li class="topnav__item">
+        <a class="topnav__link{% if page.title == 'Tentang' %} topnav__link--active{% endif %}" href="{{ site.url }}/about">Tentang</a>
+      </li>
+      {% endif %}
 
-        {% if site.resensi == true %}
-            {% if page.title != "Resensi" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/resensi">Resensi</a>
-                </li>
-            {% endif %}
-        {% endif %}
+      <!-- Résumé -->
+      {% if site.resume %}
+      <li class="topnav__item">
+        <a class="topnav__link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+      </li>
+      {% endif %}
 
-        {% if site.podcast == true %}
-            {% if page.title != "Siniar" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/siniar">Siniar</a>
-                </li>
-            {% endif %}
-        {% endif %}
+    </ul><!-- /.topnav__list -->
 
-        {% if site.antologi == true %}
-            {% if page.title != "Antologi" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/antologi">Antologi</a>
-                </li>
-            {% endif %}
-        {% endif %}
+    <button class="topnav__toggle" id="topnav-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
 
-        {% if site.slides == true %}
-            {% if page.title != "Salindia" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/salindia">Salindia</a>
-                </li>
-            {% endif %}
-        {% endif %}        
-		
-        {% if site.about == true %}
-            {% if page.title != "Tentang" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">Tentang</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        {% if site.resume == true %}
-            <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
-            </li>
-        {% endif %}
-		
-    </ul>
+  </div><!-- /.topnav__inner -->
 </nav>

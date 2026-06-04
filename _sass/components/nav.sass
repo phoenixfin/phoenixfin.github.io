@@ -1,46 +1,129 @@
+// ─── Top Navigation Bar ────────────────────────────────────────────────────
+
+.topnav
+  position: sticky
+  top: 0
+  z-index: 200
+  background: $bg
+  border-bottom: 1px solid $border
+  width: 100%
+
+  &__inner
+    max-width: 870px
+    margin: 0 auto
+    padding: 0 20px
+    display: flex
+    align-items: center
+    justify-content: space-between
+    height: 56px
+
+  &__brand
+    font-family: $fontSerif
+    font-size: 1.6rem
+    font-weight: 700
+    color: $text
+    text-decoration: none
+    border-bottom: none
+    letter-spacing: 0.2px
+
+    &:hover
+      color: $accent
+      border-bottom: none
+
+  &__list
+    list-style: none
+    margin: 0
+    padding: 0
+    display: flex
+    align-items: center
+    gap: 4px
+
+  &__item
+    position: relative
+
+    // dropdown trigger
+    &:hover > .topnav__dropdown
+      opacity: 1
+      pointer-events: auto
+      transform: translateY(0)
+
+  &__link
+    font-family: $fontSans
+    font-size: 1.35rem
+    font-weight: 400
+    color: $text
+    text-decoration: none
+    border-bottom: none
+    padding: 8px 12px
+    border-radius: 4px
+    transition: background 0.18s, color 0.18s
+    display: flex
+    align-items: center
+    gap: 4px
+
+    &:hover
+      background: $surface
+      color: $accent
+      border-bottom: none
+
+    &--active
+      color: $accent
+      font-weight: 700
+
+    // dropdown arrow indicator
+    &--group::after
+      content: "▾"
+      font-size: 1rem
+      color: $muted
+
+  &__dropdown
+    position: absolute
+    top: calc(100% + 6px)
+    left: 0
+    background: $bg
+    border: 1px solid $border
+    border-radius: 6px
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08)
+    min-width: 160px
+    padding: 6px 0
+    opacity: 0
+    pointer-events: none
+    transform: translateY(-6px)
+    transition: opacity 0.18s, transform 0.18s
+
+  &__subitem
+    display: block
+
+  &__sublink
+    display: block
+    font-family: $fontSans
+    font-size: 1.3rem
+    font-weight: 400
+    color: $text
+    text-decoration: none
+    border-bottom: none
+    padding: 8px 18px
+    transition: background 0.15s, color 0.15s
+    white-space: nowrap
+
+    &:hover
+      background: $surface
+      color: $accent
+      border-bottom: none
+
+  // hamburger (mobile)
+  &__toggle
+    display: none
+    background: none
+    border: none
+    cursor: pointer
+    padding: 4px
+    color: $text
+    font-size: 2.2rem
+    line-height: 1
+
+// ─── Legacy nav classes (kept for backward compat) ─────────────────────────
+
 .nav,
 .nav-home
-    > .list
-        list-style: none
-        margin: 0
-        padding: 0 13px 0
-
-        > .item
-            display: inline-block
-
-        > .item > .link
-            display: inline-block
-            font-weight: 300
-            font-size: 1.4rem
-            padding: 20px 10px
-            text-decoration: none
-
-.nav
-    position: absolute
-    right: 0
-    top: 0
-
-    > .list
-        padding: 0 13px 0
-
-        > .item > .link
-            font-size: 1.4rem
-            padding: 5px 10px
-
-.nav-home
-    margin-top: 40px
-    text-align: center
-
-    > .list
-        padding: 0
-
-        > .item > .link
-            font-size: 2rem
-            padding: 7px 15px
-            margin: 0
-            border-radius: 4%
-            transition: all .4s ease-in-out
-            width: 70px
-
-            &:hover
-                color: $alpha
+  display: none

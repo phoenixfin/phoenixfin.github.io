@@ -1,84 +1,81 @@
+// ─── Home Hero ──────────────────────────────────────────────────────────────
+
 .header-home
+  display: block
+  margin: 60px auto 0
+  text-align: center
+  position: relative
+  z-index: 10
+  padding-bottom: 20px
+
+  > .link > .selfie,
+  > span > .selfie
+    width: 110px
+    margin-bottom: 22px
+    border-radius: 50%
+    transition: box-shadow 0.2s, opacity 0.2s
+    box-shadow: 0 2px 12px rgba(0,0,0,0.10)
+    opacity: 1
     display: block
-    margin: 0 auto
-    text-align: center
-    position: relative
-    z-index: 99
+    margin-left: auto
+    margin-right: auto
 
-    > .link > .selfie
-        width: 125px
-        margin-bottom: 25px
-        border-radius: 100%
-        transition: all .2s
-        box-shadow: 0
-        opacity: 1
+    &:hover
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15)
+      opacity: 0.88
 
-        &:hover
-            box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-            opacity: .8
+  > .title
+    font-family: $fontSerif
+    font-size: 3.8rem
+    font-weight: 700
+    color: $text
+    margin: 0 0 10px
 
-    > .title
-        font-size: 4rem
-        margin: 0 0 13px
+  > .description
+    font-family: $fontSans
+    font-size: 1.7rem
+    font-weight: 300
+    font-style: italic
+    color: $muted
+    width: 70%
+    margin: 0 auto 28px
+    line-height: 1.5
 
-    > .description
-        font-size: 1.85rem
-        font-weight: 300
-        font-style: normal
-        color: $gama
-        width: 70%
-        margin: 0 auto 30px
+    a
+      font-weight: 400
+      color: $accent
 
-        // if you put some links in your bio. ;)
-        a
-            font-weight: 200
+// ─── Section-page header (compact) ─────────────────────────────────────────
 
 .header-other
-    display: block
-    margin: -60px auto 0
-    text-align: center
-    position: sticky
-    z-index: 99
+  display: block
+  text-align: center
+  margin: 48px auto 0
+  padding-bottom: 10px
 
-    > .link > .selfie
-        width: 100px
-        margin-bottom: 10px
-        border-radius: 100%
-        transition: all .2s
-        box-shadow: 0
-        opacity: 1
+  > .link > .selfie,
+  > span > .selfie
+    display: none   // photo hidden on inner pages — nav brand name serves as home link
 
-        &:hover
-            box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-            opacity: .8
+  > .maintitle,
+  > .maindescription
+    display: none   // site name/bio not repeated on inner pages
 
-    > .maintitle
-        font-size: 2rem
-        margin: 0 0 10px
+  > .title
+    font-family: $fontSerif
+    font-size: 3rem
+    font-weight: 700
+    color: $text
+    margin: 0 0 12px
 
-    > .maindescription
-        font-size: 1.2rem
-        font-weight: 300
-        font-style: normal
-        color: $gama
-        width: 70%
-        margin: 0 auto 10px
+  > .description
+    font-family: $fontSans
+    font-size: 1.5rem
+    font-weight: 400
+    color: $muted
+    width: 72%
+    margin: 0 auto 30px
+    line-height: 1.6
 
-        // if you put some links in your bio. ;)
-        a
-            font-weight: 200
-			
-    > .title
-        font-size: 4rem
-        margin: 25pxpx 0 15px
-
-    > .description
-        font-size: 1.5rem
-        font-weight: 300
-        font-style: normal
-        width: 70%
-        margin: 0 auto 30px
-
-        // if you put some links in your bio. ;)
-        a
-            font-weight: 200
+    a
+      color: $accent

@@ -1,76 +1,32 @@
-{% if page.title == "Booklet"
-   or page.title == "Buku"
-   or page.title == "Arsip"
-   or page.title == "Kompilasi"
-   or page.title == "Monolog"
-   or page.title == "Puisi"
-   or page.title == "Opini"
-   or page.title == "Resensi"
-   or page.title == "Tags"
-   or page.title == "Siniar"
-   or page.title == "Antologi"   
-   or page.title == "Asa"   
-   or page.title == "Salindia"   
-%}{% assign otherHeader = true %}{% endif %}
-
-{% assign headernav = true %}
+{% include nav.html %}
 
 {% if page.title == "Home" %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
+  <header class="header-home {% if site.animation %}animated{% endif %}">
+    {% if site.about %}
+      <a class="link" href="{{ site.url }}/about">
+        <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+      </a>
+    {% else %}
+      <span class="link">
+        <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+      </span>
+    {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+    <h1 class="title">{{ site.name }}</h1>
+    <h2 class="description">{{ site.bio }}</h2>
 
-        {% include social-links.html %}
-    </header>
-{% endif %}
+    {% include social-links.html %}
+  </header>
 
-{% if otherHeader == true %}
-    <header class="header-other {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
+{% elsif page.title == "Walimatul Ursy" %}
+  <header class="header-other {% if site.animation %}animated{% endif %}">
+    <h1 class="title">{{ page.title }}</h1>
+    <h2 class="description">{{ page.description }}</h2>
+  </header>
 
-        <h2 class="maintitle">{{ site.name }}</h2>
-        <h3 class="maindescription">{{ site.bio }}</h3>
-
-        {% include social-links.html %}
-		
-		<h1 class="title">{{ page.title }}</h1>
-		<h2 class="description">{{ page.description }}<h2>
-    </header>
-{% endif %}
-
-{% if page.title == "Walimatul Ursy" %}
-	{% assign headernav = false %}
-    <header class="header-other {% if site.animation %}animated{% endif %}">
-		<a class="link" href="{{ site.url }}">
-			<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-		</a>
-
-        {% include social-links.html %}
-		
-		<h1 class="title">{{ page.title }}</h1>
-		<h2 class="description">{{ page.description }}<h2>
-    </header>			
-{% endif %}
-
-			
-{% if headernav == true %}
-	{% include nav.html %}
+{% else %}
+  <header class="header-other {% if site.animation %}animated{% endif %}">
+    <h1 class="title">{{ page.title }}</h1>
+    <h2 class="description">{{ page.description }}</h2>
+  </header>
 {% endif %}

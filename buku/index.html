@@ -4,18 +4,51 @@ title: Buku
 description: Karya berupa buku utuh dengan struktur isi yang lengkap. Sebagian tidak terdaftar secara resmi dalam penerbit tertentu dan tidak ber-ISBN. Semua konten yang tidak terikat dengan penerbit secara digital bisa diunduh melalui tautan di gambar cover masing-masing buku.
 ---
 
-<main class="shelf">
-  {% for book in site.data.buku  %}
-  <article class="book">
-    <figure class="book-cover">
-      <a href="{{ book.link }}">
-        <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
-      </a>
-    </figure>
-    <div class="book-info">
-      <h3><a style="text-decoration: none;" href="{{ book.link }}">{{ book.title }}</a></h3>     
-      <p style="font-size:70%;">{{ book.author }}</p>
-    </div>
-  </article>
-  {% endfor %}
-</main>
+{% assign racks = site.data.buku | where_exp: "item", "item.title != ''" | group_by: "rack" %}
+
+{% for rack in racks %}
+  {% if rack.name != "" %}
+    <section class="rack">
+      <h2 class="rack-label">{{ rack.name }}</h2>
+      <hr class="rack-divider">
+      <main class="shelf">
+        {% for book in rack.items %}
+        <article class="book">
+          <figure class="book-cover">
+            <a href="{{ book.link }}">
+              <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
+            </a>
+          </figure>
+          <div class="book-info">
+            <h3><a href="{{ book.link }}">{{ book.title }}</a></h3>
+            <p>{{ book.author }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </main>
+    </section>
+  {% endif %}
+{% endfor %}
+
+{% assign unracked = site.data.buku | where_exp: "item", "item.title != '' and item.rack == nil" %}
+{% if unracked.size > 0 %}
+  <section class="rack">
+    <h2 class="rack-label">Lainnya</h2>
+    <hr class="rack-divider">
+    <main class="shelf">
+      {% for book in unracked %}
+      <article class="book">
+        <figure class="book-cover">
+          <a href="{{ book.link }}">
+            <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
+          </a>
+        </figure>
+        <div class="book-info">
+          <h3><a href="{{ book.link }}">{{ book.title }}</a></h3>
+          <p>{{ book.author }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </main>
+  </section>
+{% endif %}

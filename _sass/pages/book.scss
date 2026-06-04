@@ -1,109 +1,141 @@
+// ─── Rack (section grouping) ────────────────────────────────────────────────
+
+.rack {
+  margin: 50px 0 60px;
+
+  &:first-child {
+    margin-top: 10px;
+  }
+}
+
+.rack-label {
+  font-family: $fontSerif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: $text;
+  margin: 0 0 6px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid $accent;
+  display: inline-block;
+  letter-spacing: 0.2px;
+}
+
+.rack-divider {
+  border: none;
+  border-top: 1px solid $border;
+  margin: 0 0 28px;
+}
+
+// ─── Shelf grid ─────────────────────────────────────────────────────────────
+
 .shelf {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-box-align: baseline;
-  -webkit-align-items: baseline;
-  -ms-flex-align: baseline;
-  align-items: baseline;
+  align-items: flex-start;
   max-width: 1200px;
-  margin: 100px auto;
+  margin: 0 auto;
+  gap: 0;
+}
+
+// ─── Book card ──────────────────────────────────────────────────────────────
+
+.book {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 36px;
+  flex: 1 0 100%;
+  transition: transform 0.18s;
+
+  &:hover {
+    transform: translateY(-3px);
+  }
 }
 
 .book .slide {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
   margin-bottom: 40px;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 0 100%;
-  -ms-flex: 1 0 100%;
   flex: 1 0 100%;
 }
 
 @media (min-width: 40rem) {
+  .book {
+    flex: 1 0 50%;
+  }
   .book .slide {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 0 50%;
-    -ms-flex: 1 0 50%;
     flex: 1 0 50%;
   }
 }
 
 @media (min-width: 55rem) {
   .book {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 0 25%;
-    -ms-flex: 1 0 25%;
     flex: 1 0 25%;
   }
-}
-
-@media (min-width: 55rem) {
   .slide {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 0 33%;
-    -ms-flex: 1 0 33%;
     flex: 1 0 33%;
   }
 }
 
 .book-cover {
   margin: 0;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: end;
-  -webkit-align-items: flex-end;
-  -ms-flex-align: end;
   align-items: flex-end;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-  -ms-flex: 1;
   flex: 1;
-  padding-right: 20px;
-  padding-left: 20px;
-}
+  padding: 0 16px;
 
-.book-cover > img {
-  max-width: 100%;
-  height: auto;
-}
+  a {
+    display: block;
+    width: 100%;
+  }
 
-.book-cover > .buku:hover {
-  box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.18), 0 0px 12px 0 rgba(0, 0, 0, 0.15);
-  opacity: 0.8;
-}
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    transition: box-shadow 0.2s, opacity 0.2s;
 
-.book-cover > a {
-  display: block;
+    &:hover {
+      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+      opacity: 0.9;
+    }
+  }
 }
 
 .book-info {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-  -ms-flex: 1;
   flex: 1;
-  border-top: 5px solid #eee;
-  padding: 20px;
+  border-top: 3px solid $accent;
+  padding: 14px 16px 8px;
+  margin: 10px 16px 0;
+  background: transparent;
+
+  h3, h4 {
+    font-family: $fontSerif;
+    font-size: 1.5rem;
+    color: $text;
+    margin: 0 0 6px;
+    line-height: 1.35;
+
+    a {
+      color: $text;
+      text-decoration: none;
+      border-bottom: none;
+      transition: color 0.2s;
+
+      &:hover {
+        color: $accent;
+        border-bottom: none;
+      }
+    }
+  }
+
+  p {
+    font-size: 1.2rem;
+    color: $muted;
+    margin: 0;
+    line-height: 1.5;
+    font-style: italic;
+  }
 }

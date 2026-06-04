@@ -4,18 +4,19 @@ body, html
 body
 	line-height: 1
 	font: 16px $fontSans
-	color: $alpha
+	color: $text
+	background-color: $bg
 
 h1, h2, h3, h4
-	font-family: $fontSans
-	color: $beta
+	font-family: $fontSerif
+	color: $text
 	-webkit-font-smoothing: antialiased
 	text-rendering: optimizeLegibility
 
 h1
 	font-size: 3rem
-	letter-spacing: -1px
-	color: $beta
+	letter-spacing: -0.5px
+	color: $text
 	font-weight: 700
 
 h2
@@ -28,29 +29,35 @@ h4
 	font-size: 1.6rem
 
 a
-	color: $delta
-	text-decoration: underline
+	color: $accent
+	text-decoration: none
+	border-bottom: 1px solid transparent
+	transition: border-color 0.2s ease, color 0.2s ease
+
+	&:hover
+		color: darken($accent, 12%)
+		border-bottom-color: $accent
 
 p
-	line-height: 1.7
-	color: $alpha
-	font-weight: 300
+	line-height: 1.8
+	color: $text
+	font-weight: 400
 	margin-bottom: 20px
-	letter-spacing: 0.4px
+	letter-spacing: 0.3px
 
 	@media #{$mobile}
-		letter-spacing: 0.2px
+		letter-spacing: 0.1px
 
 strong
-	font-weight: 400
-	color: #000
+	font-weight: 700
+	color: $text
 
 ul,
 ol
 	li
 		line-height: 2.4rem
-		font-weight: 300
-		color: $alpha
+		font-weight: 400
+		color: $text
 
 img,
 pre,
@@ -78,13 +85,15 @@ figcaption
 
 blockquote
 	padding-left: 15px
-	border-left: 3px solid #eee
+	border-left: 3px solid $accent
+	color: $muted
+	font-style: italic
 
 hr
 	border: none
 	height: 1px
 	margin: 40px auto
-	background: #eee
+	background: $border
 	width: 100%
 
 figure.highlight

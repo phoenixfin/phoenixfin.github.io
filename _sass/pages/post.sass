@@ -1,36 +1,47 @@
 .post
-    margin-top: 125px
+    margin-top: 40px
 
     > .title
+        font-family: $fontSerif
         text-align: center
-        margin-bottom: 3rem
+        margin-bottom: 1.6rem
+        font-size: 3.4rem
+        line-height: 1.25
+        color: $text
 
     > .date,
     > .post-tags
-        color: $gama
-        font-weight: 300
-        font-size: 1.4rem
+        color: $muted
+        font-weight: 400
+        font-size: 1.3rem
         text-transform: uppercase
         text-align: center
         display: block
-        margin-bottom: 6rem
-        letter-spacing: 1px
+        margin-bottom: 4rem
+        letter-spacing: 1.5px
         -webkit-font-smoothing: antialiased
         text-rendering: optimizeLegibility
 
     > .date
-        margin-bottom: 2rem
+        margin-bottom: 1.2rem
 
     > .post-tags > .item
-        padding: 2px 8px
-        border-radius: 3px
+        padding: 3px 10px
+        border-radius: 20px
         font-size: 1.1rem
-        background: $epsilon
-        color: $alpha
-        letter-spacing: 1px
-        margin: 3px 1px
+        background: $surface
+        color: $muted
+        border: 1px solid $border
+        letter-spacing: 0.5px
+        margin: 3px 3px
         text-decoration: none
         display: inline-block
+        transition: background 0.2s, color 0.2s
+
+        &:hover
+            background: $accent
+            color: #fff
+            border-color: $accent
 
     // general style
     > h2,
