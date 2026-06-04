@@ -1,81 +1,77 @@
-// ─── Home Hero ──────────────────────────────────────────────────────────────
-
 .header-home
-  display: block
-  margin: 60px auto 0
-  text-align: center
-  position: relative
-  z-index: 10
-  padding-bottom: 20px
+	display: block
+	margin: 60px auto 0
+	text-align: center
+	position: relative
+	z-index: 10
+	padding-bottom: 20px
 
-  > .link > .selfie,
-  > span > .selfie
-    width: 110px
-    margin-bottom: 22px
-    border-radius: 50%
-    transition: box-shadow 0.2s, opacity 0.2s
-    box-shadow: 0 2px 12px rgba(0,0,0,0.10)
-    opacity: 1
-    display: block
-    margin-left: auto
-    margin-right: auto
+.header-home > .link > .selfie,
+.header-home > span > .selfie
+	width: 110px
+	margin-bottom: 22px
+	border-radius: 50%
+	transition: box-shadow 0.2s, opacity 0.2s
+	box-shadow: 0 2px 12px rgba(0,0,0,0.10)
+	opacity: 1
+	display: block
+	margin-left: auto
+	margin-right: auto
 
-    &:hover
-      box-shadow: 0 4px 20px rgba(0,0,0,0.15)
-      opacity: 0.88
+	&:hover
+		box-shadow: 0 4px 20px rgba(0,0,0,0.15)
+		opacity: 0.88
 
-  > .title
-    font-family: $fontSerif
-    font-size: 3.8rem
-    font-weight: 700
-    color: $text
-    margin: 0 0 10px
+.header-home > .title
+	font-family: $fontSerif
+	font-size: 3.8rem
+	font-weight: 700
+	color: $text
+	margin: 0 0 10px
 
-  > .description
-    font-family: $fontSans
-    font-size: 1.7rem
-    font-weight: 300
-    font-style: italic
-    color: $muted
-    width: 70%
-    margin: 0 auto 28px
-    line-height: 1.5
+.header-home > .description
+	font-family: $fontSans
+	font-size: 1.7rem
+	font-weight: 300
+	font-style: italic
+	color: $muted
+	width: 70%
+	margin: 0 auto 28px
+	line-height: 1.5
 
-    a
-      font-weight: 400
-      color: $accent
-
-// ─── Section-page header (compact) ─────────────────────────────────────────
+	a
+		font-weight: 400
+		color: $accent
 
 .header-other
-  display: block
-  text-align: center
-  margin: 48px auto 0
-  padding-bottom: 10px
+	display: block
+	text-align: center
+	margin: 48px auto 0
+	padding-bottom: 10px
 
-  > .link > .selfie,
-  > span > .selfie
-    display: none   // photo hidden on inner pages — nav brand name serves as home link
+.header-other > .link > .selfie,
+.header-other > span > .selfie
+	display: none
 
-  > .maintitle,
-  > .maindescription
-    display: none   // site name/bio not repeated on inner pages
+.header-other > .maintitle,
+.header-other > .maindescription
+	display: none
 
-  > .title
-    font-family: $fontSerif
-    font-size: 3rem
-    font-weight: 700
-    color: $text
-    margin: 0 0 12px
+.header-other > .title
+	font-family: $fontSerif
+	font-size: 3rem
+	font-weight: 700
+	color: $text
+	margin: 0 0 12px
 
-  > .description
-    font-family: $fontSans
-    font-size: 1.5rem
-    font-weight: 400
-    color: $muted
-    width: 72%
-    margin: 0 auto 30px
-    line-height: 1.6
+.header-other > .description
+	font-family: $fontSans
+	font-size: 1.5rem
+	font-weight: 400
+	color: $muted
+	width: 72%
+	margin: 0 auto 30px
+	line-height: 1.6
 
-    a
-      color: $accent
+	a
+		color: $accent

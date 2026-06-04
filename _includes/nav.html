@@ -1,73 +1,63 @@
 <nav class="topnav" role="navigation" aria-label="Main navigation">
-  <div class="topnav__inner">
+  <div class="topnav-inner">
 
-    <!-- Brand / home link -->
-    <a class="topnav__brand" href="{{ site.url }}/">{{ site.name }}</a>
+    <a class="topnav-brand" href="{{ site.url }}/">{{ site.name }}</a>
 
-    <!-- Nav links -->
-    <ul class="topnav__list" id="topnav-list">
+    <ul class="topnav-list" id="topnav-list">
 
-      <!-- Group: Tulis -->
       {% assign show_tulis = false %}
       {% if site.puisi or site.opini or site.monolog or site.resensi %}{% assign show_tulis = true %}{% endif %}
       {% if show_tulis %}
-      <li class="topnav__item">
-        <span class="topnav__link topnav__link--group" tabindex="0">Tulis</span>
-        <ul class="topnav__dropdown" role="menu">
-          {% if site.puisi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Puisi' %} topnav__link--active{% endif %}" href="{{ site.url }}/puisi">Puisi</a></li>{% endif %}
-          {% if site.opini %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Opini' %} topnav__link--active{% endif %}" href="{{ site.url }}/opini">Opini</a></li>{% endif %}
-          {% if site.monolog %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Monolog' %} topnav__link--active{% endif %}" href="{{ site.url }}/monolog">Monolog</a></li>{% endif %}
-          {% if site.resensi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Resensi' %} topnav__link--active{% endif %}" href="{{ site.url }}/resensi">Resensi</a></li>{% endif %}
+      <li class="topnav-item">
+        <span class="topnav-link topnav-link-group" tabindex="0">Tulis</span>
+        <ul class="topnav-dropdown" role="menu">
+          {% if site.puisi %}<li><a class="topnav-sublink{% if page.title == 'Puisi' %} topnav-link-active{% endif %}" href="{{ site.url }}/puisi">Puisi</a></li>{% endif %}
+          {% if site.opini %}<li><a class="topnav-sublink{% if page.title == 'Opini' %} topnav-link-active{% endif %}" href="{{ site.url }}/opini">Opini</a></li>{% endif %}
+          {% if site.monolog %}<li><a class="topnav-sublink{% if page.title == 'Monolog' %} topnav-link-active{% endif %}" href="{{ site.url }}/monolog">Monolog</a></li>{% endif %}
+          {% if site.resensi %}<li><a class="topnav-sublink{% if page.title == 'Resensi' %} topnav-link-active{% endif %}" href="{{ site.url }}/resensi">Resensi</a></li>{% endif %}
         </ul>
       </li>
       {% endif %}
 
-      <!-- Group: Karya -->
       {% assign show_karya = false %}
       {% if site.buku or site.booklet or site.kompilasi or site.antologi %}{% assign show_karya = true %}{% endif %}
       {% if show_karya %}
-      <li class="topnav__item">
-        <span class="topnav__link topnav__link--group" tabindex="0">Karya</span>
-        <ul class="topnav__dropdown" role="menu">
-          {% if site.buku %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Buku' %} topnav__link--active{% endif %}" href="{{ site.url }}/buku">Buku</a></li>{% endif %}
-          {% if site.booklet %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Booklet' %} topnav__link--active{% endif %}" href="{{ site.url }}/booklet">Booklet</a></li>{% endif %}
-          {% if site.kompilasi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Kompilasi' %} topnav__link--active{% endif %}" href="{{ site.url }}/kompilasi">Kompilasi</a></li>{% endif %}
-          {% if site.antologi %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Antologi' %} topnav__link--active{% endif %}" href="{{ site.url }}/antologi">Antologi</a></li>{% endif %}
+      <li class="topnav-item">
+        <span class="topnav-link topnav-link-group" tabindex="0">Karya</span>
+        <ul class="topnav-dropdown" role="menu">
+          {% if site.buku %}<li><a class="topnav-sublink{% if page.title == 'Buku' %} topnav-link-active{% endif %}" href="{{ site.url }}/buku">Buku</a></li>{% endif %}
+          {% if site.booklet %}<li><a class="topnav-sublink{% if page.title == 'Booklet' %} topnav-link-active{% endif %}" href="{{ site.url }}/booklet">Booklet</a></li>{% endif %}
+          {% if site.kompilasi %}<li><a class="topnav-sublink{% if page.title == 'Kompilasi' %} topnav-link-active{% endif %}" href="{{ site.url }}/kompilasi">Kompilasi</a></li>{% endif %}
+          {% if site.antologi %}<li><a class="topnav-sublink{% if page.title == 'Antologi' %} topnav-link-active{% endif %}" href="{{ site.url }}/antologi">Antologi</a></li>{% endif %}
         </ul>
       </li>
       {% endif %}
 
-      <!-- Group: Lainnya -->
       {% assign show_lainnya = false %}
       {% if site.podcast or site.slides or site.arsip %}{% assign show_lainnya = true %}{% endif %}
       {% if show_lainnya %}
-      <li class="topnav__item">
-        <span class="topnav__link topnav__link--group" tabindex="0">Lainnya</span>
-        <ul class="topnav__dropdown" role="menu">
-          {% if site.podcast %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Siniar' %} topnav__link--active{% endif %}" href="{{ site.url }}/siniar">Siniar</a></li>{% endif %}
-          {% if site.slides %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Salindia' %} topnav__link--active{% endif %}" href="{{ site.url }}/salindia">Salindia</a></li>{% endif %}
-          {% if site.arsip %}<li class="topnav__subitem"><a class="topnav__sublink{% if page.title == 'Arsip' %} topnav__link--active{% endif %}" href="{{ site.url }}/arsip">Arsip</a></li>{% endif %}
+      <li class="topnav-item">
+        <span class="topnav-link topnav-link-group" tabindex="0">Lainnya</span>
+        <ul class="topnav-dropdown" role="menu">
+          {% if site.podcast %}<li><a class="topnav-sublink{% if page.title == 'Siniar' %} topnav-link-active{% endif %}" href="{{ site.url }}/siniar">Siniar</a></li>{% endif %}
+          {% if site.slides %}<li><a class="topnav-sublink{% if page.title == 'Salindia' %} topnav-link-active{% endif %}" href="{{ site.url }}/salindia">Salindia</a></li>{% endif %}
+          {% if site.arsip %}<li><a class="topnav-sublink{% if page.title == 'Arsip' %} topnav-link-active{% endif %}" href="{{ site.url }}/arsip">Arsip</a></li>{% endif %}
         </ul>
       </li>
       {% endif %}
 
-      <!-- Tentang -->
       {% if site.about %}
-      <li class="topnav__item">
-        <a class="topnav__link{% if page.title == 'Tentang' %} topnav__link--active{% endif %}" href="{{ site.url }}/about">Tentang</a>
+      <li class="topnav-item">
+        <a class="topnav-link{% if page.title == 'Tentang' %} topnav-link-active{% endif %}" href="{{ site.url }}/about">Tentang</a>
       </li>
       {% endif %}
 
-      <!-- Résumé -->
       {% if site.resume %}
-      <li class="topnav__item">
-        <a class="topnav__link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+      <li class="topnav-item">
+        <a class="topnav-link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
       </li>
       {% endif %}
 
-    </ul><!-- /.topnav__list -->
-
-    <button class="topnav__toggle" id="topnav-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
-
-  </div><!-- /.topnav__inner -->
+    </ul>
+  </div>
 </nav>
