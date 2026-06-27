@@ -1,5 +1,28 @@
----
-layout: default
----
-{% include nav.html %}
-{{ content }}
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>{{ page.title }} &mdash; {{ site.name }}</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/assets/images/favicon/favicon.ico">
+
+  <style>
+  {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
+  {{ scss_sheet | scssify }}
+  </style>
+</head>
+<body style="background:#faf7f2; margin:0;">
+
+  {% include nav.html %}
+
+  {{ content }}
+
+  {% include analytics-google.html %}
+
+</body>
+</html>
