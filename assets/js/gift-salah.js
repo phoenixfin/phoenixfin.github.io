@@ -3,25 +3,26 @@ var PASSWORD    = 'rahasia';
 var STORAGE_KEY = 'gift_salah_v1';
 
 function init() {
-  var now        = new Date();
-  var isRevealed = now >= REVEAL_DATE;
   var isUnlocked = localStorage.getItem(STORAGE_KEY) === '1';
 
-  if (!isRevealed) {
-    show('state-countdown');
+  if (isUnlocked) {
+    showReveal();
+    return;
+  }
+
+  var now = new Date();
+  if (now < REVEAL_DATE) {
     startCountdown();
-  } else if (!isUnlocked) {
-    show('state-password');
   } else {
-    show('state-reveal');
+    document.getElementById('countdown-section').style.display = 'none';
+    document.getElementById('password-note').textContent = 'Waktunya sudah tiba. Kamu pasti tahu kata sandinya.';
+    document.getElementById('password-input').focus();
   }
 }
 
-function show(id) {
-  ['state-countdown', 'state-password', 'state-reveal'].forEach(function(s) {
-    document.getElementById(s).style.display = 'none';
-  });
-  document.getElementById(id).style.display = '';
+function showReveal() {
+  document.getElementById('state-locked').style.display = 'none';
+  document.getElementById('state-reveal').style.display = '';
 }
 
 function checkPassword() {
@@ -29,7 +30,7 @@ function checkPassword() {
   var error = document.getElementById('password-error');
   if (input === PASSWORD) {
     localStorage.setItem(STORAGE_KEY, '1');
-    show('state-reveal');
+    showReveal();
   } else {
     error.style.display = 'block';
     document.getElementById('password-input').value = '';
@@ -42,7 +43,12 @@ function pad(n) { return n < 10 ? '0' + n : '' + n; }
 function startCountdown() {
   function tick() {
     var diff = REVEAL_DATE - new Date();
-    if (diff <= 0) { location.reload(); return; }
+    if (diff <= 0) {
+      document.getElementById('countdown-section').style.display = 'none';
+      document.getElementById('password-note').textContent = 'Waktunya sudah tiba. Kamu pasti tahu kata sandinya.';
+      document.getElementById('password-input').focus();
+      return;
+    }
     var days    = Math.floor(diff / 86400000);
     var hours   = Math.floor((diff % 86400000) / 3600000);
     var minutes = Math.floor((diff % 3600000)  / 60000);

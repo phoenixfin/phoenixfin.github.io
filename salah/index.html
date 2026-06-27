@@ -5,44 +5,35 @@ title: Salah
 
 <style>
 .gift-wrap {
-  min-height: 80vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 3rem 1.5rem;
-}
-
-.gift-card {
-  max-width: 480px;
-  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
   text-align: center;
 }
 
-.gift-icon {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  background: #f2ede6;
-  border: 1.5px solid #e8e2d9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto 2rem;
-  font-size: 2.2rem;
+.gift-cover {
+  width: 100%;
+  max-width: 380px;
+  aspect-ratio: 1 / 1;
+  border-radius: 16px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 2.5rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.13);
 }
 
 .gift-heading {
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   font-weight: 700;
   color: #2d2d2d;
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.6rem;
   line-height: 1.2;
 }
 
 .gift-sub {
   font-family: "Lato", sans-serif;
-  font-size: 1.05rem;
+  font-size: 1rem;
   color: #9a8f85;
   font-style: italic;
   line-height: 1.7;
@@ -53,36 +44,36 @@ title: Salah
   width: 40px;
   height: 1px;
   background: #e8e2d9;
-  margin: 1.5rem auto;
+  margin: 1.8rem auto;
 }
 
 .gift-signature {
   font-family: "Lato", sans-serif;
   font-size: 0.85rem;
   color: #9a8f85;
-  margin-top: 2rem;
+  margin: 1.5rem 0 0;
 }
 
 /* Countdown */
 .countdown {
   display: flex;
   justify-content: center;
-  gap: 12px;
-  margin: 0 0 1.5rem;
+  gap: 10px;
+  margin: 0 0 1.2rem;
 }
 
 .cd-box {
   background: #ffffff;
   border: 1px solid #e8e2d9;
   border-radius: 8px;
-  padding: 14px 16px;
-  min-width: 70px;
+  padding: 12px 14px;
+  min-width: 66px;
 }
 
 .cd-num {
   display: block;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 2rem;
+  font-size: 1.9rem;
   font-weight: 700;
   color: #2d2d2d;
   line-height: 1;
@@ -91,23 +82,28 @@ title: Salah
 .cd-label {
   display: block;
   font-family: "Lato", sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   color: #9a8f85;
-  margin-top: 6px;
+  margin-top: 5px;
 }
 
-.cd-date-hint {
+.cd-hint {
   font-family: "Lato", sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: #c17a3e;
   font-style: italic;
+  margin: 0 0 0.4rem;
 }
 
 /* Password */
-.password-form {
-  margin: 1.5rem 0 0;
+.password-note {
+  font-family: "Lato", sans-serif;
+  font-size: 0.82rem;
+  color: #9a8f85;
+  margin: 0 0 1rem;
+  font-style: italic;
 }
 
 .password-input-wrap {
@@ -153,9 +149,9 @@ title: Salah
 .password-error {
   display: none;
   font-family: "Lato", sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: #b94040;
-  margin-top: 10px;
+  margin-top: 8px;
 }
 
 /* Reveal */
@@ -165,28 +161,28 @@ title: Salah
   border-radius: 10px;
   padding: 1.75rem;
   text-align: left;
-  margin: 1.5rem 0 0;
+  margin: 0 0 0;
 }
 
 .reveal-label {
   font-family: "Lato", sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   color: #9a8f85;
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.4rem;
 }
 
 .reveal-title {
   font-family: "Playfair Display", Georgia, serif;
   font-size: 1.4rem;
   color: #2d2d2d;
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.4rem;
 }
 
 .reveal-desc {
   font-family: "Lato", sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   color: #9a8f85;
   line-height: 1.7;
   margin: 0 0 1.25rem;
@@ -227,16 +223,18 @@ title: Salah
 </style>
 
 <div class="gift-wrap">
-  <div class="gift-card">
 
-    <!-- STATE 1: Countdown -->
-    <div id="state-countdown">
-      <div class="gift-icon">📖</div>
-      <h1 class="gift-heading">Ada sesuatu untukmu</h1>
-      <p class="gift-sub">
-        Sebuah karya kecil yang disiapkan dengan sungguh-sungguh,<br>
-        menunggu untuk dibuka pada waktunya.
-      </p>
+  <img class="gift-cover" src="/assets/images/cover/salah.jpg" alt="Cover">
+
+  <!-- STATE: Countdown + password (sebelum dibuka) -->
+  <div id="state-locked">
+    <h1 class="gift-heading">Ada sesuatu untukmu</h1>
+    <p class="gift-sub">
+      Sebuah karya kecil yang disiapkan dengan sungguh-sungguh,<br>
+      menunggu untuk dibuka pada waktunya.
+    </p>
+
+    <div id="countdown-section">
       <div class="countdown">
         <div class="cd-box">
           <span class="cd-num" id="cd-days">--</span>
@@ -255,64 +253,51 @@ title: Salah
           <span class="cd-label">detik</span>
         </div>
       </div>
-      <p class="cd-date-hint">5 Juli 2026 — sabar sebentar lagi.</p>
-      <div class="gift-divider"></div>
-      <p class="gift-sub" style="font-size:0.85rem; margin:0">
-        Kata sandinya juga akan kamu ketahui pada hari itu.
-      </p>
-      <p class="gift-signature">— Aditya</p>
+      <p class="cd-hint">5 Juli 2026</p>
     </div>
 
-    <!-- STATE 2: Password -->
-    <div id="state-password" style="display:none">
-      <div class="gift-icon">🔑</div>
-      <h1 class="gift-heading">Masukkan kata sandi</h1>
-      <p class="gift-sub">
-        Waktunya sudah tiba. Kamu pasti tahu kata sandinya.
-      </p>
-      <div class="password-form">
-        <div class="password-input-wrap">
-          <input
-            type="password"
-            id="password-input"
-            placeholder="Kata sandi..."
-            onkeydown="if(event.key==='Enter') checkPassword()"
-            autofocus
-          />
-          <button onclick="checkPassword()">Buka</button>
-        </div>
-        <p class="password-error" id="password-error">Kata sandi salah. Coba lagi.</p>
-      </div>
-      <div class="gift-divider"></div>
-      <p class="gift-signature">— Aditya</p>
-    </div>
+    <div class="gift-divider"></div>
 
-    <!-- STATE 3: Reveal -->
-    <div id="state-reveal" style="display:none">
-      <div class="gift-icon">📬</div>
-      <h1 class="gift-heading">Ini untukmu</h1>
-      <p class="gift-sub">
-        Semoga kamu menemukannya berharga.<br>
-        Dibaca pelan-pelan tidak apa-apa.
-      </p>
-      <div class="reveal-box">
-        <p class="reveal-label">Booklet</p>
-        <p class="reveal-title">Judul Booklet</p>
-        <p class="reveal-desc">
-          Deskripsi singkat booklet. Kamu bisa menggantinya nanti.
-        </p>
-        <a class="download-btn" href="/assets/pdf/salah.pdf" download>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M12 5v14M5 12l7 7 7-7"/>
-          </svg>
-          Unduh Booklet (PDF)
-        </a>
-      </div>
-      <div class="gift-divider"></div>
-      <p class="gift-signature">— Aditya</p>
+    <p class="password-note" id="password-note">
+      Kata sandinya akan kamu ketahui pada 5 Juli.
+    </p>
+    <div class="password-input-wrap">
+      <input
+        type="password"
+        id="password-input"
+        placeholder="Kata sandi..."
+        onkeydown="if(event.key==='Enter') checkPassword()"
+      />
+      <button onclick="checkPassword()">Buka</button>
     </div>
+    <p class="password-error" id="password-error">Kata sandi salah. Coba lagi.</p>
 
+    <p class="gift-signature">— Aditya</p>
   </div>
+
+  <!-- STATE: Reveal -->
+  <div id="state-reveal" style="display:none">
+    <h1 class="gift-heading">Ini untukmu</h1>
+    <p class="gift-sub">
+      Semoga kamu menemukannya berharga.<br>
+      Dibaca pelan-pelan tidak apa-apa.
+    </p>
+    <div class="reveal-box">
+      <p class="reveal-label">Booklet</p>
+      <p class="reveal-title">Judul Booklet</p>
+      <p class="reveal-desc">
+        Deskripsi singkat booklet. Kamu bisa menggantinya nanti.
+      </p>
+      <a class="download-btn" href="/assets/pdf/salah.pdf" download>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 5v14M5 12l7 7 7-7"/>
+        </svg>
+        Unduh Booklet (PDF)
+      </a>
+    </div>
+    <p class="gift-signature">— Aditya</p>
+  </div>
+
 </div>
 
 <script src="/assets/js/gift-salah.js"></script>
