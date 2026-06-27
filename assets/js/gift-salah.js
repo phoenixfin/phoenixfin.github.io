@@ -1,15 +1,7 @@
 var REVEAL_DATE = new Date(2026, 6, 5, 0, 0, 0);
 var PASSWORD    = 'rahasia';
-var STORAGE_KEY = 'gift_salah_v1';
 
 function init() {
-  var isUnlocked = localStorage.getItem(STORAGE_KEY) === '1';
-
-  if (isUnlocked) {
-    showReveal();
-    return;
-  }
-
   var now = new Date();
   if (now < REVEAL_DATE) {
     startCountdown();
@@ -29,7 +21,6 @@ function checkPassword() {
   var input = document.getElementById('password-input').value;
   var error = document.getElementById('password-error');
   if (input === PASSWORD) {
-    localStorage.setItem(STORAGE_KEY, '1');
     showReveal();
   } else {
     error.style.display = 'block';
