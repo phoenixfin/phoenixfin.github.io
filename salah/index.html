@@ -1,0 +1,378 @@
+---
+layout: gift
+title: Salah
+---
+
+<style>
+.gift-wrap {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 1.5rem;
+}
+
+.gift-card {
+  max-width: 480px;
+  width: 100%;
+  text-align: center;
+}
+
+.gift-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: #f2ede6;
+  border: 1.5px solid #e8e2d9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 2rem;
+  font-size: 2.2rem;
+}
+
+.gift-heading {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #2d2d2d;
+  margin: 0 0 0.75rem;
+  line-height: 1.2;
+}
+
+.gift-sub {
+  font-family: "Lato", sans-serif;
+  font-size: 1.05rem;
+  color: #9a8f85;
+  font-style: italic;
+  line-height: 1.7;
+  margin: 0 0 2rem;
+}
+
+.gift-divider {
+  width: 40px;
+  height: 1px;
+  background: #e8e2d9;
+  margin: 1.5rem auto;
+}
+
+.gift-signature {
+  font-family: "Lato", sans-serif;
+  font-size: 0.85rem;
+  color: #9a8f85;
+  margin-top: 2rem;
+}
+
+/* Countdown */
+.countdown {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin: 0 0 1.5rem;
+}
+
+.cd-box {
+  background: #ffffff;
+  border: 1px solid #e8e2d9;
+  border-radius: 8px;
+  padding: 14px 16px;
+  min-width: 70px;
+}
+
+.cd-num {
+  display: block;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2d2d2d;
+  line-height: 1;
+}
+
+.cd-label {
+  display: block;
+  font-family: "Lato", sans-serif;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #9a8f85;
+  margin-top: 6px;
+}
+
+.cd-date-hint {
+  font-family: "Lato", sans-serif;
+  font-size: 0.85rem;
+  color: #c17a3e;
+  font-style: italic;
+}
+
+/* Password */
+.password-form {
+  margin: 1.5rem 0 0;
+}
+
+.password-input-wrap {
+  display: flex;
+  gap: 8px;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.password-input-wrap input {
+  flex: 1;
+  padding: 12px 16px;
+  border: 1px solid #e8e2d9;
+  border-radius: 6px;
+  background: #ffffff;
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+  color: #2d2d2d;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.password-input-wrap input:focus {
+  border-color: #c17a3e;
+}
+
+.password-input-wrap button {
+  padding: 12px 20px;
+  background: #c17a3e;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  font-family: "Lato", sans-serif;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.password-input-wrap button:hover {
+  background: #9a5e28;
+}
+
+.password-error {
+  display: none;
+  font-family: "Lato", sans-serif;
+  font-size: 0.85rem;
+  color: #b94040;
+  margin-top: 10px;
+}
+
+/* Reveal */
+.reveal-box {
+  background: #ffffff;
+  border: 1px solid #e8e2d9;
+  border-radius: 10px;
+  padding: 1.75rem;
+  text-align: left;
+  margin: 1.5rem 0 0;
+}
+
+.reveal-label {
+  font-family: "Lato", sans-serif;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #9a8f85;
+  margin: 0 0 0.5rem;
+}
+
+.reveal-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.4rem;
+  color: #2d2d2d;
+  margin: 0 0 0.5rem;
+}
+
+.reveal-desc {
+  font-family: "Lato", sans-serif;
+  font-size: 0.9rem;
+  color: #9a8f85;
+  line-height: 1.7;
+  margin: 0 0 1.25rem;
+}
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #c17a3e;
+  color: #ffffff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  padding: 13px 24px;
+  font-family: "Lato", sans-serif;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.download-btn:hover {
+  background: #9a5e28;
+  color: #ffffff;
+  border-bottom: none;
+}
+
+.download-btn svg {
+  width: 18px;
+  height: 18px;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  flex-shrink: 0;
+}
+</style>
+
+<div class="gift-wrap">
+  <div class="gift-card">
+
+    <!-- STATE 1: Countdown -->
+    <div id="state-countdown">
+      <div class="gift-icon">📖</div>
+      <h1 class="gift-heading">Ada sesuatu untukmu</h1>
+      <p class="gift-sub">
+        Sebuah karya kecil yang disiapkan dengan sungguh-sungguh,<br>
+        menunggu untuk dibuka pada waktunya.
+      </p>
+      <div class="countdown">
+        <div class="cd-box">
+          <span class="cd-num" id="cd-days">--</span>
+          <span class="cd-label">hari</span>
+        </div>
+        <div class="cd-box">
+          <span class="cd-num" id="cd-hours">--</span>
+          <span class="cd-label">jam</span>
+        </div>
+        <div class="cd-box">
+          <span class="cd-num" id="cd-minutes">--</span>
+          <span class="cd-label">menit</span>
+        </div>
+        <div class="cd-box">
+          <span class="cd-num" id="cd-seconds">--</span>
+          <span class="cd-label">detik</span>
+        </div>
+      </div>
+      <p class="cd-date-hint">1 Juli 2026 — sabar sebentar lagi.</p>
+      <div class="gift-divider"></div>
+      <p class="gift-signature">— Aditya</p>
+    </div>
+
+    <!-- STATE 2: Password -->
+    <div id="state-password" style="display:none">
+      <div class="gift-icon">🔑</div>
+      <h1 class="gift-heading">Masukkan kata sandi</h1>
+      <p class="gift-sub">
+        Waktunya sudah tiba. Kamu pasti tahu kata sandinya.
+      </p>
+      <div class="password-form">
+        <div class="password-input-wrap">
+          <input
+            type="password"
+            id="password-input"
+            placeholder="Kata sandi..."
+            onkeydown="if(event.key==='Enter') checkPassword()"
+            autofocus
+          />
+          <button onclick="checkPassword()">Buka</button>
+        </div>
+        <p class="password-error" id="password-error">Kata sandi salah. Coba lagi.</p>
+      </div>
+      <div class="gift-divider"></div>
+      <p class="gift-signature">— Aditya</p>
+    </div>
+
+    <!-- STATE 3: Reveal -->
+    <div id="state-reveal" style="display:none">
+      <div class="gift-icon">📬</div>
+      <h1 class="gift-heading">Ini untukmu</h1>
+      <p class="gift-sub">
+        Semoga kamu menemukannya berharga.<br>
+        Dibaca pelan-pelan tidak apa-apa.
+      </p>
+      <div class="reveal-box">
+        <p class="reveal-label">Booklet</p>
+        <p class="reveal-title">Judul Booklet</p>
+        <p class="reveal-desc">
+          Deskripsi singkat booklet. Kamu bisa menggantinya nanti.
+        </p>
+        <a class="download-btn" href="/assets/pdf/salah.pdf" download>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 5v14M5 12l7 7 7-7"/>
+          </svg>
+          Unduh Booklet (PDF)
+        </a>
+      </div>
+      <div class="gift-divider"></div>
+      <p class="gift-signature">— Aditya</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ── Ganti nilai-nilai ini sesuai kebutuhan ──────────────────────────────────
+var REVEAL_DATE = new Date('2026-07-01T00:00:00');
+var PASSWORD    = 'rahasia';        // ganti dengan kata sandi yang kamu inginkan
+// ────────────────────────────────────────────────────────────────────────────
+
+var STORAGE_KEY = 'gift_salah_v1';
+
+function init() {
+  var now        = new Date();
+  var isRevealed = now >= REVEAL_DATE;
+  var isUnlocked = localStorage.getItem(STORAGE_KEY) === '1';
+
+  if (!isRevealed) {
+    show('state-countdown');
+    startCountdown();
+  } else if (!isUnlocked) {
+    show('state-password');
+  } else {
+    show('state-reveal');
+  }
+}
+
+function show(id) {
+  ['state-countdown','state-password','state-reveal'].forEach(function(s) {
+    document.getElementById(s).style.display = 'none';
+  });
+  document.getElementById(id).style.display = '';
+}
+
+function checkPassword() {
+  var input = document.getElementById('password-input').value;
+  var error = document.getElementById('password-error');
+  if (input === PASSWORD) {
+    localStorage.setItem(STORAGE_KEY, '1');
+    show('state-reveal');
+  } else {
+    error.style.display = 'block';
+    document.getElementById('password-input').value = '';
+    document.getElementById('password-input').focus();
+  }
+}
+
+function pad(n) { return n < 10 ? '0' + n : '' + n; }
+
+function startCountdown() {
+  function tick() {
+    var diff = REVEAL_DATE - new Date();
+    if (diff <= 0) { location.reload(); return; }
+    var days    = Math.floor(diff / 86400000);
+    var hours   = Math.floor((diff % 86400000) / 3600000);
+    var minutes = Math.floor((diff % 3600000)  / 60000);
+    var seconds = Math.floor((diff % 60000)    / 1000);
+    document.getElementById('cd-days').textContent    = pad(days);
+    document.getElementById('cd-hours').textContent   = pad(hours);
+    document.getElementById('cd-minutes').textContent = pad(minutes);
+    document.getElementById('cd-seconds').textContent = pad(seconds);
+  }
+  tick();
+  setInterval(tick, 1000);
+}
+
+init();
+</script>
