@@ -38,7 +38,8 @@
 .topnav-item
 	position: relative
 
-	&:hover > .topnav-dropdown
+	&:hover > .topnav-dropdown,
+	&:focus-within > .topnav-dropdown
 		opacity: 1
 		pointer-events: auto
 		transform: translateY(0)
@@ -100,6 +101,100 @@
 		background: $surface
 		color: $accent
 		border-bottom: none
+
+// Hamburger toggle (hidden on desktop)
+.topnav-toggle
+	display: none
+	flex-direction: column
+	justify-content: center
+	gap: 5px
+	width: 40px
+	height: 40px
+	padding: 8px
+	background: none
+	border: none
+	cursor: pointer
+	border-radius: 4px
+
+	&:hover
+		background: $surface
+
+.topnav-toggle-bar
+	display: block
+	width: 100%
+	height: 2px
+	background: $text
+	border-radius: 2px
+	transition: transform 0.2s, opacity 0.2s
+
+.topnav.is-open .topnav-toggle-bar:nth-child(1)
+	transform: translateY(7px) rotate(45deg)
+
+.topnav.is-open .topnav-toggle-bar:nth-child(2)
+	opacity: 0
+
+.topnav.is-open .topnav-toggle-bar:nth-child(3)
+	transform: translateY(-7px) rotate(-45deg)
+
+// Mobile: collapse into a tap-driven panel
+@media #{$below}
+	.topnav-toggle
+		display: flex
+
+	.topnav-list
+		display: none
+		position: absolute
+		top: 56px
+		left: 0
+		right: 0
+		flex-direction: column
+		align-items: stretch
+		background: $bg
+		border-bottom: 1px solid $border
+		box-shadow: 0 8px 16px rgba(0,0,0,0.06)
+		padding: 6px 0
+
+	.topnav.is-open .topnav-list
+		display: flex
+
+	.topnav-item
+		position: static
+
+	.topnav-link,
+	.topnav-link-group
+		display: flex
+		justify-content: space-between
+		width: 100%
+		padding: 13px 24px
+		border-radius: 0
+
+	.topnav-link-group::after
+		margin-left: auto
+		transition: transform 0.2s
+
+	.topnav-item.is-expanded .topnav-link-group::after
+		transform: rotate(180deg)
+
+	// Dropdowns become inline accordions, collapsed until tapped
+	.topnav-dropdown
+		position: static
+		opacity: 1
+		transform: none
+		pointer-events: auto
+		border: none
+		border-radius: 0
+		min-width: 0
+		padding: 0
+		background: $surface
+		max-height: 0
+		overflow: hidden
+		transition: max-height 0.25s ease
+
+	.topnav-item.is-expanded .topnav-dropdown
+		max-height: 320px
+
+	.topnav-sublink
+		padding: 12px 24px 12px 40px
 
 // Hide legacy nav markup
 .nav,

@@ -5,21 +5,25 @@ description: Kumpulan resensi film.
 ---
 
 <main class="shelf">
-  {% for book in site.data.resensi  %}
-  <article class="book">
-    <figure class="book-cover">
-		 <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
-    </figure>
-	{% for post in site.posts %}
-		{% if post.title == book.title %}
-				<div class="book-info" align="center">
-					<a class="url" href="{{ site.url }}{{ post.url }}">
-						<h4>{{ book.title }}</h4>
-					</a>
-					<p style="font-size:90%;">{{ book.author }}</p>
-				</div>
-		{% endif %}
-	{% endfor %}
-  </article>
+  {% for book in site.data.resensi %}
+    {% assign matched = nil %}
+    {% for post in site.posts %}
+      {% if post.title == book.title %}{% assign matched = post %}{% endif %}
+    {% endfor %}
+    <article class="book">
+      <figure class="book-cover">
+        {% if matched %}<a href="{{ site.url }}{{ matched.url }}">{% endif %}
+          <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
+        {% if matched %}</a>{% endif %}
+      </figure>
+      <div class="book-info" align="center">
+        {% if matched %}
+          <a class="url" href="{{ site.url }}{{ matched.url }}"><h4>{{ book.title }}</h4></a>
+        {% else %}
+          <h4>{{ book.title }}</h4>
+        {% endif %}
+        <p style="font-size:90%;">{{ book.author }}</p>
+      </div>
+    </article>
   {% endfor %}
 </main>

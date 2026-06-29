@@ -31,7 +31,7 @@
 .shelf {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: stretch;
   max-width: 1200px;
   margin: 0 auto;
   gap: 0;
@@ -105,7 +105,7 @@
 .book-info {
   display: flex;
   flex-direction: column;
-  flex: 1;
+  flex: 0 0 auto;
   border-top: 3px solid $accent;
   padding: 14px 16px 8px;
   margin: 10px 16px 0;
