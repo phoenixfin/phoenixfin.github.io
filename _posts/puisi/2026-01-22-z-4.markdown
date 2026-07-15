@@ -2,6 +2,7 @@
 title: Z-4
 layout: bookdes
 category: puisi
+tema: Cinta & Rindu
 author: aditya
 description: 
 ---

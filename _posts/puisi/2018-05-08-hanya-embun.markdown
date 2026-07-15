@@ -2,6 +2,7 @@
 title: Hanya Embun
 layout: bookdes
 category: puisi
+tema: Malam & Sunyi
 author: aditya
 description: 
 ---

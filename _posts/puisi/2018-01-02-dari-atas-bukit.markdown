@@ -2,6 +2,7 @@
 title: Dari atas bukit
 layout: bookdes
 category: puisi
+tema: Cinta & Rindu
 author: aditya
 description: 
 ---

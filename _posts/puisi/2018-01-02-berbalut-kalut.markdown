@@ -2,6 +2,7 @@
 title: Berbalut Kalut
 layout: bookdes
 category: puisi
+tema: Renungan & Eksistensi
 author: aditya
 description: 
 ---

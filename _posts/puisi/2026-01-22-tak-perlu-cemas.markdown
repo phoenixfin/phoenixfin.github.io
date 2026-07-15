@@ -2,6 +2,7 @@
 title: Tak Perlu Cemas
 layout: bookdes
 category: puisi
+tema: Sosial & Peradaban
 author: aditya
 description: 
 ---

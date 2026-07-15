@@ -2,6 +2,7 @@
 title: Defense of the Ancient
 layout: bookdes
 category: puisi
+tema: Matematika & Teknologi
 author: aditya
 description: 
 ---

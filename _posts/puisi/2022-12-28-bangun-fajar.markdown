@@ -2,6 +2,7 @@
 title: Bangun Fajar
 layout: bookdes
 category: puisi
+tema: Sosial & Peradaban
 author: aditya
 description: 
 ---

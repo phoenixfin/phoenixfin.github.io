@@ -2,6 +2,7 @@
 title: Kisah Berdua
 layout: bookdes
 category: puisi
+tema: Cinta & Rindu
 author: aditya
 description: 
 ---

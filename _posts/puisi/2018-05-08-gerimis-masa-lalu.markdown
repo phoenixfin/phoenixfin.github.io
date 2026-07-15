@@ -2,6 +2,7 @@
 title: Gerimis masa lalu
 layout: bookdes
 category: puisi
+tema: Cinta & Rindu
 author: aditya
 description: 
 ---

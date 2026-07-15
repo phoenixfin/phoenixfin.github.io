@@ -2,6 +2,7 @@
 title: Sisa Memori
 layout: bookdes
 category: puisi
+tema: Kampus & Keseharian
 author: aditya
 description: 
 ---

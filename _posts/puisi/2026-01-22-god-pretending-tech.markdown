@@ -2,6 +2,7 @@
 title: God Pretending Tech
 layout: bookdes
 category: puisi
+tema: Matematika & Teknologi
 author: aditya
 description: 
 ---
