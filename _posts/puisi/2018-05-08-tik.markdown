@@ -1,0 +1,27 @@
+---
+title: Tik
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Tik Tik Tik
+
+Jarum berdetik
+
+Konstan mengetik
+
+Tik Tik TIk
+
+Takdir terpetik
+
+Menantang lentik
+
+Tik Tik TIk
+
+Hidup terpantik
+
+<br>
+
+(phx, 2016)

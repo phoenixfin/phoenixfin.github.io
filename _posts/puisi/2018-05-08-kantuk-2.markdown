@@ -1,0 +1,19 @@
+---
+title: Kantuk 2
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Waktu terciduk
+
+Malam menyuntuk
+
+Mata terpuruk
+
+Kantuk
+
+<br>
+
+(phx, 2017)

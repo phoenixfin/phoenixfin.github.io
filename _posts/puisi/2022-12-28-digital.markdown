@@ -1,0 +1,13 @@
+---
+title: Digital
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Hanya nol atau satu
+
+Iya atau tidak
+
+Sajak ini tertulis

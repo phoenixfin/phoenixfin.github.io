@@ -1,0 +1,17 @@
+---
+title: Hujan 2
+layout: bookdes
+category: puisi
+author: aditya
+description: 
+---
+
+Konstan jatuhnya air
+
+Menyirat resahnya pikir
+
+Terangkum bersama syair
+
+<br>
+
+(phx, 2016)
