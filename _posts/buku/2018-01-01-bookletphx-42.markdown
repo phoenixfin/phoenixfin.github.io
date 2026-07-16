@@ -39,4 +39,4 @@ Menulis cerpen bagiku bukan hal baru namun juga bukan hal yang sering jadi karya
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet42.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet42.pdf

@@ -32,4 +32,4 @@ Ini adalah yang kedua, dari partisipasi sederhana, 22 Hari Baca Buku bersama, ke
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet59.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet59.pdf

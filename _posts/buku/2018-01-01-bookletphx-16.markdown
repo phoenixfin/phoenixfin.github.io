@@ -29,5 +29,5 @@ Setelah menciptakan booklet edisi review yang berisi film-film Robin Williams, a
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet16.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet16.pdf
 

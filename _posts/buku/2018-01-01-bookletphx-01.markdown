@@ -41,14 +41,14 @@ Apapun isinya, aku hanya bisa berdoa, semoga bermanfaat bagi siapapun yang memba
 
 #### Mati ([Dear Thanantos][5])
 
-[1]: http://phoenixfin.github.io/dear-gaia
-[2]: http://phoenixfin.github.io/dear-eros
-[3]: http://phoenixfin.github.io/dear-zeus
-[4]: http://phoenixfin.github.io/dear-moirae
-[5]: http://phoenixfin.github.io/dear-thanantos
+[1]: https://phoenixfin.github.io/dear-gaia
+[2]: https://phoenixfin.github.io/dear-eros
+[3]: https://phoenixfin.github.io/dear-zeus
+[4]: https://phoenixfin.github.io/dear-moirae
+[5]: https://phoenixfin.github.io/dear-thanantos
 
 ***
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet1.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet1.pdf

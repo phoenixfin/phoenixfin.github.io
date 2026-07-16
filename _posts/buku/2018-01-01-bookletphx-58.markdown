@@ -31,4 +31,4 @@ Booklet ini adalah proses memaknai bacaan, yang sebenarnya sudah lama ku niatkan
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet58.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet58.pdf

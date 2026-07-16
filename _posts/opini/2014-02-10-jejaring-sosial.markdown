@@ -98,4 +98,4 @@ Dengan kondisi yang ada di era informasi ini, dibutukan kesadaran lebih untuk da
 
 <img class="image" src="/assets/images/blog/jejaring-sosial.jpg" alt="Alt Text">
 
-[1]: http://phoenixfin.github.io/ironi-informasi
+[1]: https://phoenixfin.github.io/ironi-informasi

@@ -37,13 +37,13 @@ Mungkin memang manusia dan semesta akan terus berada dalam ironi. Menciptakan ki
 
 #### [Antara Alam dan Teknologi][4]
 
-[1]: http://phoenixfin.github.io/kesatuan-dan-kebijaksanaan
-[3]: http://phoenixfin.github.io/jejaring-sosial
-[4]: http://phoenixfin.github.io/antara-alam-dan-teknologi
+[1]: https://phoenixfin.github.io/kesatuan-dan-kebijaksanaan
+[3]: https://phoenixfin.github.io/jejaring-sosial
+[4]: https://phoenixfin.github.io/antara-alam-dan-teknologi
 
 ***
  
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet20.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet20.pdf
 

@@ -27,4 +27,4 @@ Matematika adalah ilmu yang luas, karena kemampuan abstraksinya bisa tak terbata
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet55.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet55.pdf

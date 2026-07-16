@@ -33,13 +33,13 @@ Aku adalah entitas yang tak bisa dilihat. Sama halnya setiap mata tidak bisa mel
 
 #### [Menyemestakan Manusia][3]
 
-[1]: http://phoenixfin.github.io/katanya-sih-sarjana
-[2]: http://phoenixfin.github.io/jangan-menulis
-[3]: http://phoenixfin.github.io/menyemestakan-manusia
+[1]: https://phoenixfin.github.io/katanya-sih-sarjana
+[2]: https://phoenixfin.github.io/jangan-menulis
+[3]: https://phoenixfin.github.io/menyemestakan-manusia
 
 ***
  
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet25.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet25.pdf
 

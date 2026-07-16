@@ -39,4 +39,4 @@ Semoga bermanfaat!
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet44.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet44.pdf

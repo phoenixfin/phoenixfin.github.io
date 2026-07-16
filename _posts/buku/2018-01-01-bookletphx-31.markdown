@@ -41,4 +41,4 @@ Sebagaimana entropi panas semesta terus bertambah, demikian juga kompleksitas in
  
 # [Unduh!][akses]
  
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet31.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet31.pdf
