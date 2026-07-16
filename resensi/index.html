@@ -4,6 +4,7 @@ title: Resensi
 description: Kumpulan resensi film. 
 ---
 
+<div class="shelf-collection" data-paginate="20">
 <main class="shelf">
   {% for book in site.data.resensi %}
     {% assign matched = nil %}
@@ -27,3 +28,4 @@ description: Kumpulan resensi film.
     </article>
   {% endfor %}
 </main>
+</div>

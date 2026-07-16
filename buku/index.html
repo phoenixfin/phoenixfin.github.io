@@ -6,6 +6,7 @@ description: Karya berupa buku utuh dengan struktur isi yang lengkap. Sebagian t
 
 {% assign racks = site.data.buku | where_exp: "item", "item.title != ''" | group_by: "rack" %}
 
+<div class="shelf-collection" data-paginate="20">
 {% for rack in racks %}
   {% if rack.name != "" %}
     {% assign section_label = rack.name %}
@@ -32,3 +33,4 @@ description: Karya berupa buku utuh dengan struktur isi yang lengkap. Sebagian t
     </main>
   </section>
 {% endfor %}
+</div>

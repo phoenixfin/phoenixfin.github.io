@@ -6,6 +6,7 @@ description: Berkas presentasi beragam materi yang pernah dipaparkan pada berbag
 
 {% assign racks = site.data.slides | where_exp: "item", "item.title != ''" | group_by: "rack" %}
 
+<div class="shelf-collection" data-paginate="21">
 {% for rack in racks %}
   {% if rack.name != "" %}
     {% assign section_label = rack.name %}
@@ -31,3 +32,4 @@ description: Berkas presentasi beragam materi yang pernah dipaparkan pada berbag
     </main>
   </section>
 {% endfor %}
+</div>
