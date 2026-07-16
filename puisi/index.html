@@ -6,7 +6,7 @@ title: Puisi
 ---
 {% assign puisi = site.posts | where: "category", "puisi" %}
 {% assign temas = "Cinta & Rindu;Tuhan & Spiritualitas;Renungan & Eksistensi;Malam & Sunyi;Alam & Suasana;Kampus & Keseharian;Sosial & Peradaban;Matematika & Teknologi;Sajak, Kata & Jenaka" | split: ";" %}
-<section class="list">
+<section class="list" data-paginate="30">
 	{% if puisi.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% else %}

@@ -17,3 +17,39 @@
 
     > .hidden
         visibility: hidden
+
+    > .page-link
+        display: inline-block
+        font-size: 1.3rem
+        min-width: 20px
+        padding: 5px 8px
+        margin: 0 2px
+        color: $text
+        text-decoration: none
+        border-bottom: none
+        border-radius: 4px
+        transition: background 0.18s, color 0.18s
+
+        &:hover
+            background: $surface
+            color: $accent
+            border-bottom: none
+
+    > .page-link.current
+        background: $accent
+        color: #fff
+        font-weight: 700
+
+    > .previous,
+    > .next
+        color: $text
+        text-decoration: none
+        border-bottom: none
+
+        &:hover
+            color: $accent
+            border-bottom: none
+
+    > .previous.disabled,
+    > .next.disabled
+        color: $muted

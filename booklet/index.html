@@ -6,6 +6,7 @@ description: Serial Booklet PHX berisi beragam topik tertentu secara tematik. Bo
 
 {% assign racks = site.data.booklet | where_exp: "item", "item.title != ''" | group_by: "rack" %}
 
+<div class="shelf-collection" data-paginate="20">
 {% for rack in racks %}
   {% if rack.name != "" %}
     {% assign section_label = rack.name %}
@@ -32,3 +33,4 @@ description: Serial Booklet PHX berisi beragam topik tertentu secara tematik. Bo
     </main>
   </section>
 {% endfor %}
+</div>
