@@ -16,7 +16,7 @@ description: Peninjauan lebih dalam mengenai kaderisasi terpusat mahasiswa ITB
 
 Setelah setahun menulis [Kaderisasi Intelektual][1], sekarang dalam suasana yang sama, bermunculan tulisan-tulisan mengenai kaderisasi dari beberapa kawan dan adik tingkat. Isi-isinya mendorong tangan ini untuk membuat sebuah tulisan, yang kali ini lebih terperinci, mengenai apa itu yang mereka sebut kaderiasasi.
 
-[1]: https://phoenixfin.github.io/kaderisasi-intelektual
+[1]: https://phx.my.id/kaderisasi-intelektual
 
 ***
 

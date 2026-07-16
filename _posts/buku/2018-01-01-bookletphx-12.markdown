@@ -29,4 +29,4 @@ Ini hanyalah lanjutan dari catatan-catatanku sebagai ketua HIMATIKA ITB yang sem
  
 # [Unduh!][akses]
 
-[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet12.pdf
+[akses]: https://phx.my.id/assets/pdf/bookletphx/booklet12.pdf

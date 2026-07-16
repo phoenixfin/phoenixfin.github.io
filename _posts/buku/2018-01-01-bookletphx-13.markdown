@@ -29,4 +29,4 @@ Aturanku sendiri yang membatasi halaman booklet harus berada pada rentang 40-60 
  
 # [Unduh!][akses]
 
-[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet13.pdf
+[akses]: https://phx.my.id/assets/pdf/bookletphx/booklet13.pdf
