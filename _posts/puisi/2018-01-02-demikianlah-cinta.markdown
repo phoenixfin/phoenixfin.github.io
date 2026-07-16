@@ -2,6 +2,7 @@
 title: Demikianlah Cinta
 layout: bookdes
 category: puisi
+tema: Cinta & Rindu
 author: aditya
 description: 
 ---

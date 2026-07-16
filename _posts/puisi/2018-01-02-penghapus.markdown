@@ -2,6 +2,7 @@
 title: Penghapus
 layout: bookdes
 category: puisi
+tema: Renungan & Eksistensi
 author: aditya
 description: 
 ---

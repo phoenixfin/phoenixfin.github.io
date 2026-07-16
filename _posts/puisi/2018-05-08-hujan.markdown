@@ -1,0 +1,20 @@
+---
+title: Hujan
+layout: bookdes
+category: puisi
+tema: Alam & Suasana
+author: aditya
+description: 
+---
+
+Langit mengucur keringat
+
+Lelah berputar dalam sekat
+
+Yang diisi ego dan hasrat
+
+makhluk berhampa pekat
+
+<br>
+
+(phx, 2016)

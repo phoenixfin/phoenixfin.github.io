@@ -1,0 +1,44 @@
+---
+title: Buntu
+layout: bookdes
+category: puisi
+tema: Sajak, Kata & Jenaka
+author: aditya
+description: 
+---
+
+Satu kata tertulis
+
+Diam, hapus
+
+Dua kata tertulis
+
+Diam, hapus
+
+Tiga kata tertulis
+
+Diam, hapus
+
+Satu kata tertulis
+
+Diam, diam, diam
+
+Tangan kaku bukan keram
+
+Siap menekan namun bungkam
+
+Menanti pikir berhenti buram
+
+Kelam
+
+Rintik hujan dan gelapnya malam
+
+menambah kebisuan
+
+Gagasan teredam
+
+<br>
+
+Hingga akhirnya terputuskan
+
+Kebuntuan itu sendiri adalah karya terpendam

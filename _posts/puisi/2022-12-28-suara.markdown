@@ -1,0 +1,22 @@
+---
+title: Suara
+layout: bookdes
+category: puisi
+tema: Malam & Sunyi
+author: aditya
+description: 
+---
+
+Palu terhantam
+
+Mesin Menderu
+
+Klakson Beruntun
+
+Sayup burung-burung
+
+Hiruk pikuk kerumunan
+
+Mengisi semesta pendengaran
+
+Mendesak hati rindu kesunyian

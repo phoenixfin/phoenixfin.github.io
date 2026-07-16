@@ -1,0 +1,20 @@
+---
+title: Sakit
+layout: bookdes
+category: puisi
+tema: Cinta & Rindu
+author: aditya
+description: 
+---
+
+Aku mati
+
+bukan karena belati
+
+tapi
+
+karena hati
+
+<br>
+
+(phx, 2016)

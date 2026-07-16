@@ -1,0 +1,16 @@
+---
+title: Lihat
+layout: bookdes
+category: puisi
+tema: Renungan & Eksistensi
+author: aditya
+description: 
+---
+
+Terang tertatap
+
+Yang lain tidak lagi terlihat
+
+Kegelapan dirayap
+
+Yang tersembunyi pun tertangkap

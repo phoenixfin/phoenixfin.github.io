@@ -1,0 +1,34 @@
+---
+title: Bandung
+layout: bookdes
+category: puisi
+tema: Alam & Suasana
+author: aditya
+description: 
+---
+
+Menatap bandung
+
+Berkawan mendung
+
+Mega mengandung
+
+Air bersenandung
+
+Merima Angklung
+
+Menahan ujung
+
+Bintang Terkurung
+
+Purnama Tersandung
+
+Harapan Terkungkung
+
+Seperti Burung
+
+Dalam karung.
+
+<br>
+
+(phx, 2017)

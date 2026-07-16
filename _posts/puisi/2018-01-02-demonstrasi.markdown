@@ -2,6 +2,7 @@
 title: Demonstrasi
 layout: bookdes
 category: puisi
+tema: Kampus & Keseharian
 author: aditya
 description: 
 ---

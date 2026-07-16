@@ -2,6 +2,7 @@
 title: Jalan-jalan 3
 layout: bookdes
 category: puisi
+tema: Sajak, Kata & Jenaka
 author: aditya
 description: 
 ---

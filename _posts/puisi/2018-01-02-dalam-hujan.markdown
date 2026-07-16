@@ -2,6 +2,7 @@
 title: Dalam Hujan
 layout: bookdes
 category: puisi
+tema: Alam & Suasana
 author: aditya
 description: 
 ---

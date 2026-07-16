@@ -2,6 +2,7 @@
 title: Jalan-jalan 2
 layout: bookdes
 category: puisi
+tema: Sajak, Kata & Jenaka
 author: aditya
 description: 
 ---

@@ -2,6 +2,7 @@
 title: Paduka Raja Kegelapan
 layout: bookdes
 category: puisi
+tema: Tuhan & Spiritualitas
 author: aditya
 description: 
 ---

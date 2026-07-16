@@ -2,6 +2,7 @@
 title: Sajak Gelap
 layout: bookdes
 category: puisi
+tema: Malam & Sunyi
 author: aditya
 description: 
 ---
