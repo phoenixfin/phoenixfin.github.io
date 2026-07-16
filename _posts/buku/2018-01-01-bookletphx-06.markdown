@@ -32,4 +32,4 @@ Jadi teringat frase yang keluar dari salah satu BP-ku : transfer emosi.
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet6.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet6.pdf

@@ -42,4 +42,4 @@ Ini hanya ikhtiar kecil untuk bangun dari koma, sebelum jadi titik yang menghent
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet37.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet37.pdf

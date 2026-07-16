@@ -39,15 +39,15 @@ Ini mungkin yang kedua sekaligus penutup surat-suratku pada dewa-dewa. Karena se
 
 #### Semesta ([Dear Khaos][5])
 
-[1]: http://phoenixfin.github.io/dear-psyche
-[2]: http://phoenixfin.github.io/dear-prometheus
+[1]: https://phoenixfin.github.io/dear-psyche
+[2]: https://phoenixfin.github.io/dear-prometheus
 
-[4]: http://phoenixfin.github.io/dear-khronus
-[5]: http://phoenixfin.github.io/dear-khaos
+[4]: https://phoenixfin.github.io/dear-khronus
+[5]: https://phoenixfin.github.io/dear-khaos
 
 ***
  
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet11.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet11.pdf

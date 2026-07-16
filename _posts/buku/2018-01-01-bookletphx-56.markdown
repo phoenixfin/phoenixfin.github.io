@@ -27,4 +27,4 @@ Kenapa, adalah pertanyaan yang cukup sulit untuk dijawab. Ia berbeda dibanding k
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet56.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet56.pdf

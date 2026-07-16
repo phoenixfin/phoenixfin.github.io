@@ -41,7 +41,7 @@ Dua hal tersebut sama-sama disebabkan oleh teknologi. Yang pertama, ketika prose
 
 Inilah yang secara tidak langsung menimbulkan berbagai fenomena yang kita alami saat ini. Ketika masyarakat (termasuk mahasiswa) mulai sangat reaktif terhadap informasi, krisis jati diri, minim idealisme, kehilangan semangat bergerak, hilangnya kepedulian, dan masih banyak lagi permasalahan lainnya sebagai akibat dari teknologi. Bila ditelusuri pun, hampir semua masalah di dunia modern saat ini timbul dari teknologi informasi. (Selebihnya mengenai dampak teknologi informasi bisa baca [Ironi Informasi][1])
 
-[1]: http://phoenixfin.github.io/ironi-informasi
+[1]: https://phoenixfin.github.io/ironi-informasi
 
 # Fenomena Kelas Menengah
 
@@ -73,7 +73,7 @@ Mengecilkan sudut pandang pada teknologi, hal ini berkaitan erat dengan semakin 
 
 Hal ini disebabkan dua hal. Pertama, produk apapun dalam teknologi hanya dikendalikan oleh yang memiliki modal, bukan yang mengembangkan atau yang memahami keseluruhan konsep. Kedua, adanya kepincangan pada mayoritas perguruan tinggi saat ini, terutama yang terfokus pada teknik, dalam memberikan pendidikan pada mahasiswanya. Yang diajarkan dalam institut-institut berbasis teknik hanya bersifat keahlian, tidak menyinggung hal-hal yang bersifat humaniora atau filsafat demi pemahaman yang baik mengenai dampak suatu eksistensi baru di dalam masyarakat. (Lebih lanjut mengenai kepincangan ini dapat dibaca di [Antara intelektual dan sebuah institut 3][2]) 
 
-[2]: http://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-3
+[2]: https://phoenixfin.github.io/antara-intelektual-dan-sebuah-institut-3
 
 Ketika teknologi informasi ini menjadi gaya hidup dan secara perlahan melekat dan menjadi gaya hidup mayoritas masyarakat yang belum mampu memahaminya dengan baik, terjadilah berbagai fenomena yang mungkin terlihat aneh, yang sebenarnya bentuk abstrak indikasi ketidaksesuaian keberadaan teknologi itu pada sistem sosial yang terkait. Masyarakat akhirnya hanya menjadi korban trend dan gaya hidup. Ketika sesuatu terjadi, kita hanya bisa berkomentar dan berpendapat, yang jelas menunjukkan kebingungan kita pada kondisi. Hal ini cukup ironis, karena bagaikan rokok, dampak negatif teknologi sudah cukup jelas terlihat, namun karena memudahkan dan membuat nyaman, atau mungkin karena bingung dan tidak memahami sepenuhnya, masyarakat lebih memilih terus memakainya. Sudah banyak contoh yang tidak perlu disebutkan satu-satu memperlihatkan efek samping tak terkontrol dari teknologi, yang mana semuanya menunjukkan bahwa perilaku masyarakat saat ini cenderung irasional secara sadar.
 

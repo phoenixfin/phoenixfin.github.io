@@ -27,4 +27,4 @@ Menulis itu pekerjaan sederhana, namun sedikit yang mampu atau mau membiasakanny
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet53.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet53.pdf

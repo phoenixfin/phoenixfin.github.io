@@ -31,4 +31,4 @@ Well, semoga bermanfaat.
 
 # [Unduh!][akses]
 
-[akses]: http://phoenixfin.github.io/assets/pdf/bookletphx/booklet43.pdf
+[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet43.pdf
