@@ -29,4 +29,4 @@ Ini hanya secuil kumpulan tulisan-tulisan singkat dari apa yang bisa dideskripsi
 
 # [Unduh!][akses]
 
-[akses]: https://phoenixfin.github.io/assets/pdf/bookletphx/booklet39.pdf
+[akses]: https://phx.my.id/assets/pdf/bookletphx/booklet39.pdf
