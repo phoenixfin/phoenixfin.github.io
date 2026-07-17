@@ -1,31 +1,44 @@
 ---
 layout: page
 title: Resensi
-description: Kumpulan resensi film. 
+description: Kumpulan resensi film.
 ---
 
+{% assign racks = site.data.resensi | where_exp: "item", "item.title != ''" | group_by: "rack" %}
+
 <div class="shelf-collection" data-paginate="20">
-<main class="shelf">
-  {% for book in site.data.resensi %}
-    {% assign matched = nil %}
-    {% for post in site.posts %}
-      {% if post.title == book.title %}{% assign matched = post %}{% endif %}
-    {% endfor %}
-    <article class="book">
-      <figure class="book-cover">
-        {% if matched %}<a href="{{ site.url }}{{ matched.url }}">{% endif %}
-          <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
-        {% if matched %}</a>{% endif %}
-      </figure>
-      <div class="book-info" align="center">
-        {% if matched %}
-          <a class="url" href="{{ site.url }}{{ matched.url }}"><h4>{{ book.title }}</h4></a>
-        {% else %}
-          <h4>{{ book.title }}</h4>
-        {% endif %}
-        <p style="font-size:90%;">{{ book.author }}</p>
-      </div>
-    </article>
-  {% endfor %}
-</main>
+{% for rack in racks %}
+  {% if rack.name != "" %}
+    {% assign section_label = rack.name %}
+  {% else %}
+    {% assign section_label = "Lainnya" %}
+  {% endif %}
+  <section class="rack">
+    <h2 class="rack-label">{{ section_label }}</h2>
+    <hr class="rack-divider">
+    <main class="shelf">
+      {% for book in rack.items %}
+        {% assign matched = nil %}
+        {% for post in site.posts %}
+          {% if post.title == book.title %}{% assign matched = post %}{% endif %}
+        {% endfor %}
+        <article class="book">
+          <figure class="book-cover">
+            {% if matched %}<a href="{{ site.url }}{{ matched.url }}">{% endif %}
+              <img src="/assets/images/film/{{ book.image }}" alt="{{ book.title }}">
+            {% if matched %}</a>{% endif %}
+          </figure>
+          <div class="book-info" align="center">
+            {% if matched %}
+              <a class="url" href="{{ site.url }}{{ matched.url }}"><h4>{{ book.title }}</h4></a>
+            {% else %}
+              <h4>{{ book.title }}</h4>
+            {% endif %}
+            <p style="font-size:90%;">{{ book.author }}</p>
+          </div>
+        </article>
+      {% endfor %}
+    </main>
+  </section>
+{% endfor %}
 </div>
