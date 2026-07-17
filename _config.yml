@@ -19,7 +19,8 @@ url:  https://phx.my.id
 
 permalink: /:title/
 
-analytics-google: 'UA-113258248-1'
+# GA4 measurement ID (format G-XXXXXXXXXX); leave commented to disable tracking
+# analytics-ga4: 'G-XXXXXXXXXX'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
