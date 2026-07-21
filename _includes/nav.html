@@ -12,12 +12,13 @@
     <ul class="topnav-list" id="topnav-list">
 
       {% assign show_tulis = false %}
-      {% if site.puisi or site.opini or site.monolog or site.resensi %}{% assign show_tulis = true %}{% endif %}
+      {% if site.puisi or site.cerpen or site.opini or site.monolog or site.resensi %}{% assign show_tulis = true %}{% endif %}
       {% if show_tulis %}
       <li class="topnav-item">
         <span class="topnav-link topnav-link-group" tabindex="0">Tulis</span>
         <ul class="topnav-dropdown" role="menu">
           {% if site.puisi %}<li><a class="topnav-sublink{% if page.title == 'Puisi' %} topnav-link-active{% endif %}" href="{{ site.url }}/puisi">Puisi</a></li>{% endif %}
+          {% if site.cerpen %}<li><a class="topnav-sublink{% if page.title == 'Cerpen' %} topnav-link-active{% endif %}" href="{{ site.url }}/cerpen">Cerpen</a></li>{% endif %}
           {% if site.opini %}<li><a class="topnav-sublink{% if page.title == 'Opini' %} topnav-link-active{% endif %}" href="{{ site.url }}/opini">Opini</a></li>{% endif %}
           {% if site.monolog %}<li><a class="topnav-sublink{% if page.title == 'Monolog' %} topnav-link-active{% endif %}" href="{{ site.url }}/monolog">Monolog</a></li>{% endif %}
           {% if site.resensi %}<li><a class="topnav-sublink{% if page.title == 'Resensi' %} topnav-link-active{% endif %}" href="{{ site.url }}/resensi">Resensi</a></li>{% endif %}
@@ -49,6 +50,12 @@
           {% if site.slides %}<li><a class="topnav-sublink{% if page.title == 'Salindia' %} topnav-link-active{% endif %}" href="{{ site.url }}/salindia">Salindia</a></li>{% endif %}
           {% if site.arsip %}<li><a class="topnav-sublink{% if page.title == 'Arsip' %} topnav-link-active{% endif %}" href="{{ site.url }}/arsip">Arsip</a></li>{% endif %}
         </ul>
+      </li>
+      {% endif %}
+
+      {% if site.riset %}
+      <li class="topnav-item">
+        <a class="topnav-link" href="{{ site.riset }}">Riset</a>
       </li>
       {% endif %}
 

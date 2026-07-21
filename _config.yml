@@ -78,10 +78,14 @@ kompilasi: true
 arsip: true
 monolog: true
 puisi: true
+cerpen: true
 opini: true
 resensi: true
 podcast: true
 slides: true
+
+# external nav link; comment out to hide the menu item
+riset: https://research.phx.my.id
 
 # do you want to show the "read time" of the posts?
 read-time: true

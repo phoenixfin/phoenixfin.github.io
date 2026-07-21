@@ -1,0 +1,18 @@
+---
+layout: page
+title: Cerpen
+description: Kumpulan cerita pendek dan kisah fiksi yang menyiratkan beragam pelajaran dari kehidupan.
+---
+<section class="list">
+	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% else %}
+		{% for post in site.posts %}
+			{% if post.category == 'cerpen' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+</section>
