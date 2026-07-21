@@ -1,71 +1,61 @@
 .home,
 .opini,
 .monolog,
+.cerpen,
 .puisi,
 .arsip
     margin-top: 40px
 
-    > .list
-        border-top: 1px solid $epsilon
-        margin-top: 30px
-        padding-top: 40px
-        position: relative
+// Shared styling for post lists. Opt in by adding `postlist` next to `list` on
+// the <section>; everything below matches by descent, so themed .rack shelves
+// and the .puis column grid are picked up automatically and a new category
+// needs no selector registered here.
+.postlist
+    border-top: 1px solid $epsilon
+    margin-top: 30px
+    padding-top: 40px
+    position: relative
 
-        &:before
-            display: block
-            content: " "
-            width: 7px
-            height: 7px
-            border: $epsilon 1px solid
-            position: absolute
-            top: -5px
-            left: 50%
-            margin-left: -5px
-            background: #FFF
-            box-shadow: #FFF 0 0 0 5px
-            border-radius: 3px
+    &:before
+        display: block
+        content: " "
+        width: 7px
+        height: 7px
+        border: $epsilon 1px solid
+        position: absolute
+        top: -5px
+        left: 50%
+        margin-left: -5px
+        background: #FFF
+        box-shadow: #FFF 0 0 0 5px
+        border-radius: 3px
 
-.home > .list,
-.opini > .list,
-.opini > .list > .rack,
-.monolog > .list,
-.cerpen > .list,
-.puisi > .list,
-.arsip > .list
-    > .item
+    .item
         display: block
         width: 95%
         margin: 0 auto
 
-    > .item > .url
+    .item > .url
         width: 100%
         display: block
         padding: 20px 0
         text-decoration: none
-	
-    > .puis > .item > .url
-        width: 100%
-        display: block
-        padding: 10px 0
-        text-decoration: none
 
-    > .item > .url > .title
+    .item > .url > .title
+        display: inline
         margin: 0
         width: 75%
         font-weight: 500
         transition: all ease-in-out .2s
 
-    > .puis > .item > .url > .title
-        margin: 0
-        width: 75%
-        font-weight: 500
-        transition: all ease-in-out .2s
-
-    > .item:hover > .url > .title
+    .item:hover > .url > .title
         color: $accent
 
-    > .puis > .item:hover > .url > .title
-        color: $accent
+    .item > .url > .emoji
+        display: inline
+        position: relative
+        top: -4px
+        margin-right: 10px
 
     // maybe we can't nest html5 elements
     // can you help me?
@@ -83,35 +73,11 @@
     .item:hover .url aside
         color: $alpha
 
-.opini > .list > .item > .url,
-.opini > .list > .rack > .item > .url,
-.monolog > .list > .item > .url,
-.cerpen > .list > .item > .url,
-.arsip > .list > .item > .url,
-.puisi > .list > .puis > .item > .url
-    > .title
-        display: inline
-
-    > .emoji
-        display: inline
-        position: relative
-        top: -4px
-        margin-right: 10px
-
-// puisi page: poems grouped in themed racks
-.puisi > .list .rack .puis
-    > .item > .url
-        width: 100%
-        display: block
-        padding: 10px 0
-        text-decoration: none
-
-    > .item > .url > .title
-        display: inline
+    // the poem grid flows into columns, so its entries drop the row metrics
+    // and sit tighter than the dated lists
+    .puis .item
+        width: auto
         margin: 0
-        font-weight: 500
-        transition: all ease-in-out .2s
 
-    > .item:hover > .url > .title
-        color: $accent
-
+    .puis .item > .url
+        padding: 10px 0

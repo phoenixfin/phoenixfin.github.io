@@ -7,7 +7,7 @@ description: Kumpulan artikel analitik yang merupakan opini penulis terhadap ber
 ---
 {% assign opini = site.posts | where: "category", "opini" %}
 {% assign temas = "Pendidikan & Kemahasiswaan;Literasi & Arsip;Teknologi & Informasi;Sains & Matematika;Alam & Semesta;Sosial, Politik & Ekonomi" | split: ";" %}
-<section class="list">
+<section class="list postlist">
 	{% if opini.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% else %}
