@@ -1,5 +1,5 @@
 ---
-title: "Penindasan Pendidikan"
+title: "Penindasan Pendidikan 3"
 layout: post
 date: 2016-05-02 01:54
 image: /assets/images/blog/penindasan-pendidikan-3.jpg
