@@ -10,6 +10,7 @@ tag:
 - modernisme
 - peradaban
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Menelisik posisi sains di masa lalu, masa kini, dan masa depan
 ---

@@ -10,6 +10,7 @@ tag:
 - manusia
 - bangsa
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Kita perlu kembali ke ranah individu untuk membangkitkan pendidikan ketimbang melihat sistem yang sudah terlalu terkapitalisasi
 ---

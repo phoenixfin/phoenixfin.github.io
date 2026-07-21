@@ -10,6 +10,7 @@ tag:
 - bangsa
 - pendidikan
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Merenungi apa yang dikatakan oleh Whitehead, "Kalau sekedar bertujuan menyampaikan informasi dan pengetahuan, tak satupun universitas punya justifikasi apa pun untuk tetap berdiri sejak berkembangnya mesin cetak  di abad ke limabelas"
 ---

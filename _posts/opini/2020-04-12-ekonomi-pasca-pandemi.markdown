@@ -10,6 +10,7 @@ tag:
 - resesi
 - covid-19
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Disrupsi ekonomi akibat pandemi dan penanganan dampaknya
 ---

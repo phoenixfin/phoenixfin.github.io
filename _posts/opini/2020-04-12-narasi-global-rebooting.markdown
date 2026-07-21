@@ -10,6 +10,7 @@ tag:
 - pascamodernitas
 - covid-19
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Pandemi sebagai titik reboot narasi besar peradaban global
 ---

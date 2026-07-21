@@ -10,6 +10,7 @@ tag:
 - transhumanisme
 - makna
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Nasib kemanusiaan di tengah kemajuan sains dan teknologi
 ---

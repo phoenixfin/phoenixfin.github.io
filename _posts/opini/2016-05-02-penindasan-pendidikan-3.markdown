@@ -9,6 +9,7 @@ tag:
 - tut wuri
 - tridharma
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Alur pendidikan seperti mengalami kepatahan antara konsep pendidikan menengah dan tinggi. Apakah memang nilai yang dibawa berbeda?
 ---

@@ -10,6 +10,7 @@ tag:
 - ekologi
 - filsafat
 category: opini
+tema: Alam & Semesta
 author: aditya
 description: Semesta sebagai sistem anarki tempat semua bagian setara
 ---

@@ -9,6 +9,7 @@ tag:
 - makna
 - definisi
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Membongkar pertanyaaan sederhana, apa itu matematika?
 ---

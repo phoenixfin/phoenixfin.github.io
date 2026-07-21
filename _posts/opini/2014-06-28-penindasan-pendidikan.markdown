@@ -10,6 +10,7 @@ tag:
 - manusia
 - bangsa
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Lingkaran setan yang tercipta dari sistem pendidikan membuat pendidikan itu sendiri seakan menjadi penindas sekaligus yang tertindas.
 ---

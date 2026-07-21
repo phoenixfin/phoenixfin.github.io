@@ -10,6 +10,7 @@ tag:
 - bangsa
 - teknologi
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Kata literasi seperti telah menjadi hal yang cukup sering terucap akhir-akhir ini. Ada apa sebenarnya dengan kata itu?
 ---

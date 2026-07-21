@@ -10,6 +10,7 @@ tag:
 - sistem
 - jejaring
 category: opini
+tema: Teknologi & Informasi
 author: aditya
 description: Jejaring ada dimana-mana, membentuk sistemasi universal yang mengatur segala sesuatu
 ---

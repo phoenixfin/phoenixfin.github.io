@@ -9,6 +9,7 @@ tag:
 - Kehidupan
 - Pendidikan
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Pembongkaran makna literasi
 ---

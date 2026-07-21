@@ -11,6 +11,7 @@ tag:
 - teknologi
 - hiperteks
 category: opini
+tema: Literasi & Arsip
 author: aditya 
 description: Fenomena zaman yang mengarah pada era posliterasi
 ---

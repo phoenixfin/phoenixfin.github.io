@@ -10,6 +10,7 @@ tag:
 - enterpreneurial university
 - perguruan tinggi
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: ITB mulai mengarah pada haluan baru. Ada apa dengan konsep Entrepreneurial University? 
 ---

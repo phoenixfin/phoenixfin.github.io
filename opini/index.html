@@ -5,26 +5,37 @@ layout: page
 title: Opini
 description: Kumpulan artikel analitik yang merupakan opini penulis terhadap berbagai hal. Pendidikan, literasi, dan teknologi merupakan topik dominan.
 ---
+{% assign opini = site.posts | where: "category", "opini" %}
+{% assign temas = "Pendidikan & Kemahasiswaan;Literasi & Arsip;Teknologi & Informasi;Sains & Matematika;Alam & Semesta;Sosial, Politik & Ekonomi" | split: ";" %}
 <section class="list">
-	{% if site.posts.size == 0 %}
+	{% if opini.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.paginate %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'opini' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-
-		{% include pagination.html%}
 	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'opini' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
+		{% for tema in temas %}
+			{% assign items = opini | where: "tema", tema %}
+			{% if items.size > 0 %}
+				<section class="rack">
+					<h2 class="rack-label">{{ tema }}</h2>
+					<hr class="rack-divider">
+					{% for post in items %}
+						{% if post.hidden != true %}
+							{% include blog-post.html %}
+						{% endif %}
+					{% endfor %}
+				</section>
 			{% endif %}
 		{% endfor %}
+		{% assign lainnya = opini | where_exp: "post", "post.tema == nil" %}
+		{% if lainnya.size > 0 %}
+			<section class="rack">
+				<h2 class="rack-label">Lainnya</h2>
+				<hr class="rack-divider">
+				{% for post in lainnya %}
+					{% if post.hidden != true %}
+						{% include blog-post.html %}
+					{% endif %}
+				{% endfor %}
+			</section>
+		{% endif %}
 	{% endif %}
 </section>

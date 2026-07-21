@@ -1,273 +1,335 @@
-- title: Dialog tentang Evolusi
-  image: dialog_evolusi.jpg
-  link: https://phx.my.id/assets/pdf/slides/dialog_evolusi.pdf
-
-- title: Critical Thinking
-  image: crit_thinking.jpg
-  link: https://phx.my.id/assets/pdf/slides/crit_thinking.pdf
-
-- title: Logical Framework Approach
-  image: logframe.jpg
-  link: https://phx.my.id/assets/pdf/slides/logframe.pdf
-
-- title: Argumentasi Gagasan
-  image: argumen_data.jpg
-  link: https://phx.my.id/assets/pdf/slides/argumen_data.pdf
-
-- title: Untuk Apa Perguruan Tinggi
-  image: untuk_apa_pt.jpg
-  link: https://phx.my.id/assets/pdf/slides/untuk_apa_pt.pdf
-
-- title: Sejarah KM ITB
-  image: sejarah_km_itb.jpg
-  link: https://phx.my.id/assets/pdf/slides/sejarah_km_itb.pdf
-
-- title: Kemahasiswaan, Sejarah atau Masa Depan
-  image: sejarah_kemahasiswaan.jpg
-  link: https://phx.my.id/assets/pdf/slides/sejarah_kemahasiswaan.pdf
-
-- title: Penyusunan Instrumen Himpunan
-  image: ins_himpunan.jpg
-  link: https://phx.my.id/assets/pdf/slides/ins_himpunan.pdf
-  type: nonacademic
-
-- title: Penelitian itu Ngapain?
-  image: penelitian_ngapain.jpg
-  link: https://phx.my.id/assets/pdf/slides/penelitian_ngapain.pdf
-
-- title: Kajian itu Ngapain?
-  image: kajian_ngapain.jpg
-  link: https://phx.my.id/assets/pdf/slides/kajian_ngapain.pdf
-
-- title: Apa itu Benar?
-  image: apa_itu_benar.jpg
-  link: https://phx.my.id/assets/pdf/slides/apa_itu_benar.pdf
-
 - title: Peta Matematika
   image: peta_matematika.jpg
   link: https://phx.my.id/assets/pdf/slides/peta_matematika.pdf
+  rack: Matematika
 
 - title: Matematika Mencari Makna
   image: makna_matematika.jpg
   link: https://phx.my.id/assets/pdf/slides/makna_matematika.pdf
+  rack: Matematika
 
 - title: Matematika Islam Abad Pertengahan
   image: matematika_islam.jpg
   link: https://phx.my.id/assets/pdf/slides/matematika_islam.pdf
+  rack: Matematika
 
 - title: Seberapa Benar Statistik?
   image: kebenaran_statistik.jpg
   link: https://phx.my.id/assets/pdf/slides/kebenaran_statistik.pdf
+  rack: Matematika
 
 - title: Apa itu Ketakterhinggaan
   image: tak_hingga.jpg
   link: https://phx.my.id/assets/pdf/slides/tak_hingga.pdf
+  rack: Matematika
 
 - title: Memahami Godel
   image: godel.jpg
   link: https://phx.my.id/assets/pdf/slides/godel.pdf
+  rack: Matematika
 
 - title: Hancurnya Kemutlakan Matematika
   image: krisis_matematika.jpg
   link: https://phx.my.id/assets/pdf/slides/krisis_matematika.pdf
+  rack: Matematika
 
 - title: Pemodelan Matematika
   image: pemodelan.jpg 
   link: https://phx.my.id/assets/pdf/slides/pemodelan.pdf
+  rack: Matematika
 
 - title: Matematika, diciptakan atau ditemukan?
   image: cipta_temu.jpg
   link: https://phx.my.id/assets/pdf/slides/cipta_temu.pdf
-
-- title: Anomaly Detection based on Operational Data
-  image: anomaly_detection.jpg
-  link: https://phx.my.id/assets/pdf/slides/anomaly_detection.pdf
+  rack: Matematika
 
 - title: Matematika di Industri Migas
   image: math_industry.jpg
   link: https://phx.my.id/assets/pdf/slides/math_industry.pdf
+  rack: Matematika
+
+- title: Misteri Soliter
+  image: soliter.jpg
+  link: https://phx.my.id/assets/pdf/slides/soliter.pdf
+  rack: Matematika
+
+- title: Kekacauan vs Keteraturan
+  image: chaosorder.jpg
+  link: https://phx.my.id/assets/pdf/slides/chaosorder.pdf
+  rack: Matematika
+
+- title: Hingga Tak Terhingga
+  image: infinity.jpg
+  link: https://phx.my.id/assets/pdf/slides/infinity.pdf
+  rack: Matematika
+
+- title: Dialog tentang Evolusi
+  image: dialog_evolusi.jpg
+  link: https://phx.my.id/assets/pdf/slides/dialog_evolusi.pdf
+  rack: Sains
+
+- title: Sophisticated Falsificationism
+  image: falsificationism.jpg
+  link: https://phx.my.id/assets/pdf/slides/falsificationism.pdf
+  rack: Sains
+
+- title: Sociological Case Studies
+  image: science_socio.jpg
+  link: https://phx.my.id/assets/pdf/slides/science_socio.pdf
+  rack: Sains
+
+- title: Decline of Islamic Science
+  image: dec_islam_sci.jpg
+  link: https://phx.my.id/assets/pdf/slides/dec_islam_sci.pdf
+  rack: Sains
+
+- title: Isu-Isu dalam Sains
+  image: isu_sains.jpg
+  link: https://phx.my.id/assets/pdf/slides/isu_sains.pdf
+  rack: Sains
+
+- title: Anomaly Detection based on Operational Data
+  image: anomaly_detection.jpg
+  link: https://phx.my.id/assets/pdf/slides/anomaly_detection.pdf
+  rack: AI, Data & Teknologi
 
 - title: AI Matematika
   image: AI_math.jpg
   link: https://phx.my.id/assets/pdf/slides/AI_math.pdf
+  rack: AI, Data & Teknologi
 
 - title: AI di Pembelajaran Matematika
   image: AI_math_edu.jpg 
   link: https://phx.my.id/assets/pdf/slides/AI_math_edu.pdf
+  rack: AI, Data & Teknologi
 
 - title: AI and Future of Literacy
   image: AI_literacy.jpg
   link: https://phx.my.id/assets/pdf/slides/AI_literacy.pdf
+  rack: AI, Data & Teknologi
 
 - title: Islam dan Artificial Intelligence
   image: AI_islam.jpg
   link: https://phx.my.id/assets/pdf/slides/AI_islam.pdf
+  rack: AI, Data & Teknologi
 
 - title: Islam dan Artificial Intelligence (Materi LMD)
   image: lmd_ai.jpg
   link: https://phx.my.id/assets/pdf/slides/lmd_ai.pdf
+  rack: AI, Data & Teknologi
 
 - title: How do we do Data Analytics
   image: da_tools.jpg
   link: https://phx.my.id/assets/pdf/slides/da_tools.pdf
+  rack: AI, Data & Teknologi
 
 - title: Computer Vision
   image: cv.png
   link: https://phx.my.id/assets/pdf/slides/cv.pdf
-
-- title: Implementasi Ekoliterasi di Era Pascaliterasi
-  image: ekopascaliterasi.jpg
-  link: https://phx.my.id/assets/pdf/slides/ekopascaliterasi.pdf
-
-- title: Masyarakat Pasca-Literasi sebagai Fenomena Baru Revolusi Digital
-  image: pascaliterasi.jpg
-  link: https://phx.my.id/assets/pdf/slides/pascaliterasi.pdf
+  rack: AI, Data & Teknologi
 
 - title: Logistic Regression in Classification
   image: logistic_regression.jpg
   link: https://phx.my.id/assets/pdf/slides/logistic_regression.pdf  
+  rack: AI, Data & Teknologi
 
 - title: Workflow Pengembangan Model
   image: model_tuning.jpg
   link: https://phx.my.id/assets/pdf/slides/model_tuning.pdf  
+  rack: AI, Data & Teknologi
 
 - title: Menjadi Powerful dengan Tensorflow Bag. 1
   image: tf_1.jpg
   link: https://phx.my.id/assets/pdf/slides/tf_1.pdf  
+  rack: AI, Data & Teknologi
 
 - title: Menjadi Powerful dengan Tensorflow Bag. 2
   image: tf_2.jpg
   link: https://phx.my.id/assets/pdf/slides/tf_2.pdf  
+  rack: AI, Data & Teknologi
 
-- title: Pendidikan Anak Era AI
-  image: AI_pendidikan.jpg
-  link: https://phx.my.id/assets/pdf/slides/AI_pendidikan.pdf
+- title: Bayesian Approach
+  image: bayes.jpg
+  link: https://phx.my.id/assets/pdf/slides/bayes.pdf
+  rack: AI, Data & Teknologi
 
-- title: Benteng Informasi itu Bernama Keluarga
-  image: benteng_informasi.jpg
-  link: https://phx.my.id/assets/pdf/slides/benteng_informasi.pdf
+- title: Unlocking AI
+  image: AI_umum.jpg
+  link: https://phx.my.id/assets/pdf/slides/AI_umum.pdf
+  rack: AI, Data & Teknologi
+
+- title: Understanding Agile
+  image: understanding_agile.jpg
+  link: https://phx.my.id/assets/pdf/slides/understanding_agile.pdf
+  rack: AI, Data & Teknologi
+
+- title: Argumentasi Gagasan
+  image: argumen_data.jpg
+  link: https://phx.my.id/assets/pdf/slides/argumen_data.pdf
+  rack: Literasi & Menulis
+
+- title: Implementasi Ekoliterasi di Era Pascaliterasi
+  image: ekopascaliterasi.jpg
+  link: https://phx.my.id/assets/pdf/slides/ekopascaliterasi.pdf
+  rack: Literasi & Menulis
+
+- title: Masyarakat Pasca-Literasi sebagai Fenomena Baru Revolusi Digital
+  image: pascaliterasi.jpg
+  link: https://phx.my.id/assets/pdf/slides/pascaliterasi.pdf
+  rack: Literasi & Menulis
 
 - title: Penulisan Ilmiah Terstruktur 
   image: riset_struktur.jpg
   link: https://phx.my.id/assets/pdf/slides/riset_struktur.pdf
+  rack: Literasi & Menulis
 
 - title: AI untuk Menulis
   image: AI_penulisan
   link: https://phx.my.id/assets/pdf/slides/AI_penulisan.pdf
-
-- title: Gnoti Seauthon
-  image: gnoti.jpg
-  link: https://phx.my.id/assets/pdf/slides/gnoti.pdf
+  rack: Literasi & Menulis
 
 - title: Gnoti Seauthon dengan Menulis
   image: gnoti_menulis.jpg
   link: https://phx.my.id/assets/pdf/slides/gnoti_menulis.pdf
   type: nonacademic
-
-- title: Memento Mori 
-  image: mati.jpg
-  link: https://phx.my.id/assets/pdf/slides/mati.pdf
-
-- title: Cogito, Ergo... 
-  image: pikir.jpg
-  link: https://phx.my.id/assets/pdf/slides/pikir.pdf
-
-- title: Contemptus Mundi
-  image: contemptus_mundi.jpg
-  link: https://phx.my.id/assets/pdf/slides/contemptus_mundi.pdf
-
-- title: Gnoti Seauthon! (Materi Serambi Literasi)
-  image: diri.jpg
-  link: https://phx.my.id/assets/pdf/slides/diri.pdf
+  rack: Literasi & Menulis
 
 - title: Healing dengan Writing
   image: overwriting.jpg
   link: https://phx.my.id/assets/pdf/slides/overwriting.pdf
+  rack: Literasi & Menulis
 
 - title: Menulis Artikel Ilmiah Populer
   image: populer.jpg
   link: https://phx.my.id/assets/pdf/slides/populer.pdf
+  rack: Literasi & Menulis
 
 - title: Penulisan Ilmiah Terstruktur 
   image: riset_struktur.jpg
   link: https://phx.my.id/assets/pdf/slides/riset_struktur.pdf
+  rack: Literasi & Menulis
 
 - title: Literasi Bukan Sekadar Keberksaraan
   image: literasi_bukan_aksara.jpg
   link: https://phx.my.id/assets/pdf/slides/literasi_bukan_aksara.pdf
+  rack: Literasi & Menulis
 
 - title: Literaksi
   image: literaksi.jpg
   link: https://phx.my.id/assets/pdf/slides/literaksi.pdf
+  rack: Literasi & Menulis
 
 - title: Menulis Bebas
   image: freewriting.jpg
   link: https://phx.my.id/assets/pdf/slides/freewriting.pdf
+  rack: Literasi & Menulis
 
-- title: Bayesian Approach
-  image: bayes.jpg
-  link: https://phx.my.id/assets/pdf/slides/bayes.pdf
+- title: Critical Thinking
+  image: crit_thinking.jpg
+  link: https://phx.my.id/assets/pdf/slides/crit_thinking.pdf
+  rack: Filsafat & Refleksi
 
-- title: Sophisticated Falsificationism
-  image: falsificationism.jpg
-  link: https://phx.my.id/assets/pdf/slides/falsificationism.pdf
+- title: Apa itu Benar?
+  image: apa_itu_benar.jpg
+  link: https://phx.my.id/assets/pdf/slides/apa_itu_benar.pdf
+  rack: Filsafat & Refleksi
 
-- title: Sociological Case Studies
-  image: science_socio.jpg
-  link: https://phx.my.id/assets/pdf/slides/science_socio.pdf
+- title: Gnoti Seauthon
+  image: gnoti.jpg
+  link: https://phx.my.id/assets/pdf/slides/gnoti.pdf
+  rack: Filsafat & Refleksi
 
-- title: Decline of Islamic Science
-  image: dec_islam_sci.jpg
-  link: https://phx.my.id/assets/pdf/slides/dec_islam_sci.pdf
+- title: Memento Mori 
+  image: mati.jpg
+  link: https://phx.my.id/assets/pdf/slides/mati.pdf
+  rack: Filsafat & Refleksi
 
-- title: Isu-Isu dalam Sains
-  image: isu_sains.jpg
-  link: https://phx.my.id/assets/pdf/slides/isu_sains.pdf
+- title: Cogito, Ergo... 
+  image: pikir.jpg
+  link: https://phx.my.id/assets/pdf/slides/pikir.pdf
+  rack: Filsafat & Refleksi
+
+- title: Contemptus Mundi
+  image: contemptus_mundi.jpg
+  link: https://phx.my.id/assets/pdf/slides/contemptus_mundi.pdf
+  rack: Filsafat & Refleksi
+
+- title: Gnoti Seauthon! (Materi Serambi Literasi)
+  image: diri.jpg
+  link: https://phx.my.id/assets/pdf/slides/diri.pdf
+  rack: Filsafat & Refleksi
 
 - title: Problem Solving
   image: probsol.jpg
   link: https://phx.my.id/assets/pdf/slides/probsol.pdf
-
-- title: Misteri Soliter
-  image: soliter.jpg
-  link: https://phx.my.id/assets/pdf/slides/soliter.pdf
-
-- title: Unlocking AI
-  image: AI_umum.jpg
-  link: https://phx.my.id/assets/pdf/slides/AI_umum.pdf
-
-- title: Kekacauan vs Keteraturan
-  image: chaosorder.jpg
-  link: https://phx.my.id/assets/pdf/slides/chaosorder.pdf
-
-- title: Hingga Tak Terhingga
-  image: infinity.jpg
-  link: https://phx.my.id/assets/pdf/slides/infinity.pdf
-
-- title: Manajemen Organisasi
-  image: ManOrg.jpg
-  link: https://phx.my.id/assets/pdf/slides/ManOrg.pdf
+  rack: Filsafat & Refleksi
 
 - title: Dekonstruksi Nalar
   image: dekonalar.jpg
   link: https://phx.my.id/assets/pdf/slides/dekonalar.pdf
+  rack: Filsafat & Refleksi
 
 - title: Hidup untuk Apa?
   image: hidup_untuk_apa.jpg
   link: https://phx.my.id/assets/pdf/slides/hidup_untuk_apa.pdf
+  rack: Filsafat & Refleksi
 
-- title: Understanding Agile
-  image: understanding_agile.jpg
-  link: https://phx.my.id/assets/pdf/slides/understanding_agile.pdf
+- title: Logical Framework Approach
+  image: logframe.jpg
+  link: https://phx.my.id/assets/pdf/slides/logframe.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Untuk Apa Perguruan Tinggi
+  image: untuk_apa_pt.jpg
+  link: https://phx.my.id/assets/pdf/slides/untuk_apa_pt.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Sejarah KM ITB
+  image: sejarah_km_itb.jpg
+  link: https://phx.my.id/assets/pdf/slides/sejarah_km_itb.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Kemahasiswaan, Sejarah atau Masa Depan
+  image: sejarah_kemahasiswaan.jpg
+  link: https://phx.my.id/assets/pdf/slides/sejarah_kemahasiswaan.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Penyusunan Instrumen Himpunan
+  image: ins_himpunan.jpg
+  link: https://phx.my.id/assets/pdf/slides/ins_himpunan.pdf
+  type: nonacademic
+  rack: Kemahasiswaan & Organisasi
+
+- title: Penelitian itu Ngapain?
+  image: penelitian_ngapain.jpg
+  link: https://phx.my.id/assets/pdf/slides/penelitian_ngapain.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Kajian itu Ngapain?
+  image: kajian_ngapain.jpg
+  link: https://phx.my.id/assets/pdf/slides/kajian_ngapain.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Manajemen Organisasi
+  image: ManOrg.jpg
+  link: https://phx.my.id/assets/pdf/slides/ManOrg.pdf
+  rack: Kemahasiswaan & Organisasi
 
 - title: Penutup Bab 3 Dekade
   image: 3dekade.jpg
   link: https://phx.my.id/assets/pdf/slides/3dekade.pdf
+  rack: Kemahasiswaan & Organisasi
+
+- title: Pendidikan Anak Era AI
+  image: AI_pendidikan.jpg
+  link: https://phx.my.id/assets/pdf/slides/AI_pendidikan.pdf
+  rack: Keluarga & Pendidikan
+
+- title: Benteng Informasi itu Bernama Keluarga
+  image: benteng_informasi.jpg
+  link: https://phx.my.id/assets/pdf/slides/benteng_informasi.pdf
+  rack: Keluarga & Pendidikan
 
 - title: 
   image: 
   link: 
-
-
-
-

@@ -10,6 +10,7 @@ tag:
 - alam
 - islam
 category: opini
+tema: Alam & Semesta
 author: aditya
 description: Pendidikan berbasis alam menuju perdamaian manusia dan semesta
 ---

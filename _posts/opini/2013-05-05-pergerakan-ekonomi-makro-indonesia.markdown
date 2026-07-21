@@ -8,6 +8,7 @@ tag:
 - ekonomi
 - pemilu 2014
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Keadaan ekonomi Indonesia tahun 2013 menjelang pemilu 2014
 ---

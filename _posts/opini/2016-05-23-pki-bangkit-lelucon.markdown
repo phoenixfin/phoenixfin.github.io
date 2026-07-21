@@ -10,6 +10,7 @@ tag:
 - Ideological State Aparatus
 - sejarah
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Fobia atas komunisme dan PKI di Indonesia telah menancap begitu erat sehingga spekulasi yang terkesan lucu menjadi muncul begitu saja di permukaan.
 ---

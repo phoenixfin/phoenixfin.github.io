@@ -9,6 +9,7 @@ tag:
 - makna
 - spiritualitas
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Logika dalam matematika layaknya agama yang memiliki unsur esoteris menyerupai spiritualitas. Benarkah?
 ---

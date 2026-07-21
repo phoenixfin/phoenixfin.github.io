@@ -9,6 +9,7 @@ tag:
 - PKI
 - sejarah
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Komunisme telah tertanam dalam konteks negatif begitu kuatnya dalam persepsi rakyat Indonesia hingga mencapai tataran irasional, menimbulkan reaksi berlebihan terhadap banyak fenomena sesederhana atribut palu arit
 ---

@@ -10,6 +10,7 @@ tag:
 - teknologi
 - digital
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Literasi yang dibutuhkan di tengah revolusi industri 4.0
 ---

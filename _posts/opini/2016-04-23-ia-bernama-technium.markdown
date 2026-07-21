@@ -10,6 +10,7 @@ tag:
 - organisme
 - antropoteknik
 category: opini
+tema: Teknologi & Informasi
 author: aditya
 description: Salah satu kemungkinan dari berkembangnya teknologi adalah terciptanya eksistensi raksasa yang berperilaku layaknya superorganisme seperti Bumi. Tapi, seperti apa?
 ---

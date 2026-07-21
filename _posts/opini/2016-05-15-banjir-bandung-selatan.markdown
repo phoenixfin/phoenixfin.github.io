@@ -10,6 +10,7 @@ tag:
 - Citarum
 - Daerah Aliran Sungai
 category: opini
+tema: Alam & Semesta
 author: aditya
 description: Banjir di daerah Bandung Selatan seakan-akan telah menjadi rutinitas tahunan yang tak kunjung usai. Mengapa hal yang tergolong merugikan ini seakan tidak pernah menemukan penyelesaian?
 ---

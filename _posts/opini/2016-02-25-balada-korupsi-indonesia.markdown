@@ -10,6 +10,7 @@ tag:
 - bangsa
 - pendidikan
 category: opini
+tema: Sosial, Politik & Ekonomi
 author: aditya
 description: Ada apa dengan korupsi yang seakan-akan mengakar dalam di Indonesia?
 ---

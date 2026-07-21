@@ -9,6 +9,7 @@ tag:
 - ITB
 - Plaza Widya
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Pemaknaan terhadap tugu yang selalu menjadi simbol atas intelektualitas yang ingin dibangun di ITB
 ---

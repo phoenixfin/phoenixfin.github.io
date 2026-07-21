@@ -9,6 +9,7 @@ tag:
 - bumi
 - alam
 category: opini
+tema: Alam & Semesta
 author: aditya 
 description: Perenungan atas keadaan bumi dan alam
 ---

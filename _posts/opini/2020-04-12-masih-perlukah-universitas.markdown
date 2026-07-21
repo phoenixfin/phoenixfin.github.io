@@ -10,6 +10,7 @@ tag:
 - pendidikan
 - covid-19
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Meninjau relevansi universitas di tengah dan pasca pandemi
 ---

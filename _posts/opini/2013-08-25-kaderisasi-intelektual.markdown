@@ -8,6 +8,7 @@ tag:
 - kaderisasi
 - kemahasiswaan
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Pemaknaan proses kaderisasi mahasiswa terpusat ITB
 ---

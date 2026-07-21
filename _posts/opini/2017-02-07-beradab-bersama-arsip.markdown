@@ -9,6 +9,7 @@ tag:
 - literasi
 - peradaban
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Bagaimana arsip mempengaruhi peradaban
 ---

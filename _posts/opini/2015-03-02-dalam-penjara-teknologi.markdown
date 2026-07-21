@@ -10,6 +10,7 @@ tag:
 - virtual
 - dunia
 category: opini
+tema: Teknologi & Informasi
 author: aditya
 description: Teknologi informasi telah menciptakan penjara yang narapidananya secara sukarela masuk ke dalamnya
 ---

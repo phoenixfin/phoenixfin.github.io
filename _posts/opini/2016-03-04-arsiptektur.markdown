@@ -10,6 +10,7 @@ tag:
 - kemahasiswaan
 - sejarah
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Kebingungan atas keadaan kemahasiswaan masa kini bisa disebabkan oleh gagalnya kita memahami narasi yang melatarbelakangi eksistensi mahasiswa itu sendiri. Darimana kita paham narasi itu? Arsip masa lalu
 ---

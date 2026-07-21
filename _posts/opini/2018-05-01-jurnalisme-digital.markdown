@@ -10,6 +10,7 @@ tag:
 - informasi
 - media
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Transformasi produksi dan konsumsi informasi di era digital
 ---

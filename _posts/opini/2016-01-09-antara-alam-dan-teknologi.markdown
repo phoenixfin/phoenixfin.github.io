@@ -10,6 +10,7 @@ tag:
 - informasi
 - ekologi
 category: opini
+tema: Teknologi & Informasi
 author: aditya 
 description: Mengulas tuntas hubungan rumit antara alam dan teknologi, yang dijembatani manusia
 ---

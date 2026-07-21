@@ -10,6 +10,7 @@ tag:
 - idealisme
 - mahasiswa
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Catatan kegelisahan atas Kongres Nasional IA ITB
 ---

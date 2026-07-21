@@ -10,6 +10,7 @@ tag:
 - ITB
 - intelektual
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Peninjauan lebih dalam mengenai kaderisasi terpusat mahasiswa ITB
 ---

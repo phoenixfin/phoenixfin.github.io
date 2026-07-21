@@ -8,6 +8,7 @@ tag:
 - teknologi
 - informasi
 category: opini
+tema: Teknologi & Informasi
 author: aditya 
 description: Banjirnya Informasi dalam Kehidupan Modern
 ---

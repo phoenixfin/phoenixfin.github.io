@@ -11,6 +11,7 @@ tag:
 - kuasa
 - aktivisme 2.0
 category: opini
+tema: Teknologi & Informasi
 author: aditya
 description: Teknologi berkembang dalam suatu periodisasi pergeseran kuasa, namun pada akhirnya mencipta anomali di masa kini.
 ---

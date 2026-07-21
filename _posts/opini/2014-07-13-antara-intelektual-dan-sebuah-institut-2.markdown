@@ -10,6 +10,7 @@ tag:
 - netralitas
 - etika
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Dimanakah sesungguhnya peran, potensi, dan posisi seorang intelektual?
 ---

@@ -10,6 +10,7 @@ tag:
 - booklet
 - mahasiswa
 category: opini
+tema: Literasi & Arsip
 author: aditya
 description: Ajakan berkarya lewat tulisan dan pengantar serial booklet
 ---

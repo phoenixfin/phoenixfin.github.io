@@ -8,6 +8,7 @@ tag:
 - kemahasiswaan
 - pergerakan
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Sedikit pemikiran mengenai kemahasiswaan
 ---

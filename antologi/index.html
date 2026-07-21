@@ -4,18 +4,21 @@ title: Antologi
 description: Buku bersama yang dibentuk dari kumpulan tulisan dari berbagai penulis secara kolektif
 ---
 
-{% assign racks = site.data.antologi | where_exp: "item", "item.title != ''" | group_by: "rack" %}
+{% assign racks = site.data.antologi | where_exp: "item", "item.title != blank" | group_by: "rack" %}
 
 <div class="shelf-collection" data-paginate="20">
 {% for rack in racks %}
-  {% if rack.name != "" %}
-    {% assign section_label = rack.name %}
-  {% else %}
-    {% assign section_label = "Lainnya" %}
-  {% endif %}
   <section class="rack">
+    {% comment %}A lone group needs no heading; only label the shelves when there is more than one.{% endcomment %}
+    {% if racks.size > 1 %}
+      {% if rack.name != "" %}
+        {% assign section_label = rack.name %}
+      {% else %}
+        {% assign section_label = "Lainnya" %}
+      {% endif %}
     <h2 class="rack-label">{{ section_label }}</h2>
     <hr class="rack-divider">
+    {% endif %}
     <main class="shelf">
       {% for book in rack.items %}
       <article class="book">

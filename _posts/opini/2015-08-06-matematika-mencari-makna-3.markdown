@@ -9,6 +9,7 @@ tag:
 - makna
 - masa kini
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Bagaimana posisi matematika di era sekarang?
 ---

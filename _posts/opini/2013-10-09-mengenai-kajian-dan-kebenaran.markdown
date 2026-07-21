@@ -9,6 +9,7 @@ tag:
 - kebenaran
 - kemahasiswaan
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Sistemasi dan Pembahasan terkait Kajian dan Diskusi
 ---

@@ -9,6 +9,7 @@ tag:
 - makna
 - realita
 category: opini
+tema: Sains & Matematika
 author: aditya
 description: Apa sesungguhnya kaitan antara matematika dengan realita?
 ---

@@ -9,6 +9,7 @@ tag:
 - ITB
 - Sosioteknologi
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya 
 description: Kepincangan Pengetahuan di Sebuah Institut bernama ITB
 ---

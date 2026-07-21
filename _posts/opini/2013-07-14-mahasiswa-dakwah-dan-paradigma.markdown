@@ -9,6 +9,7 @@ tag:
 - dakwah
 - islam
 category: opini
+tema: Pendidikan & Kemahasiswaan
 author: aditya
 description: Fenoemena aktivis dakwah kampus
 ---
