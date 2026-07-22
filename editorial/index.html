@@ -1,0 +1,49 @@
+---
+layout: page
+title: Editorial
+description: Karya editorial berupa penyuntingan, penataan, dan penerbitan tulisan orang lain.
+---
+
+{% comment %}
+  Test for size > 0 rather than == 0: until the data file holds an entry it
+  parses as nil, and nil == 0 is false in Liquid, which would render nothing
+  at all instead of the empty-state message.
+{% endcomment %}
+{% assign items = site.data.editorial | where_exp: "item", "item.title != blank" %}
+
+{% if items.size > 0 %}
+  {% assign racks = items | group_by: "rack" %}
+  <div class="shelf-collection" data-paginate="20">
+  {% for rack in racks %}
+    <section class="rack">
+      {% comment %}A lone group needs no heading; only label the shelves when there is more than one.{% endcomment %}
+      {% if racks.size > 1 %}
+        {% if rack.name != "" %}
+          {% assign section_label = rack.name %}
+        {% else %}
+          {% assign section_label = "Lainnya" %}
+        {% endif %}
+      <h2 class="rack-label">{{ section_label }}</h2>
+      <hr class="rack-divider">
+      {% endif %}
+      <main class="shelf">
+        {% for book in rack.items %}
+        <article class="book">
+          <figure class="book-cover">
+            <a href="{{ book.link }}">
+              <img src="/assets/images/cover/{{ book.image }}" alt="{{ book.title }}">
+            </a>
+          </figure>
+          <div class="book-info">
+            <h3><a href="{{ book.link }}">{{ book.title }}</a></h3>
+            <p>{{ book.author }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </main>
+    </section>
+  {% endfor %}
+  </div>
+{% else %}
+  <p class="text-center">Nothing published yet!</p>
+{% endif %}

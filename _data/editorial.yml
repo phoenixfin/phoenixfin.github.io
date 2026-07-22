@@ -1,0 +1,14 @@
+# Karya editorial, satu blok per entri. Salin contoh di bawah lalu isi.
+#
+#   title   judul karya, tampil di bawah cover
+#   author  keterangan singkat satu baris (di rak lain dipakai untuk deskripsi)
+#   image   nama berkas cover di /assets/images/cover/
+#   link    tautan tujuan ketika cover atau judul diklik
+#   rack    opsional; entri dengan rack sama dikelompokkan dalam satu rak.
+#           Label rak hanya muncul bila ada lebih dari satu rak.
+#
+# - title: Judul Karya
+#   author: Keterangan singkat karya
+#   image: editorial1.jpg
+#   link: https://phx.my.id/assets/pdf/editorial/karya1.pdf
+#   rack: Nama Rak

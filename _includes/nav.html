@@ -15,7 +15,7 @@
       {% if site.puisi or site.cerpen or site.opini or site.monolog or site.resensi %}{% assign show_tulis = true %}{% endif %}
       {% if show_tulis %}
       <li class="topnav-item">
-        <span class="topnav-link topnav-link-group" tabindex="0">Tulis</span>
+        <span class="topnav-link topnav-link-group" tabindex="0">Tulisan</span>
         <ul class="topnav-dropdown" role="menu">
           {% if site.puisi %}<li><a class="topnav-sublink{% if page.title == 'Puisi' %} topnav-link-active{% endif %}" href="{{ site.url }}/puisi">Puisi</a></li>{% endif %}
           {% if site.cerpen %}<li><a class="topnav-sublink{% if page.title == 'Cerpen' %} topnav-link-active{% endif %}" href="{{ site.url }}/cerpen">Cerpen</a></li>{% endif %}
@@ -27,7 +27,7 @@
       {% endif %}
 
       {% assign show_karya = false %}
-      {% if site.buku or site.booklet or site.kompilasi or site.antologi %}{% assign show_karya = true %}{% endif %}
+      {% if site.buku or site.booklet or site.kompilasi or site.antologi or site.editorial %}{% assign show_karya = true %}{% endif %}
       {% if show_karya %}
       <li class="topnav-item">
         <span class="topnav-link topnav-link-group" tabindex="0">Karya</span>
@@ -36,6 +36,7 @@
           {% if site.booklet %}<li><a class="topnav-sublink{% if page.title == 'Booklet' %} topnav-link-active{% endif %}" href="{{ site.url }}/booklet">Booklet</a></li>{% endif %}
           {% if site.kompilasi %}<li><a class="topnav-sublink{% if page.title == 'Kompilasi' %} topnav-link-active{% endif %}" href="{{ site.url }}/kompilasi">Kompilasi</a></li>{% endif %}
           {% if site.antologi %}<li><a class="topnav-sublink{% if page.title == 'Antologi' %} topnav-link-active{% endif %}" href="{{ site.url }}/antologi">Antologi</a></li>{% endif %}
+          {% if site.editorial %}<li><a class="topnav-sublink{% if page.title == 'Editorial' %} topnav-link-active{% endif %}" href="{{ site.url }}/editorial">Editorial</a></li>{% endif %}
         </ul>
       </li>
       {% endif %}
