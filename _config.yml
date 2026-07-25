@@ -2,7 +2,7 @@
 name: Phoenix Literacy
 bio: Self-defining life of Aditya Firman Ihsan 
 
-title: Phoenix Literacy
+title: Aditya Firman Ihsan - Phoenix Literacy
 
 # twitter summary info
 description: A blog about literacy work of Aditya Firman Ihsan
@@ -110,6 +110,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
+  - jekyll-sitemap
   - jemoji
 
 jekyll-mentions:

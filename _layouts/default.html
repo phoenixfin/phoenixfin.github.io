@@ -17,11 +17,27 @@ layout: compress
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <meta name=description content="{{ site.bio }}">
-    <meta name=author content="{{ site.name }}">
+    <meta name=author content="{{ site.creator }}">
 	<meta name="google-site-verification" content="ZokorGmbb7Nlt-WRnkasXys2B04TYU249UJhu1sdlu8" />
     <!-- google-site-verification=6PBuRat_kxmJBN2K0-Jk4_m4K8do5bH9_WjqhTgC4KE -->
     {% seo %}
-    
+
+    {% capture sameas_raw %}{% if site.facebook %}"https://facebook.com/{{ site.facebook }}",{% endif %}{% if site.twitter %}"https://twitter.com/{{ site.twitter }}",{% endif %}{% if site.issuu %}"https://issuu.com/{{ site.issuu }}",{% endif %}{% if site.researchgate %}"https://www.researchgate.net/profile/{{ site.researchgate }}",{% endif %}{% if site.instagram %}"https://instagram.com/{{ site.instagram }}",{% endif %}{% if site.linkedin %}"https://linkedin.com/in/{{ site.linkedin }}",{% endif %}{% if site.youtube %}"https://youtube.com/{{ site.youtube }}",{% endif %}{% if site.spotify %}"https://open.spotify.com/user/{{ site.spotify }}",{% endif %}{% if site.github %}"https://github.com/{{ site.github }}",{% endif %}{% if site.stackoverflow %}"https://stackoverflow.com/users/{{ site.stackoverflow }}",{% endif %}{% if site.quora %}"https://id.quora.com/profile/{{ site.quora }}",{% endif %}{% if site.reddit %}"https://www.reddit.com/user/{{ site.reddit }}",{% endif %}{% if site.medium %}"https://medium.com/@{{ site.medium }}",{% endif %}{% endcapture %}
+    {% assign sameas = sameas_raw | split: "," %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "{{ site.url }}/#person",
+        "name": "{{ site.creator }}",
+        "alternateName": ["Phoenix Literacy", "Phoenix", "PHX"],
+        "url": "{{ site.url }}",
+        "image": "{{ site.url }}/{{ site.picture }}",
+        "description": {{ site.bio | jsonify }},
+        "sameAs": [{{ sameas | join: "," }}]
+    }
+    </script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
