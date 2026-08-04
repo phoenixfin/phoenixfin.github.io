@@ -111,7 +111,17 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
+
+# Short links live in /s/. Each file there is a stub whose only job is to bounce
+# the visitor elsewhere, so they get clean URLs and stay out of the sitemap.
+defaults:
+  - scope:
+      path: "s"
+    values:
+      permalink: /s/:basename/
+      sitemap: false
 
 jekyll-mentions:
     base_url: https://github.com
