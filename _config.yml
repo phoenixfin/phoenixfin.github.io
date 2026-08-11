@@ -34,6 +34,7 @@ analytics-ga4: 'G-XQNHQRTM8C'
 # if you don't have any of social below, comment the line
 issuu : aditya-finiarelphoenix
 researchgate: Aditya-Ihsan
+scholar: KNQ3zAwAAAAJ
 # facebook: phoenixfin
 # google: mygoogle
 # instagram: myinstagram
@@ -87,6 +88,7 @@ slides: true
 
 # external nav link; comment out to hide the menu item
 riset: https://research.phx.my.id
+playground: https://phx.my.id/algplayground
 
 # do you want to show the "read time" of the posts?
 read-time: true

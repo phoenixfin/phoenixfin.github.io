@@ -42,7 +42,7 @@
       {% endif %}
 
       {% assign show_lainnya = false %}
-      {% if site.podcast or site.slides or site.arsip %}{% assign show_lainnya = true %}{% endif %}
+      {% if site.podcast or site.slides or site.arsip or site.playground %}{% assign show_lainnya = true %}{% endif %}
       {% if show_lainnya %}
       <li class="topnav-item">
         <span class="topnav-link topnav-link-group" tabindex="0">Lainnya</span>
@@ -50,6 +50,7 @@
           {% if site.podcast %}<li><a class="topnav-sublink{% if page.title == 'Siniar' %} topnav-link-active{% endif %}" href="{{ site.url }}/siniar">Siniar</a></li>{% endif %}
           {% if site.slides %}<li><a class="topnav-sublink{% if page.title == 'Salindia' %} topnav-link-active{% endif %}" href="{{ site.url }}/salindia">Salindia</a></li>{% endif %}
           {% if site.arsip %}<li><a class="topnav-sublink{% if page.title == 'Arsip' %} topnav-link-active{% endif %}" href="{{ site.url }}/arsip">Arsip</a></li>{% endif %}
+          {% if site.playground %}<li><a class="topnav-sublink" href="{{ site.playground }}">Playground</a></li>{% endif %}
         </ul>
       </li>
       {% endif %}
