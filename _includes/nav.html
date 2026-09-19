@@ -61,6 +61,12 @@
       </li>
       {% endif %}
 
+      {% if site.software %}
+      <li class="topnav-item">
+        <a class="topnav-link{% if page.title == 'Software' %} topnav-link-active{% endif %}" href="{{ site.url }}/software">Software</a>
+      </li>
+      {% endif %}
+
       {% if site.about %}
       <li class="topnav-item">
         <a class="topnav-link{% if page.title == 'Tentang' %} topnav-link-active{% endif %}" href="{{ site.url }}/about">Tentang</a>
