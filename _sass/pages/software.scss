@@ -1,0 +1,38 @@
+// Software cards reuse .book/.book-cover/.book-info (see pages/book.scss);
+// this file only adds the bits specific to project cards: tag chips and
+// the repo/demo link line.
+
+.project-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 0;
+  padding: 0;
+
+  li {
+    font-family: $fontSans;
+    font-size: 0.8rem;
+    color: $muted;
+    background: $surface;
+    border: 1px solid $border;
+    border-radius: 999px;
+    padding: 2px 10px;
+  }
+}
+
+.project-links {
+  margin-top: 10px !important;
+  font-style: normal !important;
+  font-family: $fontSans;
+  font-size: 1rem !important;
+
+  a {
+    color: $accent;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

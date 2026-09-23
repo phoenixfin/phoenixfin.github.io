@@ -1,0 +1,12 @@
+# Each entry is one project.
+# image   : filename inside assets/images/software/ (screenshot or logo)
+# repo    : link to source code (GitHub, etc.) — omit or leave blank if closed-source
+# demo    : link to a live/running instance — omit or leave blank if none
+# tags    : short tech stack labels shown on the card
+#
+# - title: Nama Proyek
+#   description: Satu-dua kalimat tentang apa yang dilakukan proyek ini.
+#   image: nama-proyek.png
+#   repo: https://github.com/phoenixfin/nama-proyek
+#   demo: https://nama-proyek.vercel.app
+#   tags: [Next.js, TypeScript, Postgres]

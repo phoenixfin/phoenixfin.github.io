@@ -1,0 +1,39 @@
+---
+layout: page
+title: Software
+description: Aplikasi dan proyek perangkat lunak yang dibangun, dengan tautan ke kode sumber dan/atau demo langsungnya.
+---
+
+{% assign projects = site.data.software | where_exp: "item", "item.title != blank" %}
+
+{% if projects.size > 0 %}
+<div class="shelf-collection" data-paginate="20">
+  <main class="shelf project-shelf">
+    {% for project in projects %}
+    <article class="book project-card">
+      <figure class="book-cover">
+        <a href="{{ project.demo | default: project.repo }}">
+          <img src="/assets/images/software/{{ project.image }}" alt="{{ project.title }}">
+        </a>
+      </figure>
+      <div class="book-info">
+        <h3>{{ project.title }}</h3>
+        <p>{{ project.description }}</p>
+        {% if project.tags %}
+        <ul class="project-tags">
+          {% for tag in project.tags %}<li>{{ tag }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+        <p class="project-links">
+          {% if project.repo %}<a href="{{ project.repo }}">Kode</a>{% endif %}
+          {% if project.repo and project.demo %} &middot; {% endif %}
+          {% if project.demo %}<a href="{{ project.demo }}">Demo</a>{% endif %}
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+  </main>
+</div>
+{% else %}
+<p>Belum ada proyek yang ditambahkan.</p>
+{% endif %}

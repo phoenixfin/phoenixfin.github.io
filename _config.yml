@@ -85,6 +85,7 @@ opini: true
 resensi: true
 podcast: true
 slides: true
+software: true
 
 # external nav link; comment out to hide the menu item
 riset: https://research.phx.my.id
