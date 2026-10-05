@@ -11,9 +11,58 @@
 #   demo: https://nama-proyek.vercel.app
 #   tags: [Next.js, TypeScript, Postgres]
 
-- title: Bimbingan TA — Student Supervision Manager
-  description: Aplikasi web untuk dosen mengelola alur bimbingan tugas akhir/skripsi mahasiswa, dari pendaftaran sampai kelulusan, sekaligus portal portofolio riset publik.
-  image: student-supervision.png
+- title: Phoenix Research — Portal Portofolio Riset
+  description: Portal publik profil riset, peta topik yang dibuka untuk bimbingan/asisten riset, dan publikasi pilihan — satu wajah dari aplikasi Student Supervision Manager.
+  image: phoenix-research.png
   repo: https://github.com/phoenixfin/student-supervision
   demo: https://research.phx.my.id
   tags: [Next.js, TypeScript, Prisma, PostgreSQL]
+
+- title: Portal Bimbingan — Student Supervision Manager
+  description: Aplikasi web untuk dosen mengelola alur bimbingan tugas akhir/skripsi mahasiswa, dari pendaftaran, proposal, logbook, hingga kelulusan.
+  image: student-supervision.png
+  repo: https://github.com/phoenixfin/student-supervision
+  demo: https://bimbingan.phx.my.id
+  tags: [Next.js, TypeScript, Prisma, PostgreSQL]
+
+- title: SALMAN — Sistem Tata Kelola Masjid Terintegrasi
+  description: Portal internal terpadu Masjid Salman ITB untuk tata kelola kegiatan dan administrasi masjid.
+  image: salman-app.png
+  repo:
+  demo: https://app.salmanitb.com
+  tags: [Sistem Informasi, Web App]
+
+- title: BPP Salman ITB
+  description: Portal Bidang Pengkajian dan Penerbitan Salman ITB — menaungi repositori kajian, katalog buku terbitan, dan program Ecolite.
+  image: bpp-salman.png
+  repo:
+  demo: https://bpp.salmanitb.com
+  tags: [Portal, CMS]
+
+- title: Pustaka Menara Salman
+  description: Portal publikasi Salman ITB — jurnal, prosiding, dan penerbitan buku, lengkap dengan alur submit naskah.
+  image: publikasi-salman.png
+  repo:
+  demo: https://publikasi.salmanitb.com
+  tags: [Portal Publikasi, OJS]
+
+- title: Ecolite Salman
+  description: Pendataan dan pengelolaan sampah serta wadah qurban Masjid Salman ITB, bagian dari program Masjid Ramah Lingkungan.
+  image: ecolite-salman.png
+  repo:
+  demo: https://ecolite.salmanitb.com
+  tags: [Sistem Informasi, Sustainability]
+
+- title: Literasi Bandung
+  description: Ekosistem literasi Kota Bandung — peta interaktif perpustakaan independen, taman baca, book café, dan komunitas buku.
+  image: literasi-bandung.png
+  repo:
+  demo: https://literasibandung.id
+  tags: [Web App, Peta Interaktif]
+
+- title: SEKAWAN — Sentra Keperluan Kemahasiswaan FIF Tel-U
+  description: Layanan administrasi kemahasiswaan Fakultas Informatika Telkom University (LAAK FIF).
+  image: sekawan-fif.png
+  repo:
+  demo: https://laak-fif.telkomuniversity.ac.id
+  tags: [Sistem Informasi, Akademik]
