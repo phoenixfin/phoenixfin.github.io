@@ -1,0 +1,21 @@
+---
+layout: page
+title: Karya
+description: Buku, booklet, kompilasi, antologi, dan editorial.
+---
+{% assign forms = "buku,booklet,kompilasi,antologi,editorial" | split: "," %}
+
+<section class="hub">
+  {% for f in forms %}
+    {% assign page_url = "/" | append: f | append: "/" %}
+    {% assign p = site.pages | where: "url", page_url | first %}
+    {% assign items = site.data[f] %}
+    <a class="hub-row hub-row-tall" href="{{ site.url }}/{{ f }}">
+      <span class="hub-body">
+        <span class="hub-title">{{ f | capitalize }}</span>
+        {% if p.description %}<span class="hub-desc">{{ p.description | truncatewords: 22 }}</span>{% endif %}
+      </span>
+      <span class="hub-tag tag-karya">{{ items | size }} judul</span>
+    </a>
+  {% endfor %}
+</section>

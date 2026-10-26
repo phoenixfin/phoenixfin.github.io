@@ -1,0 +1,354 @@
+// Frame: page chrome shared by every page (colour tokens, header, ornament,
+// nav details, footer). Per-form themes live in forms.scss.
+
+// --paper is the page ground and --form the accent of the current form of
+// writing; forms.scss overrides both per category.
+body {
+  --paper: #{$bg};
+  --form: #{$accent};
+  background-color: var(--paper);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// the footer sits at the bottom even on short pages
+.wrapper-normal,
+.wrapper-large {
+  flex: 1 0 auto;
+  height: auto;
+  padding-bottom: 80px;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+// A link whose underline draws in on hover
+%draw {
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  border-bottom: 0;
+  transition: background-size 0.3s, color 0.2s;
+
+  &:hover {
+    background-size: 100% 1px;
+    border-bottom: 0;
+  }
+}
+
+a {
+  color: var(--form);
+
+  &:hover {
+    color: var(--form);
+    border-bottom-color: var(--form);
+  }
+}
+
+// ─── Ornament: double rule around the PHX mark ──────────────────────────────
+
+.ornament {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 220px;
+  max-width: 70%;
+  margin: 0 auto;
+  color: var(--form);
+
+  span {
+    flex: 1;
+    height: 3px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    opacity: 0.7;
+  }
+
+  img {
+    height: 24px;
+    width: auto;
+    display: block;
+    border-radius: 0;
+  }
+
+  &.end {
+    width: 140px;
+    margin: 48px auto 8px;
+
+    img { height: 18px; }
+  }
+}
+
+// ─── Header ─────────────────────────────────────────────────────────────────
+
+.header-home {
+  display: block;
+  margin: 14vh auto 0;
+  text-align: center;
+
+  > .title {
+    font-family: $fontSerif;
+    font-size: 5.2rem;
+    font-weight: 700;
+    color: $text;
+    margin: 0 0 20px;
+    animation: rise 0.8s ease both;
+
+    em { font-weight: 400; }
+
+    @media #{$mobile} { font-size: 3.8rem; }
+  }
+
+  > .ornament {
+    width: 260px;
+    animation: rise 0.8s ease 0.1s both;
+
+    img { height: 34px; }
+  }
+
+  > .bio {
+    font-family: $fontSans;
+    font-size: 1.2rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: $muted;
+    margin: 20px 0 0;
+    animation: rise 0.8s ease 0.1s both;
+  }
+}
+
+.home-quote {
+  max-width: 520px;
+  margin: 40px auto 0;
+  text-align: center;
+  animation: rise 0.8s ease 0.25s both;
+
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: $fontSerif;
+    font-style: italic;
+    font-size: 2.2rem;
+    line-height: 1.6;
+    color: $text;
+  }
+
+  figcaption {
+    position: static;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: $muted;
+  }
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 36px;
+  margin: 36px 0 0;
+  font-size: 1.6rem;
+  animation: rise 0.8s ease 0.4s both;
+
+  a {
+    @extend %draw;
+    color: $text;
+
+    &:hover { color: var(--form); }
+  }
+}
+
+.header-other {
+  display: block;
+  text-align: center;
+  margin: 40px auto 0;
+  padding-bottom: 6px;
+
+  > .title {
+    font-family: $fontSerif;
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: $text;
+    margin: 0 0 16px;
+    animation: rise 0.8s ease both;
+  }
+
+  > .ornament { animation: rise 0.8s ease 0.1s both; }
+
+  > .description {
+    font-family: $fontSans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: $muted;
+    width: 72%;
+    margin: 18px auto 30px;
+    line-height: 1.6;
+
+    a { color: var(--form); }
+  }
+}
+
+// ─── Nav details ────────────────────────────────────────────────────────────
+
+.topnav { background: var(--paper); }
+
+.topnav-brand em { font-weight: 400; }
+
+.topnav-link {
+  border-radius: 0;
+  background: linear-gradient(currentColor, currentColor) 12px calc(100% - 7px) / 0 1px no-repeat;
+  transition: background-size 0.3s, color 0.2s;
+
+  &:hover {
+    background: linear-gradient(currentColor, currentColor) 12px calc(100% - 7px) / calc(100% - 24px) 1px no-repeat;
+    color: var(--form);
+  }
+}
+
+.topnav-link-active { color: var(--form); }
+
+// ─── Footer ─────────────────────────────────────────────────────────────────
+
+.footer-main {
+  background: $ink;
+  color: #cfd8cf;
+  margin: 0;
+  padding: 24px 0 28px;
+  font-family: $fontSans;
+  font-size: 1.3rem;
+
+  .footer-inner {
+    max-width: 870px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 12px 24px;
+  }
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 22px;
+
+    a {
+      @extend %draw;
+      color: #cfd8cf;
+
+      &:hover { color: #fff; }
+    }
+  }
+
+  .footer-more {
+    max-width: 870px;
+    margin: 14px auto 0;
+    padding: 0 20px;
+    opacity: 0.7;
+  }
+}
+
+// ─── Hub pages (Tulisan, Karya) ─────────────────────────────────────────────
+
+.filter-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 24px;
+  margin: 28px 0 0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid $border;
+  font-size: 1.3rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  a {
+    @extend %draw;
+    color: $muted;
+
+    &:hover { color: var(--form); }
+  }
+}
+
+.hub {
+  margin-top: 12px;
+
+  .hub-caption {
+    margin: 28px 0 0;
+    font-size: 1.2rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--form);
+  }
+
+  .hub-year {
+    margin: 28px 0 2px;
+    font-family: $fontSerif;
+    font-style: italic;
+    font-size: 2rem;
+    color: var(--form);
+  }
+}
+
+a.hub-row {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  padding: 14px 0;
+  border-bottom: 1px solid $border;
+  color: $text;
+
+  &:hover {
+    border-bottom-color: $border;
+
+    .hub-title { color: var(--form); }
+  }
+
+  .hub-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .hub-title {
+    flex: 1;
+    font-family: $fontSerif;
+    font-size: 2.2rem;
+    transition: color 0.2s;
+  }
+
+  .hub-body .hub-title { flex: none; }
+
+  .hub-desc {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: $muted;
+  }
+
+  .hub-tag {
+    font-size: 1.2rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color: $muted;
+  }
+
+  .tag-puisi { color: #4f6b5a; }
+  .tag-resensi { color: #3d5a80; }
+  .tag-cerpen { color: #7a3b4a; }
+}
+
+a.hub-row-tall { padding: 22px 0; }

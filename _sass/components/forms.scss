@@ -1,0 +1,137 @@
+// Forms: each form of writing gets its own accent and a few structural
+// differences. The category sets a `form-<category>` class on <body>
+// (see _layouts/default.html); entries (single posts) also get `is-entry`.
+
+.form-puisi   { --form: #4f6b5a; --paper: #f7f6f0; }
+.form-resensi { --form: #3d5a80; --paper: #f8f7f4; }
+.form-cerpen  { --form: #7a3b4a; }
+
+// Pull quote, shared by every form
+blockquote {
+  margin: 40px 0;
+  padding: 24px 0;
+  border: 0;
+  border-top: 1px solid $border;
+  border-bottom: 1px solid $border;
+  text-align: center;
+  font-family: $fontSerif;
+  font-style: italic;
+  font-size: 2.2rem;
+  line-height: 1.5;
+  color: var(--form);
+
+  p {
+    margin: 0;
+    color: inherit;
+  }
+}
+
+// Numbered lists of dated posts (opini, cerpen, monolog)
+.postlist {
+  counter-reset: item;
+
+  > .item {
+    counter-increment: item;
+
+    > .url::before {
+      content: counter(item, decimal-leading-zero);
+      display: inline-block;
+      width: 3.2rem;
+      font-size: 1.3rem;
+      font-weight: 400;
+      color: #b3a899;
+    }
+  }
+}
+
+.post > .date,
+.post > .post-tags { color: var(--form); }
+
+.post > .post-tags > .item:hover {
+  background: var(--form);
+  border-color: var(--form);
+}
+
+// Prose forms: a narrower serif reading column
+.is-entry.form-cerpen .post,
+.is-entry.form-opini .post,
+.is-entry.form-monolog .post,
+.is-entry.form-resensi .post {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+
+  > p,
+  > ul > li,
+  > ol > li {
+    font-family: $fontSerif;
+    font-size: 2rem;
+    line-height: 1.85;
+    letter-spacing: 0;
+  }
+}
+
+// Puisi: a narrow, centred column with generous line spacing
+.is-entry.form-puisi .page {
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+
+  .header-other > .title {
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  p {
+    font-family: $fontSerif;
+    font-size: 2.2rem;
+    line-height: 2.1;
+    letter-spacing: 0;
+    margin: 0 0 0.5em;
+    text-align: center;
+  }
+}
+
+// Cerpen: drop cap, scene break and reading progress
+.is-entry.form-cerpen {
+  .post > p:first-of-type::first-letter {
+    float: left;
+    font-family: $fontSerif;
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 0.8;
+    padding: 8px 12px 0 0;
+    color: var(--form);
+  }
+
+  hr {
+    height: auto;
+    margin: 48px 0;
+    background: none;
+
+    &::before {
+      content: "";
+      display: block;
+      height: 22px;
+      background: url(/assets/images/logo-mark.png) center / contain no-repeat;
+    }
+  }
+}
+
+.read-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  z-index: 300;
+
+  > div {
+    height: 100%;
+    width: 0;
+    background: var(--form);
+  }
+}
+
+// Resensi: covers get a soft shadow
+.form-resensi img.image { box-shadow: 0 8px 20px rgba(38, 51, 80, 0.18); }

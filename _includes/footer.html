@@ -1,3 +1,19 @@
 <footer class="footer-main">
-    {{ site.creator }} © {{ site.time | date: '%Y' }}
+  <div class="footer-inner">
+    <span>{{ site.creator }} &copy; {{ site.time | date: '%Y' }}</span>
+    <nav class="footer-links" aria-label="Kontak">
+      {% if site.email %}<a href="mailto:{{ site.email }}">Surel</a>{% endif %}
+      {% if site.github %}<a href="https://github.com/{{ site.github }}" rel="noopener">GitHub</a>{% endif %}
+      {% if site.scholar %}<a href="https://scholar.google.com/citations?user={{ site.scholar }}" rel="noopener">Scholar</a>{% endif %}
+      {% if site.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.researchgate }}" rel="noopener">ResearchGate</a>{% endif %}
+      {% if site.spotify %}<a href="https://open.spotify.com/user/{{ site.spotify }}" rel="noopener">Spotify</a>{% endif %}
+      {% if site.issuu %}<a href="https://issuu.com/{{ site.issuu }}" rel="noopener">Issuu</a>{% endif %}
+    </nav>
+  </div>
+  <nav class="footer-links footer-more" aria-label="Lainnya">
+    {% if site.slides %}<a href="{{ site.url }}/salindia">Salindia</a>{% endif %}
+    {% if site.arsip %}<a href="{{ site.url }}/arsip">Arsip</a>{% endif %}
+    {% if site.software %}<a href="{{ site.url }}/software">Software</a>{% endif %}
+    {% if site.playground %}<a href="{{ site.playground }}">Playground</a>{% endif %}
+  </nav>
 </footer>
