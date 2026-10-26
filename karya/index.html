@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Karya
-description: Buku, booklet, kompilasi, antologi, dan editorial.
+description: Buku, booklet, kompilasi, antologi, editorial, dan karya lainnya.
 ---
 {% assign forms = "buku,booklet,kompilasi,antologi,editorial" | split: "," %}
 
@@ -15,7 +15,26 @@ description: Buku, booklet, kompilasi, antologi, dan editorial.
         <span class="hub-title">{{ f | capitalize }}</span>
         {% if p.description %}<span class="hub-desc">{{ p.description | truncatewords: 22 }}</span>{% endif %}
       </span>
-      <span class="hub-tag tag-karya">{{ items | size }} judul</span>
+      {% if items.size > 0 %}<span class="hub-tag tag-karya">{{ items | size }} judul</span>{% endif %}
     </a>
   {% endfor %}
+
+  <p class="hub-caption">Lainnya</p>
+  {% assign more = "salindia,software,arsip" | split: "," %}
+  {% for f in more %}
+    {% assign page_url = "/" | append: f | append: "/" %}
+    {% assign p = site.pages | where: "url", page_url | first %}
+    <a class="hub-row hub-row-tall" href="{{ site.url }}/{{ f }}">
+      <span class="hub-body">
+        <span class="hub-title">{{ f | capitalize }}</span>
+        {% if p.description %}<span class="hub-desc">{{ p.description | truncatewords: 22 }}</span>{% endif %}
+      </span>
+    </a>
+  {% endfor %}
+  {% if site.playground %}
+    <a class="hub-row hub-row-tall" href="{{ site.playground }}">
+      <span class="hub-body"><span class="hub-title">Playground</span></span>
+      <span class="hub-tag">tautan luar</span>
+    </a>
+  {% endif %}
 </section>

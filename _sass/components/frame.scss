@@ -223,7 +223,7 @@ a {
 
 .footer-main {
   background: $ink;
-  color: #cfd8cf;
+  color: #e6dccd;
   margin: 0;
   padding: 24px 0 28px;
   font-family: $fontSans;
@@ -246,17 +246,10 @@ a {
 
     a {
       @extend %draw;
-      color: #cfd8cf;
+      color: #e6dccd;
 
       &:hover { color: #fff; }
     }
-  }
-
-  .footer-more {
-    max-width: 870px;
-    margin: 14px auto 0;
-    padding: 0 20px;
-    opacity: 0.7;
   }
 }
 
