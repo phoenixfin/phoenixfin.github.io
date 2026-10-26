@@ -2,3 +2,19 @@
 layout: page
 title: Home
 ---
+{% assign quotes = site.data.kutipan %}
+<figure class="home-quote" id="home-quote">
+  <blockquote>&ldquo;{{ quotes[0].text }}&rdquo;</blockquote>
+  <figcaption>{{ quotes[0].cite }}</figcaption>
+</figure>
+<script type="application/json" id="home-quotes">{{ quotes | jsonify }}</script>
+
+<nav class="home-links" aria-label="Utama">
+  <a href="{{ site.url }}/tulisan">Tulisan</a>
+  <a href="{{ site.url }}/karya">Karya</a>
+  {% if site.riset %}<a href="{{ site.riset }}">Riset</a>{% endif %}
+  <a href="{{ site.url }}/siniar">Siniar</a>
+  <a href="{{ site.url }}/about">Tentang</a>
+</nav>
+
+<script src="{{ site.url }}/assets/js/quote.js" defer></script>

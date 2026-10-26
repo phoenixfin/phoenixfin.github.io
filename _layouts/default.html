@@ -93,7 +93,10 @@ layout: compress
     </style>
 
 </head>
-<body>
+{% assign form = page.category %}
+{% unless form %}{% assign form = page.title | downcase | slugify %}{% endunless %}
+<body class="form-{{ form }}{% if page.date %} is-entry{% endif %}">
+    {% if form == "cerpen" and page.date %}<div class="read-progress" role="progressbar" aria-label="Progres membaca" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div></div></div>{% endif %}
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.tag %}
@@ -110,10 +113,13 @@ layout: compress
         </div>
     </div>
 
+    {% include footer.html %}
+
     {% include icons.html %}
 
     <script src="{{ site.url }}/assets/js/nav.js" defer></script>
     <script src="{{ site.url }}/assets/js/paginate.js" defer></script>
+    {% if form == "cerpen" and page.date %}<script src="{{ site.url }}/assets/js/progress.js" defer></script>{% endif %}
 
     {% include analytics-ga4.html %}
 

@@ -1,32 +1,17 @@
-{% include nav.html %}
+{% capture ornament %}<div class="ornament" aria-hidden="true"><span></span><img src="{{ site.url }}/assets/images/logo-mark.png" alt=""><span></span></div>{% endcapture %}
 
 {% if page.title == "Home" %}
-  <header class="header-home {% if site.animation %}animated{% endif %}">
-    {% if site.about %}
-      <a class="link" href="{{ site.url }}/about">
-        <img class="selfie" alt="{{ site.creator }} ({{ site.name }})" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-      </a>
-    {% else %}
-      <span class="link">
-        <img class="selfie" alt="{{ site.creator }} ({{ site.name }})" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-      </span>
-    {% endif %}
-
-    <h1 class="title">{{ site.name }}</h1>
-    <h2 class="description">{{ site.bio }}</h2>
-
-    {% include social-links.html %}
-  </header>
-
-{% elsif page.title == "Walimatul Ursy" %}
-  <header class="header-other {% if site.animation %}animated{% endif %}">
-    <h1 class="title">{{ page.title }}</h1>
-    <h2 class="description">{{ page.description }}</h2>
+  <header class="header-home">
+    <h1 class="title">{{ site.name | replace: 'Literacy', '<em>Literacy</em>' }}</h1>
+    {{ ornament }}
+    <p class="bio">{{ site.bio }}</p>
   </header>
 
 {% else %}
-  <header class="header-other {% if site.animation %}animated{% endif %}">
+  {% include nav.html %}
+  <header class="header-other">
     <h1 class="title">{{ page.title }}</h1>
-    <h2 class="description">{{ page.description }}</h2>
+    {{ ornament }}
+    {% if page.description %}<h2 class="description">{{ page.description }}</h2>{% endif %}
   </header>
 {% endif %}

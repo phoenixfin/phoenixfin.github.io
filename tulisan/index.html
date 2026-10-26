@@ -1,0 +1,27 @@
+---
+layout: page
+title: Tulisan
+description: Puisi, cerpen, opini, monolog, dan resensi.
+---
+{% assign forms = "puisi,cerpen,opini,monolog,resensi" | split: "," %}
+{% assign tulisan = site.posts | where_exp: "p", "forms contains p.category" | where_exp: "p", "p.hidden != true" %}
+
+<nav class="filter-links" aria-label="Bentuk tulisan">
+  {% for f in forms %}<a href="{{ site.url }}/{{ f }}">{{ f | capitalize }}</a>{% endfor %}
+</nav>
+
+<section class="hub">
+  <p class="hub-caption">Terbaru</p>
+  {% assign last_year = "" %}
+  {% for post in tulisan limit: 20 %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year != last_year %}
+      <p class="hub-year">{{ year }}</p>
+      {% assign last_year = year %}
+    {% endif %}
+    <a class="hub-row" href="{{ site.url }}{{ post.url }}">
+      <span class="hub-title">{{ post.title }}</span>
+      <span class="hub-tag tag-{{ post.category }}">{{ post.category }}</span>
+    </a>
+  {% endfor %}
+</section>
