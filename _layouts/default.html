@@ -113,7 +113,7 @@ layout: compress
         </div>
     </div>
 
-    {% include footer.html %}
+    {% unless page.title == "Home" %}{% include footer.html %}{% endunless %}
 
     {% include icons.html %}
 

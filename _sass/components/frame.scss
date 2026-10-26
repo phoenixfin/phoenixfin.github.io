@@ -89,9 +89,17 @@ a {
 
 // ─── Header ─────────────────────────────────────────────────────────────────
 
+// the home page has no footer; its content sits in the vertical middle
+.form-home .wrapper-large {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 0;
+}
+
 .header-home {
   display: block;
-  margin: 14vh auto 0;
+  margin: 0 auto;
   text-align: center;
 
   > .title {
